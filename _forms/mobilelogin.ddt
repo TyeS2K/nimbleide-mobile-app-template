@@ -1,0 +1,881 @@
+mobilelogin,,SURFACE,New Surface|50|155|400|650|268435476|65568
+    mobilelogin,,version,5.0
+    mobilelogin,,loadlibs,New Surface
+    mobilelogin,,groupid,9999999999
+    mobilelogin,,groupby,0
+    mobilelogin,,runpos,0|0
+    mobilelogin,,DOCK,FFFF
+    mobilelogin,,PARENT,
+    mobilelogin,,MARGINS,
+    mobilelogin,,AUTOSIZE,false
+    mobilelogin,,JSON,{}
+    mobilelogin,,TEXT,New Surface
+    mobilelogin,,TOOLTIP,
+    mobilelogin,,ENABLED,true
+    mobilelogin,,VISIBLE,true
+    mobilelogin,,FORECOLOR,&heeeeee
+    mobilelogin,,BACKCOLOR,&hffffff
+    mobilelogin,,ICON,
+    mobilelogin,,FONTNAME,roboto
+    mobilelogin,,FONTSIZE,14px
+    mobilelogin,,FONTBOLD,false
+    mobilelogin,,FONTITALIC,false
+    mobilelogin,,FONTUNDERLINE,false
+    mobilelogin,,FONTSTRIKETHRU,false
+    mobilelogin,,MENUBAR,
+    mobilelogin,,TOOLBAR,
+    mobilelogin,,STATUSBAR,
+    mobilelogin,,SAVESTATE,false
+    mobilelogin,,drag.x,
+    mobilelogin,,drag.y,
+    mobilelogin,,xdragrange,
+    mobilelogin,,ydragrange,
+    mobilelogin,,size.x,
+    mobilelogin,,size.y,
+    mobilelogin,,negadj,
+    mobilelogin,,posadj,
+    mobilelogin,,TAG,~_private<COLN> false<LF>autosize<COLN> false<LF>bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>clipmenu<COLN> true<LF>donottheme<COLN> false<LF>dragable<COLN> true<LF>flattenonpull<COLN> true<LF>hotkey<COLN> <LF>ignorezorder<COLN> false<LF>output<COLN> normal<LF>prevent<COLN> <LF>record<COLN> <LF>shadow<COLN> true<LF>sizeable<COLN> true<LF>theme<COLN> nimble-form<LF>toggleonflip<COLN> true<LF>useastheme<COLN> false<LF>watch<COLN> false<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>body.lock-height<COLN> <LF>body.version<COLN> v5.0~color<COLN> #EEEEEE<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>overflow<COLN> hidden<LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 20px<LF>font-family<COLN> roboto<LF>font-size<COLN> 14px<LF>pointer-events<COLN> auto<LF>z-index<COLN> 2<LF>body.background-color<COLN> transparent<LF>body.box-sizing<COLN> border-box<LF>body.color<COLN> #eeeeee<LF>body.overflow-y<COLN> auto<LF>body.padding<COLN> 10px 10px 10px 10px<LF>body.text-align<COLN> <LF>body.vertical-align<COLN>
+    mobilelogin,,events,activate<COLN> <CR>adjustlayout<COLN> <CR>afterpull<COLN> <CR>afterpush<COLN> <CR>beforeunload<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>disabled<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enabled<COLN> <CR>enterkey<COLN> <CR>fullscreen<COLN> <CR>gotfocus<COLN> <CR>hide<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>load<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>maximize<COLN> <CR>menu<COLN> <CR>minimize<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>move<COLN> <CR>move<COLN> <CR>onpull<COLN> <CR>onpush<COLN> <CR>refresh<COLN> <CR>resize<COLN> <CR>restore<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN> <CR>unload<COLN> <CR>viewchange<COLN> <CR>widgetloaded<COLN> <CR>widgetunloading<COLN>
+    mobilelogin,,extend,{"react"<COLN>"<CR>"}
+    mobilelogin,,GROUPIDS,[0200][0400][0600][0500]
+    mobilelogin,,WSTYLES,268435476
+    mobilelogin,,WSTYLESEX,65568
+    mobilelogin,,WIDTH,400
+    mobilelogin,,HEIGHT,650
+    mobilelogin,,EDITPOS,50|155
+mobilelogin,picturex1,TARGET,~
+mobilelogin,picturex1,PARENTGROUP,~
+mobilelogin,picturex1,load,graphicx|media/img_missing.png|0|0|380|200|1342373901|0
+    mobilelogin,picturex1,group,false
+    mobilelogin,picturex1,groupid,0
+    mobilelogin,picturex1,groupby,9999999999
+    mobilelogin,picturex1,widgetlock,false
+    mobilelogin,picturex1,iswidget,false
+    mobilelogin,picturex1,iscollection,false
+    mobilelogin,picturex1,collectname,
+    mobilelogin,picturex1,widgetname,
+    mobilelogin,picturex1,placeholder,
+    mobilelogin,picturex1,addedby,
+    mobilelogin,picturex1,DOCK,FFFF
+    mobilelogin,picturex1,PICTURE,media/img_missing.png
+    mobilelogin,picturex1,SIZE,380<PIP>200
+    mobilelogin,picturex1,JSON,{}
+    mobilelogin,picturex1,TEXT,
+    mobilelogin,picturex1,TOOLTIP,
+    mobilelogin,picturex1,ENABLED,true
+    mobilelogin,picturex1,VISIBLE,true
+    mobilelogin,picturex1,ZORDER,0
+    mobilelogin,picturex1,FORECOLOR,&h000000
+    mobilelogin,picturex1,BACKCOLOR,&hffffff
+    mobilelogin,picturex1,FONTNAME,inherit
+    mobilelogin,picturex1,FONTSIZE,inherit
+    mobilelogin,picturex1,FONTBOLD,false
+    mobilelogin,picturex1,FONTITALIC,false
+    mobilelogin,picturex1,FONTUNDERLINE,false
+    mobilelogin,picturex1,FONTSTRIKETHRU,false
+    mobilelogin,picturex1,INFO,imagex
+    mobilelogin,picturex1,PAGECOUNT,0
+    mobilelogin,picturex1,DATABIND,
+    mobilelogin,picturex1,BINDMAPPING,
+    mobilelogin,picturex1,drag.x,1
+    mobilelogin,picturex1,drag.y,1
+    mobilelogin,picturex1,xdragrange,-1<SEMI> -1
+    mobilelogin,picturex1,ydragrange,-1<SEMI> -1
+    mobilelogin,picturex1,size.x,1
+    mobilelogin,picturex1,size.y,1
+    mobilelogin,picturex1,negadj,
+    mobilelogin,picturex1,posadj,
+    mobilelogin,picturex1,child,false
+    mobilelogin,picturex1,displaymode,block
+    mobilelogin,picturex1,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-graphicx<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 13px 13px 0px 0px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 30px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilelogin,picturex1,LOCK,false
+    mobilelogin,picturex1,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilelogin,picturex1,extend,{"react"<COLN>"<CR>"}
+mobilelogin,picturex1,REFRESH, 
+mobilelogin,label2,TARGET,~
+mobilelogin,label2,PARENTGROUP,~
+mobilelogin,label2,load,label|Welcome!|0|0|105|50|1342377216|32
+    mobilelogin,label2,group,false
+    mobilelogin,label2,groupid,0
+    mobilelogin,label2,groupby,9999999999
+    mobilelogin,label2,widgetlock,false
+    mobilelogin,label2,iswidget,false
+    mobilelogin,label2,iscollection,false
+    mobilelogin,label2,collectname,
+    mobilelogin,label2,widgetname,
+    mobilelogin,label2,placeholder,
+    mobilelogin,label2,addedby,
+    mobilelogin,label2,DOCK,FFFF
+    mobilelogin,label2,PICTURE,media/img_missing.png
+    mobilelogin,label2,SIZE,105<PIP>50
+    mobilelogin,label2,JSON,{}
+    mobilelogin,label2,TEXT,Welcome!
+    mobilelogin,label2,TOOLTIP,
+    mobilelogin,label2,ENABLED,true
+    mobilelogin,label2,VISIBLE,true
+    mobilelogin,label2,ZORDER,0
+    mobilelogin,label2,FORECOLOR,&h000000
+    mobilelogin,label2,BACKCOLOR,transparent
+    mobilelogin,label2,FONTNAME,inherit
+    mobilelogin,label2,FONTSIZE,21px
+    mobilelogin,label2,FONTBOLD,true
+    mobilelogin,label2,FONTITALIC,false
+    mobilelogin,label2,FONTUNDERLINE,false
+    mobilelogin,label2,FONTSTRIKETHRU,false
+    mobilelogin,label2,INFO,
+    mobilelogin,label2,PAGECOUNT,0
+    mobilelogin,label2,DATABIND,
+    mobilelogin,label2,BINDMAPPING,
+    mobilelogin,label2,drag.x,1
+    mobilelogin,label2,drag.y,1
+    mobilelogin,label2,xdragrange,-1<SEMI> -1
+    mobilelogin,label2,ydragrange,-1<SEMI> -1
+    mobilelogin,label2,size.x,1
+    mobilelogin,label2,size.y,1
+    mobilelogin,label2,negadj,
+    mobilelogin,label2,posadj,
+    mobilelogin,label2,child,false
+    mobilelogin,label2,displaymode,block
+    mobilelogin,label2,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 21px<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilelogin,label2,LOCK,false
+    mobilelogin,label2,events,
+    mobilelogin,label2,extend,{}
+mobilelogin,label2,REFRESH, 
+mobilelogin,email,TARGET,~
+mobilelogin,email,PARENTGROUP,~
+mobilelogin,email,load,frame||0|0|249|97|1342227719|32
+    mobilelogin,email,group,true
+    mobilelogin,email,groupid,0200
+    mobilelogin,email,groupby,9999999999
+    mobilelogin,email,widgetlock,false
+    mobilelogin,email,iswidget,true
+    mobilelogin,email,iscollection,false
+    mobilelogin,email,collectname,
+    mobilelogin,email,widgetname,
+    mobilelogin,email,placeholder,
+    mobilelogin,email,addedby,
+    mobilelogin,email,DOCK,FFFF
+    mobilelogin,email,PICTURE,media/img_missing.png
+    mobilelogin,email,SIZE,249<PIP>97
+    mobilelogin,email,JSON,{}
+    mobilelogin,email,TEXT,
+    mobilelogin,email,TOOLTIP,
+    mobilelogin,email,ENABLED,true
+    mobilelogin,email,VISIBLE,true
+    mobilelogin,email,ZORDER,0
+    mobilelogin,email,FORECOLOR,&h000000
+    mobilelogin,email,BACKCOLOR,&hffffff
+    mobilelogin,email,FONTNAME,inherit
+    mobilelogin,email,FONTSIZE,inherit
+    mobilelogin,email,FONTBOLD,false
+    mobilelogin,email,FONTITALIC,false
+    mobilelogin,email,FONTUNDERLINE,false
+    mobilelogin,email,FONTSTRIKETHRU,false
+    mobilelogin,email,INFO,
+    mobilelogin,email,PAGECOUNT,0
+    mobilelogin,email,DATABIND,
+    mobilelogin,email,BINDMAPPING,
+    mobilelogin,email,drag.x,1
+    mobilelogin,email,drag.y,1
+    mobilelogin,email,xdragrange,-1<SEMI> -1
+    mobilelogin,email,ydragrange,-1<SEMI> -1
+    mobilelogin,email,size.x,1
+    mobilelogin,email,size.y,1
+    mobilelogin,email,negadj,
+    mobilelogin,email,posadj,
+    mobilelogin,email,child,false
+    mobilelogin,email,displaymode,block
+    mobilelogin,email,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>float<COLN> <LF>height<COLN> auto<LF>opacity<COLN> <LF>padding<COLN> 10px 10px 10px 10px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> #ffffff<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilelogin,email,LOCK,false
+    mobilelogin,email,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilelogin,email,extend,{"react"<COLN>"<CR>"}
+mobilelogin,email,REFRESH, 
+mobilelogin,email<COLN>input,TARGET,email
+mobilelogin,email<COLN>input,PARENTGROUP,email
+mobilelogin,email<COLN>input,load,textbox||0|0|105|31|1342374016|131072
+    mobilelogin,email<COLN>input,group,false
+    mobilelogin,email<COLN>input,groupid,0
+    mobilelogin,email<COLN>input,groupby,0200
+    mobilelogin,email<COLN>input,widgetlock,false
+    mobilelogin,email<COLN>input,iswidget,true
+    mobilelogin,email<COLN>input,iscollection,false
+    mobilelogin,email<COLN>input,collectname,
+    mobilelogin,email<COLN>input,widgetname,
+    mobilelogin,email<COLN>input,placeholder,enter value..
+    mobilelogin,email<COLN>input,addedby,
+    mobilelogin,email<COLN>input,DOCK,FFFF
+    mobilelogin,email<COLN>input,PICTURE,media/img_missing.png
+    mobilelogin,email<COLN>input,SIZE,105<PIP>31
+    mobilelogin,email<COLN>input,JSON,{}
+    mobilelogin,email<COLN>input,TEXT,
+    mobilelogin,email<COLN>input,TOOLTIP,
+    mobilelogin,email<COLN>input,ENABLED,true
+    mobilelogin,email<COLN>input,VISIBLE,true
+    mobilelogin,email<COLN>input,ZORDER,0
+    mobilelogin,email<COLN>input,FORECOLOR,&h000000
+    mobilelogin,email<COLN>input,BACKCOLOR,rgba(245<COMMA>245<COMMA>245<COMMA>0.10)
+    mobilelogin,email<COLN>input,FONTNAME,inherit
+    mobilelogin,email<COLN>input,FONTSIZE,12px
+    mobilelogin,email<COLN>input,FONTBOLD,false
+    mobilelogin,email<COLN>input,FONTITALIC,false
+    mobilelogin,email<COLN>input,FONTUNDERLINE,false
+    mobilelogin,email<COLN>input,FONTSTRIKETHRU,false
+    mobilelogin,email<COLN>input,INFO,
+    mobilelogin,email<COLN>input,PAGECOUNT,0
+    mobilelogin,email<COLN>input,DATABIND,
+    mobilelogin,email<COLN>input,BINDMAPPING,
+    mobilelogin,email<COLN>input,drag.x,1
+    mobilelogin,email<COLN>input,drag.y,1
+    mobilelogin,email<COLN>input,xdragrange,-1<SEMI> -1
+    mobilelogin,email<COLN>input,ydragrange,-1<SEMI> -1
+    mobilelogin,email<COLN>input,size.x,1
+    mobilelogin,email<COLN>input,size.y,1
+    mobilelogin,email<COLN>input,negadj,
+    mobilelogin,email<COLN>input,posadj,
+    mobilelogin,email<COLN>input,child,true
+    mobilelogin,email<COLN>input,displaymode,block
+    mobilelogin,email<COLN>input,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> Email Address<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> input<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #ddd<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(245<COMMA>245<COMMA>245<COMMA>0.10)<LF>border-radius<COLN> 7px<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilelogin,email<COLN>input,LOCK,false
+    mobilelogin,email<COLN>input,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilelogin,email<COLN>input,extend,{"react"<COLN>"<CR>"}
+mobilelogin,email<COLN>input,REFRESH, 
+mobilelogin,password,TARGET,~
+mobilelogin,password,PARENTGROUP,~
+mobilelogin,password,load,frame||0|0|249|97|1342227719|32
+    mobilelogin,password,group,true
+    mobilelogin,password,groupid,0400
+    mobilelogin,password,groupby,9999999999
+    mobilelogin,password,widgetlock,false
+    mobilelogin,password,iswidget,true
+    mobilelogin,password,iscollection,false
+    mobilelogin,password,collectname,
+    mobilelogin,password,widgetname,
+    mobilelogin,password,placeholder,
+    mobilelogin,password,addedby,
+    mobilelogin,password,DOCK,FFFF
+    mobilelogin,password,PICTURE,media/img_missing.png
+    mobilelogin,password,SIZE,249<PIP>97
+    mobilelogin,password,JSON,{}
+    mobilelogin,password,TEXT,
+    mobilelogin,password,TOOLTIP,
+    mobilelogin,password,ENABLED,true
+    mobilelogin,password,VISIBLE,true
+    mobilelogin,password,ZORDER,0
+    mobilelogin,password,FORECOLOR,&h000000
+    mobilelogin,password,BACKCOLOR,&hffffff
+    mobilelogin,password,FONTNAME,inherit
+    mobilelogin,password,FONTSIZE,inherit
+    mobilelogin,password,FONTBOLD,false
+    mobilelogin,password,FONTITALIC,false
+    mobilelogin,password,FONTUNDERLINE,false
+    mobilelogin,password,FONTSTRIKETHRU,false
+    mobilelogin,password,INFO,
+    mobilelogin,password,PAGECOUNT,0
+    mobilelogin,password,DATABIND,
+    mobilelogin,password,BINDMAPPING,
+    mobilelogin,password,drag.x,1
+    mobilelogin,password,drag.y,1
+    mobilelogin,password,xdragrange,-1<SEMI> -1
+    mobilelogin,password,ydragrange,-1<SEMI> -1
+    mobilelogin,password,size.x,1
+    mobilelogin,password,size.y,1
+    mobilelogin,password,negadj,
+    mobilelogin,password,posadj,
+    mobilelogin,password,child,false
+    mobilelogin,password,displaymode,block
+    mobilelogin,password,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>float<COLN> <LF>height<COLN> auto<LF>opacity<COLN> <LF>padding<COLN> 10px 10px 10px 10px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> #ffffff<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilelogin,password,LOCK,false
+    mobilelogin,password,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilelogin,password,extend,{"react"<COLN>"<CR>"}
+mobilelogin,password,REFRESH, 
+mobilelogin,password<COLN>input,TARGET,password
+mobilelogin,password<COLN>input,PARENTGROUP,password
+mobilelogin,password<COLN>input,load,textbox||0|0|105|31|1342374016|131072
+    mobilelogin,password<COLN>input,group,false
+    mobilelogin,password<COLN>input,groupid,0
+    mobilelogin,password<COLN>input,groupby,0400
+    mobilelogin,password<COLN>input,widgetlock,false
+    mobilelogin,password<COLN>input,iswidget,true
+    mobilelogin,password<COLN>input,iscollection,false
+    mobilelogin,password<COLN>input,collectname,
+    mobilelogin,password<COLN>input,widgetname,
+    mobilelogin,password<COLN>input,placeholder,enter value..
+    mobilelogin,password<COLN>input,addedby,
+    mobilelogin,password<COLN>input,DOCK,FFFF
+    mobilelogin,password<COLN>input,PICTURE,media/img_missing.png
+    mobilelogin,password<COLN>input,SIZE,105<PIP>31
+    mobilelogin,password<COLN>input,JSON,{}
+    mobilelogin,password<COLN>input,TEXT,
+    mobilelogin,password<COLN>input,TOOLTIP,
+    mobilelogin,password<COLN>input,ENABLED,true
+    mobilelogin,password<COLN>input,VISIBLE,true
+    mobilelogin,password<COLN>input,ZORDER,0
+    mobilelogin,password<COLN>input,FORECOLOR,&h000000
+    mobilelogin,password<COLN>input,BACKCOLOR,rgba(245<COMMA>245<COMMA>245<COMMA>0.10)
+    mobilelogin,password<COLN>input,FONTNAME,inherit
+    mobilelogin,password<COLN>input,FONTSIZE,12px
+    mobilelogin,password<COLN>input,FONTBOLD,false
+    mobilelogin,password<COLN>input,FONTITALIC,false
+    mobilelogin,password<COLN>input,FONTUNDERLINE,false
+    mobilelogin,password<COLN>input,FONTSTRIKETHRU,false
+    mobilelogin,password<COLN>input,INFO,
+    mobilelogin,password<COLN>input,PAGECOUNT,0
+    mobilelogin,password<COLN>input,DATABIND,
+    mobilelogin,password<COLN>input,BINDMAPPING,
+    mobilelogin,password<COLN>input,drag.x,1
+    mobilelogin,password<COLN>input,drag.y,1
+    mobilelogin,password<COLN>input,xdragrange,-1<SEMI> -1
+    mobilelogin,password<COLN>input,ydragrange,-1<SEMI> -1
+    mobilelogin,password<COLN>input,size.x,1
+    mobilelogin,password<COLN>input,size.y,1
+    mobilelogin,password<COLN>input,negadj,
+    mobilelogin,password<COLN>input,posadj,
+    mobilelogin,password<COLN>input,child,true
+    mobilelogin,password<COLN>input,displaymode,block
+    mobilelogin,password<COLN>input,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>placeholder<COLN> Password<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> input<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #ddd<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(245<COMMA>245<COMMA>245<COMMA>0.10)<LF>border-radius<COLN> 7px<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilelogin,password<COLN>input,LOCK,false
+    mobilelogin,password<COLN>input,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilelogin,password<COLN>input,extend,{"react"<COLN>"<CR>"}
+mobilelogin,password<COLN>input,REFRESH, 
+mobilelogin,password<COLN>label1,TARGET,password
+mobilelogin,password<COLN>label1,PARENTGROUP,password
+mobilelogin,password<COLN>label1,load,label|Forgot password?|0|0|105|21|1342377216|32
+    mobilelogin,password<COLN>label1,group,false
+    mobilelogin,password<COLN>label1,groupid,0
+    mobilelogin,password<COLN>label1,groupby,0400
+    mobilelogin,password<COLN>label1,widgetlock,false
+    mobilelogin,password<COLN>label1,iswidget,false
+    mobilelogin,password<COLN>label1,iscollection,false
+    mobilelogin,password<COLN>label1,collectname,
+    mobilelogin,password<COLN>label1,widgetname,
+    mobilelogin,password<COLN>label1,placeholder,
+    mobilelogin,password<COLN>label1,addedby,
+    mobilelogin,password<COLN>label1,DOCK,FFFF
+    mobilelogin,password<COLN>label1,PICTURE,media/img_missing.png
+    mobilelogin,password<COLN>label1,SIZE,105<PIP>21
+    mobilelogin,password<COLN>label1,JSON,{}
+    mobilelogin,password<COLN>label1,TEXT,Forgot password?
+    mobilelogin,password<COLN>label1,TOOLTIP,
+    mobilelogin,password<COLN>label1,ENABLED,true
+    mobilelogin,password<COLN>label1,VISIBLE,true
+    mobilelogin,password<COLN>label1,ZORDER,0
+    mobilelogin,password<COLN>label1,FORECOLOR,&h1c5596
+    mobilelogin,password<COLN>label1,BACKCOLOR,transparent
+    mobilelogin,password<COLN>label1,FONTNAME,inherit
+    mobilelogin,password<COLN>label1,FONTSIZE,10px
+    mobilelogin,password<COLN>label1,FONTBOLD,true
+    mobilelogin,password<COLN>label1,FONTITALIC,false
+    mobilelogin,password<COLN>label1,FONTUNDERLINE,false
+    mobilelogin,password<COLN>label1,FONTSTRIKETHRU,false
+    mobilelogin,password<COLN>label1,INFO,
+    mobilelogin,password<COLN>label1,PAGECOUNT,0
+    mobilelogin,password<COLN>label1,DATABIND,
+    mobilelogin,password<COLN>label1,BINDMAPPING,
+    mobilelogin,password<COLN>label1,drag.x,1
+    mobilelogin,password<COLN>label1,drag.y,1
+    mobilelogin,password<COLN>label1,xdragrange,-1<SEMI> -1
+    mobilelogin,password<COLN>label1,ydragrange,-1<SEMI> -1
+    mobilelogin,password<COLN>label1,size.x,1
+    mobilelogin,password<COLN>label1,size.y,1
+    mobilelogin,password<COLN>label1,negadj,
+    mobilelogin,password<COLN>label1,posadj,
+    mobilelogin,password<COLN>label1,child,true
+    mobilelogin,password<COLN>label1,displaymode,block
+    mobilelogin,password<COLN>label1,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #1c5596<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 10px<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 10px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilelogin,password<COLN>label1,LOCK,false
+    mobilelogin,password<COLN>label1,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilelogin,password<COLN>label1,extend,{"react"<COLN>"<CR>"}
+mobilelogin,password<COLN>label1,REFRESH, 
+mobilelogin,btnlogin,TARGET,~
+mobilelogin,btnlogin,PARENTGROUP,~
+mobilelogin,btnlogin,load,button|Login|0|0|105|50|1342394112|32
+    mobilelogin,btnlogin,group,false
+    mobilelogin,btnlogin,groupid,0
+    mobilelogin,btnlogin,groupby,9999999999
+    mobilelogin,btnlogin,widgetlock,false
+    mobilelogin,btnlogin,iswidget,false
+    mobilelogin,btnlogin,iscollection,false
+    mobilelogin,btnlogin,collectname,
+    mobilelogin,btnlogin,widgetname,
+    mobilelogin,btnlogin,placeholder,
+    mobilelogin,btnlogin,addedby,
+    mobilelogin,btnlogin,DOCK,FFFF
+    mobilelogin,btnlogin,PICTURE,media/img_missing.png
+    mobilelogin,btnlogin,SIZE,105<PIP>50
+    mobilelogin,btnlogin,JSON,{}
+    mobilelogin,btnlogin,TEXT,Login
+    mobilelogin,btnlogin,TOOLTIP,
+    mobilelogin,btnlogin,ENABLED,true
+    mobilelogin,btnlogin,VISIBLE,true
+    mobilelogin,btnlogin,ZORDER,0
+    mobilelogin,btnlogin,FORECOLOR,&hfff
+    mobilelogin,btnlogin,BACKCOLOR,&h2259a1
+    mobilelogin,btnlogin,FONTNAME,inherit
+    mobilelogin,btnlogin,FONTSIZE,12px
+    mobilelogin,btnlogin,FONTBOLD,false
+    mobilelogin,btnlogin,FONTITALIC,false
+    mobilelogin,btnlogin,FONTUNDERLINE,false
+    mobilelogin,btnlogin,FONTSTRIKETHRU,false
+    mobilelogin,btnlogin,INFO,
+    mobilelogin,btnlogin,PAGECOUNT,0
+    mobilelogin,btnlogin,DATABIND,
+    mobilelogin,btnlogin,BINDMAPPING,
+    mobilelogin,btnlogin,drag.x,1
+    mobilelogin,btnlogin,drag.y,1
+    mobilelogin,btnlogin,xdragrange,-1<SEMI> -1
+    mobilelogin,btnlogin,ydragrange,-1<SEMI> -1
+    mobilelogin,btnlogin,size.x,1
+    mobilelogin,btnlogin,size.y,1
+    mobilelogin,btnlogin,negadj,
+    mobilelogin,btnlogin,posadj,
+    mobilelogin,btnlogin,child,false
+    mobilelogin,btnlogin,displaymode,block
+    mobilelogin,btnlogin,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px solid #bbb<LF>color<COLN> #fff<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #2259a1<LF>border-radius<COLN> 13px<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 10px 0px 0px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilelogin,btnlogin,LOCK,false
+    mobilelogin,btnlogin,events,click<COLN> <CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilelogin,btnlogin,extend,{"react"<COLN>"<CR>"}
+mobilelogin,btnlogin,REFRESH, 
+mobilelogin,register,TARGET,~
+mobilelogin,register,PARENTGROUP,~
+mobilelogin,register,load,frame||0|0|120|97|1342227719|32
+    mobilelogin,register,group,true
+    mobilelogin,register,groupid,0600
+    mobilelogin,register,groupby,9999999999
+    mobilelogin,register,widgetlock,false
+    mobilelogin,register,iswidget,false
+    mobilelogin,register,iscollection,false
+    mobilelogin,register,collectname,
+    mobilelogin,register,widgetname,
+    mobilelogin,register,placeholder,
+    mobilelogin,register,addedby,
+    mobilelogin,register,DOCK,FFFF
+    mobilelogin,register,PICTURE,media/img_missing.png
+    mobilelogin,register,SIZE,120<PIP>97
+    mobilelogin,register,JSON,{}
+    mobilelogin,register,TEXT,
+    mobilelogin,register,TOOLTIP,
+    mobilelogin,register,ENABLED,true
+    mobilelogin,register,VISIBLE,true
+    mobilelogin,register,ZORDER,0
+    mobilelogin,register,FORECOLOR,&h000000
+    mobilelogin,register,BACKCOLOR,transparent
+    mobilelogin,register,FONTNAME,inherit
+    mobilelogin,register,FONTSIZE,inherit
+    mobilelogin,register,FONTBOLD,false
+    mobilelogin,register,FONTITALIC,false
+    mobilelogin,register,FONTUNDERLINE,false
+    mobilelogin,register,FONTSTRIKETHRU,false
+    mobilelogin,register,INFO,
+    mobilelogin,register,PAGECOUNT,0
+    mobilelogin,register,DATABIND,
+    mobilelogin,register,BINDMAPPING,
+    mobilelogin,register,drag.x,1
+    mobilelogin,register,drag.y,1
+    mobilelogin,register,xdragrange,-1<SEMI> -1
+    mobilelogin,register,ydragrange,-1<SEMI> -1
+    mobilelogin,register,size.x,1
+    mobilelogin,register,size.y,1
+    mobilelogin,register,negadj,
+    mobilelogin,register,posadj,
+    mobilelogin,register,child,false
+    mobilelogin,register,displaymode,block
+    mobilelogin,register,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>margin<COLN> 0px 15px 0px 15px<LF>opacity<COLN> <LF>padding<COLN> 10px 0px 25px 0px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> TRANSPARENT<LF>border-bottom<COLN> 0.5px solid #ddd<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle
+    mobilelogin,register,LOCK,false
+    mobilelogin,register,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilelogin,register,extend,{"react"<COLN>"<CR>"}
+mobilelogin,register,REFRESH, 
+mobilelogin,lbmember,TARGET,register
+mobilelogin,lbmember,PARENTGROUP,register
+mobilelogin,lbmember,load,label|Not a member?|0|0|144|21|1342377472|32
+    mobilelogin,lbmember,group,false
+    mobilelogin,lbmember,groupid,0
+    mobilelogin,lbmember,groupby,0600
+    mobilelogin,lbmember,widgetlock,false
+    mobilelogin,lbmember,iswidget,false
+    mobilelogin,lbmember,iscollection,false
+    mobilelogin,lbmember,collectname,
+    mobilelogin,lbmember,widgetname,
+    mobilelogin,lbmember,placeholder,
+    mobilelogin,lbmember,addedby,
+    mobilelogin,lbmember,DOCK,FFFF
+    mobilelogin,lbmember,PICTURE,media/img_missing.png
+    mobilelogin,lbmember,SIZE,144<PIP>21
+    mobilelogin,lbmember,JSON,{}
+    mobilelogin,lbmember,TEXT,Not a member?
+    mobilelogin,lbmember,TOOLTIP,
+    mobilelogin,lbmember,ENABLED,true
+    mobilelogin,lbmember,VISIBLE,true
+    mobilelogin,lbmember,ZORDER,0
+    mobilelogin,lbmember,FORECOLOR,&h999
+    mobilelogin,lbmember,BACKCOLOR,transparent
+    mobilelogin,lbmember,FONTNAME,inherit
+    mobilelogin,lbmember,FONTSIZE,10px
+    mobilelogin,lbmember,FONTBOLD,false
+    mobilelogin,lbmember,FONTITALIC,false
+    mobilelogin,lbmember,FONTUNDERLINE,false
+    mobilelogin,lbmember,FONTSTRIKETHRU,false
+    mobilelogin,lbmember,INFO,
+    mobilelogin,lbmember,PAGECOUNT,0
+    mobilelogin,lbmember,DATABIND,
+    mobilelogin,lbmember,BINDMAPPING,
+    mobilelogin,lbmember,drag.x,1
+    mobilelogin,lbmember,drag.y,1
+    mobilelogin,lbmember,xdragrange,-1<SEMI> -1
+    mobilelogin,lbmember,ydragrange,-1<SEMI> -1
+    mobilelogin,lbmember,size.x,1
+    mobilelogin,lbmember,size.y,1
+    mobilelogin,lbmember,negadj,
+    mobilelogin,lbmember,posadj,
+    mobilelogin,lbmember,child,true
+    mobilelogin,lbmember,displaymode,inline-block
+    mobilelogin,lbmember,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #999<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 10px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> right<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 10px 0px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    mobilelogin,lbmember,LOCK,false
+    mobilelogin,lbmember,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilelogin,lbmember,extend,{"react"<COLN>"<CR>"}
+mobilelogin,lbmember,REFRESH, 
+mobilelogin,link,TARGET,register
+mobilelogin,link,PARENTGROUP,register
+mobilelogin,link,load,label|Register now|0|0|105|21|1342377216|32
+    mobilelogin,link,group,false
+    mobilelogin,link,groupid,0
+    mobilelogin,link,groupby,0600
+    mobilelogin,link,widgetlock,false
+    mobilelogin,link,iswidget,false
+    mobilelogin,link,iscollection,false
+    mobilelogin,link,collectname,
+    mobilelogin,link,widgetname,
+    mobilelogin,link,placeholder,
+    mobilelogin,link,addedby,
+    mobilelogin,link,DOCK,FFFF
+    mobilelogin,link,PICTURE,media/img_missing.png
+    mobilelogin,link,SIZE,105<PIP>21
+    mobilelogin,link,JSON,{}
+    mobilelogin,link,TEXT,Register now
+    mobilelogin,link,TOOLTIP,
+    mobilelogin,link,ENABLED,true
+    mobilelogin,link,VISIBLE,true
+    mobilelogin,link,ZORDER,0
+    mobilelogin,link,FORECOLOR,&h1c5596
+    mobilelogin,link,BACKCOLOR,transparent
+    mobilelogin,link,FONTNAME,inherit
+    mobilelogin,link,FONTSIZE,10px
+    mobilelogin,link,FONTBOLD,true
+    mobilelogin,link,FONTITALIC,false
+    mobilelogin,link,FONTUNDERLINE,false
+    mobilelogin,link,FONTSTRIKETHRU,false
+    mobilelogin,link,INFO,
+    mobilelogin,link,PAGECOUNT,0
+    mobilelogin,link,DATABIND,
+    mobilelogin,link,BINDMAPPING,
+    mobilelogin,link,drag.x,1
+    mobilelogin,link,drag.y,1
+    mobilelogin,link,xdragrange,-1<SEMI> -1
+    mobilelogin,link,ydragrange,-1<SEMI> -1
+    mobilelogin,link,size.x,1
+    mobilelogin,link,size.y,1
+    mobilelogin,link,negadj,
+    mobilelogin,link,posadj,
+    mobilelogin,link,child,true
+    mobilelogin,link,displaymode,inline-block
+    mobilelogin,link,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #1c5596<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 10px<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    mobilelogin,link,LOCK,false
+    mobilelogin,link,events,
+    mobilelogin,link,extend,{}
+mobilelogin,link,REFRESH, 
+mobilelogin,auth2,TARGET,~
+mobilelogin,auth2,PARENTGROUP,~
+mobilelogin,auth2,load,frame||0|0|350|99|1342227719|32
+    mobilelogin,auth2,group,true
+    mobilelogin,auth2,groupid,0500
+    mobilelogin,auth2,groupby,9999999999
+    mobilelogin,auth2,widgetlock,false
+    mobilelogin,auth2,iswidget,false
+    mobilelogin,auth2,iscollection,false
+    mobilelogin,auth2,collectname,
+    mobilelogin,auth2,widgetname,
+    mobilelogin,auth2,placeholder,
+    mobilelogin,auth2,addedby,
+    mobilelogin,auth2,DOCK,FFFF
+    mobilelogin,auth2,PICTURE,media/img_missing.png
+    mobilelogin,auth2,SIZE,350<PIP>99
+    mobilelogin,auth2,JSON,{}
+    mobilelogin,auth2,TEXT,
+    mobilelogin,auth2,TOOLTIP,
+    mobilelogin,auth2,ENABLED,true
+    mobilelogin,auth2,VISIBLE,true
+    mobilelogin,auth2,ZORDER,0
+    mobilelogin,auth2,FORECOLOR,&h000000
+    mobilelogin,auth2,BACKCOLOR,transparent
+    mobilelogin,auth2,FONTNAME,inherit
+    mobilelogin,auth2,FONTSIZE,inherit
+    mobilelogin,auth2,FONTBOLD,false
+    mobilelogin,auth2,FONTITALIC,false
+    mobilelogin,auth2,FONTUNDERLINE,false
+    mobilelogin,auth2,FONTSTRIKETHRU,false
+    mobilelogin,auth2,INFO,
+    mobilelogin,auth2,PAGECOUNT,0
+    mobilelogin,auth2,DATABIND,
+    mobilelogin,auth2,BINDMAPPING,
+    mobilelogin,auth2,drag.x,1
+    mobilelogin,auth2,drag.y,1
+    mobilelogin,auth2,xdragrange,-1<SEMI> -1
+    mobilelogin,auth2,ydragrange,-1<SEMI> -1
+    mobilelogin,auth2,size.x,1
+    mobilelogin,auth2,size.y,1
+    mobilelogin,auth2,negadj,
+    mobilelogin,auth2,posadj,
+    mobilelogin,auth2,child,false
+    mobilelogin,auth2,displaymode,block
+    mobilelogin,auth2,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>margin<COLN> 0px 15px 0px 15px<LF>opacity<COLN> <LF>padding<COLN> 10px 0px 25px 0px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> TRANSPARENT<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle
+    mobilelogin,auth2,LOCK,false
+    mobilelogin,auth2,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilelogin,auth2,extend,{"react"<COLN>"<CR>"}
+mobilelogin,auth2,REFRESH, 
+mobilelogin,label,TARGET,auth2
+mobilelogin,label,PARENTGROUP,auth2
+mobilelogin,label,load,label|Or continue with|0|0|144|21|1342377728|32
+    mobilelogin,label,group,false
+    mobilelogin,label,groupid,0
+    mobilelogin,label,groupby,0500
+    mobilelogin,label,widgetlock,false
+    mobilelogin,label,iswidget,false
+    mobilelogin,label,iscollection,false
+    mobilelogin,label,collectname,
+    mobilelogin,label,widgetname,
+    mobilelogin,label,placeholder,
+    mobilelogin,label,addedby,
+    mobilelogin,label,DOCK,FFFF
+    mobilelogin,label,PICTURE,media/img_missing.png
+    mobilelogin,label,SIZE,144<PIP>21
+    mobilelogin,label,JSON,{}
+    mobilelogin,label,TEXT,Or continue with
+    mobilelogin,label,TOOLTIP,
+    mobilelogin,label,ENABLED,true
+    mobilelogin,label,VISIBLE,true
+    mobilelogin,label,ZORDER,0
+    mobilelogin,label,FORECOLOR,&h999
+    mobilelogin,label,BACKCOLOR,transparent
+    mobilelogin,label,FONTNAME,inherit
+    mobilelogin,label,FONTSIZE,12px
+    mobilelogin,label,FONTBOLD,false
+    mobilelogin,label,FONTITALIC,false
+    mobilelogin,label,FONTUNDERLINE,false
+    mobilelogin,label,FONTSTRIKETHRU,false
+    mobilelogin,label,INFO,
+    mobilelogin,label,PAGECOUNT,0
+    mobilelogin,label,DATABIND,
+    mobilelogin,label,BINDMAPPING,
+    mobilelogin,label,drag.x,1
+    mobilelogin,label,drag.y,1
+    mobilelogin,label,xdragrange,-1<SEMI> -1
+    mobilelogin,label,ydragrange,-1<SEMI> -1
+    mobilelogin,label,size.x,1
+    mobilelogin,label,size.y,1
+    mobilelogin,label,negadj,
+    mobilelogin,label,posadj,
+    mobilelogin,label,child,true
+    mobilelogin,label,displaymode,inline-block
+    mobilelogin,label,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #999<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 10px 0px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    mobilelogin,label,LOCK,false
+    mobilelogin,label,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilelogin,label,extend,{"react"<COLN>"<CR>"}
+mobilelogin,label,REFRESH, 
+mobilelogin,label4,TARGET,auth2
+mobilelogin,label4,PARENTGROUP,auth2
+mobilelogin,label4,load,label||0|0|105|10|1342377216|32
+    mobilelogin,label4,group,false
+    mobilelogin,label4,groupid,0
+    mobilelogin,label4,groupby,0500
+    mobilelogin,label4,widgetlock,false
+    mobilelogin,label4,iswidget,false
+    mobilelogin,label4,iscollection,false
+    mobilelogin,label4,collectname,
+    mobilelogin,label4,widgetname,
+    mobilelogin,label4,placeholder,
+    mobilelogin,label4,addedby,
+    mobilelogin,label4,DOCK,FFFF
+    mobilelogin,label4,PICTURE,media/img_missing.png
+    mobilelogin,label4,SIZE,105<PIP>10
+    mobilelogin,label4,JSON,{}
+    mobilelogin,label4,TEXT, 
+    mobilelogin,label4,TOOLTIP,
+    mobilelogin,label4,ENABLED,true
+    mobilelogin,label4,VISIBLE,true
+    mobilelogin,label4,ZORDER,0
+    mobilelogin,label4,FORECOLOR,&h000000
+    mobilelogin,label4,BACKCOLOR,transparent
+    mobilelogin,label4,FONTNAME,inherit
+    mobilelogin,label4,FONTSIZE,inherit
+    mobilelogin,label4,FONTBOLD,false
+    mobilelogin,label4,FONTITALIC,false
+    mobilelogin,label4,FONTUNDERLINE,false
+    mobilelogin,label4,FONTSTRIKETHRU,false
+    mobilelogin,label4,INFO,
+    mobilelogin,label4,PAGECOUNT,0
+    mobilelogin,label4,DATABIND,
+    mobilelogin,label4,BINDMAPPING,
+    mobilelogin,label4,drag.x,1
+    mobilelogin,label4,drag.y,1
+    mobilelogin,label4,xdragrange,-1<SEMI> -1
+    mobilelogin,label4,ydragrange,-1<SEMI> -1
+    mobilelogin,label4,size.x,1
+    mobilelogin,label4,size.y,1
+    mobilelogin,label4,negadj,
+    mobilelogin,label4,posadj,
+    mobilelogin,label4,child,true
+    mobilelogin,label4,displaymode,block
+    mobilelogin,label4,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilelogin,label4,LOCK,false
+    mobilelogin,label4,events,
+    mobilelogin,label4,extend,{}
+mobilelogin,label4,REFRESH, 
+mobilelogin,icngoogle,TARGET,auth2
+mobilelogin,icngoogle,PARENTGROUP,auth2
+mobilelogin,icngoogle,load,icon|media/img_missing.png|0|0|24|24|1342373901|0
+    mobilelogin,icngoogle,group,false
+    mobilelogin,icngoogle,groupid,0
+    mobilelogin,icngoogle,groupby,0500
+    mobilelogin,icngoogle,widgetlock,false
+    mobilelogin,icngoogle,iswidget,false
+    mobilelogin,icngoogle,iscollection,false
+    mobilelogin,icngoogle,collectname,
+    mobilelogin,icngoogle,widgetname,
+    mobilelogin,icngoogle,placeholder,
+    mobilelogin,icngoogle,addedby,
+    mobilelogin,icngoogle,DOCK,FFFF
+    mobilelogin,icngoogle,PICTURE,media/img_missing.png
+    mobilelogin,icngoogle,SIZE,24<PIP>24
+    mobilelogin,icngoogle,JSON,{}
+    mobilelogin,icngoogle,TEXT,
+    mobilelogin,icngoogle,TOOLTIP,
+    mobilelogin,icngoogle,ENABLED,true
+    mobilelogin,icngoogle,VISIBLE,true
+    mobilelogin,icngoogle,ZORDER,0
+    mobilelogin,icngoogle,FORECOLOR,&hff0000
+    mobilelogin,icngoogle,BACKCOLOR,transparent
+    mobilelogin,icngoogle,FONTNAME,inherit
+    mobilelogin,icngoogle,FONTSIZE,24px
+    mobilelogin,icngoogle,FONTBOLD,false
+    mobilelogin,icngoogle,FONTITALIC,false
+    mobilelogin,icngoogle,FONTUNDERLINE,false
+    mobilelogin,icngoogle,FONTSTRIKETHRU,false
+    mobilelogin,icngoogle,INFO,icon
+    mobilelogin,icngoogle,PAGECOUNT,0
+    mobilelogin,icngoogle,DATABIND,
+    mobilelogin,icngoogle,BINDMAPPING,
+    mobilelogin,icngoogle,drag.x,1
+    mobilelogin,icngoogle,drag.y,1
+    mobilelogin,icngoogle,xdragrange,-1<SEMI> -1
+    mobilelogin,icngoogle,ydragrange,-1<SEMI> -1
+    mobilelogin,icngoogle,size.x,1
+    mobilelogin,icngoogle,size.y,1
+    mobilelogin,icngoogle,negadj,
+    mobilelogin,icngoogle,posadj,
+    mobilelogin,icngoogle,child,true
+    mobilelogin,icngoogle,displaymode,inline-block
+    mobilelogin,icngoogle,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-google<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> #ff0000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> #ff0000<LF>image.display<COLN> block<LF>image.font-size<COLN> 24px
+    mobilelogin,icngoogle,LOCK,false
+    mobilelogin,icngoogle,events,
+    mobilelogin,icngoogle,extend,{}
+mobilelogin,icngoogle,REFRESH, 
+mobilelogin,icnapple,TARGET,auth2
+mobilelogin,icnapple,PARENTGROUP,auth2
+mobilelogin,icnapple,load,icon|media/img_missing.png|0|0|24|24|1342373901|0
+    mobilelogin,icnapple,group,false
+    mobilelogin,icnapple,groupid,0
+    mobilelogin,icnapple,groupby,0500
+    mobilelogin,icnapple,widgetlock,false
+    mobilelogin,icnapple,iswidget,false
+    mobilelogin,icnapple,iscollection,false
+    mobilelogin,icnapple,collectname,
+    mobilelogin,icnapple,widgetname,
+    mobilelogin,icnapple,placeholder,
+    mobilelogin,icnapple,addedby,
+    mobilelogin,icnapple,DOCK,FFFF
+    mobilelogin,icnapple,PICTURE,media/img_missing.png
+    mobilelogin,icnapple,SIZE,24<PIP>24
+    mobilelogin,icnapple,JSON,{}
+    mobilelogin,icnapple,TEXT,
+    mobilelogin,icnapple,TOOLTIP,
+    mobilelogin,icnapple,ENABLED,true
+    mobilelogin,icnapple,VISIBLE,true
+    mobilelogin,icnapple,ZORDER,0
+    mobilelogin,icnapple,FORECOLOR,&h000000
+    mobilelogin,icnapple,BACKCOLOR,transparent
+    mobilelogin,icnapple,FONTNAME,inherit
+    mobilelogin,icnapple,FONTSIZE,24px
+    mobilelogin,icnapple,FONTBOLD,false
+    mobilelogin,icnapple,FONTITALIC,false
+    mobilelogin,icnapple,FONTUNDERLINE,false
+    mobilelogin,icnapple,FONTSTRIKETHRU,false
+    mobilelogin,icnapple,INFO,icon
+    mobilelogin,icnapple,PAGECOUNT,0
+    mobilelogin,icnapple,DATABIND,
+    mobilelogin,icnapple,BINDMAPPING,
+    mobilelogin,icnapple,drag.x,1
+    mobilelogin,icnapple,drag.y,1
+    mobilelogin,icnapple,xdragrange,-1<SEMI> -1
+    mobilelogin,icnapple,ydragrange,-1<SEMI> -1
+    mobilelogin,icnapple,size.x,1
+    mobilelogin,icnapple,size.y,1
+    mobilelogin,icnapple,negadj,
+    mobilelogin,icnapple,posadj,
+    mobilelogin,icnapple,child,true
+    mobilelogin,icnapple,displaymode,inline-block
+    mobilelogin,icnapple,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-apple<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 10px 0px 10px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> #000000<LF>image.display<COLN> block<LF>image.font-size<COLN> 24px
+    mobilelogin,icnapple,LOCK,false
+    mobilelogin,icnapple,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilelogin,icnapple,extend,{"react"<COLN>"<CR>"}
+mobilelogin,icnapple,REFRESH, 
+mobilelogin,icnfacebook,TARGET,auth2
+mobilelogin,icnfacebook,PARENTGROUP,auth2
+mobilelogin,icnfacebook,load,icon|media/img_missing.png|0|0|28|28|1342373901|0
+    mobilelogin,icnfacebook,group,false
+    mobilelogin,icnfacebook,groupid,0
+    mobilelogin,icnfacebook,groupby,0500
+    mobilelogin,icnfacebook,widgetlock,false
+    mobilelogin,icnfacebook,iswidget,false
+    mobilelogin,icnfacebook,iscollection,false
+    mobilelogin,icnfacebook,collectname,
+    mobilelogin,icnfacebook,widgetname,
+    mobilelogin,icnfacebook,placeholder,
+    mobilelogin,icnfacebook,addedby,
+    mobilelogin,icnfacebook,DOCK,FFFF
+    mobilelogin,icnfacebook,PICTURE,media/img_missing.png
+    mobilelogin,icnfacebook,SIZE,28<PIP>28
+    mobilelogin,icnfacebook,JSON,{}
+    mobilelogin,icnfacebook,TEXT,
+    mobilelogin,icnfacebook,TOOLTIP,
+    mobilelogin,icnfacebook,ENABLED,true
+    mobilelogin,icnfacebook,VISIBLE,true
+    mobilelogin,icnfacebook,ZORDER,0
+    mobilelogin,icnfacebook,FORECOLOR,&h0000ff
+    mobilelogin,icnfacebook,BACKCOLOR,transparent
+    mobilelogin,icnfacebook,FONTNAME,inherit
+    mobilelogin,icnfacebook,FONTSIZE,24px
+    mobilelogin,icnfacebook,FONTBOLD,false
+    mobilelogin,icnfacebook,FONTITALIC,false
+    mobilelogin,icnfacebook,FONTUNDERLINE,false
+    mobilelogin,icnfacebook,FONTSTRIKETHRU,false
+    mobilelogin,icnfacebook,INFO,icon
+    mobilelogin,icnfacebook,PAGECOUNT,0
+    mobilelogin,icnfacebook,DATABIND,
+    mobilelogin,icnfacebook,BINDMAPPING,
+    mobilelogin,icnfacebook,drag.x,1
+    mobilelogin,icnfacebook,drag.y,1
+    mobilelogin,icnfacebook,xdragrange,-1<SEMI> -1
+    mobilelogin,icnfacebook,ydragrange,-1<SEMI> -1
+    mobilelogin,icnfacebook,size.x,1
+    mobilelogin,icnfacebook,size.y,1
+    mobilelogin,icnfacebook,negadj,
+    mobilelogin,icnfacebook,posadj,
+    mobilelogin,icnfacebook,child,true
+    mobilelogin,icnfacebook,displaymode,inline-block
+    mobilelogin,icnfacebook,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-facebook-square<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> #0000ff<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>font-family<COLN> inherit<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 5px 0px 0px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> #0000ff<LF>image.display<COLN> block<LF>image.font-size<COLN> 24px
+    mobilelogin,icnfacebook,LOCK,false
+    mobilelogin,icnfacebook,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilelogin,icnfacebook,extend,{"react"<COLN>"<CR>"}
+mobilelogin,icnfacebook,REFRESH, 
+mobilelogin,,SETVIEW,
+mobilelogin,,HIDE,
+mobilelogin,,REFRESH,true

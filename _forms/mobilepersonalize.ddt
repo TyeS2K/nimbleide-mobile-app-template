@@ -1,0 +1,1077 @@
+mobilepersonalize,,SURFACE,New Surface|50|155|400|640|268435476|65568
+    mobilepersonalize,,version,5.0
+    mobilepersonalize,,loadlibs,New Surface
+    mobilepersonalize,,groupid,9999999999
+    mobilepersonalize,,groupby,0
+    mobilepersonalize,,runpos,0|0
+    mobilepersonalize,,DOCK,FFFF
+    mobilepersonalize,,PARENT,
+    mobilepersonalize,,MARGINS,
+    mobilepersonalize,,AUTOSIZE,false
+    mobilepersonalize,,JSON,{}
+    mobilepersonalize,,TEXT,New Surface
+    mobilepersonalize,,TOOLTIP,
+    mobilepersonalize,,ENABLED,true
+    mobilepersonalize,,VISIBLE,true
+    mobilepersonalize,,FORECOLOR,&heeeeee
+    mobilepersonalize,,BACKCOLOR,&hffffff
+    mobilepersonalize,,ICON,
+    mobilepersonalize,,FONTNAME,roboto
+    mobilepersonalize,,FONTSIZE,14px
+    mobilepersonalize,,FONTBOLD,false
+    mobilepersonalize,,FONTITALIC,false
+    mobilepersonalize,,FONTUNDERLINE,false
+    mobilepersonalize,,FONTSTRIKETHRU,false
+    mobilepersonalize,,MENUBAR,
+    mobilepersonalize,,TOOLBAR,
+    mobilepersonalize,,STATUSBAR,
+    mobilepersonalize,,SAVESTATE,false
+    mobilepersonalize,,drag.x,
+    mobilepersonalize,,drag.y,
+    mobilepersonalize,,xdragrange,
+    mobilepersonalize,,ydragrange,
+    mobilepersonalize,,size.x,
+    mobilepersonalize,,size.y,
+    mobilepersonalize,,negadj,
+    mobilepersonalize,,posadj,
+    mobilepersonalize,,TAG,~_private<COLN> false<LF>autosize<COLN> false<LF>bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>clipmenu<COLN> true<LF>donottheme<COLN> false<LF>dragable<COLN> true<LF>flattenonpull<COLN> true<LF>hotkey<COLN> <LF>ignorezorder<COLN> false<LF>output<COLN> normal<LF>prevent<COLN> <LF>record<COLN> <LF>shadow<COLN> true<LF>sizeable<COLN> true<LF>theme<COLN> nimble-form<LF>toggleonflip<COLN> true<LF>useastheme<COLN> false<LF>watch<COLN> false<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>body.lock-height<COLN> <LF>body.version<COLN> v5.0~color<COLN> #EEEEEE<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 20px<LF>font-family<COLN> roboto<LF>font-size<COLN> 14px<LF>pointer-events<COLN> auto<LF>z-index<COLN> 2<LF>body.background-color<COLN> transparent<LF>body.box-sizing<COLN> border-box<LF>body.color<COLN> #eeeeee<LF>body.overflow-y<COLN> auto<LF>body.padding<COLN> 10px 15px 10px 15px<LF>body.text-align<COLN> center<LF>body.vertical-align<COLN>
+    mobilepersonalize,,events,activate<COLN> <CR>adjustlayout<COLN> <CR>afterpull<COLN> <CR>afterpush<COLN> <CR>beforeunload<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>disabled<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enabled<COLN> <CR>enterkey<COLN> <CR>fullscreen<COLN> <CR>gotfocus<COLN> <CR>hide<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>load<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>maximize<COLN> <CR>menu<COLN> <CR>minimize<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>move<COLN> <CR>move<COLN> <CR>onpull<COLN> <CR>onpush<COLN> <CR>refresh<COLN> <CR>resize<COLN> <CR>restore<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN> <CR>unload<COLN> <CR>viewchange<COLN> <CR>widgetloaded<COLN> <CR>widgetunloading<COLN>
+    mobilepersonalize,,extend,{"react"<COLN>"<CR>"}
+    mobilepersonalize,,GROUPIDS,[0500][0700][0900][1100][1300][1500]
+    mobilepersonalize,,WSTYLES,268435476
+    mobilepersonalize,,WSTYLESEX,65568
+    mobilepersonalize,,WIDTH,400
+    mobilepersonalize,,HEIGHT,640
+    mobilepersonalize,,EDITPOS,50|155
+mobilepersonalize,title,TARGET,~
+mobilepersonalize,title,PARENTGROUP,~
+mobilepersonalize,title,load,label|Personalise your experience|0|0|105|80|1342377216|32
+    mobilepersonalize,title,group,false
+    mobilepersonalize,title,groupid,0
+    mobilepersonalize,title,groupby,9999999999
+    mobilepersonalize,title,widgetlock,false
+    mobilepersonalize,title,iswidget,false
+    mobilepersonalize,title,iscollection,false
+    mobilepersonalize,title,collectname,
+    mobilepersonalize,title,widgetname,
+    mobilepersonalize,title,placeholder,
+    mobilepersonalize,title,addedby,
+    mobilepersonalize,title,DOCK,FFFF
+    mobilepersonalize,title,PICTURE,media/img_missing.png
+    mobilepersonalize,title,SIZE,105<PIP>80
+    mobilepersonalize,title,JSON,{}
+    mobilepersonalize,title,TEXT,Personalise your experience
+    mobilepersonalize,title,TOOLTIP,
+    mobilepersonalize,title,ENABLED,true
+    mobilepersonalize,title,VISIBLE,true
+    mobilepersonalize,title,ZORDER,0
+    mobilepersonalize,title,FORECOLOR,&h000000
+    mobilepersonalize,title,BACKCOLOR,transparent
+    mobilepersonalize,title,FONTNAME,inherit
+    mobilepersonalize,title,FONTSIZE,25px
+    mobilepersonalize,title,FONTBOLD,true
+    mobilepersonalize,title,FONTITALIC,false
+    mobilepersonalize,title,FONTUNDERLINE,false
+    mobilepersonalize,title,FONTSTRIKETHRU,false
+    mobilepersonalize,title,INFO,
+    mobilepersonalize,title,PAGECOUNT,0
+    mobilepersonalize,title,DATABIND,
+    mobilepersonalize,title,BINDMAPPING,
+    mobilepersonalize,title,drag.x,1
+    mobilepersonalize,title,drag.y,1
+    mobilepersonalize,title,xdragrange,-1<SEMI> -1
+    mobilepersonalize,title,ydragrange,-1<SEMI> -1
+    mobilepersonalize,title,size.x,1
+    mobilepersonalize,title,size.y,1
+    mobilepersonalize,title,negadj,
+    mobilepersonalize,title,posadj,
+    mobilepersonalize,title,child,false
+    mobilepersonalize,title,displaymode,block
+    mobilepersonalize,title,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 25px<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 30px 50px 10px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilepersonalize,title,LOCK,false
+    mobilepersonalize,title,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,title,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,title,REFRESH, 
+mobilepersonalize,tagline,TARGET,~
+mobilepersonalize,tagline,PARENTGROUP,~
+mobilepersonalize,tagline,load,label|Choose your interests.|0|0|370|21|1342377216|32
+    mobilepersonalize,tagline,group,false
+    mobilepersonalize,tagline,groupid,0
+    mobilepersonalize,tagline,groupby,9999999999
+    mobilepersonalize,tagline,widgetlock,false
+    mobilepersonalize,tagline,iswidget,false
+    mobilepersonalize,tagline,iscollection,false
+    mobilepersonalize,tagline,collectname,
+    mobilepersonalize,tagline,widgetname,
+    mobilepersonalize,tagline,placeholder,
+    mobilepersonalize,tagline,addedby,
+    mobilepersonalize,tagline,DOCK,FFFF
+    mobilepersonalize,tagline,PICTURE,media/img_missing.png
+    mobilepersonalize,tagline,SIZE,370<PIP>21
+    mobilepersonalize,tagline,JSON,{}
+    mobilepersonalize,tagline,TEXT,Choose your interests.
+    mobilepersonalize,tagline,TOOLTIP,
+    mobilepersonalize,tagline,ENABLED,true
+    mobilepersonalize,tagline,VISIBLE,true
+    mobilepersonalize,tagline,ZORDER,0
+    mobilepersonalize,tagline,FORECOLOR,&h777
+    mobilepersonalize,tagline,BACKCOLOR,transparent
+    mobilepersonalize,tagline,FONTNAME,inherit
+    mobilepersonalize,tagline,FONTSIZE,12px
+    mobilepersonalize,tagline,FONTBOLD,false
+    mobilepersonalize,tagline,FONTITALIC,false
+    mobilepersonalize,tagline,FONTUNDERLINE,false
+    mobilepersonalize,tagline,FONTSTRIKETHRU,false
+    mobilepersonalize,tagline,INFO,
+    mobilepersonalize,tagline,PAGECOUNT,0
+    mobilepersonalize,tagline,DATABIND,
+    mobilepersonalize,tagline,BINDMAPPING,
+    mobilepersonalize,tagline,drag.x,1
+    mobilepersonalize,tagline,drag.y,1
+    mobilepersonalize,tagline,xdragrange,-1<SEMI> -1
+    mobilepersonalize,tagline,ydragrange,-1<SEMI> -1
+    mobilepersonalize,tagline,size.x,1
+    mobilepersonalize,tagline,size.y,1
+    mobilepersonalize,tagline,negadj,
+    mobilepersonalize,tagline,posadj,
+    mobilepersonalize,tagline,child,false
+    mobilepersonalize,tagline,displaymode,block
+    mobilepersonalize,tagline,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #777<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 20px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilepersonalize,tagline,LOCK,false
+    mobilepersonalize,tagline,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,tagline,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,tagline,REFRESH, 
+mobilepersonalize,subject,TARGET,~
+mobilepersonalize,subject,PARENTGROUP,~
+mobilepersonalize,subject,load,frame||0|0|354|53|1342227719|32
+    mobilepersonalize,subject,group,true
+    mobilepersonalize,subject,groupid,0500
+    mobilepersonalize,subject,groupby,9999999999
+    mobilepersonalize,subject,widgetlock,false
+    mobilepersonalize,subject,iswidget,true
+    mobilepersonalize,subject,iscollection,false
+    mobilepersonalize,subject,collectname,
+    mobilepersonalize,subject,widgetname,
+    mobilepersonalize,subject,placeholder,
+    mobilepersonalize,subject,addedby,
+    mobilepersonalize,subject,DOCK,FFFF
+    mobilepersonalize,subject,PICTURE,media/img_missing.png
+    mobilepersonalize,subject,SIZE,354<PIP>53
+    mobilepersonalize,subject,JSON,{}
+    mobilepersonalize,subject,TEXT,
+    mobilepersonalize,subject,TOOLTIP,
+    mobilepersonalize,subject,ENABLED,true
+    mobilepersonalize,subject,VISIBLE,true
+    mobilepersonalize,subject,ZORDER,0
+    mobilepersonalize,subject,FORECOLOR,&h000000
+    mobilepersonalize,subject,BACKCOLOR,rgba(153<COMMA>187<COMMA>255<COMMA>0.20)
+    mobilepersonalize,subject,FONTNAME,inherit
+    mobilepersonalize,subject,FONTSIZE,inherit
+    mobilepersonalize,subject,FONTBOLD,false
+    mobilepersonalize,subject,FONTITALIC,false
+    mobilepersonalize,subject,FONTUNDERLINE,false
+    mobilepersonalize,subject,FONTSTRIKETHRU,false
+    mobilepersonalize,subject,INFO,
+    mobilepersonalize,subject,PAGECOUNT,0
+    mobilepersonalize,subject,DATABIND,
+    mobilepersonalize,subject,BINDMAPPING,
+    mobilepersonalize,subject,drag.x,1
+    mobilepersonalize,subject,drag.y,1
+    mobilepersonalize,subject,xdragrange,-1<SEMI> -1
+    mobilepersonalize,subject,ydragrange,-1<SEMI> -1
+    mobilepersonalize,subject,size.x,1
+    mobilepersonalize,subject,size.y,1
+    mobilepersonalize,subject,negadj,
+    mobilepersonalize,subject,posadj,
+    mobilepersonalize,subject,child,false
+    mobilepersonalize,subject,displaymode,block
+    mobilepersonalize,subject,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>margin<COLN> 8px 8px 8px 8px<LF>opacity<COLN> <LF>padding<COLN> 15px 15px 15px 15px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> rgba(153<COMMA>187<COMMA>255<COMMA>0.20)<LF>border-radius<COLN> 13px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilepersonalize,subject,LOCK,false
+    mobilepersonalize,subject,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,subject,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,subject,REFRESH, 
+mobilepersonalize,subject<COLN>selected,TARGET,subject
+mobilepersonalize,subject<COLN>selected,PARENTGROUP,subject
+mobilepersonalize,subject<COLN>selected,load,icon|media/img_missing.png|0|0|18|18|1342373901|0
+    mobilepersonalize,subject<COLN>selected,group,false
+    mobilepersonalize,subject<COLN>selected,groupid,0
+    mobilepersonalize,subject<COLN>selected,groupby,0500
+    mobilepersonalize,subject<COLN>selected,widgetlock,false
+    mobilepersonalize,subject<COLN>selected,iswidget,true
+    mobilepersonalize,subject<COLN>selected,iscollection,false
+    mobilepersonalize,subject<COLN>selected,collectname,
+    mobilepersonalize,subject<COLN>selected,widgetname,
+    mobilepersonalize,subject<COLN>selected,placeholder,
+    mobilepersonalize,subject<COLN>selected,addedby,
+    mobilepersonalize,subject<COLN>selected,DOCK,FFFF
+    mobilepersonalize,subject<COLN>selected,PICTURE,media/img_missing.png
+    mobilepersonalize,subject<COLN>selected,SIZE,18<PIP>18
+    mobilepersonalize,subject<COLN>selected,JSON,{}
+    mobilepersonalize,subject<COLN>selected,TEXT,
+    mobilepersonalize,subject<COLN>selected,TOOLTIP,
+    mobilepersonalize,subject<COLN>selected,ENABLED,true
+    mobilepersonalize,subject<COLN>selected,VISIBLE,true
+    mobilepersonalize,subject<COLN>selected,ZORDER,0
+    mobilepersonalize,subject<COLN>selected,FORECOLOR,&h6b8fc5
+    mobilepersonalize,subject<COLN>selected,BACKCOLOR,transparent
+    mobilepersonalize,subject<COLN>selected,FONTNAME,inherit
+    mobilepersonalize,subject<COLN>selected,FONTSIZE,18px
+    mobilepersonalize,subject<COLN>selected,FONTBOLD,false
+    mobilepersonalize,subject<COLN>selected,FONTITALIC,false
+    mobilepersonalize,subject<COLN>selected,FONTUNDERLINE,false
+    mobilepersonalize,subject<COLN>selected,FONTSTRIKETHRU,false
+    mobilepersonalize,subject<COLN>selected,INFO,icon
+    mobilepersonalize,subject<COLN>selected,PAGECOUNT,0
+    mobilepersonalize,subject<COLN>selected,DATABIND,
+    mobilepersonalize,subject<COLN>selected,BINDMAPPING,
+    mobilepersonalize,subject<COLN>selected,drag.x,1
+    mobilepersonalize,subject<COLN>selected,drag.y,1
+    mobilepersonalize,subject<COLN>selected,xdragrange,-1<SEMI> -1
+    mobilepersonalize,subject<COLN>selected,ydragrange,-1<SEMI> -1
+    mobilepersonalize,subject<COLN>selected,size.x,1
+    mobilepersonalize,subject<COLN>selected,size.y,1
+    mobilepersonalize,subject<COLN>selected,negadj,
+    mobilepersonalize,subject<COLN>selected,posadj,
+    mobilepersonalize,subject<COLN>selected,child,true
+    mobilepersonalize,subject<COLN>selected,displaymode,inline-block
+    mobilepersonalize,subject<COLN>selected,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-check<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> #6b8fc5<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> right<LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 18px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> &H6B8FC5<LF>image.display<COLN> block<LF>image.font-size<COLN> 18px
+    mobilepersonalize,subject<COLN>selected,LOCK,false
+    mobilepersonalize,subject<COLN>selected,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,subject<COLN>selected,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,subject<COLN>selected,REFRESH, 
+mobilepersonalize,subject<COLN>name,TARGET,subject
+mobilepersonalize,subject<COLN>name,PARENTGROUP,subject
+mobilepersonalize,subject<COLN>name,load,label|User Interface|0|0|105|21|1342377216|32
+    mobilepersonalize,subject<COLN>name,group,false
+    mobilepersonalize,subject<COLN>name,groupid,0
+    mobilepersonalize,subject<COLN>name,groupby,0500
+    mobilepersonalize,subject<COLN>name,widgetlock,false
+    mobilepersonalize,subject<COLN>name,iswidget,true
+    mobilepersonalize,subject<COLN>name,iscollection,false
+    mobilepersonalize,subject<COLN>name,collectname,
+    mobilepersonalize,subject<COLN>name,widgetname,
+    mobilepersonalize,subject<COLN>name,placeholder,
+    mobilepersonalize,subject<COLN>name,addedby,
+    mobilepersonalize,subject<COLN>name,DOCK,FFFF
+    mobilepersonalize,subject<COLN>name,PICTURE,media/img_missing.png
+    mobilepersonalize,subject<COLN>name,SIZE,105<PIP>21
+    mobilepersonalize,subject<COLN>name,JSON,{}
+    mobilepersonalize,subject<COLN>name,TEXT,User Interface
+    mobilepersonalize,subject<COLN>name,TOOLTIP,
+    mobilepersonalize,subject<COLN>name,ENABLED,true
+    mobilepersonalize,subject<COLN>name,VISIBLE,true
+    mobilepersonalize,subject<COLN>name,ZORDER,0
+    mobilepersonalize,subject<COLN>name,FORECOLOR,&h000000
+    mobilepersonalize,subject<COLN>name,BACKCOLOR,transparent
+    mobilepersonalize,subject<COLN>name,FONTNAME,inherit
+    mobilepersonalize,subject<COLN>name,FONTSIZE,inherit
+    mobilepersonalize,subject<COLN>name,FONTBOLD,false
+    mobilepersonalize,subject<COLN>name,FONTITALIC,false
+    mobilepersonalize,subject<COLN>name,FONTUNDERLINE,false
+    mobilepersonalize,subject<COLN>name,FONTSTRIKETHRU,false
+    mobilepersonalize,subject<COLN>name,INFO,
+    mobilepersonalize,subject<COLN>name,PAGECOUNT,0
+    mobilepersonalize,subject<COLN>name,DATABIND,
+    mobilepersonalize,subject<COLN>name,BINDMAPPING,
+    mobilepersonalize,subject<COLN>name,drag.x,1
+    mobilepersonalize,subject<COLN>name,drag.y,1
+    mobilepersonalize,subject<COLN>name,xdragrange,-1<SEMI> -1
+    mobilepersonalize,subject<COLN>name,ydragrange,-1<SEMI> -1
+    mobilepersonalize,subject<COLN>name,size.x,1
+    mobilepersonalize,subject<COLN>name,size.y,1
+    mobilepersonalize,subject<COLN>name,negadj,
+    mobilepersonalize,subject<COLN>name,posadj,
+    mobilepersonalize,subject<COLN>name,child,true
+    mobilepersonalize,subject<COLN>name,displaymode,block
+    mobilepersonalize,subject<COLN>name,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.max-width<COLN> 75%<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilepersonalize,subject<COLN>name,LOCK,false
+    mobilepersonalize,subject<COLN>name,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,subject<COLN>name,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,subject<COLN>name,REFRESH, 
+mobilepersonalize,subject1,TARGET,~
+mobilepersonalize,subject1,PARENTGROUP,~
+mobilepersonalize,subject1,load,frame||0|0|354|53|1342227719|32
+    mobilepersonalize,subject1,group,true
+    mobilepersonalize,subject1,groupid,0700
+    mobilepersonalize,subject1,groupby,9999999999
+    mobilepersonalize,subject1,widgetlock,false
+    mobilepersonalize,subject1,iswidget,true
+    mobilepersonalize,subject1,iscollection,false
+    mobilepersonalize,subject1,collectname,
+    mobilepersonalize,subject1,widgetname,
+    mobilepersonalize,subject1,placeholder,
+    mobilepersonalize,subject1,addedby,
+    mobilepersonalize,subject1,DOCK,FFFF
+    mobilepersonalize,subject1,PICTURE,media/img_missing.png
+    mobilepersonalize,subject1,SIZE,354<PIP>53
+    mobilepersonalize,subject1,JSON,{}
+    mobilepersonalize,subject1,TEXT,
+    mobilepersonalize,subject1,TOOLTIP,
+    mobilepersonalize,subject1,ENABLED,true
+    mobilepersonalize,subject1,VISIBLE,true
+    mobilepersonalize,subject1,ZORDER,0
+    mobilepersonalize,subject1,FORECOLOR,&h000000
+    mobilepersonalize,subject1,BACKCOLOR,&hffffff
+    mobilepersonalize,subject1,FONTNAME,inherit
+    mobilepersonalize,subject1,FONTSIZE,inherit
+    mobilepersonalize,subject1,FONTBOLD,false
+    mobilepersonalize,subject1,FONTITALIC,false
+    mobilepersonalize,subject1,FONTUNDERLINE,false
+    mobilepersonalize,subject1,FONTSTRIKETHRU,false
+    mobilepersonalize,subject1,INFO,
+    mobilepersonalize,subject1,PAGECOUNT,0
+    mobilepersonalize,subject1,DATABIND,
+    mobilepersonalize,subject1,BINDMAPPING,
+    mobilepersonalize,subject1,drag.x,1
+    mobilepersonalize,subject1,drag.y,1
+    mobilepersonalize,subject1,xdragrange,-1<SEMI> -1
+    mobilepersonalize,subject1,ydragrange,-1<SEMI> -1
+    mobilepersonalize,subject1,size.x,1
+    mobilepersonalize,subject1,size.y,1
+    mobilepersonalize,subject1,negadj,
+    mobilepersonalize,subject1,posadj,
+    mobilepersonalize,subject1,child,false
+    mobilepersonalize,subject1,displaymode,block
+    mobilepersonalize,subject1,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>margin<COLN> 8px 8px 8px 8px<LF>opacity<COLN> <LF>padding<COLN> 15px 15px 15px 15px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 13px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilepersonalize,subject1,LOCK,false
+    mobilepersonalize,subject1,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,subject1,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,subject1,REFRESH, 
+mobilepersonalize,subject1<COLN>selected,TARGET,subject1
+mobilepersonalize,subject1<COLN>selected,PARENTGROUP,subject1
+mobilepersonalize,subject1<COLN>selected,load,icon|media/img_missing.png|0|0|18|18|1342373901|0
+    mobilepersonalize,subject1<COLN>selected,group,false
+    mobilepersonalize,subject1<COLN>selected,groupid,0
+    mobilepersonalize,subject1<COLN>selected,groupby,0700
+    mobilepersonalize,subject1<COLN>selected,widgetlock,false
+    mobilepersonalize,subject1<COLN>selected,iswidget,true
+    mobilepersonalize,subject1<COLN>selected,iscollection,false
+    mobilepersonalize,subject1<COLN>selected,collectname,
+    mobilepersonalize,subject1<COLN>selected,widgetname,
+    mobilepersonalize,subject1<COLN>selected,placeholder,
+    mobilepersonalize,subject1<COLN>selected,addedby,
+    mobilepersonalize,subject1<COLN>selected,DOCK,FFFF
+    mobilepersonalize,subject1<COLN>selected,PICTURE,media/img_missing.png
+    mobilepersonalize,subject1<COLN>selected,SIZE,18<PIP>18
+    mobilepersonalize,subject1<COLN>selected,JSON,{}
+    mobilepersonalize,subject1<COLN>selected,TEXT,
+    mobilepersonalize,subject1<COLN>selected,TOOLTIP,
+    mobilepersonalize,subject1<COLN>selected,ENABLED,true
+    mobilepersonalize,subject1<COLN>selected,VISIBLE,true
+    mobilepersonalize,subject1<COLN>selected,ZORDER,0
+    mobilepersonalize,subject1<COLN>selected,FORECOLOR,transparent
+    mobilepersonalize,subject1<COLN>selected,BACKCOLOR,transparent
+    mobilepersonalize,subject1<COLN>selected,FONTNAME,inherit
+    mobilepersonalize,subject1<COLN>selected,FONTSIZE,18px
+    mobilepersonalize,subject1<COLN>selected,FONTBOLD,false
+    mobilepersonalize,subject1<COLN>selected,FONTITALIC,false
+    mobilepersonalize,subject1<COLN>selected,FONTUNDERLINE,false
+    mobilepersonalize,subject1<COLN>selected,FONTSTRIKETHRU,false
+    mobilepersonalize,subject1<COLN>selected,INFO,icon
+    mobilepersonalize,subject1<COLN>selected,PAGECOUNT,0
+    mobilepersonalize,subject1<COLN>selected,DATABIND,
+    mobilepersonalize,subject1<COLN>selected,BINDMAPPING,
+    mobilepersonalize,subject1<COLN>selected,drag.x,1
+    mobilepersonalize,subject1<COLN>selected,drag.y,1
+    mobilepersonalize,subject1<COLN>selected,xdragrange,-1<SEMI> -1
+    mobilepersonalize,subject1<COLN>selected,ydragrange,-1<SEMI> -1
+    mobilepersonalize,subject1<COLN>selected,size.x,1
+    mobilepersonalize,subject1<COLN>selected,size.y,1
+    mobilepersonalize,subject1<COLN>selected,negadj,
+    mobilepersonalize,subject1<COLN>selected,posadj,
+    mobilepersonalize,subject1<COLN>selected,child,true
+    mobilepersonalize,subject1<COLN>selected,displaymode,inline-block
+    mobilepersonalize,subject1<COLN>selected,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-check<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> transparent<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> right<LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 18px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> transparent<LF>image.display<COLN> block<LF>image.font-size<COLN> 18px
+    mobilepersonalize,subject1<COLN>selected,LOCK,false
+    mobilepersonalize,subject1<COLN>selected,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,subject1<COLN>selected,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,subject1<COLN>selected,REFRESH, 
+mobilepersonalize,subject1<COLN>name,TARGET,subject1
+mobilepersonalize,subject1<COLN>name,PARENTGROUP,subject1
+mobilepersonalize,subject1<COLN>name,load,label|User Experience|0|0|105|21|1342377216|32
+    mobilepersonalize,subject1<COLN>name,group,false
+    mobilepersonalize,subject1<COLN>name,groupid,0
+    mobilepersonalize,subject1<COLN>name,groupby,0700
+    mobilepersonalize,subject1<COLN>name,widgetlock,false
+    mobilepersonalize,subject1<COLN>name,iswidget,true
+    mobilepersonalize,subject1<COLN>name,iscollection,false
+    mobilepersonalize,subject1<COLN>name,collectname,
+    mobilepersonalize,subject1<COLN>name,widgetname,
+    mobilepersonalize,subject1<COLN>name,placeholder,
+    mobilepersonalize,subject1<COLN>name,addedby,
+    mobilepersonalize,subject1<COLN>name,DOCK,FFFF
+    mobilepersonalize,subject1<COLN>name,PICTURE,media/img_missing.png
+    mobilepersonalize,subject1<COLN>name,SIZE,105<PIP>21
+    mobilepersonalize,subject1<COLN>name,JSON,{}
+    mobilepersonalize,subject1<COLN>name,TEXT,User Experience
+    mobilepersonalize,subject1<COLN>name,TOOLTIP,
+    mobilepersonalize,subject1<COLN>name,ENABLED,true
+    mobilepersonalize,subject1<COLN>name,VISIBLE,true
+    mobilepersonalize,subject1<COLN>name,ZORDER,0
+    mobilepersonalize,subject1<COLN>name,FORECOLOR,&h000000
+    mobilepersonalize,subject1<COLN>name,BACKCOLOR,transparent
+    mobilepersonalize,subject1<COLN>name,FONTNAME,inherit
+    mobilepersonalize,subject1<COLN>name,FONTSIZE,inherit
+    mobilepersonalize,subject1<COLN>name,FONTBOLD,false
+    mobilepersonalize,subject1<COLN>name,FONTITALIC,false
+    mobilepersonalize,subject1<COLN>name,FONTUNDERLINE,false
+    mobilepersonalize,subject1<COLN>name,FONTSTRIKETHRU,false
+    mobilepersonalize,subject1<COLN>name,INFO,
+    mobilepersonalize,subject1<COLN>name,PAGECOUNT,0
+    mobilepersonalize,subject1<COLN>name,DATABIND,
+    mobilepersonalize,subject1<COLN>name,BINDMAPPING,
+    mobilepersonalize,subject1<COLN>name,drag.x,1
+    mobilepersonalize,subject1<COLN>name,drag.y,1
+    mobilepersonalize,subject1<COLN>name,xdragrange,-1<SEMI> -1
+    mobilepersonalize,subject1<COLN>name,ydragrange,-1<SEMI> -1
+    mobilepersonalize,subject1<COLN>name,size.x,1
+    mobilepersonalize,subject1<COLN>name,size.y,1
+    mobilepersonalize,subject1<COLN>name,negadj,
+    mobilepersonalize,subject1<COLN>name,posadj,
+    mobilepersonalize,subject1<COLN>name,child,true
+    mobilepersonalize,subject1<COLN>name,displaymode,block
+    mobilepersonalize,subject1<COLN>name,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.max-width<COLN> 75%<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilepersonalize,subject1<COLN>name,LOCK,false
+    mobilepersonalize,subject1<COLN>name,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,subject1<COLN>name,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,subject1<COLN>name,REFRESH, 
+mobilepersonalize,subject2,TARGET,~
+mobilepersonalize,subject2,PARENTGROUP,~
+mobilepersonalize,subject2,load,frame||0|0|354|53|1342227719|32
+    mobilepersonalize,subject2,group,true
+    mobilepersonalize,subject2,groupid,0900
+    mobilepersonalize,subject2,groupby,9999999999
+    mobilepersonalize,subject2,widgetlock,false
+    mobilepersonalize,subject2,iswidget,true
+    mobilepersonalize,subject2,iscollection,false
+    mobilepersonalize,subject2,collectname,
+    mobilepersonalize,subject2,widgetname,
+    mobilepersonalize,subject2,placeholder,
+    mobilepersonalize,subject2,addedby,
+    mobilepersonalize,subject2,DOCK,FFFF
+    mobilepersonalize,subject2,PICTURE,media/img_missing.png
+    mobilepersonalize,subject2,SIZE,354<PIP>53
+    mobilepersonalize,subject2,JSON,{}
+    mobilepersonalize,subject2,TEXT,
+    mobilepersonalize,subject2,TOOLTIP,
+    mobilepersonalize,subject2,ENABLED,true
+    mobilepersonalize,subject2,VISIBLE,true
+    mobilepersonalize,subject2,ZORDER,0
+    mobilepersonalize,subject2,FORECOLOR,&h000000
+    mobilepersonalize,subject2,BACKCOLOR,rgba(153<COMMA>187<COMMA>255<COMMA>0.20)
+    mobilepersonalize,subject2,FONTNAME,inherit
+    mobilepersonalize,subject2,FONTSIZE,inherit
+    mobilepersonalize,subject2,FONTBOLD,false
+    mobilepersonalize,subject2,FONTITALIC,false
+    mobilepersonalize,subject2,FONTUNDERLINE,false
+    mobilepersonalize,subject2,FONTSTRIKETHRU,false
+    mobilepersonalize,subject2,INFO,
+    mobilepersonalize,subject2,PAGECOUNT,0
+    mobilepersonalize,subject2,DATABIND,
+    mobilepersonalize,subject2,BINDMAPPING,
+    mobilepersonalize,subject2,drag.x,1
+    mobilepersonalize,subject2,drag.y,1
+    mobilepersonalize,subject2,xdragrange,-1<SEMI> -1
+    mobilepersonalize,subject2,ydragrange,-1<SEMI> -1
+    mobilepersonalize,subject2,size.x,1
+    mobilepersonalize,subject2,size.y,1
+    mobilepersonalize,subject2,negadj,
+    mobilepersonalize,subject2,posadj,
+    mobilepersonalize,subject2,child,false
+    mobilepersonalize,subject2,displaymode,block
+    mobilepersonalize,subject2,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>margin<COLN> 8px 8px 8px 8px<LF>opacity<COLN> <LF>padding<COLN> 15px 15px 15px 15px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> rgba(153<COMMA>187<COMMA>255<COMMA>0.20)<LF>border-radius<COLN> 13px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilepersonalize,subject2,LOCK,false
+    mobilepersonalize,subject2,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,subject2,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,subject2,REFRESH, 
+mobilepersonalize,subject2<COLN>selected,TARGET,subject2
+mobilepersonalize,subject2<COLN>selected,PARENTGROUP,subject2
+mobilepersonalize,subject2<COLN>selected,load,icon|media/img_missing.png|0|0|18|18|1342373901|0
+    mobilepersonalize,subject2<COLN>selected,group,false
+    mobilepersonalize,subject2<COLN>selected,groupid,0
+    mobilepersonalize,subject2<COLN>selected,groupby,0900
+    mobilepersonalize,subject2<COLN>selected,widgetlock,false
+    mobilepersonalize,subject2<COLN>selected,iswidget,true
+    mobilepersonalize,subject2<COLN>selected,iscollection,false
+    mobilepersonalize,subject2<COLN>selected,collectname,
+    mobilepersonalize,subject2<COLN>selected,widgetname,
+    mobilepersonalize,subject2<COLN>selected,placeholder,
+    mobilepersonalize,subject2<COLN>selected,addedby,
+    mobilepersonalize,subject2<COLN>selected,DOCK,FFFF
+    mobilepersonalize,subject2<COLN>selected,PICTURE,media/img_missing.png
+    mobilepersonalize,subject2<COLN>selected,SIZE,18<PIP>18
+    mobilepersonalize,subject2<COLN>selected,JSON,{}
+    mobilepersonalize,subject2<COLN>selected,TEXT,
+    mobilepersonalize,subject2<COLN>selected,TOOLTIP,
+    mobilepersonalize,subject2<COLN>selected,ENABLED,true
+    mobilepersonalize,subject2<COLN>selected,VISIBLE,true
+    mobilepersonalize,subject2<COLN>selected,ZORDER,0
+    mobilepersonalize,subject2<COLN>selected,FORECOLOR,&h6b8fc5
+    mobilepersonalize,subject2<COLN>selected,BACKCOLOR,transparent
+    mobilepersonalize,subject2<COLN>selected,FONTNAME,inherit
+    mobilepersonalize,subject2<COLN>selected,FONTSIZE,18px
+    mobilepersonalize,subject2<COLN>selected,FONTBOLD,false
+    mobilepersonalize,subject2<COLN>selected,FONTITALIC,false
+    mobilepersonalize,subject2<COLN>selected,FONTUNDERLINE,false
+    mobilepersonalize,subject2<COLN>selected,FONTSTRIKETHRU,false
+    mobilepersonalize,subject2<COLN>selected,INFO,icon
+    mobilepersonalize,subject2<COLN>selected,PAGECOUNT,0
+    mobilepersonalize,subject2<COLN>selected,DATABIND,
+    mobilepersonalize,subject2<COLN>selected,BINDMAPPING,
+    mobilepersonalize,subject2<COLN>selected,drag.x,1
+    mobilepersonalize,subject2<COLN>selected,drag.y,1
+    mobilepersonalize,subject2<COLN>selected,xdragrange,-1<SEMI> -1
+    mobilepersonalize,subject2<COLN>selected,ydragrange,-1<SEMI> -1
+    mobilepersonalize,subject2<COLN>selected,size.x,1
+    mobilepersonalize,subject2<COLN>selected,size.y,1
+    mobilepersonalize,subject2<COLN>selected,negadj,
+    mobilepersonalize,subject2<COLN>selected,posadj,
+    mobilepersonalize,subject2<COLN>selected,child,true
+    mobilepersonalize,subject2<COLN>selected,displaymode,inline-block
+    mobilepersonalize,subject2<COLN>selected,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-check<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> #6b8fc5<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> right<LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 18px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> &H6B8FC5<LF>image.display<COLN> block<LF>image.font-size<COLN> 18px
+    mobilepersonalize,subject2<COLN>selected,LOCK,false
+    mobilepersonalize,subject2<COLN>selected,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,subject2<COLN>selected,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,subject2<COLN>selected,REFRESH, 
+mobilepersonalize,subject2<COLN>name,TARGET,subject2
+mobilepersonalize,subject2<COLN>name,PARENTGROUP,subject2
+mobilepersonalize,subject2<COLN>name,load,label|User Research|0|0|105|21|1342377216|32
+    mobilepersonalize,subject2<COLN>name,group,false
+    mobilepersonalize,subject2<COLN>name,groupid,0
+    mobilepersonalize,subject2<COLN>name,groupby,0900
+    mobilepersonalize,subject2<COLN>name,widgetlock,false
+    mobilepersonalize,subject2<COLN>name,iswidget,true
+    mobilepersonalize,subject2<COLN>name,iscollection,false
+    mobilepersonalize,subject2<COLN>name,collectname,
+    mobilepersonalize,subject2<COLN>name,widgetname,
+    mobilepersonalize,subject2<COLN>name,placeholder,
+    mobilepersonalize,subject2<COLN>name,addedby,
+    mobilepersonalize,subject2<COLN>name,DOCK,FFFF
+    mobilepersonalize,subject2<COLN>name,PICTURE,media/img_missing.png
+    mobilepersonalize,subject2<COLN>name,SIZE,105<PIP>21
+    mobilepersonalize,subject2<COLN>name,JSON,{}
+    mobilepersonalize,subject2<COLN>name,TEXT,User Research
+    mobilepersonalize,subject2<COLN>name,TOOLTIP,
+    mobilepersonalize,subject2<COLN>name,ENABLED,true
+    mobilepersonalize,subject2<COLN>name,VISIBLE,true
+    mobilepersonalize,subject2<COLN>name,ZORDER,0
+    mobilepersonalize,subject2<COLN>name,FORECOLOR,&h000000
+    mobilepersonalize,subject2<COLN>name,BACKCOLOR,transparent
+    mobilepersonalize,subject2<COLN>name,FONTNAME,inherit
+    mobilepersonalize,subject2<COLN>name,FONTSIZE,inherit
+    mobilepersonalize,subject2<COLN>name,FONTBOLD,false
+    mobilepersonalize,subject2<COLN>name,FONTITALIC,false
+    mobilepersonalize,subject2<COLN>name,FONTUNDERLINE,false
+    mobilepersonalize,subject2<COLN>name,FONTSTRIKETHRU,false
+    mobilepersonalize,subject2<COLN>name,INFO,
+    mobilepersonalize,subject2<COLN>name,PAGECOUNT,0
+    mobilepersonalize,subject2<COLN>name,DATABIND,
+    mobilepersonalize,subject2<COLN>name,BINDMAPPING,
+    mobilepersonalize,subject2<COLN>name,drag.x,1
+    mobilepersonalize,subject2<COLN>name,drag.y,1
+    mobilepersonalize,subject2<COLN>name,xdragrange,-1<SEMI> -1
+    mobilepersonalize,subject2<COLN>name,ydragrange,-1<SEMI> -1
+    mobilepersonalize,subject2<COLN>name,size.x,1
+    mobilepersonalize,subject2<COLN>name,size.y,1
+    mobilepersonalize,subject2<COLN>name,negadj,
+    mobilepersonalize,subject2<COLN>name,posadj,
+    mobilepersonalize,subject2<COLN>name,child,true
+    mobilepersonalize,subject2<COLN>name,displaymode,block
+    mobilepersonalize,subject2<COLN>name,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.max-width<COLN> 75%<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilepersonalize,subject2<COLN>name,LOCK,false
+    mobilepersonalize,subject2<COLN>name,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,subject2<COLN>name,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,subject2<COLN>name,REFRESH, 
+mobilepersonalize,subject3,TARGET,~
+mobilepersonalize,subject3,PARENTGROUP,~
+mobilepersonalize,subject3,load,frame||0|0|354|53|1342227719|32
+    mobilepersonalize,subject3,group,true
+    mobilepersonalize,subject3,groupid,1100
+    mobilepersonalize,subject3,groupby,9999999999
+    mobilepersonalize,subject3,widgetlock,false
+    mobilepersonalize,subject3,iswidget,true
+    mobilepersonalize,subject3,iscollection,false
+    mobilepersonalize,subject3,collectname,
+    mobilepersonalize,subject3,widgetname,
+    mobilepersonalize,subject3,placeholder,
+    mobilepersonalize,subject3,addedby,
+    mobilepersonalize,subject3,DOCK,FFFF
+    mobilepersonalize,subject3,PICTURE,media/img_missing.png
+    mobilepersonalize,subject3,SIZE,354<PIP>53
+    mobilepersonalize,subject3,JSON,{}
+    mobilepersonalize,subject3,TEXT,
+    mobilepersonalize,subject3,TOOLTIP,
+    mobilepersonalize,subject3,ENABLED,true
+    mobilepersonalize,subject3,VISIBLE,true
+    mobilepersonalize,subject3,ZORDER,0
+    mobilepersonalize,subject3,FORECOLOR,&h000000
+    mobilepersonalize,subject3,BACKCOLOR,&hffffff
+    mobilepersonalize,subject3,FONTNAME,inherit
+    mobilepersonalize,subject3,FONTSIZE,inherit
+    mobilepersonalize,subject3,FONTBOLD,false
+    mobilepersonalize,subject3,FONTITALIC,false
+    mobilepersonalize,subject3,FONTUNDERLINE,false
+    mobilepersonalize,subject3,FONTSTRIKETHRU,false
+    mobilepersonalize,subject3,INFO,
+    mobilepersonalize,subject3,PAGECOUNT,0
+    mobilepersonalize,subject3,DATABIND,
+    mobilepersonalize,subject3,BINDMAPPING,
+    mobilepersonalize,subject3,drag.x,1
+    mobilepersonalize,subject3,drag.y,1
+    mobilepersonalize,subject3,xdragrange,-1<SEMI> -1
+    mobilepersonalize,subject3,ydragrange,-1<SEMI> -1
+    mobilepersonalize,subject3,size.x,1
+    mobilepersonalize,subject3,size.y,1
+    mobilepersonalize,subject3,negadj,
+    mobilepersonalize,subject3,posadj,
+    mobilepersonalize,subject3,child,false
+    mobilepersonalize,subject3,displaymode,block
+    mobilepersonalize,subject3,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>margin<COLN> 8px 8px 8px 8px<LF>opacity<COLN> <LF>padding<COLN> 15px 15px 15px 15px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 13px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilepersonalize,subject3,LOCK,false
+    mobilepersonalize,subject3,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,subject3,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,subject3,REFRESH, 
+mobilepersonalize,subject3<COLN>selected,TARGET,subject3
+mobilepersonalize,subject3<COLN>selected,PARENTGROUP,subject3
+mobilepersonalize,subject3<COLN>selected,load,icon|media/img_missing.png|0|0|18|18|1342373901|0
+    mobilepersonalize,subject3<COLN>selected,group,false
+    mobilepersonalize,subject3<COLN>selected,groupid,0
+    mobilepersonalize,subject3<COLN>selected,groupby,1100
+    mobilepersonalize,subject3<COLN>selected,widgetlock,false
+    mobilepersonalize,subject3<COLN>selected,iswidget,true
+    mobilepersonalize,subject3<COLN>selected,iscollection,false
+    mobilepersonalize,subject3<COLN>selected,collectname,
+    mobilepersonalize,subject3<COLN>selected,widgetname,
+    mobilepersonalize,subject3<COLN>selected,placeholder,
+    mobilepersonalize,subject3<COLN>selected,addedby,
+    mobilepersonalize,subject3<COLN>selected,DOCK,FFFF
+    mobilepersonalize,subject3<COLN>selected,PICTURE,media/img_missing.png
+    mobilepersonalize,subject3<COLN>selected,SIZE,18<PIP>18
+    mobilepersonalize,subject3<COLN>selected,JSON,{}
+    mobilepersonalize,subject3<COLN>selected,TEXT,
+    mobilepersonalize,subject3<COLN>selected,TOOLTIP,
+    mobilepersonalize,subject3<COLN>selected,ENABLED,true
+    mobilepersonalize,subject3<COLN>selected,VISIBLE,true
+    mobilepersonalize,subject3<COLN>selected,ZORDER,0
+    mobilepersonalize,subject3<COLN>selected,FORECOLOR,transparent
+    mobilepersonalize,subject3<COLN>selected,BACKCOLOR,transparent
+    mobilepersonalize,subject3<COLN>selected,FONTNAME,inherit
+    mobilepersonalize,subject3<COLN>selected,FONTSIZE,18px
+    mobilepersonalize,subject3<COLN>selected,FONTBOLD,false
+    mobilepersonalize,subject3<COLN>selected,FONTITALIC,false
+    mobilepersonalize,subject3<COLN>selected,FONTUNDERLINE,false
+    mobilepersonalize,subject3<COLN>selected,FONTSTRIKETHRU,false
+    mobilepersonalize,subject3<COLN>selected,INFO,icon
+    mobilepersonalize,subject3<COLN>selected,PAGECOUNT,0
+    mobilepersonalize,subject3<COLN>selected,DATABIND,
+    mobilepersonalize,subject3<COLN>selected,BINDMAPPING,
+    mobilepersonalize,subject3<COLN>selected,drag.x,1
+    mobilepersonalize,subject3<COLN>selected,drag.y,1
+    mobilepersonalize,subject3<COLN>selected,xdragrange,-1<SEMI> -1
+    mobilepersonalize,subject3<COLN>selected,ydragrange,-1<SEMI> -1
+    mobilepersonalize,subject3<COLN>selected,size.x,1
+    mobilepersonalize,subject3<COLN>selected,size.y,1
+    mobilepersonalize,subject3<COLN>selected,negadj,
+    mobilepersonalize,subject3<COLN>selected,posadj,
+    mobilepersonalize,subject3<COLN>selected,child,true
+    mobilepersonalize,subject3<COLN>selected,displaymode,inline-block
+    mobilepersonalize,subject3<COLN>selected,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-check<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> transparent<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> right<LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 18px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> TRANSPARENT<LF>image.display<COLN> block<LF>image.font-size<COLN> 18px
+    mobilepersonalize,subject3<COLN>selected,LOCK,false
+    mobilepersonalize,subject3<COLN>selected,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,subject3<COLN>selected,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,subject3<COLN>selected,REFRESH, 
+mobilepersonalize,subject3<COLN>name,TARGET,subject3
+mobilepersonalize,subject3<COLN>name,PARENTGROUP,subject3
+mobilepersonalize,subject3<COLN>name,load,label|Ux Writing|0|0|105|21|1342377216|32
+    mobilepersonalize,subject3<COLN>name,group,false
+    mobilepersonalize,subject3<COLN>name,groupid,0
+    mobilepersonalize,subject3<COLN>name,groupby,1100
+    mobilepersonalize,subject3<COLN>name,widgetlock,false
+    mobilepersonalize,subject3<COLN>name,iswidget,true
+    mobilepersonalize,subject3<COLN>name,iscollection,false
+    mobilepersonalize,subject3<COLN>name,collectname,
+    mobilepersonalize,subject3<COLN>name,widgetname,
+    mobilepersonalize,subject3<COLN>name,placeholder,
+    mobilepersonalize,subject3<COLN>name,addedby,
+    mobilepersonalize,subject3<COLN>name,DOCK,FFFF
+    mobilepersonalize,subject3<COLN>name,PICTURE,media/img_missing.png
+    mobilepersonalize,subject3<COLN>name,SIZE,105<PIP>21
+    mobilepersonalize,subject3<COLN>name,JSON,{}
+    mobilepersonalize,subject3<COLN>name,TEXT,Ux Writing
+    mobilepersonalize,subject3<COLN>name,TOOLTIP,
+    mobilepersonalize,subject3<COLN>name,ENABLED,true
+    mobilepersonalize,subject3<COLN>name,VISIBLE,true
+    mobilepersonalize,subject3<COLN>name,ZORDER,0
+    mobilepersonalize,subject3<COLN>name,FORECOLOR,&h000000
+    mobilepersonalize,subject3<COLN>name,BACKCOLOR,transparent
+    mobilepersonalize,subject3<COLN>name,FONTNAME,inherit
+    mobilepersonalize,subject3<COLN>name,FONTSIZE,inherit
+    mobilepersonalize,subject3<COLN>name,FONTBOLD,false
+    mobilepersonalize,subject3<COLN>name,FONTITALIC,false
+    mobilepersonalize,subject3<COLN>name,FONTUNDERLINE,false
+    mobilepersonalize,subject3<COLN>name,FONTSTRIKETHRU,false
+    mobilepersonalize,subject3<COLN>name,INFO,
+    mobilepersonalize,subject3<COLN>name,PAGECOUNT,0
+    mobilepersonalize,subject3<COLN>name,DATABIND,
+    mobilepersonalize,subject3<COLN>name,BINDMAPPING,
+    mobilepersonalize,subject3<COLN>name,drag.x,1
+    mobilepersonalize,subject3<COLN>name,drag.y,1
+    mobilepersonalize,subject3<COLN>name,xdragrange,-1<SEMI> -1
+    mobilepersonalize,subject3<COLN>name,ydragrange,-1<SEMI> -1
+    mobilepersonalize,subject3<COLN>name,size.x,1
+    mobilepersonalize,subject3<COLN>name,size.y,1
+    mobilepersonalize,subject3<COLN>name,negadj,
+    mobilepersonalize,subject3<COLN>name,posadj,
+    mobilepersonalize,subject3<COLN>name,child,true
+    mobilepersonalize,subject3<COLN>name,displaymode,block
+    mobilepersonalize,subject3<COLN>name,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.max-width<COLN> 75%<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilepersonalize,subject3<COLN>name,LOCK,false
+    mobilepersonalize,subject3<COLN>name,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,subject3<COLN>name,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,subject3<COLN>name,REFRESH, 
+mobilepersonalize,subject4,TARGET,~
+mobilepersonalize,subject4,PARENTGROUP,~
+mobilepersonalize,subject4,load,frame||0|0|354|53|1342227719|32
+    mobilepersonalize,subject4,group,true
+    mobilepersonalize,subject4,groupid,1300
+    mobilepersonalize,subject4,groupby,9999999999
+    mobilepersonalize,subject4,widgetlock,false
+    mobilepersonalize,subject4,iswidget,true
+    mobilepersonalize,subject4,iscollection,false
+    mobilepersonalize,subject4,collectname,
+    mobilepersonalize,subject4,widgetname,
+    mobilepersonalize,subject4,placeholder,
+    mobilepersonalize,subject4,addedby,
+    mobilepersonalize,subject4,DOCK,FFFF
+    mobilepersonalize,subject4,PICTURE,media/img_missing.png
+    mobilepersonalize,subject4,SIZE,354<PIP>53
+    mobilepersonalize,subject4,JSON,{}
+    mobilepersonalize,subject4,TEXT,
+    mobilepersonalize,subject4,TOOLTIP,
+    mobilepersonalize,subject4,ENABLED,true
+    mobilepersonalize,subject4,VISIBLE,true
+    mobilepersonalize,subject4,ZORDER,0
+    mobilepersonalize,subject4,FORECOLOR,&h000000
+    mobilepersonalize,subject4,BACKCOLOR,&hffffff
+    mobilepersonalize,subject4,FONTNAME,inherit
+    mobilepersonalize,subject4,FONTSIZE,inherit
+    mobilepersonalize,subject4,FONTBOLD,false
+    mobilepersonalize,subject4,FONTITALIC,false
+    mobilepersonalize,subject4,FONTUNDERLINE,false
+    mobilepersonalize,subject4,FONTSTRIKETHRU,false
+    mobilepersonalize,subject4,INFO,
+    mobilepersonalize,subject4,PAGECOUNT,0
+    mobilepersonalize,subject4,DATABIND,
+    mobilepersonalize,subject4,BINDMAPPING,
+    mobilepersonalize,subject4,drag.x,1
+    mobilepersonalize,subject4,drag.y,1
+    mobilepersonalize,subject4,xdragrange,-1<SEMI> -1
+    mobilepersonalize,subject4,ydragrange,-1<SEMI> -1
+    mobilepersonalize,subject4,size.x,1
+    mobilepersonalize,subject4,size.y,1
+    mobilepersonalize,subject4,negadj,
+    mobilepersonalize,subject4,posadj,
+    mobilepersonalize,subject4,child,false
+    mobilepersonalize,subject4,displaymode,block
+    mobilepersonalize,subject4,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>margin<COLN> 8px 8px 8px 8px<LF>opacity<COLN> <LF>padding<COLN> 15px 15px 15px 15px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 13px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilepersonalize,subject4,LOCK,false
+    mobilepersonalize,subject4,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,subject4,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,subject4,REFRESH, 
+mobilepersonalize,subject4<COLN>selected,TARGET,subject4
+mobilepersonalize,subject4<COLN>selected,PARENTGROUP,subject4
+mobilepersonalize,subject4<COLN>selected,load,icon|media/img_missing.png|0|0|18|18|1342373901|0
+    mobilepersonalize,subject4<COLN>selected,group,false
+    mobilepersonalize,subject4<COLN>selected,groupid,0
+    mobilepersonalize,subject4<COLN>selected,groupby,1300
+    mobilepersonalize,subject4<COLN>selected,widgetlock,false
+    mobilepersonalize,subject4<COLN>selected,iswidget,true
+    mobilepersonalize,subject4<COLN>selected,iscollection,false
+    mobilepersonalize,subject4<COLN>selected,collectname,
+    mobilepersonalize,subject4<COLN>selected,widgetname,
+    mobilepersonalize,subject4<COLN>selected,placeholder,
+    mobilepersonalize,subject4<COLN>selected,addedby,
+    mobilepersonalize,subject4<COLN>selected,DOCK,FFFF
+    mobilepersonalize,subject4<COLN>selected,PICTURE,media/img_missing.png
+    mobilepersonalize,subject4<COLN>selected,SIZE,18<PIP>18
+    mobilepersonalize,subject4<COLN>selected,JSON,{}
+    mobilepersonalize,subject4<COLN>selected,TEXT,
+    mobilepersonalize,subject4<COLN>selected,TOOLTIP,
+    mobilepersonalize,subject4<COLN>selected,ENABLED,true
+    mobilepersonalize,subject4<COLN>selected,VISIBLE,true
+    mobilepersonalize,subject4<COLN>selected,ZORDER,0
+    mobilepersonalize,subject4<COLN>selected,FORECOLOR,transparent
+    mobilepersonalize,subject4<COLN>selected,BACKCOLOR,transparent
+    mobilepersonalize,subject4<COLN>selected,FONTNAME,inherit
+    mobilepersonalize,subject4<COLN>selected,FONTSIZE,18px
+    mobilepersonalize,subject4<COLN>selected,FONTBOLD,false
+    mobilepersonalize,subject4<COLN>selected,FONTITALIC,false
+    mobilepersonalize,subject4<COLN>selected,FONTUNDERLINE,false
+    mobilepersonalize,subject4<COLN>selected,FONTSTRIKETHRU,false
+    mobilepersonalize,subject4<COLN>selected,INFO,icon
+    mobilepersonalize,subject4<COLN>selected,PAGECOUNT,0
+    mobilepersonalize,subject4<COLN>selected,DATABIND,
+    mobilepersonalize,subject4<COLN>selected,BINDMAPPING,
+    mobilepersonalize,subject4<COLN>selected,drag.x,1
+    mobilepersonalize,subject4<COLN>selected,drag.y,1
+    mobilepersonalize,subject4<COLN>selected,xdragrange,-1<SEMI> -1
+    mobilepersonalize,subject4<COLN>selected,ydragrange,-1<SEMI> -1
+    mobilepersonalize,subject4<COLN>selected,size.x,1
+    mobilepersonalize,subject4<COLN>selected,size.y,1
+    mobilepersonalize,subject4<COLN>selected,negadj,
+    mobilepersonalize,subject4<COLN>selected,posadj,
+    mobilepersonalize,subject4<COLN>selected,child,true
+    mobilepersonalize,subject4<COLN>selected,displaymode,inline-block
+    mobilepersonalize,subject4<COLN>selected,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-check<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> transparent<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> right<LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 18px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> TRANSPARENT<LF>image.display<COLN> block<LF>image.font-size<COLN> 18px
+    mobilepersonalize,subject4<COLN>selected,LOCK,false
+    mobilepersonalize,subject4<COLN>selected,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,subject4<COLN>selected,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,subject4<COLN>selected,REFRESH, 
+mobilepersonalize,subject4<COLN>name,TARGET,subject4
+mobilepersonalize,subject4<COLN>name,PARENTGROUP,subject4
+mobilepersonalize,subject4<COLN>name,load,label|User Testing|0|0|105|21|1342377216|32
+    mobilepersonalize,subject4<COLN>name,group,false
+    mobilepersonalize,subject4<COLN>name,groupid,0
+    mobilepersonalize,subject4<COLN>name,groupby,1300
+    mobilepersonalize,subject4<COLN>name,widgetlock,false
+    mobilepersonalize,subject4<COLN>name,iswidget,true
+    mobilepersonalize,subject4<COLN>name,iscollection,false
+    mobilepersonalize,subject4<COLN>name,collectname,
+    mobilepersonalize,subject4<COLN>name,widgetname,
+    mobilepersonalize,subject4<COLN>name,placeholder,
+    mobilepersonalize,subject4<COLN>name,addedby,
+    mobilepersonalize,subject4<COLN>name,DOCK,FFFF
+    mobilepersonalize,subject4<COLN>name,PICTURE,media/img_missing.png
+    mobilepersonalize,subject4<COLN>name,SIZE,105<PIP>21
+    mobilepersonalize,subject4<COLN>name,JSON,{}
+    mobilepersonalize,subject4<COLN>name,TEXT,User Testing
+    mobilepersonalize,subject4<COLN>name,TOOLTIP,
+    mobilepersonalize,subject4<COLN>name,ENABLED,true
+    mobilepersonalize,subject4<COLN>name,VISIBLE,true
+    mobilepersonalize,subject4<COLN>name,ZORDER,0
+    mobilepersonalize,subject4<COLN>name,FORECOLOR,&h000000
+    mobilepersonalize,subject4<COLN>name,BACKCOLOR,transparent
+    mobilepersonalize,subject4<COLN>name,FONTNAME,inherit
+    mobilepersonalize,subject4<COLN>name,FONTSIZE,inherit
+    mobilepersonalize,subject4<COLN>name,FONTBOLD,false
+    mobilepersonalize,subject4<COLN>name,FONTITALIC,false
+    mobilepersonalize,subject4<COLN>name,FONTUNDERLINE,false
+    mobilepersonalize,subject4<COLN>name,FONTSTRIKETHRU,false
+    mobilepersonalize,subject4<COLN>name,INFO,
+    mobilepersonalize,subject4<COLN>name,PAGECOUNT,0
+    mobilepersonalize,subject4<COLN>name,DATABIND,
+    mobilepersonalize,subject4<COLN>name,BINDMAPPING,
+    mobilepersonalize,subject4<COLN>name,drag.x,1
+    mobilepersonalize,subject4<COLN>name,drag.y,1
+    mobilepersonalize,subject4<COLN>name,xdragrange,-1<SEMI> -1
+    mobilepersonalize,subject4<COLN>name,ydragrange,-1<SEMI> -1
+    mobilepersonalize,subject4<COLN>name,size.x,1
+    mobilepersonalize,subject4<COLN>name,size.y,1
+    mobilepersonalize,subject4<COLN>name,negadj,
+    mobilepersonalize,subject4<COLN>name,posadj,
+    mobilepersonalize,subject4<COLN>name,child,true
+    mobilepersonalize,subject4<COLN>name,displaymode,block
+    mobilepersonalize,subject4<COLN>name,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.max-width<COLN> 75%<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilepersonalize,subject4<COLN>name,LOCK,false
+    mobilepersonalize,subject4<COLN>name,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,subject4<COLN>name,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,subject4<COLN>name,REFRESH, 
+mobilepersonalize,subject5,TARGET,~
+mobilepersonalize,subject5,PARENTGROUP,~
+mobilepersonalize,subject5,load,frame||0|0|354|53|1342227719|32
+    mobilepersonalize,subject5,group,true
+    mobilepersonalize,subject5,groupid,1500
+    mobilepersonalize,subject5,groupby,9999999999
+    mobilepersonalize,subject5,widgetlock,false
+    mobilepersonalize,subject5,iswidget,true
+    mobilepersonalize,subject5,iscollection,false
+    mobilepersonalize,subject5,collectname,
+    mobilepersonalize,subject5,widgetname,
+    mobilepersonalize,subject5,placeholder,
+    mobilepersonalize,subject5,addedby,
+    mobilepersonalize,subject5,DOCK,FFFF
+    mobilepersonalize,subject5,PICTURE,media/img_missing.png
+    mobilepersonalize,subject5,SIZE,354<PIP>53
+    mobilepersonalize,subject5,JSON,{}
+    mobilepersonalize,subject5,TEXT,
+    mobilepersonalize,subject5,TOOLTIP,
+    mobilepersonalize,subject5,ENABLED,true
+    mobilepersonalize,subject5,VISIBLE,true
+    mobilepersonalize,subject5,ZORDER,0
+    mobilepersonalize,subject5,FORECOLOR,&h000000
+    mobilepersonalize,subject5,BACKCOLOR,rgba(153<COMMA>187<COMMA>255<COMMA>0.20)
+    mobilepersonalize,subject5,FONTNAME,inherit
+    mobilepersonalize,subject5,FONTSIZE,inherit
+    mobilepersonalize,subject5,FONTBOLD,false
+    mobilepersonalize,subject5,FONTITALIC,false
+    mobilepersonalize,subject5,FONTUNDERLINE,false
+    mobilepersonalize,subject5,FONTSTRIKETHRU,false
+    mobilepersonalize,subject5,INFO,
+    mobilepersonalize,subject5,PAGECOUNT,0
+    mobilepersonalize,subject5,DATABIND,
+    mobilepersonalize,subject5,BINDMAPPING,
+    mobilepersonalize,subject5,drag.x,1
+    mobilepersonalize,subject5,drag.y,1
+    mobilepersonalize,subject5,xdragrange,-1<SEMI> -1
+    mobilepersonalize,subject5,ydragrange,-1<SEMI> -1
+    mobilepersonalize,subject5,size.x,1
+    mobilepersonalize,subject5,size.y,1
+    mobilepersonalize,subject5,negadj,
+    mobilepersonalize,subject5,posadj,
+    mobilepersonalize,subject5,child,false
+    mobilepersonalize,subject5,displaymode,block
+    mobilepersonalize,subject5,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>margin<COLN> 8px 8px 8px 8px<LF>opacity<COLN> <LF>padding<COLN> 15px 15px 15px 15px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> rgba(153<COMMA>187<COMMA>255<COMMA>0.20)<LF>border-radius<COLN> 13px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilepersonalize,subject5,LOCK,false
+    mobilepersonalize,subject5,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,subject5,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,subject5,REFRESH, 
+mobilepersonalize,subject5<COLN>selected,TARGET,subject5
+mobilepersonalize,subject5<COLN>selected,PARENTGROUP,subject5
+mobilepersonalize,subject5<COLN>selected,load,icon|media/img_missing.png|0|0|18|18|1342373901|0
+    mobilepersonalize,subject5<COLN>selected,group,false
+    mobilepersonalize,subject5<COLN>selected,groupid,0
+    mobilepersonalize,subject5<COLN>selected,groupby,1500
+    mobilepersonalize,subject5<COLN>selected,widgetlock,false
+    mobilepersonalize,subject5<COLN>selected,iswidget,true
+    mobilepersonalize,subject5<COLN>selected,iscollection,false
+    mobilepersonalize,subject5<COLN>selected,collectname,
+    mobilepersonalize,subject5<COLN>selected,widgetname,
+    mobilepersonalize,subject5<COLN>selected,placeholder,
+    mobilepersonalize,subject5<COLN>selected,addedby,
+    mobilepersonalize,subject5<COLN>selected,DOCK,FFFF
+    mobilepersonalize,subject5<COLN>selected,PICTURE,media/img_missing.png
+    mobilepersonalize,subject5<COLN>selected,SIZE,18<PIP>18
+    mobilepersonalize,subject5<COLN>selected,JSON,{}
+    mobilepersonalize,subject5<COLN>selected,TEXT,
+    mobilepersonalize,subject5<COLN>selected,TOOLTIP,
+    mobilepersonalize,subject5<COLN>selected,ENABLED,true
+    mobilepersonalize,subject5<COLN>selected,VISIBLE,true
+    mobilepersonalize,subject5<COLN>selected,ZORDER,0
+    mobilepersonalize,subject5<COLN>selected,FORECOLOR,&h6b8fc5
+    mobilepersonalize,subject5<COLN>selected,BACKCOLOR,transparent
+    mobilepersonalize,subject5<COLN>selected,FONTNAME,inherit
+    mobilepersonalize,subject5<COLN>selected,FONTSIZE,18px
+    mobilepersonalize,subject5<COLN>selected,FONTBOLD,false
+    mobilepersonalize,subject5<COLN>selected,FONTITALIC,false
+    mobilepersonalize,subject5<COLN>selected,FONTUNDERLINE,false
+    mobilepersonalize,subject5<COLN>selected,FONTSTRIKETHRU,false
+    mobilepersonalize,subject5<COLN>selected,INFO,icon
+    mobilepersonalize,subject5<COLN>selected,PAGECOUNT,0
+    mobilepersonalize,subject5<COLN>selected,DATABIND,
+    mobilepersonalize,subject5<COLN>selected,BINDMAPPING,
+    mobilepersonalize,subject5<COLN>selected,drag.x,1
+    mobilepersonalize,subject5<COLN>selected,drag.y,1
+    mobilepersonalize,subject5<COLN>selected,xdragrange,-1<SEMI> -1
+    mobilepersonalize,subject5<COLN>selected,ydragrange,-1<SEMI> -1
+    mobilepersonalize,subject5<COLN>selected,size.x,1
+    mobilepersonalize,subject5<COLN>selected,size.y,1
+    mobilepersonalize,subject5<COLN>selected,negadj,
+    mobilepersonalize,subject5<COLN>selected,posadj,
+    mobilepersonalize,subject5<COLN>selected,child,true
+    mobilepersonalize,subject5<COLN>selected,displaymode,inline-block
+    mobilepersonalize,subject5<COLN>selected,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-check<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> #6b8fc5<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> right<LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 18px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> &H6B8FC5<LF>image.display<COLN> block<LF>image.font-size<COLN> 18px
+    mobilepersonalize,subject5<COLN>selected,LOCK,false
+    mobilepersonalize,subject5<COLN>selected,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,subject5<COLN>selected,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,subject5<COLN>selected,REFRESH, 
+mobilepersonalize,subject5<COLN>name,TARGET,subject5
+mobilepersonalize,subject5<COLN>name,PARENTGROUP,subject5
+mobilepersonalize,subject5<COLN>name,load,label|Design Systems|0|0|105|21|1342377216|32
+    mobilepersonalize,subject5<COLN>name,group,false
+    mobilepersonalize,subject5<COLN>name,groupid,0
+    mobilepersonalize,subject5<COLN>name,groupby,1500
+    mobilepersonalize,subject5<COLN>name,widgetlock,false
+    mobilepersonalize,subject5<COLN>name,iswidget,true
+    mobilepersonalize,subject5<COLN>name,iscollection,false
+    mobilepersonalize,subject5<COLN>name,collectname,
+    mobilepersonalize,subject5<COLN>name,widgetname,
+    mobilepersonalize,subject5<COLN>name,placeholder,
+    mobilepersonalize,subject5<COLN>name,addedby,
+    mobilepersonalize,subject5<COLN>name,DOCK,FFFF
+    mobilepersonalize,subject5<COLN>name,PICTURE,media/img_missing.png
+    mobilepersonalize,subject5<COLN>name,SIZE,105<PIP>21
+    mobilepersonalize,subject5<COLN>name,JSON,{}
+    mobilepersonalize,subject5<COLN>name,TEXT,Design Systems
+    mobilepersonalize,subject5<COLN>name,TOOLTIP,
+    mobilepersonalize,subject5<COLN>name,ENABLED,true
+    mobilepersonalize,subject5<COLN>name,VISIBLE,true
+    mobilepersonalize,subject5<COLN>name,ZORDER,0
+    mobilepersonalize,subject5<COLN>name,FORECOLOR,&h000000
+    mobilepersonalize,subject5<COLN>name,BACKCOLOR,transparent
+    mobilepersonalize,subject5<COLN>name,FONTNAME,inherit
+    mobilepersonalize,subject5<COLN>name,FONTSIZE,inherit
+    mobilepersonalize,subject5<COLN>name,FONTBOLD,false
+    mobilepersonalize,subject5<COLN>name,FONTITALIC,false
+    mobilepersonalize,subject5<COLN>name,FONTUNDERLINE,false
+    mobilepersonalize,subject5<COLN>name,FONTSTRIKETHRU,false
+    mobilepersonalize,subject5<COLN>name,INFO,
+    mobilepersonalize,subject5<COLN>name,PAGECOUNT,0
+    mobilepersonalize,subject5<COLN>name,DATABIND,
+    mobilepersonalize,subject5<COLN>name,BINDMAPPING,
+    mobilepersonalize,subject5<COLN>name,drag.x,1
+    mobilepersonalize,subject5<COLN>name,drag.y,1
+    mobilepersonalize,subject5<COLN>name,xdragrange,-1<SEMI> -1
+    mobilepersonalize,subject5<COLN>name,ydragrange,-1<SEMI> -1
+    mobilepersonalize,subject5<COLN>name,size.x,1
+    mobilepersonalize,subject5<COLN>name,size.y,1
+    mobilepersonalize,subject5<COLN>name,negadj,
+    mobilepersonalize,subject5<COLN>name,posadj,
+    mobilepersonalize,subject5<COLN>name,child,true
+    mobilepersonalize,subject5<COLN>name,displaymode,block
+    mobilepersonalize,subject5<COLN>name,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.max-width<COLN> 75%<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilepersonalize,subject5<COLN>name,LOCK,false
+    mobilepersonalize,subject5<COLN>name,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,subject5<COLN>name,extend,{"react"<COLN>"<CR>"}
+mobilepersonalize,subject5<COLN>name,REFRESH, 
+mobilepersonalize,btnnext,TARGET,~
+mobilepersonalize,btnnext,PARENTGROUP,~
+mobilepersonalize,btnnext,load,button|Next|25|548|105|50|1342394112|32
+    mobilepersonalize,btnnext,group,false
+    mobilepersonalize,btnnext,groupid,0
+    mobilepersonalize,btnnext,groupby,9999999999
+    mobilepersonalize,btnnext,widgetlock,false
+    mobilepersonalize,btnnext,iswidget,false
+    mobilepersonalize,btnnext,iscollection,false
+    mobilepersonalize,btnnext,collectname,
+    mobilepersonalize,btnnext,widgetname,
+    mobilepersonalize,btnnext,placeholder,
+    mobilepersonalize,btnnext,addedby,
+    mobilepersonalize,btnnext,DOCK,FFFF
+    mobilepersonalize,btnnext,PICTURE,media/img_missing.png
+    mobilepersonalize,btnnext,SIZE,105<PIP>50
+    mobilepersonalize,btnnext,JSON,{}
+    mobilepersonalize,btnnext,TEXT,Next
+    mobilepersonalize,btnnext,TOOLTIP,
+    mobilepersonalize,btnnext,ENABLED,true
+    mobilepersonalize,btnnext,VISIBLE,true
+    mobilepersonalize,btnnext,ZORDER,0
+    mobilepersonalize,btnnext,FORECOLOR,&hfff
+    mobilepersonalize,btnnext,BACKCOLOR,&h2259a1
+    mobilepersonalize,btnnext,FONTNAME,inherit
+    mobilepersonalize,btnnext,FONTSIZE,12px
+    mobilepersonalize,btnnext,FONTBOLD,false
+    mobilepersonalize,btnnext,FONTITALIC,false
+    mobilepersonalize,btnnext,FONTUNDERLINE,false
+    mobilepersonalize,btnnext,FONTSTRIKETHRU,false
+    mobilepersonalize,btnnext,INFO,
+    mobilepersonalize,btnnext,PAGECOUNT,0
+    mobilepersonalize,btnnext,DATABIND,
+    mobilepersonalize,btnnext,BINDMAPPING,
+    mobilepersonalize,btnnext,drag.x,1
+    mobilepersonalize,btnnext,drag.y,1
+    mobilepersonalize,btnnext,xdragrange,-1<SEMI> -1
+    mobilepersonalize,btnnext,ydragrange,-1<SEMI> -1
+    mobilepersonalize,btnnext,size.x,1
+    mobilepersonalize,btnnext,size.y,1
+    mobilepersonalize,btnnext,negadj,
+    mobilepersonalize,btnnext,posadj,
+    mobilepersonalize,btnnext,child,false
+    mobilepersonalize,btnnext,displaymode,block
+    mobilepersonalize,btnnext,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px solid #bbb<LF>color<COLN> #fff<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #2259a1<LF>border-radius<COLN> 13px<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 20px 10px 0px 10px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilepersonalize,btnnext,LOCK,false
+    mobilepersonalize,btnnext,events,click<COLN> <CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilepersonalize,btnnext,extend,{"react"<COLN>"<LF>"}
+mobilepersonalize,btnnext,REFRESH, 
+mobilepersonalize,,SETVIEW,
+mobilepersonalize,,HIDE,
+mobilepersonalize,,REFRESH,true

@@ -1,0 +1,48 @@
+!scratchpad,,SURFACE,New Surface|50|155|832|644|268435476|65568
+    !scratchpad,,version,5.0
+    !scratchpad,,loadlibs,New Surface
+    !scratchpad,,groupid,9999999999
+    !scratchpad,,groupby,0
+    !scratchpad,,runpos,0|0
+    !scratchpad,,DOCK,FFFF
+    !scratchpad,,PARENT,
+    !scratchpad,,MARGINS,
+    !scratchpad,,AUTOSIZE,false
+    !scratchpad,,JSON,{}
+    !scratchpad,,TEXT,New Surface
+    !scratchpad,,TOOLTIP,
+    !scratchpad,,ENABLED,true
+    !scratchpad,,VISIBLE,true
+    !scratchpad,,FORECOLOR,&heeeeee
+    !scratchpad,,BACKCOLOR,&hf9f9f9
+    !scratchpad,,ICON,
+    !scratchpad,,FONTNAME,''comic sans ms''<COMMA> cursive<COMMA> sans-serif
+    !scratchpad,,FONTSIZE,14px
+    !scratchpad,,FONTBOLD,false
+    !scratchpad,,FONTITALIC,false
+    !scratchpad,,FONTUNDERLINE,false
+    !scratchpad,,FONTSTRIKETHRU,false
+    !scratchpad,,MENUBAR,
+    !scratchpad,,TOOLBAR,
+    !scratchpad,,STATUSBAR,
+    !scratchpad,,SAVESTATE,false
+    !scratchpad,,drag.x,
+    !scratchpad,,drag.y,
+    !scratchpad,,xdragrange,
+    !scratchpad,,ydragrange,
+    !scratchpad,,size.x,
+    !scratchpad,,size.y,
+    !scratchpad,,negadj,
+    !scratchpad,,posadj,
+    !scratchpad,,TAG,~bind<COLN> false<CR>category<COLN> <CR>class<COLN> <CR>clipmenu<COLN> true<CR>donottheme<COLN> false<CR>dragable<COLN> true<CR>flattenonpull<COLN> true<CR>hotkey<COLN> <CR>ignorezorder<COLN> false<CR>output<COLN> normal<CR>record<COLN> <CR>shadow<COLN> true<CR>sizeable<COLN> true<CR>tag<COLN> <CR>theme<COLN> nimble-form<CR>toggleonflip<COLN> true<CR>useastheme<COLN> false<CR>watch<COLN> false<CR>lock-height<COLN> <CR>lock-width<COLN> <CR>body.version<COLN> v5.0~color<COLN> #eeeeee<CR>cursor<COLN> <CR>display<COLN> <CR>opacity<COLN> <CR>background-color<COLN> #f9f9f9<CR>font-family<COLN> ''comic sans ms''<COMMA> cursive<COMMA> sans-serif<CR>font-size<COLN> 14px<CR>font-style<COLN> normal<CR>font-weight<COLN> normal<CR>pointer-events<COLN> initial<CR>text-align<COLN> <CR>text-decoration<COLN> <CR>vertical-align<COLN> <CR>z-index<COLN> 2<CR>body.overflow-y<COLN>auto<CR>resize.left<COLN>calc(100% - 20px)<CR>resize.visibility<COLN> visible
+    !scratchpad,,events,
+    !scratchpad,,extend,{}
+    !scratchpad,,GROUPIDS,
+    !scratchpad,,WSTYLES,268435476
+    !scratchpad,,WSTYLESEX,65568
+    !scratchpad,,WIDTH,832
+    !scratchpad,,HEIGHT,644
+    !scratchpad,,EDITPOS,50|155
+!scratchpad,,SETVIEW,
+!scratchpad,,HIDE,
+!scratchpad,,REFRESH,true

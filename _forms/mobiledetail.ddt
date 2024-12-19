@@ -1,0 +1,735 @@
+mobiledetail,,SURFACE,New Surface|50|155|400|640|268435476|65568
+    mobiledetail,,version,5.0
+    mobiledetail,,loadlibs,New Surface
+    mobiledetail,,groupid,9999999999
+    mobiledetail,,groupby,0
+    mobiledetail,,runpos,0|0
+    mobiledetail,,DOCK,FFFF
+    mobiledetail,,PARENT,
+    mobiledetail,,MARGINS,
+    mobiledetail,,AUTOSIZE,false
+    mobiledetail,,JSON,{}
+    mobiledetail,,TEXT,New Surface
+    mobiledetail,,TOOLTIP,
+    mobiledetail,,ENABLED,true
+    mobiledetail,,VISIBLE,true
+    mobiledetail,,FORECOLOR,&heeeeee
+    mobiledetail,,BACKCOLOR,&hffffff
+    mobiledetail,,ICON,
+    mobiledetail,,FONTNAME,roboto
+    mobiledetail,,FONTSIZE,14px
+    mobiledetail,,FONTBOLD,false
+    mobiledetail,,FONTITALIC,false
+    mobiledetail,,FONTUNDERLINE,false
+    mobiledetail,,FONTSTRIKETHRU,false
+    mobiledetail,,MENUBAR,
+    mobiledetail,,TOOLBAR,
+    mobiledetail,,STATUSBAR,
+    mobiledetail,,SAVESTATE,false
+    mobiledetail,,drag.x,
+    mobiledetail,,drag.y,
+    mobiledetail,,xdragrange,
+    mobiledetail,,ydragrange,
+    mobiledetail,,size.x,
+    mobiledetail,,size.y,
+    mobiledetail,,negadj,
+    mobiledetail,,posadj,
+    mobiledetail,,TAG,~_private<COLN> false<LF>autosize<COLN> false<LF>bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>clipmenu<COLN> true<LF>donottheme<COLN> false<LF>dragable<COLN> true<LF>flattenonpull<COLN> true<LF>hotkey<COLN> <LF>ignorezorder<COLN> false<LF>output<COLN> normal<LF>prevent<COLN> <LF>record<COLN> <LF>shadow<COLN> true<LF>sizeable<COLN> true<LF>theme<COLN> nimble-form<LF>toggleonflip<COLN> true<LF>useastheme<COLN> false<LF>watch<COLN> false<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>body.lock-height<COLN> <LF>body.version<COLN> v5.0~color<COLN> #EEEEEE<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 20px<LF>font-family<COLN> roboto<LF>font-size<COLN> 14px<LF>pointer-events<COLN> auto<LF>z-index<COLN> 2<LF>body.background-color<COLN> transparent<LF>body.box-sizing<COLN> border-box<LF>body.color<COLN> #eeeeee<LF>body.overflow-y<COLN> auto<LF>body.padding<COLN> 0px 0px 20px 0px<LF>body.text-align<COLN> center<LF>body.vertical-align<COLN>
+    mobiledetail,,events,activate<COLN> <CR>adjustlayout<COLN> <CR>afterpull<COLN> <CR>afterpush<COLN> <CR>beforeunload<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>disabled<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enabled<COLN> <CR>enterkey<COLN> <CR>fullscreen<COLN> <CR>gotfocus<COLN> <CR>hide<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>load<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>maximize<COLN> <CR>menu<COLN> <CR>minimize<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>move<COLN> <CR>move<COLN> <CR>onpull<COLN> <CR>onpush<COLN> <CR>refresh<COLN> <CR>resize<COLN> <CR>restore<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN> <CR>unload<COLN> <CR>viewchange<COLN> <CR>widgetloaded<COLN> <CR>widgetunloading<COLN>
+    mobiledetail,,extend,{"react"<COLN>"<CR>"}
+    mobiledetail,,GROUPIDS,[0100][0200][0400][0700][0900]
+    mobiledetail,,WSTYLES,268435476
+    mobiledetail,,WSTYLESEX,65568
+    mobiledetail,,WIDTH,400
+    mobiledetail,,HEIGHT,640
+    mobiledetail,,EDITPOS,50|155
+mobiledetail,img,TARGET,~
+mobiledetail,img,PARENTGROUP,~
+mobiledetail,img,load,graphicx|media/img_missing.png|0|0|400|289|1342373901|0
+    mobiledetail,img,group,false
+    mobiledetail,img,groupid,0
+    mobiledetail,img,groupby,9999999999
+    mobiledetail,img,widgetlock,false
+    mobiledetail,img,iswidget,false
+    mobiledetail,img,iscollection,false
+    mobiledetail,img,collectname,
+    mobiledetail,img,widgetname,
+    mobiledetail,img,placeholder,
+    mobiledetail,img,addedby,
+    mobiledetail,img,DOCK,FFFF
+    mobiledetail,img,PICTURE,media/img_missing.png
+    mobiledetail,img,SIZE,400<PIP>289
+    mobiledetail,img,JSON,{}
+    mobiledetail,img,TEXT,
+    mobiledetail,img,TOOLTIP,
+    mobiledetail,img,ENABLED,true
+    mobiledetail,img,VISIBLE,true
+    mobiledetail,img,ZORDER,0
+    mobiledetail,img,FORECOLOR,&h000000
+    mobiledetail,img,BACKCOLOR,&hffffff
+    mobiledetail,img,FONTNAME,inherit
+    mobiledetail,img,FONTSIZE,inherit
+    mobiledetail,img,FONTBOLD,false
+    mobiledetail,img,FONTITALIC,false
+    mobiledetail,img,FONTUNDERLINE,false
+    mobiledetail,img,FONTSTRIKETHRU,false
+    mobiledetail,img,INFO,imagex
+    mobiledetail,img,PAGECOUNT,0
+    mobiledetail,img,DATABIND,
+    mobiledetail,img,BINDMAPPING,
+    mobiledetail,img,drag.x,1
+    mobiledetail,img,drag.y,1
+    mobiledetail,img,xdragrange,-1<SEMI> -1
+    mobiledetail,img,ydragrange,-1<SEMI> -1
+    mobiledetail,img,size.x,1
+    mobiledetail,img,size.y,1
+    mobiledetail,img,negadj,
+    mobiledetail,img,posadj,
+    mobiledetail,img,child,false
+    mobiledetail,img,displaymode,block
+    mobiledetail,img,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-graphicx<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 10px 10px 0px 0px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobiledetail,img,LOCK,false
+    mobiledetail,img,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobiledetail,img,extend,{"react"<COLN>"<CR>"}
+mobiledetail,img,REFRESH, 
+mobiledetail,info,TARGET,~
+mobiledetail,info,PARENTGROUP,~
+mobiledetail,info,load,frame||0|0|400|333|1342227719|32
+    mobiledetail,info,group,true
+    mobiledetail,info,groupid,0100
+    mobiledetail,info,groupby,9999999999
+    mobiledetail,info,widgetlock,false
+    mobiledetail,info,iswidget,true
+    mobiledetail,info,iscollection,false
+    mobiledetail,info,collectname,
+    mobiledetail,info,widgetname,
+    mobiledetail,info,placeholder,
+    mobiledetail,info,addedby,
+    mobiledetail,info,DOCK,FFFF
+    mobiledetail,info,PICTURE,media/img_missing.png
+    mobiledetail,info,SIZE,400<PIP>333
+    mobiledetail,info,JSON,{}
+    mobiledetail,info,TEXT,
+    mobiledetail,info,TOOLTIP,
+    mobiledetail,info,ENABLED,true
+    mobiledetail,info,VISIBLE,true
+    mobiledetail,info,ZORDER,0
+    mobiledetail,info,FORECOLOR,&h000000
+    mobiledetail,info,BACKCOLOR,transparent
+    mobiledetail,info,FONTNAME,inherit
+    mobiledetail,info,FONTSIZE,inherit
+    mobiledetail,info,FONTBOLD,false
+    mobiledetail,info,FONTITALIC,false
+    mobiledetail,info,FONTUNDERLINE,false
+    mobiledetail,info,FONTSTRIKETHRU,false
+    mobiledetail,info,INFO,
+    mobiledetail,info,PAGECOUNT,0
+    mobiledetail,info,DATABIND,
+    mobiledetail,info,BINDMAPPING,
+    mobiledetail,info,drag.x,1
+    mobiledetail,info,drag.y,1
+    mobiledetail,info,xdragrange,-1<SEMI> -1
+    mobiledetail,info,ydragrange,-1<SEMI> -1
+    mobiledetail,info,size.x,1
+    mobiledetail,info,size.y,1
+    mobiledetail,info,negadj,
+    mobiledetail,info,posadj,
+    mobiledetail,info,child,false
+    mobiledetail,info,displaymode,inline-block
+    mobiledetail,info,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> inline-block<LF>height<COLN> auto<LF>margin<COLN> 0px 0px 0px 0px<LF>opacity<COLN> <LF>padding<COLN> 16px 16px 16px 16px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> <LF>background-color<COLN> TRANSPARENT<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobiledetail,info,LOCK,false
+    mobiledetail,info,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobiledetail,info,extend,{"react"<COLN>"<CR>"}
+mobiledetail,info,REFRESH, 
+mobiledetail,info<COLN>title,TARGET,info
+mobiledetail,info<COLN>title,PARENTGROUP,info
+mobiledetail,info<COLN>title,load,label|Amazing T-Shirt|0|0|105|21|1342377216|32
+    mobiledetail,info<COLN>title,group,false
+    mobiledetail,info<COLN>title,groupid,0
+    mobiledetail,info<COLN>title,groupby,0100
+    mobiledetail,info<COLN>title,widgetlock,false
+    mobiledetail,info<COLN>title,iswidget,true
+    mobiledetail,info<COLN>title,iscollection,false
+    mobiledetail,info<COLN>title,collectname,
+    mobiledetail,info<COLN>title,widgetname,
+    mobiledetail,info<COLN>title,placeholder,
+    mobiledetail,info<COLN>title,addedby,
+    mobiledetail,info<COLN>title,DOCK,FFFF
+    mobiledetail,info<COLN>title,PICTURE,media/img_missing.png
+    mobiledetail,info<COLN>title,SIZE,105<PIP>21
+    mobiledetail,info<COLN>title,JSON,{}
+    mobiledetail,info<COLN>title,TEXT,Amazing T-Shirt
+    mobiledetail,info<COLN>title,TOOLTIP,
+    mobiledetail,info<COLN>title,ENABLED,true
+    mobiledetail,info<COLN>title,VISIBLE,true
+    mobiledetail,info<COLN>title,ZORDER,0
+    mobiledetail,info<COLN>title,FORECOLOR,&h000000
+    mobiledetail,info<COLN>title,BACKCOLOR,transparent
+    mobiledetail,info<COLN>title,FONTNAME,inherit
+    mobiledetail,info<COLN>title,FONTSIZE,16px
+    mobiledetail,info<COLN>title,FONTBOLD,true
+    mobiledetail,info<COLN>title,FONTITALIC,false
+    mobiledetail,info<COLN>title,FONTUNDERLINE,false
+    mobiledetail,info<COLN>title,FONTSTRIKETHRU,false
+    mobiledetail,info<COLN>title,INFO,
+    mobiledetail,info<COLN>title,PAGECOUNT,0
+    mobiledetail,info<COLN>title,DATABIND,
+    mobiledetail,info<COLN>title,BINDMAPPING,
+    mobiledetail,info<COLN>title,drag.x,1
+    mobiledetail,info<COLN>title,drag.y,1
+    mobiledetail,info<COLN>title,xdragrange,-1<SEMI> -1
+    mobiledetail,info<COLN>title,ydragrange,-1<SEMI> -1
+    mobiledetail,info<COLN>title,size.x,1
+    mobiledetail,info<COLN>title,size.y,1
+    mobiledetail,info<COLN>title,negadj,
+    mobiledetail,info<COLN>title,posadj,
+    mobiledetail,info<COLN>title,child,true
+    mobiledetail,info<COLN>title,displaymode,block
+    mobiledetail,info<COLN>title,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 16px<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobiledetail,info<COLN>title,LOCK,false
+    mobiledetail,info<COLN>title,events,
+    mobiledetail,info<COLN>title,extend,{}
+mobiledetail,info<COLN>title,REFRESH, 
+mobiledetail,info<COLN>price,TARGET,info
+mobiledetail,info<COLN>price,PARENTGROUP,info
+mobiledetail,info<COLN>price,load,label|$12.00|0|0|105|21|1342377216|32
+    mobiledetail,info<COLN>price,group,false
+    mobiledetail,info<COLN>price,groupid,0
+    mobiledetail,info<COLN>price,groupby,0100
+    mobiledetail,info<COLN>price,widgetlock,false
+    mobiledetail,info<COLN>price,iswidget,true
+    mobiledetail,info<COLN>price,iscollection,false
+    mobiledetail,info<COLN>price,collectname,
+    mobiledetail,info<COLN>price,widgetname,
+    mobiledetail,info<COLN>price,placeholder,
+    mobiledetail,info<COLN>price,addedby,
+    mobiledetail,info<COLN>price,DOCK,FFFF
+    mobiledetail,info<COLN>price,PICTURE,media/img_missing.png
+    mobiledetail,info<COLN>price,SIZE,105<PIP>21
+    mobiledetail,info<COLN>price,JSON,{}
+    mobiledetail,info<COLN>price,TEXT,$12.00
+    mobiledetail,info<COLN>price,TOOLTIP,
+    mobiledetail,info<COLN>price,ENABLED,true
+    mobiledetail,info<COLN>price,VISIBLE,true
+    mobiledetail,info<COLN>price,ZORDER,0
+    mobiledetail,info<COLN>price,FORECOLOR,&h000000
+    mobiledetail,info<COLN>price,BACKCOLOR,transparent
+    mobiledetail,info<COLN>price,FONTNAME,inherit
+    mobiledetail,info<COLN>price,FONTSIZE,inherit
+    mobiledetail,info<COLN>price,FONTBOLD,false
+    mobiledetail,info<COLN>price,FONTITALIC,false
+    mobiledetail,info<COLN>price,FONTUNDERLINE,false
+    mobiledetail,info<COLN>price,FONTSTRIKETHRU,false
+    mobiledetail,info<COLN>price,INFO,
+    mobiledetail,info<COLN>price,PAGECOUNT,0
+    mobiledetail,info<COLN>price,DATABIND,
+    mobiledetail,info<COLN>price,BINDMAPPING,
+    mobiledetail,info<COLN>price,drag.x,1
+    mobiledetail,info<COLN>price,drag.y,1
+    mobiledetail,info<COLN>price,xdragrange,-1<SEMI> -1
+    mobiledetail,info<COLN>price,ydragrange,-1<SEMI> -1
+    mobiledetail,info<COLN>price,size.x,1
+    mobiledetail,info<COLN>price,size.y,1
+    mobiledetail,info<COLN>price,negadj,
+    mobiledetail,info<COLN>price,posadj,
+    mobiledetail,info<COLN>price,child,true
+    mobiledetail,info<COLN>price,displaymode,block
+    mobiledetail,info<COLN>price,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 5px 0px 15px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobiledetail,info<COLN>price,LOCK,false
+    mobiledetail,info<COLN>price,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobiledetail,info<COLN>price,extend,{"react"<COLN>"<CR>"}
+mobiledetail,info<COLN>price,REFRESH, 
+mobiledetail,info<COLN>description,TARGET,info
+mobiledetail,info<COLN>description,PARENTGROUP,info
+mobiledetail,info<COLN>description,load,label|The perfect T-shirt for when you want to feel comfortable but still stylish. Amazing for all ocasions. <CR>Made of 100% cotton fabric in four colours. Its modern style gives a lighter look to the outfit. Perfect for the warmest days.|0|0|366|84|1342377216|32
+    mobiledetail,info<COLN>description,group,false
+    mobiledetail,info<COLN>description,groupid,0
+    mobiledetail,info<COLN>description,groupby,0100
+    mobiledetail,info<COLN>description,widgetlock,false
+    mobiledetail,info<COLN>description,iswidget,true
+    mobiledetail,info<COLN>description,iscollection,false
+    mobiledetail,info<COLN>description,collectname,
+    mobiledetail,info<COLN>description,widgetname,
+    mobiledetail,info<COLN>description,placeholder,
+    mobiledetail,info<COLN>description,addedby,
+    mobiledetail,info<COLN>description,DOCK,FFFF
+    mobiledetail,info<COLN>description,PICTURE,media/img_missing.png
+    mobiledetail,info<COLN>description,SIZE,366<PIP>84
+    mobiledetail,info<COLN>description,JSON,{}
+    mobiledetail,info<COLN>description,TEXT,The perfect T-shirt for when you want to feel comfortable but still stylish. Amazing for all ocasions. <CR>Made of 100% cotton fabric in four colours. Its modern style gives a lighter look to the outfit. Perfect for the warmest days.
+    mobiledetail,info<COLN>description,TOOLTIP,
+    mobiledetail,info<COLN>description,ENABLED,true
+    mobiledetail,info<COLN>description,VISIBLE,true
+    mobiledetail,info<COLN>description,ZORDER,0
+    mobiledetail,info<COLN>description,FORECOLOR,&h8a8a8a
+    mobiledetail,info<COLN>description,BACKCOLOR,transparent
+    mobiledetail,info<COLN>description,FONTNAME,inherit
+    mobiledetail,info<COLN>description,FONTSIZE,12px
+    mobiledetail,info<COLN>description,FONTBOLD,false
+    mobiledetail,info<COLN>description,FONTITALIC,false
+    mobiledetail,info<COLN>description,FONTUNDERLINE,false
+    mobiledetail,info<COLN>description,FONTSTRIKETHRU,false
+    mobiledetail,info<COLN>description,INFO,
+    mobiledetail,info<COLN>description,PAGECOUNT,0
+    mobiledetail,info<COLN>description,DATABIND,
+    mobiledetail,info<COLN>description,BINDMAPPING,
+    mobiledetail,info<COLN>description,drag.x,1
+    mobiledetail,info<COLN>description,drag.y,1
+    mobiledetail,info<COLN>description,xdragrange,-1<SEMI> -1
+    mobiledetail,info<COLN>description,ydragrange,-1<SEMI> -1
+    mobiledetail,info<COLN>description,size.x,1
+    mobiledetail,info<COLN>description,size.y,1
+    mobiledetail,info<COLN>description,negadj,
+    mobiledetail,info<COLN>description,posadj,
+    mobiledetail,info<COLN>description,child,true
+    mobiledetail,info<COLN>description,displaymode,block
+    mobiledetail,info<COLN>description,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #8a8a8a<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobiledetail,info<COLN>description,LOCK,false
+    mobiledetail,info<COLN>description,events,
+    mobiledetail,info<COLN>description,extend,{}
+mobiledetail,info<COLN>description,REFRESH, 
+mobiledetail,info<COLN>lbsize,TARGET,info
+mobiledetail,info<COLN>lbsize,PARENTGROUP,info
+mobiledetail,info<COLN>lbsize,load,label|Size|0|0|105|21|1342377216|32
+    mobiledetail,info<COLN>lbsize,group,false
+    mobiledetail,info<COLN>lbsize,groupid,0
+    mobiledetail,info<COLN>lbsize,groupby,0100
+    mobiledetail,info<COLN>lbsize,widgetlock,false
+    mobiledetail,info<COLN>lbsize,iswidget,true
+    mobiledetail,info<COLN>lbsize,iscollection,false
+    mobiledetail,info<COLN>lbsize,collectname,
+    mobiledetail,info<COLN>lbsize,widgetname,
+    mobiledetail,info<COLN>lbsize,placeholder,
+    mobiledetail,info<COLN>lbsize,addedby,
+    mobiledetail,info<COLN>lbsize,DOCK,FFFF
+    mobiledetail,info<COLN>lbsize,PICTURE,media/img_missing.png
+    mobiledetail,info<COLN>lbsize,SIZE,105<PIP>21
+    mobiledetail,info<COLN>lbsize,JSON,{}
+    mobiledetail,info<COLN>lbsize,TEXT,Size
+    mobiledetail,info<COLN>lbsize,TOOLTIP,
+    mobiledetail,info<COLN>lbsize,ENABLED,true
+    mobiledetail,info<COLN>lbsize,VISIBLE,true
+    mobiledetail,info<COLN>lbsize,ZORDER,0
+    mobiledetail,info<COLN>lbsize,FORECOLOR,&h000000
+    mobiledetail,info<COLN>lbsize,BACKCOLOR,transparent
+    mobiledetail,info<COLN>lbsize,FONTNAME,inherit
+    mobiledetail,info<COLN>lbsize,FONTSIZE,inherit
+    mobiledetail,info<COLN>lbsize,FONTBOLD,true
+    mobiledetail,info<COLN>lbsize,FONTITALIC,false
+    mobiledetail,info<COLN>lbsize,FONTUNDERLINE,false
+    mobiledetail,info<COLN>lbsize,FONTSTRIKETHRU,false
+    mobiledetail,info<COLN>lbsize,INFO,
+    mobiledetail,info<COLN>lbsize,PAGECOUNT,0
+    mobiledetail,info<COLN>lbsize,DATABIND,
+    mobiledetail,info<COLN>lbsize,BINDMAPPING,
+    mobiledetail,info<COLN>lbsize,drag.x,1
+    mobiledetail,info<COLN>lbsize,drag.y,1
+    mobiledetail,info<COLN>lbsize,xdragrange,-1<SEMI> -1
+    mobiledetail,info<COLN>lbsize,ydragrange,-1<SEMI> -1
+    mobiledetail,info<COLN>lbsize,size.x,1
+    mobiledetail,info<COLN>lbsize,size.y,1
+    mobiledetail,info<COLN>lbsize,negadj,
+    mobiledetail,info<COLN>lbsize,posadj,
+    mobiledetail,info<COLN>lbsize,child,true
+    mobiledetail,info<COLN>lbsize,displaymode,block
+    mobiledetail,info<COLN>lbsize,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 10px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobiledetail,info<COLN>lbsize,LOCK,false
+    mobiledetail,info<COLN>lbsize,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobiledetail,info<COLN>lbsize,extend,{"react"<COLN>"<CR>"}
+mobiledetail,info<COLN>lbsize,REFRESH, 
+mobiledetail,info<COLN>size,TARGET,info
+mobiledetail,info<COLN>size,PARENTGROUP,info
+mobiledetail,info<COLN>size,load,listbox|<LB>''selectindex''<COLN>0<COMMA>''listsize''<COLN>5<COMMA>''list''<COLN><LK>''ListItem 1''<COMMA>''ListItem 2''<COMMA>''ListItem 3''<COMMA>''ListItem 4''<COMMA>''ListItem 5''<RK><COMMA>''value''<COLN><LK>''Value1''<COMMA>''Value2''<COMMA>''Value3''<COMMA>''Value4''<COMMA>''Value5''<RK><RB>|0|0|366|32|1342374145|131072
+    mobiledetail,info<COLN>size,group,false
+    mobiledetail,info<COLN>size,groupid,0
+    mobiledetail,info<COLN>size,groupby,0100
+    mobiledetail,info<COLN>size,widgetlock,false
+    mobiledetail,info<COLN>size,iswidget,true
+    mobiledetail,info<COLN>size,iscollection,false
+    mobiledetail,info<COLN>size,collectname,
+    mobiledetail,info<COLN>size,widgetname,
+    mobiledetail,info<COLN>size,placeholder,select value..
+    mobiledetail,info<COLN>size,addedby,
+    mobiledetail,info<COLN>size,DOCK,FFFF
+    mobiledetail,info<COLN>size,PICTURE,media/img_missing.png
+    mobiledetail,info<COLN>size,SIZE,366<PIP>32
+    mobiledetail,info<COLN>size,JSON,{}
+    mobiledetail,info<COLN>size,TEXT,
+    mobiledetail,info<COLN>size,TOOLTIP,Click to change forum.
+    mobiledetail,info<COLN>size,ENABLED,true
+    mobiledetail,info<COLN>size,VISIBLE,true
+    mobiledetail,info<COLN>size,ZORDER,0
+    mobiledetail,info<COLN>size,FORECOLOR,&h000000
+    mobiledetail,info<COLN>size,BACKCOLOR,transparent
+    mobiledetail,info<COLN>size,FONTNAME,arial<COMMA> helvetica<COMMA> sans-serif
+    mobiledetail,info<COLN>size,FONTSIZE,14px
+    mobiledetail,info<COLN>size,FONTBOLD,false
+    mobiledetail,info<COLN>size,FONTITALIC,false
+    mobiledetail,info<COLN>size,FONTUNDERLINE,false
+    mobiledetail,info<COLN>size,FONTSTRIKETHRU,false
+    mobiledetail,info<COLN>size,INFO,listbox
+    mobiledetail,info<COLN>size,PAGECOUNT,0
+    mobiledetail,info<COLN>size,DATABIND,
+    mobiledetail,info<COLN>size,BINDMAPPING,
+    mobiledetail,info<COLN>size,drag.x,1
+    mobiledetail,info<COLN>size,drag.y,1
+    mobiledetail,info<COLN>size,xdragrange,-1<SEMI> -1
+    mobiledetail,info<COLN>size,ydragrange,-1<SEMI> -1
+    mobiledetail,info<COLN>size,size.x,1
+    mobiledetail,info<COLN>size,size.y,1
+    mobiledetail,info<COLN>size,negadj,
+    mobiledetail,info<COLN>size,posadj,
+    mobiledetail,info<COLN>size,child,true
+    mobiledetail,info<COLN>size,displaymode,block
+    mobiledetail,info<COLN>size,TAG,var options = <LB><LF>    selectindex<COLN> 0<COMMA><LF>    listsize<COLN> 5<COMMA><LF>    list<COLN> <LK>'XS'<COMMA>'S'<COMMA>'M'<COMMA>'L'<COMMA>'XL'<RK><COMMA><LF>    value<COLN> <LK>'xtra-small'<COMMA>'small'<COMMA>'medium'<COMMA>'large'<COMMA>'xtra-large'<RK><LF><RB>;<LF>~bind<COLN> true<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> Select value..<LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-listbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> type<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>items.item-dir<COLN> horizontal<LF>items.item-style<COLN> white-space=nowrap;min-width=5%;width=auto;background=#6699cc;border-radius=10px;margin=2.5px;padding=3px 12px;text-align=center;vertical-align=center~border<COLN> 0px solid #444<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>padding<COLN> 0px 0px 0px 5px<LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>border-radius<COLN> 7px<LF>box-sizing<COLN> border-box<LF>font-family<COLN> arial<COMMA> helvetica<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>text-decoration<COLN> <LF>vertical-align<COLN><LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 5px 0px 0px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto<LF>items.background-color<COLN> transparent<LF>items.overflow<COLN> hidden<LF>items.white-space<COLN> normal<LF>items.width<COLN> 100%
+    mobiledetail,info<COLN>size,LOCK,false
+    mobiledetail,info<COLN>size,ITEMS,size.lst
+    mobiledetail,info<COLN>size,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>scroll<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobiledetail,info<COLN>size,extend,{"react"<COLN>"<CR>"}
+mobiledetail,info<COLN>size,REFRESH, 
+mobiledetail,info<COLN>lbcolor,TARGET,info
+mobiledetail,info<COLN>lbcolor,PARENTGROUP,info
+mobiledetail,info<COLN>lbcolor,load,label|Color|0|0|105|23|1342377216|32
+    mobiledetail,info<COLN>lbcolor,group,false
+    mobiledetail,info<COLN>lbcolor,groupid,0
+    mobiledetail,info<COLN>lbcolor,groupby,0100
+    mobiledetail,info<COLN>lbcolor,widgetlock,false
+    mobiledetail,info<COLN>lbcolor,iswidget,true
+    mobiledetail,info<COLN>lbcolor,iscollection,false
+    mobiledetail,info<COLN>lbcolor,collectname,
+    mobiledetail,info<COLN>lbcolor,widgetname,
+    mobiledetail,info<COLN>lbcolor,placeholder,
+    mobiledetail,info<COLN>lbcolor,addedby,
+    mobiledetail,info<COLN>lbcolor,DOCK,FFFF
+    mobiledetail,info<COLN>lbcolor,PICTURE,media/img_missing.png
+    mobiledetail,info<COLN>lbcolor,SIZE,105<PIP>23
+    mobiledetail,info<COLN>lbcolor,JSON,{}
+    mobiledetail,info<COLN>lbcolor,TEXT,Color
+    mobiledetail,info<COLN>lbcolor,TOOLTIP,
+    mobiledetail,info<COLN>lbcolor,ENABLED,true
+    mobiledetail,info<COLN>lbcolor,VISIBLE,true
+    mobiledetail,info<COLN>lbcolor,ZORDER,0
+    mobiledetail,info<COLN>lbcolor,FORECOLOR,&h000000
+    mobiledetail,info<COLN>lbcolor,BACKCOLOR,transparent
+    mobiledetail,info<COLN>lbcolor,FONTNAME,inherit
+    mobiledetail,info<COLN>lbcolor,FONTSIZE,inherit
+    mobiledetail,info<COLN>lbcolor,FONTBOLD,true
+    mobiledetail,info<COLN>lbcolor,FONTITALIC,false
+    mobiledetail,info<COLN>lbcolor,FONTUNDERLINE,false
+    mobiledetail,info<COLN>lbcolor,FONTSTRIKETHRU,false
+    mobiledetail,info<COLN>lbcolor,INFO,
+    mobiledetail,info<COLN>lbcolor,PAGECOUNT,0
+    mobiledetail,info<COLN>lbcolor,DATABIND,
+    mobiledetail,info<COLN>lbcolor,BINDMAPPING,
+    mobiledetail,info<COLN>lbcolor,drag.x,1
+    mobiledetail,info<COLN>lbcolor,drag.y,1
+    mobiledetail,info<COLN>lbcolor,xdragrange,-1<SEMI> -1
+    mobiledetail,info<COLN>lbcolor,ydragrange,-1<SEMI> -1
+    mobiledetail,info<COLN>lbcolor,size.x,1
+    mobiledetail,info<COLN>lbcolor,size.y,1
+    mobiledetail,info<COLN>lbcolor,negadj,
+    mobiledetail,info<COLN>lbcolor,posadj,
+    mobiledetail,info<COLN>lbcolor,child,true
+    mobiledetail,info<COLN>lbcolor,displaymode,block
+    mobiledetail,info<COLN>lbcolor,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 10px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobiledetail,info<COLN>lbcolor,LOCK,false
+    mobiledetail,info<COLN>lbcolor,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobiledetail,info<COLN>lbcolor,extend,{"react"<COLN>"<CR>"}
+mobiledetail,info<COLN>lbcolor,REFRESH, 
+mobiledetail,info<COLN>black,TARGET,info
+mobiledetail,info<COLN>black,PARENTGROUP,info
+mobiledetail,info<COLN>black,load,frame||0|0|32|32|1342177287|32
+    mobiledetail,info<COLN>black,group,true
+    mobiledetail,info<COLN>black,groupid,0200
+    mobiledetail,info<COLN>black,groupby,0100
+    mobiledetail,info<COLN>black,widgetlock,false
+    mobiledetail,info<COLN>black,iswidget,false
+    mobiledetail,info<COLN>black,iscollection,false
+    mobiledetail,info<COLN>black,collectname,
+    mobiledetail,info<COLN>black,widgetname,
+    mobiledetail,info<COLN>black,placeholder,
+    mobiledetail,info<COLN>black,addedby,
+    mobiledetail,info<COLN>black,DOCK,FFFF
+    mobiledetail,info<COLN>black,PICTURE,media/img_missing.png
+    mobiledetail,info<COLN>black,SIZE,32<PIP>32
+    mobiledetail,info<COLN>black,JSON,{}
+    mobiledetail,info<COLN>black,TEXT,
+    mobiledetail,info<COLN>black,TOOLTIP,
+    mobiledetail,info<COLN>black,ENABLED,true
+    mobiledetail,info<COLN>black,VISIBLE,true
+    mobiledetail,info<COLN>black,ZORDER,0
+    mobiledetail,info<COLN>black,FORECOLOR,&h000000
+    mobiledetail,info<COLN>black,BACKCOLOR,&h000000
+    mobiledetail,info<COLN>black,FONTNAME,inherit
+    mobiledetail,info<COLN>black,FONTSIZE,inherit
+    mobiledetail,info<COLN>black,FONTBOLD,false
+    mobiledetail,info<COLN>black,FONTITALIC,false
+    mobiledetail,info<COLN>black,FONTUNDERLINE,false
+    mobiledetail,info<COLN>black,FONTSTRIKETHRU,false
+    mobiledetail,info<COLN>black,INFO,
+    mobiledetail,info<COLN>black,PAGECOUNT,0
+    mobiledetail,info<COLN>black,DATABIND,
+    mobiledetail,info<COLN>black,BINDMAPPING,
+    mobiledetail,info<COLN>black,drag.x,1
+    mobiledetail,info<COLN>black,drag.y,1
+    mobiledetail,info<COLN>black,xdragrange,-1<SEMI> -1
+    mobiledetail,info<COLN>black,ydragrange,-1<SEMI> -1
+    mobiledetail,info<COLN>black,size.x,1
+    mobiledetail,info<COLN>black,size.y,1
+    mobiledetail,info<COLN>black,negadj,
+    mobiledetail,info<COLN>black,posadj,
+    mobiledetail,info<COLN>black,child,true
+    mobiledetail,info<COLN>black,displaymode,inline-block
+    mobiledetail,info<COLN>black,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> inline-block<LF>height<COLN> <LF>margin<COLN> 10px 10px 10px 10px<LF>opacity<COLN> <LF>overflow<COLN> visible<LF>padding<COLN> 0px 0px 0px 0px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> <LF>background-color<COLN> #000000<LF>border-radius<COLN> 50%<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobiledetail,info<COLN>black,LOCK,false
+    mobiledetail,info<COLN>black,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobiledetail,info<COLN>black,extend,{"react"<COLN>"<CR>"}
+mobiledetail,info<COLN>black,REFRESH, 
+mobiledetail,info<COLN>black1,TARGET,info
+mobiledetail,info<COLN>black1,PARENTGROUP,info
+mobiledetail,info<COLN>black1,load,frame||0|0|32|32|1342177287|32
+    mobiledetail,info<COLN>black1,group,true
+    mobiledetail,info<COLN>black1,groupid,0400
+    mobiledetail,info<COLN>black1,groupby,0100
+    mobiledetail,info<COLN>black1,widgetlock,false
+    mobiledetail,info<COLN>black1,iswidget,false
+    mobiledetail,info<COLN>black1,iscollection,false
+    mobiledetail,info<COLN>black1,collectname,
+    mobiledetail,info<COLN>black1,widgetname,
+    mobiledetail,info<COLN>black1,placeholder,
+    mobiledetail,info<COLN>black1,addedby,
+    mobiledetail,info<COLN>black1,DOCK,FFFF
+    mobiledetail,info<COLN>black1,PICTURE,media/img_missing.png
+    mobiledetail,info<COLN>black1,SIZE,32<PIP>32
+    mobiledetail,info<COLN>black1,JSON,{}
+    mobiledetail,info<COLN>black1,TEXT,
+    mobiledetail,info<COLN>black1,TOOLTIP,
+    mobiledetail,info<COLN>black1,ENABLED,true
+    mobiledetail,info<COLN>black1,VISIBLE,true
+    mobiledetail,info<COLN>black1,ZORDER,0
+    mobiledetail,info<COLN>black1,FORECOLOR,&h000000
+    mobiledetail,info<COLN>black1,BACKCOLOR,&ha9a9a9
+    mobiledetail,info<COLN>black1,FONTNAME,inherit
+    mobiledetail,info<COLN>black1,FONTSIZE,inherit
+    mobiledetail,info<COLN>black1,FONTBOLD,false
+    mobiledetail,info<COLN>black1,FONTITALIC,false
+    mobiledetail,info<COLN>black1,FONTUNDERLINE,false
+    mobiledetail,info<COLN>black1,FONTSTRIKETHRU,false
+    mobiledetail,info<COLN>black1,INFO,
+    mobiledetail,info<COLN>black1,PAGECOUNT,0
+    mobiledetail,info<COLN>black1,DATABIND,
+    mobiledetail,info<COLN>black1,BINDMAPPING,
+    mobiledetail,info<COLN>black1,drag.x,1
+    mobiledetail,info<COLN>black1,drag.y,1
+    mobiledetail,info<COLN>black1,xdragrange,-1<SEMI> -1
+    mobiledetail,info<COLN>black1,ydragrange,-1<SEMI> -1
+    mobiledetail,info<COLN>black1,size.x,1
+    mobiledetail,info<COLN>black1,size.y,1
+    mobiledetail,info<COLN>black1,negadj,
+    mobiledetail,info<COLN>black1,posadj,
+    mobiledetail,info<COLN>black1,child,true
+    mobiledetail,info<COLN>black1,displaymode,inline-block
+    mobiledetail,info<COLN>black1,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> inline-block<LF>height<COLN> <LF>margin<COLN> 10px 10px 10px 10px<LF>opacity<COLN> <LF>overflow<COLN> visible<LF>padding<COLN> 0px 0px 0px 0px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> <LF>background-color<COLN> #a9a9a9<LF>border-radius<COLN> 50%<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobiledetail,info<COLN>black1,LOCK,false
+    mobiledetail,info<COLN>black1,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobiledetail,info<COLN>black1,extend,{"react"<COLN>"<CR>"}
+mobiledetail,info<COLN>black1,REFRESH, 
+mobiledetail,black1,TARGET,info
+mobiledetail,black1,PARENTGROUP,info
+mobiledetail,black1,load,frame||0|0|32|32|1342177287|32
+    mobiledetail,black1,group,true
+    mobiledetail,black1,groupid,0700
+    mobiledetail,black1,groupby,0100
+    mobiledetail,black1,widgetlock,false
+    mobiledetail,black1,iswidget,false
+    mobiledetail,black1,iscollection,false
+    mobiledetail,black1,collectname,
+    mobiledetail,black1,widgetname,
+    mobiledetail,black1,placeholder,
+    mobiledetail,black1,addedby,
+    mobiledetail,black1,DOCK,FFFF
+    mobiledetail,black1,PICTURE,media/img_missing.png
+    mobiledetail,black1,SIZE,32<PIP>32
+    mobiledetail,black1,JSON,{}
+    mobiledetail,black1,TEXT,
+    mobiledetail,black1,TOOLTIP,
+    mobiledetail,black1,ENABLED,true
+    mobiledetail,black1,VISIBLE,true
+    mobiledetail,black1,ZORDER,0
+    mobiledetail,black1,FORECOLOR,&h000000
+    mobiledetail,black1,BACKCOLOR,&hd3d3d3
+    mobiledetail,black1,FONTNAME,inherit
+    mobiledetail,black1,FONTSIZE,inherit
+    mobiledetail,black1,FONTBOLD,false
+    mobiledetail,black1,FONTITALIC,false
+    mobiledetail,black1,FONTUNDERLINE,false
+    mobiledetail,black1,FONTSTRIKETHRU,false
+    mobiledetail,black1,INFO,
+    mobiledetail,black1,PAGECOUNT,0
+    mobiledetail,black1,DATABIND,
+    mobiledetail,black1,BINDMAPPING,
+    mobiledetail,black1,drag.x,1
+    mobiledetail,black1,drag.y,1
+    mobiledetail,black1,xdragrange,-1<SEMI> -1
+    mobiledetail,black1,ydragrange,-1<SEMI> -1
+    mobiledetail,black1,size.x,1
+    mobiledetail,black1,size.y,1
+    mobiledetail,black1,negadj,
+    mobiledetail,black1,posadj,
+    mobiledetail,black1,child,true
+    mobiledetail,black1,displaymode,inline-block
+    mobiledetail,black1,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> inline-block<LF>height<COLN> <LF>margin<COLN> 10px 10px 10px 10px<LF>opacity<COLN> <LF>overflow<COLN> visible<LF>padding<COLN> 0px 0px 0px 0px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> <LF>background-color<COLN> #d3d3d3<LF>border-radius<COLN> 50%<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobiledetail,black1,LOCK,false
+    mobiledetail,black1,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobiledetail,black1,extend,{"react"<COLN>"<CR>"}
+mobiledetail,black1,REFRESH, 
+mobiledetail,icon1,TARGET,black1
+mobiledetail,icon1,PARENTGROUP,black1
+mobiledetail,icon1,load,icon|media/img_missing.png|18|-3|18|18|1342373901|0
+    mobiledetail,icon1,group,false
+    mobiledetail,icon1,groupid,0
+    mobiledetail,icon1,groupby,0700
+    mobiledetail,icon1,widgetlock,false
+    mobiledetail,icon1,iswidget,false
+    mobiledetail,icon1,iscollection,false
+    mobiledetail,icon1,collectname,
+    mobiledetail,icon1,widgetname,
+    mobiledetail,icon1,placeholder,
+    mobiledetail,icon1,addedby,
+    mobiledetail,icon1,DOCK,FFFF
+    mobiledetail,icon1,PICTURE,media/img_missing.png
+    mobiledetail,icon1,SIZE,18<PIP>18
+    mobiledetail,icon1,JSON,{}
+    mobiledetail,icon1,TEXT,
+    mobiledetail,icon1,TOOLTIP,
+    mobiledetail,icon1,ENABLED,true
+    mobiledetail,icon1,VISIBLE,true
+    mobiledetail,icon1,ZORDER,0
+    mobiledetail,icon1,FORECOLOR,&h0000ff
+    mobiledetail,icon1,BACKCOLOR,transparent
+    mobiledetail,icon1,FONTNAME,inherit
+    mobiledetail,icon1,FONTSIZE,16px
+    mobiledetail,icon1,FONTBOLD,false
+    mobiledetail,icon1,FONTITALIC,false
+    mobiledetail,icon1,FONTUNDERLINE,false
+    mobiledetail,icon1,FONTSTRIKETHRU,false
+    mobiledetail,icon1,INFO,icon
+    mobiledetail,icon1,PAGECOUNT,0
+    mobiledetail,icon1,DATABIND,
+    mobiledetail,icon1,BINDMAPPING,
+    mobiledetail,icon1,drag.x,1
+    mobiledetail,icon1,drag.y,1
+    mobiledetail,icon1,xdragrange,-1<SEMI> -1
+    mobiledetail,icon1,ydragrange,-1<SEMI> -1
+    mobiledetail,icon1,size.x,1
+    mobiledetail,icon1,size.y,1
+    mobiledetail,icon1,negadj,
+    mobiledetail,icon1,posadj,
+    mobiledetail,icon1,child,true
+    mobiledetail,icon1,displaymode,absolute
+    mobiledetail,icon1,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> <LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> !!!!<LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-check-circle<LF>image.title<COLN> undefined~border<COLN> <LF>color<COLN> #0000ff<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 16px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.border-radius<COLN> 50%<LF>div.border<COLN> 2px solid #fff<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.left<COLN> 60%<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> absolute<LF>div.width<COLN> <LF>image.color<COLN> #0000ff<LF>image.display<COLN> block<LF>image.font-size<COLN> 16px
+    mobiledetail,icon1,LOCK,false
+    mobiledetail,icon1,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobiledetail,icon1,extend,{"react"<COLN>"<CR>"}
+mobiledetail,icon1,REFRESH, 
+mobiledetail,info<COLN>black2,TARGET,info
+mobiledetail,info<COLN>black2,PARENTGROUP,info
+mobiledetail,info<COLN>black2,load,frame||0|0|32|32|1342177287|32
+    mobiledetail,info<COLN>black2,group,true
+    mobiledetail,info<COLN>black2,groupid,0900
+    mobiledetail,info<COLN>black2,groupby,0100
+    mobiledetail,info<COLN>black2,widgetlock,false
+    mobiledetail,info<COLN>black2,iswidget,false
+    mobiledetail,info<COLN>black2,iscollection,false
+    mobiledetail,info<COLN>black2,collectname,
+    mobiledetail,info<COLN>black2,widgetname,
+    mobiledetail,info<COLN>black2,placeholder,
+    mobiledetail,info<COLN>black2,addedby,
+    mobiledetail,info<COLN>black2,DOCK,FFFF
+    mobiledetail,info<COLN>black2,PICTURE,media/img_missing.png
+    mobiledetail,info<COLN>black2,SIZE,32<PIP>32
+    mobiledetail,info<COLN>black2,JSON,{}
+    mobiledetail,info<COLN>black2,TEXT,
+    mobiledetail,info<COLN>black2,TOOLTIP,
+    mobiledetail,info<COLN>black2,ENABLED,true
+    mobiledetail,info<COLN>black2,VISIBLE,true
+    mobiledetail,info<COLN>black2,ZORDER,0
+    mobiledetail,info<COLN>black2,FORECOLOR,&h000000
+    mobiledetail,info<COLN>black2,BACKCOLOR,&hffffff
+    mobiledetail,info<COLN>black2,FONTNAME,inherit
+    mobiledetail,info<COLN>black2,FONTSIZE,inherit
+    mobiledetail,info<COLN>black2,FONTBOLD,false
+    mobiledetail,info<COLN>black2,FONTITALIC,false
+    mobiledetail,info<COLN>black2,FONTUNDERLINE,false
+    mobiledetail,info<COLN>black2,FONTSTRIKETHRU,false
+    mobiledetail,info<COLN>black2,INFO,
+    mobiledetail,info<COLN>black2,PAGECOUNT,0
+    mobiledetail,info<COLN>black2,DATABIND,
+    mobiledetail,info<COLN>black2,BINDMAPPING,
+    mobiledetail,info<COLN>black2,drag.x,1
+    mobiledetail,info<COLN>black2,drag.y,1
+    mobiledetail,info<COLN>black2,xdragrange,-1<SEMI> -1
+    mobiledetail,info<COLN>black2,ydragrange,-1<SEMI> -1
+    mobiledetail,info<COLN>black2,size.x,1
+    mobiledetail,info<COLN>black2,size.y,1
+    mobiledetail,info<COLN>black2,negadj,
+    mobiledetail,info<COLN>black2,posadj,
+    mobiledetail,info<COLN>black2,child,true
+    mobiledetail,info<COLN>black2,displaymode,inline-block
+    mobiledetail,info<COLN>black2,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px #888 dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> inline-block<LF>height<COLN> <LF>margin<COLN> 10px 10px 10px 10px<LF>opacity<COLN> <LF>overflow<COLN> visible<LF>padding<COLN> 0px 0px 0px 0px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> <LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 50%<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobiledetail,info<COLN>black2,LOCK,false
+    mobiledetail,info<COLN>black2,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobiledetail,info<COLN>black2,extend,{"react"<COLN>"<CR>"}
+mobiledetail,info<COLN>black2,REFRESH, 
+mobiledetail,btnconfirm,TARGET,~
+mobiledetail,btnconfirm,PARENTGROUP,~
+mobiledetail,btnconfirm,load,button|Add to cart|0|0|370|50|1342394112|32
+    mobiledetail,btnconfirm,group,false
+    mobiledetail,btnconfirm,groupid,0
+    mobiledetail,btnconfirm,groupby,9999999999
+    mobiledetail,btnconfirm,widgetlock,false
+    mobiledetail,btnconfirm,iswidget,false
+    mobiledetail,btnconfirm,iscollection,false
+    mobiledetail,btnconfirm,collectname,
+    mobiledetail,btnconfirm,widgetname,
+    mobiledetail,btnconfirm,placeholder,
+    mobiledetail,btnconfirm,addedby,
+    mobiledetail,btnconfirm,DOCK,FFFF
+    mobiledetail,btnconfirm,PICTURE,media/img_missing.png
+    mobiledetail,btnconfirm,SIZE,370<PIP>50
+    mobiledetail,btnconfirm,JSON,{}
+    mobiledetail,btnconfirm,TEXT,Add to cart
+    mobiledetail,btnconfirm,TOOLTIP,
+    mobiledetail,btnconfirm,ENABLED,true
+    mobiledetail,btnconfirm,VISIBLE,true
+    mobiledetail,btnconfirm,ZORDER,0
+    mobiledetail,btnconfirm,FORECOLOR,&hfff
+    mobiledetail,btnconfirm,BACKCOLOR,&h2259a1
+    mobiledetail,btnconfirm,FONTNAME,inherit
+    mobiledetail,btnconfirm,FONTSIZE,12px
+    mobiledetail,btnconfirm,FONTBOLD,false
+    mobiledetail,btnconfirm,FONTITALIC,false
+    mobiledetail,btnconfirm,FONTUNDERLINE,false
+    mobiledetail,btnconfirm,FONTSTRIKETHRU,false
+    mobiledetail,btnconfirm,INFO,
+    mobiledetail,btnconfirm,PAGECOUNT,0
+    mobiledetail,btnconfirm,DATABIND,
+    mobiledetail,btnconfirm,BINDMAPPING,
+    mobiledetail,btnconfirm,drag.x,1
+    mobiledetail,btnconfirm,drag.y,1
+    mobiledetail,btnconfirm,xdragrange,-1<SEMI> -1
+    mobiledetail,btnconfirm,ydragrange,-1<SEMI> -1
+    mobiledetail,btnconfirm,size.x,1
+    mobiledetail,btnconfirm,size.y,1
+    mobiledetail,btnconfirm,negadj,
+    mobiledetail,btnconfirm,posadj,
+    mobiledetail,btnconfirm,child,false
+    mobiledetail,btnconfirm,displaymode,block
+    mobiledetail,btnconfirm,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px solid #bbb<LF>color<COLN> #fff<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #2259a1<LF>border-radius<COLN> 13px<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 20px 20px 0px 20px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobiledetail,btnconfirm,LOCK,false
+    mobiledetail,btnconfirm,events,click<COLN> <CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobiledetail,btnconfirm,extend,{"react"<COLN>"<CR>"}
+mobiledetail,btnconfirm,REFRESH, 
+mobiledetail,,SETVIEW,
+mobiledetail,,HIDE,
+mobiledetail,,REFRESH,true

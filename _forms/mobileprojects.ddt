@@ -1,0 +1,832 @@
+mobileprojects,,SURFACE,New Surface|50|155|400|640|268435476|65568
+    mobileprojects,,version,5.0
+    mobileprojects,,loadlibs,New Surface
+    mobileprojects,,groupid,9999999999
+    mobileprojects,,groupby,0
+    mobileprojects,,runpos,0|0
+    mobileprojects,,DOCK,FFFF
+    mobileprojects,,PARENT,
+    mobileprojects,,MARGINS,
+    mobileprojects,,AUTOSIZE,false
+    mobileprojects,,JSON,{}
+    mobileprojects,,TEXT,New Surface
+    mobileprojects,,TOOLTIP,
+    mobileprojects,,ENABLED,true
+    mobileprojects,,VISIBLE,true
+    mobileprojects,,FORECOLOR,&heeeeee
+    mobileprojects,,BACKCOLOR,&hffffff
+    mobileprojects,,ICON,
+    mobileprojects,,FONTNAME,roboto
+    mobileprojects,,FONTSIZE,14px
+    mobileprojects,,FONTBOLD,false
+    mobileprojects,,FONTITALIC,false
+    mobileprojects,,FONTUNDERLINE,false
+    mobileprojects,,FONTSTRIKETHRU,false
+    mobileprojects,,MENUBAR,
+    mobileprojects,,TOOLBAR,
+    mobileprojects,,STATUSBAR,
+    mobileprojects,,SAVESTATE,false
+    mobileprojects,,drag.x,
+    mobileprojects,,drag.y,
+    mobileprojects,,xdragrange,
+    mobileprojects,,ydragrange,
+    mobileprojects,,size.x,
+    mobileprojects,,size.y,
+    mobileprojects,,negadj,
+    mobileprojects,,posadj,
+    mobileprojects,,TAG,~_private<COLN> false<LF>autosize<COLN> false<LF>bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>clipmenu<COLN> true<LF>donottheme<COLN> false<LF>dragable<COLN> true<LF>flattenonpull<COLN> true<LF>hotkey<COLN> <LF>ignorezorder<COLN> false<LF>output<COLN> normal<LF>prevent<COLN> <LF>record<COLN> <LF>shadow<COLN> true<LF>sizeable<COLN> true<LF>theme<COLN> nimble-form<LF>toggleonflip<COLN> true<LF>useastheme<COLN> false<LF>watch<COLN> false<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>body.lock-height<COLN> <LF>body.version<COLN> v5.0~color<COLN> #EEEEEE<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 20px<LF>font-family<COLN> roboto<LF>font-size<COLN> 14px<LF>pointer-events<COLN> auto<LF>z-index<COLN> 2<LF>body.background-color<COLN> transparent<LF>body.box-sizing<COLN> border-box<LF>body.color<COLN> #eeeeee<LF>body.overflow-y<COLN> auto<LF>body.padding<COLN> 10px 15px 10px 15px<LF>body.text-align<COLN> center<LF>body.vertical-align<COLN>
+    mobileprojects,,events,activate<COLN> <CR>adjustlayout<COLN> <CR>afterpull<COLN> <CR>afterpush<COLN> <CR>beforeunload<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>disabled<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enabled<COLN> <CR>enterkey<COLN> <CR>fullscreen<COLN> <CR>gotfocus<COLN> <CR>hide<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>load<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>maximize<COLN> <CR>menu<COLN> <CR>minimize<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>move<COLN> <CR>move<COLN> <CR>onpull<COLN> <CR>onpush<COLN> <CR>refresh<COLN> <CR>resize<COLN> <CR>restore<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN> <CR>unload<COLN> <CR>viewchange<COLN> <CR>widgetloaded<COLN> <CR>widgetunloading<COLN>
+    mobileprojects,,extend,{"react"<COLN>"<CR>"}
+    mobileprojects,,GROUPIDS,[0100][0200][0400][0500][0600][0700][0800]
+    mobileprojects,,WSTYLES,268435476
+    mobileprojects,,WSTYLESEX,65568
+    mobileprojects,,WIDTH,400
+    mobileprojects,,HEIGHT,640
+    mobileprojects,,EDITPOS,50|155
+mobileprojects,frame2,TARGET,~
+mobileprojects,frame2,PARENTGROUP,~
+mobileprojects,frame2,load,frame||0|0|370|50|1342177287|32
+    mobileprojects,frame2,group,true
+    mobileprojects,frame2,groupid,0200
+    mobileprojects,frame2,groupby,9999999999
+    mobileprojects,frame2,widgetlock,false
+    mobileprojects,frame2,iswidget,false
+    mobileprojects,frame2,iscollection,false
+    mobileprojects,frame2,collectname,
+    mobileprojects,frame2,widgetname,
+    mobileprojects,frame2,placeholder,
+    mobileprojects,frame2,addedby,
+    mobileprojects,frame2,DOCK,FFFF
+    mobileprojects,frame2,PICTURE,media/img_missing.png
+    mobileprojects,frame2,SIZE,370<PIP>50
+    mobileprojects,frame2,JSON,{}
+    mobileprojects,frame2,TEXT,
+    mobileprojects,frame2,TOOLTIP,
+    mobileprojects,frame2,ENABLED,true
+    mobileprojects,frame2,VISIBLE,true
+    mobileprojects,frame2,ZORDER,0
+    mobileprojects,frame2,FORECOLOR,&h000000
+    mobileprojects,frame2,BACKCOLOR,transparent
+    mobileprojects,frame2,FONTNAME,inherit
+    mobileprojects,frame2,FONTSIZE,inherit
+    mobileprojects,frame2,FONTBOLD,false
+    mobileprojects,frame2,FONTITALIC,false
+    mobileprojects,frame2,FONTUNDERLINE,false
+    mobileprojects,frame2,FONTSTRIKETHRU,false
+    mobileprojects,frame2,INFO,
+    mobileprojects,frame2,PAGECOUNT,0
+    mobileprojects,frame2,DATABIND,
+    mobileprojects,frame2,BINDMAPPING,
+    mobileprojects,frame2,drag.x,1
+    mobileprojects,frame2,drag.y,1
+    mobileprojects,frame2,xdragrange,-1<SEMI> -1
+    mobileprojects,frame2,ydragrange,-1<SEMI> -1
+    mobileprojects,frame2,size.x,1
+    mobileprojects,frame2,size.y,1
+    mobileprojects,frame2,negadj,
+    mobileprojects,frame2,posadj,
+    mobileprojects,frame2,child,false
+    mobileprojects,frame2,displaymode,block
+    mobileprojects,frame2,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> <LF>margin<COLN> 0px 0px 20px 0px<LF>opacity<COLN> <LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> TRANSPARENT<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle
+    mobileprojects,frame2,LOCK,false
+    mobileprojects,frame2,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileprojects,frame2,extend,{"react"<COLN>"<CR>"}
+mobileprojects,frame2,REFRESH, 
+mobileprojects,label1,TARGET,frame2
+mobileprojects,label1,PARENTGROUP,frame2
+mobileprojects,label1,load,label|Projects|0|0|105|21|1342377728|32
+    mobileprojects,label1,group,false
+    mobileprojects,label1,groupid,0
+    mobileprojects,label1,groupby,0200
+    mobileprojects,label1,widgetlock,false
+    mobileprojects,label1,iswidget,false
+    mobileprojects,label1,iscollection,false
+    mobileprojects,label1,collectname,
+    mobileprojects,label1,widgetname,
+    mobileprojects,label1,placeholder,
+    mobileprojects,label1,addedby,
+    mobileprojects,label1,DOCK,FFFF
+    mobileprojects,label1,PICTURE,media/img_missing.png
+    mobileprojects,label1,SIZE,105<PIP>21
+    mobileprojects,label1,JSON,{}
+    mobileprojects,label1,TEXT,Projects
+    mobileprojects,label1,TOOLTIP,
+    mobileprojects,label1,ENABLED,true
+    mobileprojects,label1,VISIBLE,true
+    mobileprojects,label1,ZORDER,0
+    mobileprojects,label1,FORECOLOR,&h000000
+    mobileprojects,label1,BACKCOLOR,transparent
+    mobileprojects,label1,FONTNAME,inherit
+    mobileprojects,label1,FONTSIZE,inherit
+    mobileprojects,label1,FONTBOLD,true
+    mobileprojects,label1,FONTITALIC,false
+    mobileprojects,label1,FONTUNDERLINE,false
+    mobileprojects,label1,FONTSTRIKETHRU,false
+    mobileprojects,label1,INFO,
+    mobileprojects,label1,PAGECOUNT,0
+    mobileprojects,label1,DATABIND,
+    mobileprojects,label1,BINDMAPPING,
+    mobileprojects,label1,drag.x,1
+    mobileprojects,label1,drag.y,1
+    mobileprojects,label1,xdragrange,-1<SEMI> -1
+    mobileprojects,label1,ydragrange,-1<SEMI> -1
+    mobileprojects,label1,size.x,1
+    mobileprojects,label1,size.y,1
+    mobileprojects,label1,negadj,
+    mobileprojects,label1,posadj,
+    mobileprojects,label1,child,true
+    mobileprojects,label1,displaymode,inline-block
+    mobileprojects,label1,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 20px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    mobileprojects,label1,LOCK,false
+    mobileprojects,label1,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileprojects,label1,extend,{"react"<COLN>"<CR>"}
+mobileprojects,label1,REFRESH, 
+mobileprojects,btnsegment,TARGET,~
+mobileprojects,btnsegment,PARENTGROUP,~
+mobileprojects,btnsegment,load,frame||0|0|320|37|1342227719|131104
+    mobileprojects,btnsegment,group,true
+    mobileprojects,btnsegment,groupid,0400
+    mobileprojects,btnsegment,groupby,9999999999
+    mobileprojects,btnsegment,widgetlock,true
+    mobileprojects,btnsegment,iswidget,true
+    mobileprojects,btnsegment,iscollection,true
+    mobileprojects,btnsegment,collectname,Material Design
+    mobileprojects,btnsegment,widgetname,btnsegment
+    mobileprojects,btnsegment,placeholder,
+    mobileprojects,btnsegment,addedby,
+    mobileprojects,btnsegment,DOCK,FFFF
+    mobileprojects,btnsegment,PICTURE,media/img_missing.png
+    mobileprojects,btnsegment,SIZE,320<PIP>37
+    mobileprojects,btnsegment,JSON,{}
+    mobileprojects,btnsegment,TEXT,
+    mobileprojects,btnsegment,TOOLTIP,
+    mobileprojects,btnsegment,ENABLED,true
+    mobileprojects,btnsegment,VISIBLE,true
+    mobileprojects,btnsegment,ZORDER,0
+    mobileprojects,btnsegment,FORECOLOR,&h000000
+    mobileprojects,btnsegment,BACKCOLOR,transparent
+    mobileprojects,btnsegment,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    mobileprojects,btnsegment,FONTSIZE,14px
+    mobileprojects,btnsegment,FONTBOLD,false
+    mobileprojects,btnsegment,FONTITALIC,false
+    mobileprojects,btnsegment,FONTUNDERLINE,false
+    mobileprojects,btnsegment,FONTSTRIKETHRU,false
+    mobileprojects,btnsegment,INFO,
+    mobileprojects,btnsegment,PAGECOUNT,0
+    mobileprojects,btnsegment,DATABIND,
+    mobileprojects,btnsegment,BINDMAPPING,
+    mobileprojects,btnsegment,drag.x,1
+    mobileprojects,btnsegment,drag.y,1
+    mobileprojects,btnsegment,xdragrange,-1<SEMI> -1
+    mobileprojects,btnsegment,ydragrange,-1<SEMI> -1
+    mobileprojects,btnsegment,size.x,1
+    mobileprojects,btnsegment,size.y,1
+    mobileprojects,btnsegment,negadj,
+    mobileprojects,btnsegment,posadj,
+    mobileprojects,btnsegment,child,false
+    mobileprojects,btnsegment,displaymode,block
+    mobileprojects,btnsegment,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-width<COLN> <LF>~border<COLN> 1px solid #0B485C<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>float<COLN> <LF>height<COLN> <LF>margin<COLN> 0px 0px 0px 0px<LF>opacity<COLN> <LF>padding<COLN> 0px 0px 0px 0px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> transparent<LF>border-radius<COLN> 23px<LF>box-shadow<COLN> rgba(80<COMMA>80<COMMA>80<COMMA>.40) 0px 2px 2px 0px<LF>box-sizing<COLN> border-box<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>text-decoration<COLN> <LF>vertical-align<COLN>
+    mobileprojects,btnsegment,LOCK,false
+    mobileprojects,btnsegment,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileprojects,btnsegment,extend,{"react"<COLN>"<CR>"}
+mobileprojects,btnsegment,REFRESH, 
+mobileprojects,btnsegment<COLN>day,TARGET,btnsegment
+mobileprojects,btnsegment<COLN>day,PARENTGROUP,~
+mobileprojects,btnsegment<COLN>day,load,label|To do|0|0|102|35|1342377728|32
+    mobileprojects,btnsegment<COLN>day,group,true
+    mobileprojects,btnsegment<COLN>day,groupid,0500
+    mobileprojects,btnsegment<COLN>day,groupby,9999999999
+    mobileprojects,btnsegment<COLN>day,widgetlock,true
+    mobileprojects,btnsegment<COLN>day,iswidget,true
+    mobileprojects,btnsegment<COLN>day,iscollection,true
+    mobileprojects,btnsegment<COLN>day,collectname,Material Design
+    mobileprojects,btnsegment<COLN>day,widgetname,btnsegment
+    mobileprojects,btnsegment<COLN>day,placeholder,
+    mobileprojects,btnsegment<COLN>day,addedby,
+    mobileprojects,btnsegment<COLN>day,DOCK,FFFF
+    mobileprojects,btnsegment<COLN>day,PICTURE,media/img_missing.png
+    mobileprojects,btnsegment<COLN>day,SIZE,102<PIP>35
+    mobileprojects,btnsegment<COLN>day,JSON,{}
+    mobileprojects,btnsegment<COLN>day,TEXT,To do
+    mobileprojects,btnsegment<COLN>day,TOOLTIP,
+    mobileprojects,btnsegment<COLN>day,ENABLED,true
+    mobileprojects,btnsegment<COLN>day,VISIBLE,true
+    mobileprojects,btnsegment<COLN>day,ZORDER,0
+    mobileprojects,btnsegment<COLN>day,FORECOLOR,&h0b485c
+    mobileprojects,btnsegment<COLN>day,BACKCOLOR,transparent
+    mobileprojects,btnsegment<COLN>day,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    mobileprojects,btnsegment<COLN>day,FONTSIZE,12px
+    mobileprojects,btnsegment<COLN>day,FONTBOLD,false
+    mobileprojects,btnsegment<COLN>day,FONTITALIC,false
+    mobileprojects,btnsegment<COLN>day,FONTUNDERLINE,false
+    mobileprojects,btnsegment<COLN>day,FONTSTRIKETHRU,false
+    mobileprojects,btnsegment<COLN>day,INFO,
+    mobileprojects,btnsegment<COLN>day,PAGECOUNT,0
+    mobileprojects,btnsegment<COLN>day,DATABIND,
+    mobileprojects,btnsegment<COLN>day,BINDMAPPING,
+    mobileprojects,btnsegment<COLN>day,drag.x,1
+    mobileprojects,btnsegment<COLN>day,drag.y,1
+    mobileprojects,btnsegment<COLN>day,xdragrange,-1<SEMI> -1
+    mobileprojects,btnsegment<COLN>day,ydragrange,-1<SEMI> -1
+    mobileprojects,btnsegment<COLN>day,size.x,1
+    mobileprojects,btnsegment<COLN>day,size.y,1
+    mobileprojects,btnsegment<COLN>day,negadj,
+    mobileprojects,btnsegment<COLN>day,posadj,
+    mobileprojects,btnsegment<COLN>day,child,true
+    mobileprojects,btnsegment<COLN>day,displaymode,inline-block
+    mobileprojects,btnsegment<COLN>day,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-width<COLN> !!!!<LF>scale-cpl<COLN> 25<LF>~color<COLN> #0b485c<LF>cursor<COLN> <LF>display<COLN> table<LF>float<COLN> <LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>width<COLN> 33.3%<LF>background-color<COLN> transparent<LF>border-bottom<COLN> none<LF>border-left<COLN> <LF>border-right<COLN> 1px solid #000<LF>border-top<COLN> none<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 12px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>text-decoration<COLN> <LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    mobileprojects,btnsegment<COLN>day,LOCK,false
+    mobileprojects,btnsegment<COLN>day,events,
+    mobileprojects,btnsegment<COLN>day,extend,{}
+mobileprojects,btnsegment<COLN>day,REFRESH, 
+mobileprojects,btnsegment<COLN>week,TARGET,btnsegment
+mobileprojects,btnsegment<COLN>week,PARENTGROUP,~
+mobileprojects,btnsegment<COLN>week,load,label|In progress|0|0|102|35|1342377728|32
+    mobileprojects,btnsegment<COLN>week,group,true
+    mobileprojects,btnsegment<COLN>week,groupid,0600
+    mobileprojects,btnsegment<COLN>week,groupby,9999999999
+    mobileprojects,btnsegment<COLN>week,widgetlock,true
+    mobileprojects,btnsegment<COLN>week,iswidget,true
+    mobileprojects,btnsegment<COLN>week,iscollection,true
+    mobileprojects,btnsegment<COLN>week,collectname,Material Design
+    mobileprojects,btnsegment<COLN>week,widgetname,btnsegment
+    mobileprojects,btnsegment<COLN>week,placeholder,
+    mobileprojects,btnsegment<COLN>week,addedby,
+    mobileprojects,btnsegment<COLN>week,DOCK,FFFF
+    mobileprojects,btnsegment<COLN>week,PICTURE,media/img_missing.png
+    mobileprojects,btnsegment<COLN>week,SIZE,102<PIP>35
+    mobileprojects,btnsegment<COLN>week,JSON,{}
+    mobileprojects,btnsegment<COLN>week,TEXT,In progress
+    mobileprojects,btnsegment<COLN>week,TOOLTIP,
+    mobileprojects,btnsegment<COLN>week,ENABLED,true
+    mobileprojects,btnsegment<COLN>week,VISIBLE,true
+    mobileprojects,btnsegment<COLN>week,ZORDER,0
+    mobileprojects,btnsegment<COLN>week,FORECOLOR,&h0b485c
+    mobileprojects,btnsegment<COLN>week,BACKCOLOR,transparent
+    mobileprojects,btnsegment<COLN>week,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    mobileprojects,btnsegment<COLN>week,FONTSIZE,12px
+    mobileprojects,btnsegment<COLN>week,FONTBOLD,false
+    mobileprojects,btnsegment<COLN>week,FONTITALIC,false
+    mobileprojects,btnsegment<COLN>week,FONTUNDERLINE,false
+    mobileprojects,btnsegment<COLN>week,FONTSTRIKETHRU,false
+    mobileprojects,btnsegment<COLN>week,INFO,
+    mobileprojects,btnsegment<COLN>week,PAGECOUNT,0
+    mobileprojects,btnsegment<COLN>week,DATABIND,
+    mobileprojects,btnsegment<COLN>week,BINDMAPPING,
+    mobileprojects,btnsegment<COLN>week,drag.x,1
+    mobileprojects,btnsegment<COLN>week,drag.y,1
+    mobileprojects,btnsegment<COLN>week,xdragrange,-1<SEMI> -1
+    mobileprojects,btnsegment<COLN>week,ydragrange,-1<SEMI> -1
+    mobileprojects,btnsegment<COLN>week,size.x,1
+    mobileprojects,btnsegment<COLN>week,size.y,1
+    mobileprojects,btnsegment<COLN>week,negadj,
+    mobileprojects,btnsegment<COLN>week,posadj,
+    mobileprojects,btnsegment<COLN>week,child,true
+    mobileprojects,btnsegment<COLN>week,displaymode,inline-block
+    mobileprojects,btnsegment<COLN>week,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-width<COLN> !!!!<LF>scale-cpl<COLN> 25<LF>~color<COLN> #0b485c<LF>cursor<COLN> <LF>display<COLN> table<LF>float<COLN> <LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>width<COLN> 33.3%<LF>background-color<COLN> transparent<LF>border-bottom<COLN> none<LF>border-left<COLN> <LF>border-right<COLN> 1px solid #000<LF>border-top<COLN> none<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 12px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> none<LF>text-align<COLN> left<LF>text-decoration<COLN> <LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.pointer-events<COLN> none<LF>div.position<COLN> relative
+    mobileprojects,btnsegment<COLN>week,LOCK,true
+    mobileprojects,btnsegment<COLN>week,events,
+    mobileprojects,btnsegment<COLN>week,extend,{}
+mobileprojects,btnsegment<COLN>week,REFRESH, 
+mobileprojects,btnsegment<COLN>month,TARGET,btnsegment
+mobileprojects,btnsegment<COLN>month,PARENTGROUP,~
+mobileprojects,btnsegment<COLN>month,load,label|Finished|0|0|106|35|1342377728|32
+    mobileprojects,btnsegment<COLN>month,group,true
+    mobileprojects,btnsegment<COLN>month,groupid,0700
+    mobileprojects,btnsegment<COLN>month,groupby,9999999999
+    mobileprojects,btnsegment<COLN>month,widgetlock,true
+    mobileprojects,btnsegment<COLN>month,iswidget,true
+    mobileprojects,btnsegment<COLN>month,iscollection,true
+    mobileprojects,btnsegment<COLN>month,collectname,Material Design
+    mobileprojects,btnsegment<COLN>month,widgetname,btnsegment
+    mobileprojects,btnsegment<COLN>month,placeholder,
+    mobileprojects,btnsegment<COLN>month,addedby,
+    mobileprojects,btnsegment<COLN>month,DOCK,FFFF
+    mobileprojects,btnsegment<COLN>month,PICTURE,media/img_missing.png
+    mobileprojects,btnsegment<COLN>month,SIZE,106<PIP>35
+    mobileprojects,btnsegment<COLN>month,JSON,{}
+    mobileprojects,btnsegment<COLN>month,TEXT,Finished
+    mobileprojects,btnsegment<COLN>month,TOOLTIP,
+    mobileprojects,btnsegment<COLN>month,ENABLED,true
+    mobileprojects,btnsegment<COLN>month,VISIBLE,true
+    mobileprojects,btnsegment<COLN>month,ZORDER,0
+    mobileprojects,btnsegment<COLN>month,FORECOLOR,&h0b485c
+    mobileprojects,btnsegment<COLN>month,BACKCOLOR,transparent
+    mobileprojects,btnsegment<COLN>month,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    mobileprojects,btnsegment<COLN>month,FONTSIZE,12px
+    mobileprojects,btnsegment<COLN>month,FONTBOLD,false
+    mobileprojects,btnsegment<COLN>month,FONTITALIC,false
+    mobileprojects,btnsegment<COLN>month,FONTUNDERLINE,false
+    mobileprojects,btnsegment<COLN>month,FONTSTRIKETHRU,false
+    mobileprojects,btnsegment<COLN>month,INFO,
+    mobileprojects,btnsegment<COLN>month,PAGECOUNT,0
+    mobileprojects,btnsegment<COLN>month,DATABIND,
+    mobileprojects,btnsegment<COLN>month,BINDMAPPING,
+    mobileprojects,btnsegment<COLN>month,drag.x,1
+    mobileprojects,btnsegment<COLN>month,drag.y,1
+    mobileprojects,btnsegment<COLN>month,xdragrange,-1<SEMI> -1
+    mobileprojects,btnsegment<COLN>month,ydragrange,-1<SEMI> -1
+    mobileprojects,btnsegment<COLN>month,size.x,1
+    mobileprojects,btnsegment<COLN>month,size.y,1
+    mobileprojects,btnsegment<COLN>month,negadj,
+    mobileprojects,btnsegment<COLN>month,posadj,
+    mobileprojects,btnsegment<COLN>month,child,true
+    mobileprojects,btnsegment<COLN>month,displaymode,inline-block
+    mobileprojects,btnsegment<COLN>month,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-width<COLN> !!!!<LF>scale-cpl<COLN> 25<LF>~color<COLN> #0b485c<LF>cursor<COLN> <LF>display<COLN> table<LF>float<COLN> <LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>width<COLN> 33.3%<LF>background-color<COLN> transparent<LF>border-bottom<COLN> none<LF>border-left<COLN> <LF>border-right<COLN> <LF>border-top<COLN> none<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 12px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>text-decoration<COLN> <LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    mobileprojects,btnsegment<COLN>month,LOCK,false
+    mobileprojects,btnsegment<COLN>month,events,
+    mobileprojects,btnsegment<COLN>month,extend,{}
+mobileprojects,btnsegment<COLN>month,REFRESH, 
+mobileprojects,frame1,TARGET,~
+mobileprojects,frame1,PARENTGROUP,~
+mobileprojects,frame1,load,frame||0|0|370|272|1342177287|32
+    mobileprojects,frame1,group,true
+    mobileprojects,frame1,groupid,0100
+    mobileprojects,frame1,groupby,9999999999
+    mobileprojects,frame1,widgetlock,false
+    mobileprojects,frame1,iswidget,false
+    mobileprojects,frame1,iscollection,false
+    mobileprojects,frame1,collectname,
+    mobileprojects,frame1,widgetname,
+    mobileprojects,frame1,placeholder,
+    mobileprojects,frame1,addedby,
+    mobileprojects,frame1,DOCK,FFFF
+    mobileprojects,frame1,PICTURE,media/img_missing.png
+    mobileprojects,frame1,SIZE,370<PIP>272
+    mobileprojects,frame1,JSON,{}
+    mobileprojects,frame1,TEXT,
+    mobileprojects,frame1,TOOLTIP,
+    mobileprojects,frame1,ENABLED,true
+    mobileprojects,frame1,VISIBLE,true
+    mobileprojects,frame1,ZORDER,0
+    mobileprojects,frame1,FORECOLOR,&h000000
+    mobileprojects,frame1,BACKCOLOR,transparent
+    mobileprojects,frame1,FONTNAME,inherit
+    mobileprojects,frame1,FONTSIZE,inherit
+    mobileprojects,frame1,FONTBOLD,false
+    mobileprojects,frame1,FONTITALIC,false
+    mobileprojects,frame1,FONTUNDERLINE,false
+    mobileprojects,frame1,FONTSTRIKETHRU,false
+    mobileprojects,frame1,INFO,
+    mobileprojects,frame1,PAGECOUNT,0
+    mobileprojects,frame1,DATABIND,
+    mobileprojects,frame1,BINDMAPPING,
+    mobileprojects,frame1,drag.x,1
+    mobileprojects,frame1,drag.y,1
+    mobileprojects,frame1,xdragrange,-1<SEMI> -1
+    mobileprojects,frame1,ydragrange,-1<SEMI> -1
+    mobileprojects,frame1,size.x,1
+    mobileprojects,frame1,size.y,1
+    mobileprojects,frame1,negadj,
+    mobileprojects,frame1,posadj,
+    mobileprojects,frame1,child,false
+    mobileprojects,frame1,displaymode,block
+    mobileprojects,frame1,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> <LF>margin<COLN> 50px 0px 30px 0px<LF>opacity<COLN> <LF>padding<COLN> 20px 10px 10px 10px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> TRANSPARENT<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobileprojects,frame1,LOCK,false
+    mobileprojects,frame1,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileprojects,frame1,extend,{"react"<COLN>"<CR>"}
+mobileprojects,frame1,REFRESH, 
+mobileprojects,picturex1,TARGET,frame1
+mobileprojects,picturex1,PARENTGROUP,frame1
+mobileprojects,picturex1,load,graphicx|media/img_missing.png|0|0|120|120|1342373901|0
+    mobileprojects,picturex1,group,false
+    mobileprojects,picturex1,groupid,0
+    mobileprojects,picturex1,groupby,0100
+    mobileprojects,picturex1,widgetlock,false
+    mobileprojects,picturex1,iswidget,false
+    mobileprojects,picturex1,iscollection,false
+    mobileprojects,picturex1,collectname,
+    mobileprojects,picturex1,widgetname,
+    mobileprojects,picturex1,placeholder,
+    mobileprojects,picturex1,addedby,
+    mobileprojects,picturex1,DOCK,FFFF
+    mobileprojects,picturex1,PICTURE,media/img_missing.png
+    mobileprojects,picturex1,SIZE,120<PIP>120
+    mobileprojects,picturex1,JSON,{}
+    mobileprojects,picturex1,TEXT,
+    mobileprojects,picturex1,TOOLTIP,
+    mobileprojects,picturex1,ENABLED,true
+    mobileprojects,picturex1,VISIBLE,true
+    mobileprojects,picturex1,ZORDER,0
+    mobileprojects,picturex1,FORECOLOR,&h000000
+    mobileprojects,picturex1,BACKCOLOR,&hffffff
+    mobileprojects,picturex1,FONTNAME,inherit
+    mobileprojects,picturex1,FONTSIZE,inherit
+    mobileprojects,picturex1,FONTBOLD,false
+    mobileprojects,picturex1,FONTITALIC,false
+    mobileprojects,picturex1,FONTUNDERLINE,false
+    mobileprojects,picturex1,FONTSTRIKETHRU,false
+    mobileprojects,picturex1,INFO,imagex
+    mobileprojects,picturex1,PAGECOUNT,0
+    mobileprojects,picturex1,DATABIND,
+    mobileprojects,picturex1,BINDMAPPING,
+    mobileprojects,picturex1,drag.x,1
+    mobileprojects,picturex1,drag.y,1
+    mobileprojects,picturex1,xdragrange,-1<SEMI> -1
+    mobileprojects,picturex1,ydragrange,-1<SEMI> -1
+    mobileprojects,picturex1,size.x,1
+    mobileprojects,picturex1,size.y,1
+    mobileprojects,picturex1,negadj,
+    mobileprojects,picturex1,posadj,
+    mobileprojects,picturex1,child,true
+    mobileprojects,picturex1,displaymode,inline-block
+    mobileprojects,picturex1,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-graphicx<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> #ffffff<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin-left<COLN> calc(50% - 60px)<LF>div.margin<COLN> 0px 0px 0px calc(50% - 60)<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    mobileprojects,picturex1,LOCK,false
+    mobileprojects,picturex1,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileprojects,picturex1,extend,{"react"<COLN>"<CR>"}
+mobileprojects,picturex1,REFRESH, 
+mobileprojects,lbinfo,TARGET,frame1
+mobileprojects,lbinfo,PARENTGROUP,frame1
+mobileprojects,lbinfo,load,label|Nothing here. For now.|0|0|105|21|1342377728|32
+    mobileprojects,lbinfo,group,false
+    mobileprojects,lbinfo,groupid,0
+    mobileprojects,lbinfo,groupby,0100
+    mobileprojects,lbinfo,widgetlock,false
+    mobileprojects,lbinfo,iswidget,false
+    mobileprojects,lbinfo,iscollection,false
+    mobileprojects,lbinfo,collectname,
+    mobileprojects,lbinfo,widgetname,
+    mobileprojects,lbinfo,placeholder,
+    mobileprojects,lbinfo,addedby,
+    mobileprojects,lbinfo,DOCK,FFFF
+    mobileprojects,lbinfo,PICTURE,media/img_missing.png
+    mobileprojects,lbinfo,SIZE,105<PIP>21
+    mobileprojects,lbinfo,JSON,{}
+    mobileprojects,lbinfo,TEXT,Nothing here. For now.
+    mobileprojects,lbinfo,TOOLTIP,
+    mobileprojects,lbinfo,ENABLED,true
+    mobileprojects,lbinfo,VISIBLE,true
+    mobileprojects,lbinfo,ZORDER,0
+    mobileprojects,lbinfo,FORECOLOR,&h000000
+    mobileprojects,lbinfo,BACKCOLOR,transparent
+    mobileprojects,lbinfo,FONTNAME,inherit
+    mobileprojects,lbinfo,FONTSIZE,16px
+    mobileprojects,lbinfo,FONTBOLD,true
+    mobileprojects,lbinfo,FONTITALIC,false
+    mobileprojects,lbinfo,FONTUNDERLINE,false
+    mobileprojects,lbinfo,FONTSTRIKETHRU,false
+    mobileprojects,lbinfo,INFO,
+    mobileprojects,lbinfo,PAGECOUNT,0
+    mobileprojects,lbinfo,DATABIND,
+    mobileprojects,lbinfo,BINDMAPPING,
+    mobileprojects,lbinfo,drag.x,1
+    mobileprojects,lbinfo,drag.y,1
+    mobileprojects,lbinfo,xdragrange,-1<SEMI> -1
+    mobileprojects,lbinfo,ydragrange,-1<SEMI> -1
+    mobileprojects,lbinfo,size.x,1
+    mobileprojects,lbinfo,size.y,1
+    mobileprojects,lbinfo,negadj,
+    mobileprojects,lbinfo,posadj,
+    mobileprojects,lbinfo,child,true
+    mobileprojects,lbinfo,displaymode,block
+    mobileprojects,lbinfo,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 16px<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 20px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobileprojects,lbinfo,LOCK,false
+    mobileprojects,lbinfo,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileprojects,lbinfo,extend,{"react"<COLN>"<CR>"}
+mobileprojects,lbinfo,REFRESH, 
+mobileprojects,label2,TARGET,frame1
+mobileprojects,label2,PARENTGROUP,frame1
+mobileprojects,label2,load,label|This is where you'll find your finished projects.|0|0|250|45|1342377728|32
+    mobileprojects,label2,group,false
+    mobileprojects,label2,groupid,0
+    mobileprojects,label2,groupby,0100
+    mobileprojects,label2,widgetlock,false
+    mobileprojects,label2,iswidget,false
+    mobileprojects,label2,iscollection,false
+    mobileprojects,label2,collectname,
+    mobileprojects,label2,widgetname,
+    mobileprojects,label2,placeholder,
+    mobileprojects,label2,addedby,
+    mobileprojects,label2,DOCK,FFFF
+    mobileprojects,label2,PICTURE,media/img_missing.png
+    mobileprojects,label2,SIZE,250<PIP>45
+    mobileprojects,label2,JSON,{}
+    mobileprojects,label2,TEXT,This is where you'll find your finished projects.
+    mobileprojects,label2,TOOLTIP,
+    mobileprojects,label2,ENABLED,true
+    mobileprojects,label2,VISIBLE,true
+    mobileprojects,label2,ZORDER,0
+    mobileprojects,label2,FORECOLOR,&h888
+    mobileprojects,label2,BACKCOLOR,transparent
+    mobileprojects,label2,FONTNAME,inherit
+    mobileprojects,label2,FONTSIZE,11px
+    mobileprojects,label2,FONTBOLD,false
+    mobileprojects,label2,FONTITALIC,false
+    mobileprojects,label2,FONTUNDERLINE,false
+    mobileprojects,label2,FONTSTRIKETHRU,false
+    mobileprojects,label2,INFO,
+    mobileprojects,label2,PAGECOUNT,0
+    mobileprojects,label2,DATABIND,
+    mobileprojects,label2,BINDMAPPING,
+    mobileprojects,label2,drag.x,1
+    mobileprojects,label2,drag.y,1
+    mobileprojects,label2,xdragrange,-1<SEMI> -1
+    mobileprojects,label2,ydragrange,-1<SEMI> -1
+    mobileprojects,label2,size.x,1
+    mobileprojects,label2,size.y,1
+    mobileprojects,label2,negadj,
+    mobileprojects,label2,posadj,
+    mobileprojects,label2,child,true
+    mobileprojects,label2,displaymode,block
+    mobileprojects,label2,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #888<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 11px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 10px 100px 0px 100px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobileprojects,label2,LOCK,false
+    mobileprojects,label2,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileprojects,label2,extend,{"react"<COLN>"<CR>"}
+mobileprojects,label2,REFRESH, 
+mobileprojects,btnconfirm,TARGET,~
+mobileprojects,btnconfirm,PARENTGROUP,~
+mobileprojects,btnconfirm,load,button|Start a project|0|0|370|40|1342394112|32
+    mobileprojects,btnconfirm,group,false
+    mobileprojects,btnconfirm,groupid,0
+    mobileprojects,btnconfirm,groupby,9999999999
+    mobileprojects,btnconfirm,widgetlock,false
+    mobileprojects,btnconfirm,iswidget,false
+    mobileprojects,btnconfirm,iscollection,false
+    mobileprojects,btnconfirm,collectname,
+    mobileprojects,btnconfirm,widgetname,
+    mobileprojects,btnconfirm,placeholder,
+    mobileprojects,btnconfirm,addedby,
+    mobileprojects,btnconfirm,DOCK,FFFF
+    mobileprojects,btnconfirm,PICTURE,media/img_missing.png
+    mobileprojects,btnconfirm,SIZE,370<PIP>40
+    mobileprojects,btnconfirm,JSON,{}
+    mobileprojects,btnconfirm,TEXT,Start a project
+    mobileprojects,btnconfirm,TOOLTIP,
+    mobileprojects,btnconfirm,ENABLED,true
+    mobileprojects,btnconfirm,VISIBLE,true
+    mobileprojects,btnconfirm,ZORDER,0
+    mobileprojects,btnconfirm,FORECOLOR,&hfff
+    mobileprojects,btnconfirm,BACKCOLOR,&h2259a1
+    mobileprojects,btnconfirm,FONTNAME,inherit
+    mobileprojects,btnconfirm,FONTSIZE,12px
+    mobileprojects,btnconfirm,FONTBOLD,false
+    mobileprojects,btnconfirm,FONTITALIC,false
+    mobileprojects,btnconfirm,FONTUNDERLINE,false
+    mobileprojects,btnconfirm,FONTSTRIKETHRU,false
+    mobileprojects,btnconfirm,INFO,
+    mobileprojects,btnconfirm,PAGECOUNT,0
+    mobileprojects,btnconfirm,DATABIND,
+    mobileprojects,btnconfirm,BINDMAPPING,
+    mobileprojects,btnconfirm,drag.x,1
+    mobileprojects,btnconfirm,drag.y,1
+    mobileprojects,btnconfirm,xdragrange,-1<SEMI> -1
+    mobileprojects,btnconfirm,ydragrange,-1<SEMI> -1
+    mobileprojects,btnconfirm,size.x,1
+    mobileprojects,btnconfirm,size.y,1
+    mobileprojects,btnconfirm,negadj,
+    mobileprojects,btnconfirm,posadj,
+    mobileprojects,btnconfirm,child,false
+    mobileprojects,btnconfirm,displaymode,block
+    mobileprojects,btnconfirm,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px solid #bbb<LF>color<COLN> #fff<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #2259a1<LF>border-radius<COLN> 13px<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 10px 120px 0px 120px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobileprojects,btnconfirm,LOCK,false
+    mobileprojects,btnconfirm,events,click<COLN> <CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileprojects,btnconfirm,extend,{"react"<COLN>"<CR>"}
+mobileprojects,btnconfirm,REFRESH, 
+mobileprojects,menubottom,TARGET,~
+mobileprojects,menubottom,PARENTGROUP,~
+mobileprojects,menubottom,load,frame||15|558|370|80|1342177287|32
+    mobileprojects,menubottom,group,true
+    mobileprojects,menubottom,groupid,0800
+    mobileprojects,menubottom,groupby,9999999999
+    mobileprojects,menubottom,widgetlock,false
+    mobileprojects,menubottom,iswidget,false
+    mobileprojects,menubottom,iscollection,false
+    mobileprojects,menubottom,collectname,
+    mobileprojects,menubottom,widgetname,
+    mobileprojects,menubottom,placeholder,
+    mobileprojects,menubottom,addedby,
+    mobileprojects,menubottom,DOCK,FFFF
+    mobileprojects,menubottom,PICTURE,media/img_missing.png
+    mobileprojects,menubottom,SIZE,370<PIP>80
+    mobileprojects,menubottom,JSON,{}
+    mobileprojects,menubottom,TEXT,
+    mobileprojects,menubottom,TOOLTIP,
+    mobileprojects,menubottom,ENABLED,true
+    mobileprojects,menubottom,VISIBLE,true
+    mobileprojects,menubottom,ZORDER,0
+    mobileprojects,menubottom,FORECOLOR,&h000000
+    mobileprojects,menubottom,BACKCOLOR,transparent
+    mobileprojects,menubottom,FONTNAME,inherit
+    mobileprojects,menubottom,FONTSIZE,inherit
+    mobileprojects,menubottom,FONTBOLD,false
+    mobileprojects,menubottom,FONTITALIC,false
+    mobileprojects,menubottom,FONTUNDERLINE,false
+    mobileprojects,menubottom,FONTSTRIKETHRU,false
+    mobileprojects,menubottom,INFO,
+    mobileprojects,menubottom,PAGECOUNT,0
+    mobileprojects,menubottom,DATABIND,
+    mobileprojects,menubottom,BINDMAPPING,
+    mobileprojects,menubottom,drag.x,1
+    mobileprojects,menubottom,drag.y,1
+    mobileprojects,menubottom,xdragrange,-1<SEMI> -1
+    mobileprojects,menubottom,ydragrange,-1<SEMI> -1
+    mobileprojects,menubottom,size.x,1
+    mobileprojects,menubottom,size.y,1
+    mobileprojects,menubottom,negadj,
+    mobileprojects,menubottom,posadj,
+    mobileprojects,menubottom,child,false
+    mobileprojects,menubottom,displaymode,absolute
+    mobileprojects,menubottom,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> <LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> !!!!<LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> inline-block<LF>float<COLN> <LF>height<COLN> <LF>left<COLN> 0px<LF>margin<COLN> 0px 0px 0px 15px<LF>opacity<COLN> <LF>padding<COLN> 20px 0px 10px 0px<LF>position<COLN> absolute<LF>top<COLN> calc(100% - 82px)<LF>visibility<COLN> visible<LF>width<COLN> calc(100% - 30px)<LF>background-color<COLN> TRANSPARENT<LF>border-top<COLN> 1px #bbb dotted<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle
+    mobileprojects,menubottom,LOCK,false
+    mobileprojects,menubottom,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileprojects,menubottom,extend,{"react"<COLN>"<CR>"}
+mobileprojects,menubottom,REFRESH, 
+mobileprojects,icon1,TARGET,menubottom
+mobileprojects,icon1,PARENTGROUP,menubottom
+mobileprojects,icon1,load,icon|Explore|0|0|24|24|1342373901|0
+    mobileprojects,icon1,group,false
+    mobileprojects,icon1,groupid,0
+    mobileprojects,icon1,groupby,0800
+    mobileprojects,icon1,widgetlock,false
+    mobileprojects,icon1,iswidget,false
+    mobileprojects,icon1,iscollection,false
+    mobileprojects,icon1,collectname,
+    mobileprojects,icon1,widgetname,
+    mobileprojects,icon1,placeholder,
+    mobileprojects,icon1,addedby,
+    mobileprojects,icon1,DOCK,FFFF
+    mobileprojects,icon1,PICTURE,media/img_missing.png
+    mobileprojects,icon1,SIZE,24<PIP>24
+    mobileprojects,icon1,JSON,{}
+    mobileprojects,icon1,TEXT,Explore
+    mobileprojects,icon1,TOOLTIP,
+    mobileprojects,icon1,ENABLED,true
+    mobileprojects,icon1,VISIBLE,true
+    mobileprojects,icon1,ZORDER,0
+    mobileprojects,icon1,FORECOLOR,&h000000
+    mobileprojects,icon1,BACKCOLOR,transparent
+    mobileprojects,icon1,FONTNAME,inherit
+    mobileprojects,icon1,FONTSIZE,24px
+    mobileprojects,icon1,FONTBOLD,false
+    mobileprojects,icon1,FONTITALIC,false
+    mobileprojects,icon1,FONTUNDERLINE,false
+    mobileprojects,icon1,FONTSTRIKETHRU,false
+    mobileprojects,icon1,INFO,icon
+    mobileprojects,icon1,PAGECOUNT,0
+    mobileprojects,icon1,DATABIND,
+    mobileprojects,icon1,BINDMAPPING,
+    mobileprojects,icon1,drag.x,1
+    mobileprojects,icon1,drag.y,1
+    mobileprojects,icon1,xdragrange,-1<SEMI> -1
+    mobileprojects,icon1,ydragrange,-1<SEMI> -1
+    mobileprojects,icon1,size.x,1
+    mobileprojects,icon1,size.y,1
+    mobileprojects,icon1,negadj,
+    mobileprojects,icon1,posadj,
+    mobileprojects,icon1,child,true
+    mobileprojects,icon1,displaymode,inline-block
+    mobileprojects,icon1,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-compass<LF>image.title<COLN> Icon tooltip~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin-left<COLN> calc(12% - 10px)<LF>div.margin-right<COLN> calc(12% - 16px)<LF>div.margin<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> #bbbbbb<LF>image.display<COLN> block<LF>image.font-size<COLN> 24px
+    mobileprojects,icon1,LOCK,false
+    mobileprojects,icon1,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileprojects,icon1,extend,{"react"<COLN>"<CR>"}
+mobileprojects,icon1,REFRESH, 
+mobileprojects,icon,TARGET,menubottom
+mobileprojects,icon,PARENTGROUP,menubottom
+mobileprojects,icon,load,icon|Projects|0|0|24|24|1342373901|0
+    mobileprojects,icon,group,false
+    mobileprojects,icon,groupid,0
+    mobileprojects,icon,groupby,0800
+    mobileprojects,icon,widgetlock,false
+    mobileprojects,icon,iswidget,false
+    mobileprojects,icon,iscollection,false
+    mobileprojects,icon,collectname,
+    mobileprojects,icon,widgetname,
+    mobileprojects,icon,placeholder,
+    mobileprojects,icon,addedby,
+    mobileprojects,icon,DOCK,FFFF
+    mobileprojects,icon,PICTURE,media/img_missing.png
+    mobileprojects,icon,SIZE,24<PIP>24
+    mobileprojects,icon,JSON,{}
+    mobileprojects,icon,TEXT,Projects
+    mobileprojects,icon,TOOLTIP,
+    mobileprojects,icon,ENABLED,true
+    mobileprojects,icon,VISIBLE,true
+    mobileprojects,icon,ZORDER,0
+    mobileprojects,icon,FORECOLOR,&h000000
+    mobileprojects,icon,BACKCOLOR,transparent
+    mobileprojects,icon,FONTNAME,inherit
+    mobileprojects,icon,FONTSIZE,24px
+    mobileprojects,icon,FONTBOLD,false
+    mobileprojects,icon,FONTITALIC,false
+    mobileprojects,icon,FONTUNDERLINE,false
+    mobileprojects,icon,FONTSTRIKETHRU,false
+    mobileprojects,icon,INFO,icon
+    mobileprojects,icon,PAGECOUNT,0
+    mobileprojects,icon,DATABIND,
+    mobileprojects,icon,BINDMAPPING,
+    mobileprojects,icon,drag.x,1
+    mobileprojects,icon,drag.y,1
+    mobileprojects,icon,xdragrange,-1<SEMI> -1
+    mobileprojects,icon,ydragrange,-1<SEMI> -1
+    mobileprojects,icon,size.x,1
+    mobileprojects,icon,size.y,1
+    mobileprojects,icon,negadj,
+    mobileprojects,icon,posadj,
+    mobileprojects,icon,child,true
+    mobileprojects,icon,displaymode,inline-block
+    mobileprojects,icon,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-pencil<LF>image.title<COLN> Icon tooltip~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin-left<COLN> calc(12% - 18px)<LF>div.margin-right<COLN> calc(12% - 18px)<LF>div.margin<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> #4488bb<LF>image.display<COLN> block<LF>image.font-size<COLN> 24px
+    mobileprojects,icon,LOCK,false
+    mobileprojects,icon,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileprojects,icon,extend,{"react"<COLN>"<CR>"}
+mobileprojects,icon,REFRESH, 
+mobileprojects,icon2,TARGET,menubottom
+mobileprojects,icon2,PARENTGROUP,menubottom
+mobileprojects,icon2,load,icon|Inbox|0|0|24|24|1342373901|0
+    mobileprojects,icon2,group,false
+    mobileprojects,icon2,groupid,0
+    mobileprojects,icon2,groupby,0800
+    mobileprojects,icon2,widgetlock,false
+    mobileprojects,icon2,iswidget,false
+    mobileprojects,icon2,iscollection,false
+    mobileprojects,icon2,collectname,
+    mobileprojects,icon2,widgetname,
+    mobileprojects,icon2,placeholder,
+    mobileprojects,icon2,addedby,
+    mobileprojects,icon2,DOCK,FFFF
+    mobileprojects,icon2,PICTURE,media/img_missing.png
+    mobileprojects,icon2,SIZE,24<PIP>24
+    mobileprojects,icon2,JSON,{}
+    mobileprojects,icon2,TEXT,Inbox
+    mobileprojects,icon2,TOOLTIP,
+    mobileprojects,icon2,ENABLED,true
+    mobileprojects,icon2,VISIBLE,true
+    mobileprojects,icon2,ZORDER,0
+    mobileprojects,icon2,FORECOLOR,&h000000
+    mobileprojects,icon2,BACKCOLOR,transparent
+    mobileprojects,icon2,FONTNAME,inherit
+    mobileprojects,icon2,FONTSIZE,24px
+    mobileprojects,icon2,FONTBOLD,false
+    mobileprojects,icon2,FONTITALIC,false
+    mobileprojects,icon2,FONTUNDERLINE,false
+    mobileprojects,icon2,FONTSTRIKETHRU,false
+    mobileprojects,icon2,INFO,icon
+    mobileprojects,icon2,PAGECOUNT,0
+    mobileprojects,icon2,DATABIND,
+    mobileprojects,icon2,BINDMAPPING,
+    mobileprojects,icon2,drag.x,1
+    mobileprojects,icon2,drag.y,1
+    mobileprojects,icon2,xdragrange,-1<SEMI> -1
+    mobileprojects,icon2,ydragrange,-1<SEMI> -1
+    mobileprojects,icon2,size.x,1
+    mobileprojects,icon2,size.y,1
+    mobileprojects,icon2,negadj,
+    mobileprojects,icon2,posadj,
+    mobileprojects,icon2,child,true
+    mobileprojects,icon2,displaymode,inline-block
+    mobileprojects,icon2,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-envelope<LF>image.title<COLN> Icon tooltip~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin-left<COLN> calc(12% - 18px)<LF>div.margin-right<COLN> calc(12% - 18px)<LF>div.margin<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> #bbbbbb<LF>image.display<COLN> block<LF>image.font-size<COLN> 24px
+    mobileprojects,icon2,LOCK,false
+    mobileprojects,icon2,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileprojects,icon2,extend,{"react"<COLN>"<CR>"}
+mobileprojects,icon2,REFRESH, 
+mobileprojects,icon3,TARGET,menubottom
+mobileprojects,icon3,PARENTGROUP,menubottom
+mobileprojects,icon3,load,icon|Settings|0|0|24|24|1342373901|0
+    mobileprojects,icon3,group,false
+    mobileprojects,icon3,groupid,0
+    mobileprojects,icon3,groupby,0800
+    mobileprojects,icon3,widgetlock,false
+    mobileprojects,icon3,iswidget,false
+    mobileprojects,icon3,iscollection,false
+    mobileprojects,icon3,collectname,
+    mobileprojects,icon3,widgetname,
+    mobileprojects,icon3,placeholder,
+    mobileprojects,icon3,addedby,
+    mobileprojects,icon3,DOCK,FFFF
+    mobileprojects,icon3,PICTURE,media/img_missing.png
+    mobileprojects,icon3,SIZE,24<PIP>24
+    mobileprojects,icon3,JSON,{}
+    mobileprojects,icon3,TEXT,Settings
+    mobileprojects,icon3,TOOLTIP,
+    mobileprojects,icon3,ENABLED,true
+    mobileprojects,icon3,VISIBLE,true
+    mobileprojects,icon3,ZORDER,0
+    mobileprojects,icon3,FORECOLOR,&h000000
+    mobileprojects,icon3,BACKCOLOR,transparent
+    mobileprojects,icon3,FONTNAME,inherit
+    mobileprojects,icon3,FONTSIZE,24px
+    mobileprojects,icon3,FONTBOLD,false
+    mobileprojects,icon3,FONTITALIC,false
+    mobileprojects,icon3,FONTUNDERLINE,false
+    mobileprojects,icon3,FONTSTRIKETHRU,false
+    mobileprojects,icon3,INFO,icon
+    mobileprojects,icon3,PAGECOUNT,0
+    mobileprojects,icon3,DATABIND,
+    mobileprojects,icon3,BINDMAPPING,
+    mobileprojects,icon3,drag.x,1
+    mobileprojects,icon3,drag.y,1
+    mobileprojects,icon3,xdragrange,-1<SEMI> -1
+    mobileprojects,icon3,ydragrange,-1<SEMI> -1
+    mobileprojects,icon3,size.x,1
+    mobileprojects,icon3,size.y,1
+    mobileprojects,icon3,negadj,
+    mobileprojects,icon3,posadj,
+    mobileprojects,icon3,child,true
+    mobileprojects,icon3,displaymode,inline-block
+    mobileprojects,icon3,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-user<LF>image.title<COLN> Icon tooltip~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin-left<COLN> calc(12% - 18px)<LF>div.margin-right<COLN> calc(12% - 18px)<LF>div.margin<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> #bbbbbb<LF>image.display<COLN> block<LF>image.font-size<COLN> 24px
+    mobileprojects,icon3,LOCK,false
+    mobileprojects,icon3,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileprojects,icon3,extend,{"react"<COLN>"<CR>"}
+mobileprojects,icon3,REFRESH, 
+mobileprojects,,SETVIEW,
+mobileprojects,,HIDE,
+mobileprojects,,REFRESH,true

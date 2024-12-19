@@ -1,0 +1,835 @@
+mobilefeedback,,SURFACE,New Surface|50|155|400|640|268435476|65568
+    mobilefeedback,,version,5.0
+    mobilefeedback,,loadlibs,New Surface
+    mobilefeedback,,groupid,9999999999
+    mobilefeedback,,groupby,0
+    mobilefeedback,,runpos,0|0
+    mobilefeedback,,DOCK,FFFF
+    mobilefeedback,,PARENT,
+    mobilefeedback,,MARGINS,
+    mobilefeedback,,AUTOSIZE,false
+    mobilefeedback,,JSON,{}
+    mobilefeedback,,TEXT,New Surface
+    mobilefeedback,,TOOLTIP,
+    mobilefeedback,,ENABLED,true
+    mobilefeedback,,VISIBLE,true
+    mobilefeedback,,FORECOLOR,&heeeeee
+    mobilefeedback,,BACKCOLOR,&hffffff
+    mobilefeedback,,ICON,
+    mobilefeedback,,FONTNAME,roboto
+    mobilefeedback,,FONTSIZE,14px
+    mobilefeedback,,FONTBOLD,false
+    mobilefeedback,,FONTITALIC,false
+    mobilefeedback,,FONTUNDERLINE,false
+    mobilefeedback,,FONTSTRIKETHRU,false
+    mobilefeedback,,MENUBAR,
+    mobilefeedback,,TOOLBAR,
+    mobilefeedback,,STATUSBAR,
+    mobilefeedback,,SAVESTATE,false
+    mobilefeedback,,drag.x,
+    mobilefeedback,,drag.y,
+    mobilefeedback,,xdragrange,
+    mobilefeedback,,ydragrange,
+    mobilefeedback,,size.x,
+    mobilefeedback,,size.y,
+    mobilefeedback,,negadj,
+    mobilefeedback,,posadj,
+    mobilefeedback,,TAG,~_private<COLN> false<LF>autosize<COLN> false<LF>bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>clipmenu<COLN> true<LF>donottheme<COLN> false<LF>dragable<COLN> true<LF>flattenonpull<COLN> true<LF>hotkey<COLN> <LF>ignorezorder<COLN> false<LF>output<COLN> normal<LF>prevent<COLN> <LF>record<COLN> <LF>shadow<COLN> true<LF>sizeable<COLN> true<LF>theme<COLN> nimble-form<LF>toggleonflip<COLN> true<LF>useastheme<COLN> false<LF>watch<COLN> false<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>body.lock-height<COLN> <LF>body.version<COLN> v5.0~color<COLN> #EEEEEE<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 20px<LF>font-family<COLN> roboto<LF>font-size<COLN> 14px<LF>pointer-events<COLN> auto<LF>z-index<COLN> 2<LF>body.background-color<COLN> transparent<LF>body.box-sizing<COLN> border-box<LF>body.color<COLN> #eeeeee<LF>body.overflow-y<COLN> auto<LF>body.padding<COLN> 10px 15px 10px 15px<LF>body.text-align<COLN> center<LF>body.vertical-align<COLN>
+    mobilefeedback,,events,activate<COLN> <CR>adjustlayout<COLN> <CR>afterpull<COLN> <CR>afterpush<COLN> <CR>beforeunload<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>disabled<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enabled<COLN> <CR>enterkey<COLN> <CR>fullscreen<COLN> <CR>gotfocus<COLN> <CR>hide<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>load<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>maximize<COLN> <CR>menu<COLN> <CR>minimize<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>move<COLN> <CR>move<COLN> <CR>onpull<COLN> <CR>onpush<COLN> <CR>refresh<COLN> <CR>resize<COLN> <CR>restore<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN> <CR>unload<COLN> <CR>viewchange<COLN> <CR>widgetloaded<COLN> <CR>widgetunloading<COLN>
+    mobilefeedback,,extend,{"react"<COLN>"<CR>"}
+    mobilefeedback,,GROUPIDS,[0100][0200][0400][0500][0700]
+    mobilefeedback,,WSTYLES,268435476
+    mobilefeedback,,WSTYLESEX,65568
+    mobilefeedback,,WIDTH,400
+    mobilefeedback,,HEIGHT,640
+    mobilefeedback,,EDITPOS,50|155
+mobilefeedback,header,TARGET,~
+mobilefeedback,header,PARENTGROUP,~
+mobilefeedback,header,load,frame||0|0|362|65|1342177287|32
+    mobilefeedback,header,group,true
+    mobilefeedback,header,groupid,0100
+    mobilefeedback,header,groupby,9999999999
+    mobilefeedback,header,widgetlock,false
+    mobilefeedback,header,iswidget,false
+    mobilefeedback,header,iscollection,false
+    mobilefeedback,header,collectname,
+    mobilefeedback,header,widgetname,
+    mobilefeedback,header,placeholder,
+    mobilefeedback,header,addedby,
+    mobilefeedback,header,DOCK,FFFF
+    mobilefeedback,header,PICTURE,media/img_missing.png
+    mobilefeedback,header,SIZE,362<PIP>65
+    mobilefeedback,header,JSON,{}
+    mobilefeedback,header,TEXT,
+    mobilefeedback,header,TOOLTIP,
+    mobilefeedback,header,ENABLED,true
+    mobilefeedback,header,VISIBLE,true
+    mobilefeedback,header,ZORDER,0
+    mobilefeedback,header,FORECOLOR,&h000000
+    mobilefeedback,header,BACKCOLOR,transparent
+    mobilefeedback,header,FONTNAME,inherit
+    mobilefeedback,header,FONTSIZE,inherit
+    mobilefeedback,header,FONTBOLD,false
+    mobilefeedback,header,FONTITALIC,false
+    mobilefeedback,header,FONTUNDERLINE,false
+    mobilefeedback,header,FONTSTRIKETHRU,false
+    mobilefeedback,header,INFO,
+    mobilefeedback,header,PAGECOUNT,0
+    mobilefeedback,header,DATABIND,
+    mobilefeedback,header,BINDMAPPING,
+    mobilefeedback,header,drag.x,1
+    mobilefeedback,header,drag.y,1
+    mobilefeedback,header,xdragrange,-1<SEMI> -1
+    mobilefeedback,header,ydragrange,-1<SEMI> -1
+    mobilefeedback,header,size.x,1
+    mobilefeedback,header,size.y,1
+    mobilefeedback,header,negadj,
+    mobilefeedback,header,posadj,
+    mobilefeedback,header,child,false
+    mobilefeedback,header,displaymode,block
+    mobilefeedback,header,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> <LF>margin<COLN> 15px 0px 30px 0px<LF>opacity<COLN> <LF>padding<COLN> 5px 10px 10px 10px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> TRANSPARENT<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilefeedback,header,LOCK,false
+    mobilefeedback,header,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilefeedback,header,extend,{"react"<COLN>"<CR>"}
+mobilefeedback,header,REFRESH, 
+mobilefeedback,lbinfo,TARGET,header
+mobilefeedback,lbinfo,PARENTGROUP,header
+mobilefeedback,lbinfo,load,label|Feedback|0|0|105|21|1342377728|32
+    mobilefeedback,lbinfo,group,false
+    mobilefeedback,lbinfo,groupid,0
+    mobilefeedback,lbinfo,groupby,0100
+    mobilefeedback,lbinfo,widgetlock,false
+    mobilefeedback,lbinfo,iswidget,false
+    mobilefeedback,lbinfo,iscollection,false
+    mobilefeedback,lbinfo,collectname,
+    mobilefeedback,lbinfo,widgetname,
+    mobilefeedback,lbinfo,placeholder,
+    mobilefeedback,lbinfo,addedby,
+    mobilefeedback,lbinfo,DOCK,FFFF
+    mobilefeedback,lbinfo,PICTURE,media/img_missing.png
+    mobilefeedback,lbinfo,SIZE,105<PIP>21
+    mobilefeedback,lbinfo,JSON,{}
+    mobilefeedback,lbinfo,TEXT,Feedback
+    mobilefeedback,lbinfo,TOOLTIP,
+    mobilefeedback,lbinfo,ENABLED,true
+    mobilefeedback,lbinfo,VISIBLE,true
+    mobilefeedback,lbinfo,ZORDER,0
+    mobilefeedback,lbinfo,FORECOLOR,&h000000
+    mobilefeedback,lbinfo,BACKCOLOR,transparent
+    mobilefeedback,lbinfo,FONTNAME,inherit
+    mobilefeedback,lbinfo,FONTSIZE,16px
+    mobilefeedback,lbinfo,FONTBOLD,true
+    mobilefeedback,lbinfo,FONTITALIC,false
+    mobilefeedback,lbinfo,FONTUNDERLINE,false
+    mobilefeedback,lbinfo,FONTSTRIKETHRU,false
+    mobilefeedback,lbinfo,INFO,
+    mobilefeedback,lbinfo,PAGECOUNT,0
+    mobilefeedback,lbinfo,DATABIND,
+    mobilefeedback,lbinfo,BINDMAPPING,
+    mobilefeedback,lbinfo,drag.x,1
+    mobilefeedback,lbinfo,drag.y,1
+    mobilefeedback,lbinfo,xdragrange,-1<SEMI> -1
+    mobilefeedback,lbinfo,ydragrange,-1<SEMI> -1
+    mobilefeedback,lbinfo,size.x,1
+    mobilefeedback,lbinfo,size.y,1
+    mobilefeedback,lbinfo,negadj,
+    mobilefeedback,lbinfo,posadj,
+    mobilefeedback,lbinfo,child,true
+    mobilefeedback,lbinfo,displaymode,block
+    mobilefeedback,lbinfo,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 16px<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilefeedback,lbinfo,LOCK,false
+    mobilefeedback,lbinfo,events,
+    mobilefeedback,lbinfo,extend,{}
+mobilefeedback,lbinfo,REFRESH, 
+mobilefeedback,label2,TARGET,header
+mobilefeedback,label2,PARENTGROUP,header
+mobilefeedback,label2,load,label|Help to improve our product.|0|0|300|24|1342377728|32
+    mobilefeedback,label2,group,false
+    mobilefeedback,label2,groupid,0
+    mobilefeedback,label2,groupby,0100
+    mobilefeedback,label2,widgetlock,false
+    mobilefeedback,label2,iswidget,false
+    mobilefeedback,label2,iscollection,false
+    mobilefeedback,label2,collectname,
+    mobilefeedback,label2,widgetname,
+    mobilefeedback,label2,placeholder,
+    mobilefeedback,label2,addedby,
+    mobilefeedback,label2,DOCK,FFFF
+    mobilefeedback,label2,PICTURE,media/img_missing.png
+    mobilefeedback,label2,SIZE,300<PIP>24
+    mobilefeedback,label2,JSON,{}
+    mobilefeedback,label2,TEXT,Help to improve our product.
+    mobilefeedback,label2,TOOLTIP,
+    mobilefeedback,label2,ENABLED,true
+    mobilefeedback,label2,VISIBLE,true
+    mobilefeedback,label2,ZORDER,0
+    mobilefeedback,label2,FORECOLOR,&h888
+    mobilefeedback,label2,BACKCOLOR,transparent
+    mobilefeedback,label2,FONTNAME,inherit
+    mobilefeedback,label2,FONTSIZE,11px
+    mobilefeedback,label2,FONTBOLD,false
+    mobilefeedback,label2,FONTITALIC,false
+    mobilefeedback,label2,FONTUNDERLINE,false
+    mobilefeedback,label2,FONTSTRIKETHRU,false
+    mobilefeedback,label2,INFO,
+    mobilefeedback,label2,PAGECOUNT,0
+    mobilefeedback,label2,DATABIND,
+    mobilefeedback,label2,BINDMAPPING,
+    mobilefeedback,label2,drag.x,1
+    mobilefeedback,label2,drag.y,1
+    mobilefeedback,label2,xdragrange,-1<SEMI> -1
+    mobilefeedback,label2,ydragrange,-1<SEMI> -1
+    mobilefeedback,label2,size.x,1
+    mobilefeedback,label2,size.y,1
+    mobilefeedback,label2,negadj,
+    mobilefeedback,label2,posadj,
+    mobilefeedback,label2,child,true
+    mobilefeedback,label2,displaymode,block
+    mobilefeedback,label2,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #888<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 11px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 5px 25px 0px 25px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilefeedback,label2,LOCK,false
+    mobilefeedback,label2,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilefeedback,label2,extend,{"react"<COLN>"<CR>"}
+mobilefeedback,label2,REFRESH, 
+mobilefeedback,icnback,TARGET,header
+mobilefeedback,icnback,PARENTGROUP,header
+mobilefeedback,icnback,load,icon|media/img_missing.png|0|1|24|24|1342373901|0
+    mobilefeedback,icnback,group,false
+    mobilefeedback,icnback,groupid,0
+    mobilefeedback,icnback,groupby,0100
+    mobilefeedback,icnback,widgetlock,false
+    mobilefeedback,icnback,iswidget,false
+    mobilefeedback,icnback,iscollection,false
+    mobilefeedback,icnback,collectname,
+    mobilefeedback,icnback,widgetname,
+    mobilefeedback,icnback,placeholder,
+    mobilefeedback,icnback,addedby,
+    mobilefeedback,icnback,DOCK,FFFF
+    mobilefeedback,icnback,PICTURE,media/img_missing.png
+    mobilefeedback,icnback,SIZE,24<PIP>24
+    mobilefeedback,icnback,JSON,{}
+    mobilefeedback,icnback,TEXT,
+    mobilefeedback,icnback,TOOLTIP,
+    mobilefeedback,icnback,ENABLED,true
+    mobilefeedback,icnback,VISIBLE,true
+    mobilefeedback,icnback,ZORDER,0
+    mobilefeedback,icnback,FORECOLOR,&h2259a1
+    mobilefeedback,icnback,BACKCOLOR,transparent
+    mobilefeedback,icnback,FONTNAME,inherit
+    mobilefeedback,icnback,FONTSIZE,24px
+    mobilefeedback,icnback,FONTBOLD,false
+    mobilefeedback,icnback,FONTITALIC,false
+    mobilefeedback,icnback,FONTUNDERLINE,false
+    mobilefeedback,icnback,FONTSTRIKETHRU,false
+    mobilefeedback,icnback,INFO,icon
+    mobilefeedback,icnback,PAGECOUNT,0
+    mobilefeedback,icnback,DATABIND,
+    mobilefeedback,icnback,BINDMAPPING,
+    mobilefeedback,icnback,drag.x,1
+    mobilefeedback,icnback,drag.y,1
+    mobilefeedback,icnback,xdragrange,-1<SEMI> -1
+    mobilefeedback,icnback,ydragrange,-1<SEMI> -1
+    mobilefeedback,icnback,size.x,1
+    mobilefeedback,icnback,size.y,1
+    mobilefeedback,icnback,negadj,
+    mobilefeedback,icnback,posadj,
+    mobilefeedback,icnback,child,true
+    mobilefeedback,icnback,displaymode,absolute
+    mobilefeedback,icnback,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> <LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-chevron-left<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> #2259a1<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> absolute<LF>div.width<COLN> <LF>image.color<COLN> &H2259A1<LF>image.display<COLN> block<LF>image.font-size<COLN> 24px
+    mobilefeedback,icnback,LOCK,false
+    mobilefeedback,icnback,events,
+    mobilefeedback,icnback,extend,{}
+mobilefeedback,icnback,REFRESH, 
+mobilefeedback,content,TARGET,~
+mobilefeedback,content,PARENTGROUP,~
+mobilefeedback,content,load,frame||0|0|370|465|1342227719|32
+    mobilefeedback,content,group,true
+    mobilefeedback,content,groupid,0200
+    mobilefeedback,content,groupby,9999999999
+    mobilefeedback,content,widgetlock,false
+    mobilefeedback,content,iswidget,false
+    mobilefeedback,content,iscollection,false
+    mobilefeedback,content,collectname,
+    mobilefeedback,content,widgetname,
+    mobilefeedback,content,placeholder,
+    mobilefeedback,content,addedby,
+    mobilefeedback,content,DOCK,FFFF
+    mobilefeedback,content,PICTURE,media/img_missing.png
+    mobilefeedback,content,SIZE,370<PIP>465
+    mobilefeedback,content,JSON,{}
+    mobilefeedback,content,TEXT,
+    mobilefeedback,content,TOOLTIP,
+    mobilefeedback,content,ENABLED,true
+    mobilefeedback,content,VISIBLE,true
+    mobilefeedback,content,ZORDER,0
+    mobilefeedback,content,FORECOLOR,&h000000
+    mobilefeedback,content,BACKCOLOR,transparent
+    mobilefeedback,content,FONTNAME,inherit
+    mobilefeedback,content,FONTSIZE,inherit
+    mobilefeedback,content,FONTBOLD,false
+    mobilefeedback,content,FONTITALIC,false
+    mobilefeedback,content,FONTUNDERLINE,false
+    mobilefeedback,content,FONTSTRIKETHRU,false
+    mobilefeedback,content,INFO,
+    mobilefeedback,content,PAGECOUNT,0
+    mobilefeedback,content,DATABIND,
+    mobilefeedback,content,BINDMAPPING,
+    mobilefeedback,content,drag.x,1
+    mobilefeedback,content,drag.y,1
+    mobilefeedback,content,xdragrange,-1<SEMI> -1
+    mobilefeedback,content,ydragrange,-1<SEMI> -1
+    mobilefeedback,content,size.x,1
+    mobilefeedback,content,size.y,1
+    mobilefeedback,content,negadj,
+    mobilefeedback,content,posadj,
+    mobilefeedback,content,child,false
+    mobilefeedback,content,displaymode,block
+    mobilefeedback,content,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>float<COLN> <LF>height<COLN> auto<LF>opacity<COLN> <LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> TRANSPARENT<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilefeedback,content,LOCK,false
+    mobilefeedback,content,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilefeedback,content,extend,{"react"<COLN>"<CR>"}
+mobilefeedback,content,REFRESH, 
+mobilefeedback,survey,TARGET,content
+mobilefeedback,survey,PARENTGROUP,content
+mobilefeedback,survey,load,frame||0|0|368|116|1342227719|32
+    mobilefeedback,survey,group,true
+    mobilefeedback,survey,groupid,0400
+    mobilefeedback,survey,groupby,0200
+    mobilefeedback,survey,widgetlock,false
+    mobilefeedback,survey,iswidget,true
+    mobilefeedback,survey,iscollection,false
+    mobilefeedback,survey,collectname,
+    mobilefeedback,survey,widgetname,
+    mobilefeedback,survey,placeholder,
+    mobilefeedback,survey,addedby,
+    mobilefeedback,survey,DOCK,FFFF
+    mobilefeedback,survey,PICTURE,media/img_missing.png
+    mobilefeedback,survey,SIZE,368<PIP>116
+    mobilefeedback,survey,JSON,{}
+    mobilefeedback,survey,TEXT,
+    mobilefeedback,survey,TOOLTIP,
+    mobilefeedback,survey,ENABLED,true
+    mobilefeedback,survey,VISIBLE,true
+    mobilefeedback,survey,ZORDER,0
+    mobilefeedback,survey,FORECOLOR,&h000000
+    mobilefeedback,survey,BACKCOLOR,transparent
+    mobilefeedback,survey,FONTNAME,inherit
+    mobilefeedback,survey,FONTSIZE,inherit
+    mobilefeedback,survey,FONTBOLD,false
+    mobilefeedback,survey,FONTITALIC,false
+    mobilefeedback,survey,FONTUNDERLINE,false
+    mobilefeedback,survey,FONTSTRIKETHRU,false
+    mobilefeedback,survey,INFO,
+    mobilefeedback,survey,PAGECOUNT,0
+    mobilefeedback,survey,DATABIND,
+    mobilefeedback,survey,BINDMAPPING,
+    mobilefeedback,survey,drag.x,1
+    mobilefeedback,survey,drag.y,1
+    mobilefeedback,survey,xdragrange,-1<SEMI> -1
+    mobilefeedback,survey,ydragrange,-1<SEMI> -1
+    mobilefeedback,survey,size.x,1
+    mobilefeedback,survey,size.y,1
+    mobilefeedback,survey,negadj,
+    mobilefeedback,survey,posadj,
+    mobilefeedback,survey,child,true
+    mobilefeedback,survey,displaymode,block
+    mobilefeedback,survey,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>float<COLN> <LF>height<COLN> auto<LF>margin<COLN> 0px 0px 0px 0px<LF>opacity<COLN> <LF>padding<COLN> 10px 10px 10px 10px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> TRANSPARENT<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilefeedback,survey,LOCK,false
+    mobilefeedback,survey,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilefeedback,survey,extend,{"react"<COLN>"<CR>"}
+mobilefeedback,survey,REFRESH, 
+mobilefeedback,survey<COLN>question,TARGET,survey
+mobilefeedback,survey<COLN>question,PARENTGROUP,survey
+mobilefeedback,survey<COLN>question,load,label|What did you like about it?|0|0|105|21|1342377216|32
+    mobilefeedback,survey<COLN>question,group,false
+    mobilefeedback,survey<COLN>question,groupid,0
+    mobilefeedback,survey<COLN>question,groupby,0400
+    mobilefeedback,survey<COLN>question,widgetlock,false
+    mobilefeedback,survey<COLN>question,iswidget,true
+    mobilefeedback,survey<COLN>question,iscollection,false
+    mobilefeedback,survey<COLN>question,collectname,
+    mobilefeedback,survey<COLN>question,widgetname,
+    mobilefeedback,survey<COLN>question,placeholder,
+    mobilefeedback,survey<COLN>question,addedby,
+    mobilefeedback,survey<COLN>question,DOCK,FFFF
+    mobilefeedback,survey<COLN>question,PICTURE,media/img_missing.png
+    mobilefeedback,survey<COLN>question,SIZE,105<PIP>21
+    mobilefeedback,survey<COLN>question,JSON,{}
+    mobilefeedback,survey<COLN>question,TEXT,What did you like about it?
+    mobilefeedback,survey<COLN>question,TOOLTIP,
+    mobilefeedback,survey<COLN>question,ENABLED,true
+    mobilefeedback,survey<COLN>question,VISIBLE,true
+    mobilefeedback,survey<COLN>question,ZORDER,0
+    mobilefeedback,survey<COLN>question,FORECOLOR,&h000000
+    mobilefeedback,survey<COLN>question,BACKCOLOR,transparent
+    mobilefeedback,survey<COLN>question,FONTNAME,inherit
+    mobilefeedback,survey<COLN>question,FONTSIZE,inherit
+    mobilefeedback,survey<COLN>question,FONTBOLD,true
+    mobilefeedback,survey<COLN>question,FONTITALIC,false
+    mobilefeedback,survey<COLN>question,FONTUNDERLINE,false
+    mobilefeedback,survey<COLN>question,FONTSTRIKETHRU,false
+    mobilefeedback,survey<COLN>question,INFO,
+    mobilefeedback,survey<COLN>question,PAGECOUNT,0
+    mobilefeedback,survey<COLN>question,DATABIND,
+    mobilefeedback,survey<COLN>question,BINDMAPPING,
+    mobilefeedback,survey<COLN>question,drag.x,1
+    mobilefeedback,survey<COLN>question,drag.y,1
+    mobilefeedback,survey<COLN>question,xdragrange,-1<SEMI> -1
+    mobilefeedback,survey<COLN>question,ydragrange,-1<SEMI> -1
+    mobilefeedback,survey<COLN>question,size.x,1
+    mobilefeedback,survey<COLN>question,size.y,1
+    mobilefeedback,survey<COLN>question,negadj,
+    mobilefeedback,survey<COLN>question,posadj,
+    mobilefeedback,survey<COLN>question,child,true
+    mobilefeedback,survey<COLN>question,displaymode,block
+    mobilefeedback,survey<COLN>question,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilefeedback,survey<COLN>question,LOCK,false
+    mobilefeedback,survey<COLN>question,events,
+    mobilefeedback,survey<COLN>question,extend,{}
+mobilefeedback,survey<COLN>question,REFRESH, 
+mobilefeedback,survey<COLN>options,TARGET,survey
+mobilefeedback,survey<COLN>options,PARENTGROUP,survey
+mobilefeedback,survey<COLN>options,load,listbox|<LB>''selectindex''<COLN>0<COMMA>''listsize''<COLN>5<COMMA>''list''<COLN><LK>''ListItem 1''<COMMA>''ListItem 2''<COMMA>''ListItem 3''<COMMA>''ListItem 4''<COMMA>''ListItem 5''<RK><COMMA>''value''<COLN><LK>''Value1''<COMMA>''Value2''<COMMA>''Value3''<COMMA>''Value4''<COMMA>''Value5''<RK><RB>|0|0|347|68|1342374145|131072
+    mobilefeedback,survey<COLN>options,group,false
+    mobilefeedback,survey<COLN>options,groupid,0
+    mobilefeedback,survey<COLN>options,groupby,0400
+    mobilefeedback,survey<COLN>options,widgetlock,false
+    mobilefeedback,survey<COLN>options,iswidget,true
+    mobilefeedback,survey<COLN>options,iscollection,false
+    mobilefeedback,survey<COLN>options,collectname,
+    mobilefeedback,survey<COLN>options,widgetname,
+    mobilefeedback,survey<COLN>options,placeholder,select value..
+    mobilefeedback,survey<COLN>options,addedby,
+    mobilefeedback,survey<COLN>options,DOCK,FFFF
+    mobilefeedback,survey<COLN>options,PICTURE,media/img_missing.png
+    mobilefeedback,survey<COLN>options,SIZE,347<PIP>68
+    mobilefeedback,survey<COLN>options,JSON,{}
+    mobilefeedback,survey<COLN>options,TEXT,
+    mobilefeedback,survey<COLN>options,TOOLTIP,Click to change forum.
+    mobilefeedback,survey<COLN>options,ENABLED,true
+    mobilefeedback,survey<COLN>options,VISIBLE,true
+    mobilefeedback,survey<COLN>options,ZORDER,0
+    mobilefeedback,survey<COLN>options,FORECOLOR,&h000000
+    mobilefeedback,survey<COLN>options,BACKCOLOR,transparent
+    mobilefeedback,survey<COLN>options,FONTNAME,arial<COMMA> helvetica<COMMA> sans-serif
+    mobilefeedback,survey<COLN>options,FONTSIZE,14px
+    mobilefeedback,survey<COLN>options,FONTBOLD,false
+    mobilefeedback,survey<COLN>options,FONTITALIC,false
+    mobilefeedback,survey<COLN>options,FONTUNDERLINE,false
+    mobilefeedback,survey<COLN>options,FONTSTRIKETHRU,false
+    mobilefeedback,survey<COLN>options,INFO,listbox
+    mobilefeedback,survey<COLN>options,PAGECOUNT,0
+    mobilefeedback,survey<COLN>options,DATABIND,
+    mobilefeedback,survey<COLN>options,BINDMAPPING,
+    mobilefeedback,survey<COLN>options,drag.x,1
+    mobilefeedback,survey<COLN>options,drag.y,1
+    mobilefeedback,survey<COLN>options,xdragrange,-1<SEMI> -1
+    mobilefeedback,survey<COLN>options,ydragrange,-1<SEMI> -1
+    mobilefeedback,survey<COLN>options,size.x,1
+    mobilefeedback,survey<COLN>options,size.y,1
+    mobilefeedback,survey<COLN>options,negadj,
+    mobilefeedback,survey<COLN>options,posadj,
+    mobilefeedback,survey<COLN>options,child,true
+    mobilefeedback,survey<COLN>options,displaymode,block
+    mobilefeedback,survey<COLN>options,TAG,var options = <LB><LF>    selectindex<COLN> 0<COMMA><LF>    listsize<COLN> 5<COMMA><LF>    list<COLN> <LK>'Easy to use'<COMMA>'Complete'<COMMA>'Helpful'<COMMA>'Convenient'<COMMA>'Looks good'<RK><COMMA><LF>    value<COLN> <LK>'easy'<COMMA>'complete'<COMMA>'helpful'<COMMA>'convenient'<COMMA>'looks'<RK><LF><RB>;<LF>~bind<COLN> true<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> Select value..<LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-listbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> type<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>items.item-dir<COLN> horizontal<LF>items.item-style<COLN> white-space=nowrap;min-width=10%;width=auto;background=lightblue;border-radius=10px;margin=2.5px;padding=3px 12px;text-align=center;vertical-align=center~border<COLN> 0px solid #444<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>padding<COLN> 0px 0px 0px 5px<LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>border-radius<COLN> 7px<LF>box-sizing<COLN> border-box<LF>font-family<COLN> arial<COMMA> helvetica<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>text-decoration<COLN> <LF>vertical-align<COLN><LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 5px 0px 0px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto<LF>items.background-color<COLN> transparent<LF>items.overflow<COLN> hidden<LF>items.white-space<COLN> normal<LF>items.width<COLN> auto
+    mobilefeedback,survey<COLN>options,LOCK,false
+    mobilefeedback,survey<COLN>options,ITEMS,likes.lst
+    mobilefeedback,survey<COLN>options,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>scroll<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilefeedback,survey<COLN>options,extend,{"react"<COLN>"<CR>"}
+mobilefeedback,survey<COLN>options,REFRESH, 
+mobilefeedback,survey1,TARGET,content
+mobilefeedback,survey1,PARENTGROUP,content
+mobilefeedback,survey1,load,frame||0|0|368|116|1342227719|32
+    mobilefeedback,survey1,group,true
+    mobilefeedback,survey1,groupid,0500
+    mobilefeedback,survey1,groupby,0200
+    mobilefeedback,survey1,widgetlock,false
+    mobilefeedback,survey1,iswidget,true
+    mobilefeedback,survey1,iscollection,false
+    mobilefeedback,survey1,collectname,
+    mobilefeedback,survey1,widgetname,
+    mobilefeedback,survey1,placeholder,
+    mobilefeedback,survey1,addedby,
+    mobilefeedback,survey1,DOCK,FFFF
+    mobilefeedback,survey1,PICTURE,media/img_missing.png
+    mobilefeedback,survey1,SIZE,368<PIP>116
+    mobilefeedback,survey1,JSON,{}
+    mobilefeedback,survey1,TEXT,
+    mobilefeedback,survey1,TOOLTIP,
+    mobilefeedback,survey1,ENABLED,true
+    mobilefeedback,survey1,VISIBLE,true
+    mobilefeedback,survey1,ZORDER,0
+    mobilefeedback,survey1,FORECOLOR,&h000000
+    mobilefeedback,survey1,BACKCOLOR,transparent
+    mobilefeedback,survey1,FONTNAME,inherit
+    mobilefeedback,survey1,FONTSIZE,inherit
+    mobilefeedback,survey1,FONTBOLD,false
+    mobilefeedback,survey1,FONTITALIC,false
+    mobilefeedback,survey1,FONTUNDERLINE,false
+    mobilefeedback,survey1,FONTSTRIKETHRU,false
+    mobilefeedback,survey1,INFO,
+    mobilefeedback,survey1,PAGECOUNT,0
+    mobilefeedback,survey1,DATABIND,
+    mobilefeedback,survey1,BINDMAPPING,
+    mobilefeedback,survey1,drag.x,1
+    mobilefeedback,survey1,drag.y,1
+    mobilefeedback,survey1,xdragrange,-1<SEMI> -1
+    mobilefeedback,survey1,ydragrange,-1<SEMI> -1
+    mobilefeedback,survey1,size.x,1
+    mobilefeedback,survey1,size.y,1
+    mobilefeedback,survey1,negadj,
+    mobilefeedback,survey1,posadj,
+    mobilefeedback,survey1,child,true
+    mobilefeedback,survey1,displaymode,block
+    mobilefeedback,survey1,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>float<COLN> <LF>height<COLN> auto<LF>margin<COLN> 0px 0px 0px 0px<LF>opacity<COLN> <LF>padding<COLN> 10px 10px 10px 10px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> TRANSPARENT<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilefeedback,survey1,LOCK,false
+    mobilefeedback,survey1,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilefeedback,survey1,extend,{"react"<COLN>"<CR>"}
+mobilefeedback,survey1,REFRESH, 
+mobilefeedback,survey1<COLN>question,TARGET,survey1
+mobilefeedback,survey1<COLN>question,PARENTGROUP,survey1
+mobilefeedback,survey1<COLN>question,load,label|What could be improved?|0|0|105|21|1342377216|32
+    mobilefeedback,survey1<COLN>question,group,false
+    mobilefeedback,survey1<COLN>question,groupid,0
+    mobilefeedback,survey1<COLN>question,groupby,0500
+    mobilefeedback,survey1<COLN>question,widgetlock,false
+    mobilefeedback,survey1<COLN>question,iswidget,true
+    mobilefeedback,survey1<COLN>question,iscollection,false
+    mobilefeedback,survey1<COLN>question,collectname,
+    mobilefeedback,survey1<COLN>question,widgetname,
+    mobilefeedback,survey1<COLN>question,placeholder,
+    mobilefeedback,survey1<COLN>question,addedby,
+    mobilefeedback,survey1<COLN>question,DOCK,FFFF
+    mobilefeedback,survey1<COLN>question,PICTURE,media/img_missing.png
+    mobilefeedback,survey1<COLN>question,SIZE,105<PIP>21
+    mobilefeedback,survey1<COLN>question,JSON,{}
+    mobilefeedback,survey1<COLN>question,TEXT,What could be improved?
+    mobilefeedback,survey1<COLN>question,TOOLTIP,
+    mobilefeedback,survey1<COLN>question,ENABLED,true
+    mobilefeedback,survey1<COLN>question,VISIBLE,true
+    mobilefeedback,survey1<COLN>question,ZORDER,0
+    mobilefeedback,survey1<COLN>question,FORECOLOR,&h000000
+    mobilefeedback,survey1<COLN>question,BACKCOLOR,transparent
+    mobilefeedback,survey1<COLN>question,FONTNAME,inherit
+    mobilefeedback,survey1<COLN>question,FONTSIZE,inherit
+    mobilefeedback,survey1<COLN>question,FONTBOLD,true
+    mobilefeedback,survey1<COLN>question,FONTITALIC,false
+    mobilefeedback,survey1<COLN>question,FONTUNDERLINE,false
+    mobilefeedback,survey1<COLN>question,FONTSTRIKETHRU,false
+    mobilefeedback,survey1<COLN>question,INFO,
+    mobilefeedback,survey1<COLN>question,PAGECOUNT,0
+    mobilefeedback,survey1<COLN>question,DATABIND,
+    mobilefeedback,survey1<COLN>question,BINDMAPPING,
+    mobilefeedback,survey1<COLN>question,drag.x,1
+    mobilefeedback,survey1<COLN>question,drag.y,1
+    mobilefeedback,survey1<COLN>question,xdragrange,-1<SEMI> -1
+    mobilefeedback,survey1<COLN>question,ydragrange,-1<SEMI> -1
+    mobilefeedback,survey1<COLN>question,size.x,1
+    mobilefeedback,survey1<COLN>question,size.y,1
+    mobilefeedback,survey1<COLN>question,negadj,
+    mobilefeedback,survey1<COLN>question,posadj,
+    mobilefeedback,survey1<COLN>question,child,true
+    mobilefeedback,survey1<COLN>question,displaymode,block
+    mobilefeedback,survey1<COLN>question,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilefeedback,survey1<COLN>question,LOCK,false
+    mobilefeedback,survey1<COLN>question,events,
+    mobilefeedback,survey1<COLN>question,extend,{}
+mobilefeedback,survey1<COLN>question,REFRESH, 
+mobilefeedback,survey1<COLN>options,TARGET,survey1
+mobilefeedback,survey1<COLN>options,PARENTGROUP,survey1
+mobilefeedback,survey1<COLN>options,load,listbox|<LB>''selectindex''<COLN>0<COMMA>''listsize''<COLN>5<COMMA>''list''<COLN><LK>''ListItem 1''<COMMA>''ListItem 2''<COMMA>''ListItem 3''<COMMA>''ListItem 4''<COMMA>''ListItem 5''<RK><COMMA>''value''<COLN><LK>''Value1''<COMMA>''Value2''<COMMA>''Value3''<COMMA>''Value4''<COMMA>''Value5''<RK><RB>|0|0|350|68|1342374145|131072
+    mobilefeedback,survey1<COLN>options,group,false
+    mobilefeedback,survey1<COLN>options,groupid,0
+    mobilefeedback,survey1<COLN>options,groupby,0500
+    mobilefeedback,survey1<COLN>options,widgetlock,false
+    mobilefeedback,survey1<COLN>options,iswidget,true
+    mobilefeedback,survey1<COLN>options,iscollection,false
+    mobilefeedback,survey1<COLN>options,collectname,
+    mobilefeedback,survey1<COLN>options,widgetname,
+    mobilefeedback,survey1<COLN>options,placeholder,select value..
+    mobilefeedback,survey1<COLN>options,addedby,
+    mobilefeedback,survey1<COLN>options,DOCK,FFFF
+    mobilefeedback,survey1<COLN>options,PICTURE,media/img_missing.png
+    mobilefeedback,survey1<COLN>options,SIZE,350<PIP>68
+    mobilefeedback,survey1<COLN>options,JSON,{}
+    mobilefeedback,survey1<COLN>options,TEXT,
+    mobilefeedback,survey1<COLN>options,TOOLTIP,Click to change forum.
+    mobilefeedback,survey1<COLN>options,ENABLED,true
+    mobilefeedback,survey1<COLN>options,VISIBLE,true
+    mobilefeedback,survey1<COLN>options,ZORDER,0
+    mobilefeedback,survey1<COLN>options,FORECOLOR,&h000000
+    mobilefeedback,survey1<COLN>options,BACKCOLOR,transparent
+    mobilefeedback,survey1<COLN>options,FONTNAME,arial<COMMA> helvetica<COMMA> sans-serif
+    mobilefeedback,survey1<COLN>options,FONTSIZE,14px
+    mobilefeedback,survey1<COLN>options,FONTBOLD,false
+    mobilefeedback,survey1<COLN>options,FONTITALIC,false
+    mobilefeedback,survey1<COLN>options,FONTUNDERLINE,false
+    mobilefeedback,survey1<COLN>options,FONTSTRIKETHRU,false
+    mobilefeedback,survey1<COLN>options,INFO,listbox
+    mobilefeedback,survey1<COLN>options,PAGECOUNT,0
+    mobilefeedback,survey1<COLN>options,DATABIND,
+    mobilefeedback,survey1<COLN>options,BINDMAPPING,
+    mobilefeedback,survey1<COLN>options,drag.x,1
+    mobilefeedback,survey1<COLN>options,drag.y,1
+    mobilefeedback,survey1<COLN>options,xdragrange,-1<SEMI> -1
+    mobilefeedback,survey1<COLN>options,ydragrange,-1<SEMI> -1
+    mobilefeedback,survey1<COLN>options,size.x,1
+    mobilefeedback,survey1<COLN>options,size.y,1
+    mobilefeedback,survey1<COLN>options,negadj,
+    mobilefeedback,survey1<COLN>options,posadj,
+    mobilefeedback,survey1<COLN>options,child,true
+    mobilefeedback,survey1<COLN>options,displaymode,block
+    mobilefeedback,survey1<COLN>options,TAG,var options = <LB><LF>    selectindex<COLN> 0<COMMA><LF>    listsize<COLN> 4<COMMA><LF>    list<COLN> <LK>'Needs more components'<COMMA>'Too complex'<COMMA>'Not Interactive'<COMMA>'Only English'<RK><COMMA><LF>    value<COLN> <LK>'components'<COMMA>'complex'<COMMA>'limited'<COMMA>'languages'<RK><LF><RB>;<LF>~bind<COLN> true<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> Select value..<LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-listbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> type<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>items.item-dir<COLN> horizontal<LF>items.item-style<COLN> white-space=nowrap;min-width=10%;width=auto;background=lightblue;border-radius=10px;margin=2.5px;padding=3px 12px;text-align=center;vertical-align=center~border<COLN> 0px solid #444<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>padding<COLN> 0px 0px 0px 5px<LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>border-radius<COLN> 7px<LF>box-sizing<COLN> border-box<LF>font-family<COLN> arial<COMMA> helvetica<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>text-decoration<COLN> <LF>vertical-align<COLN><LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 5px 0px 0px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto<LF>items.background-color<COLN> transparent<LF>items.overflow<COLN> hidden<LF>items.white-space<COLN> normal<LF>items.width<COLN> auto
+    mobilefeedback,survey1<COLN>options,LOCK,false
+    mobilefeedback,survey1<COLN>options,ITEMS,improve.lst
+    mobilefeedback,survey1<COLN>options,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>scroll<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilefeedback,survey1<COLN>options,extend,{"react"<COLN>"<CR>"}
+mobilefeedback,survey1<COLN>options,REFRESH, 
+mobilefeedback,survey2,TARGET,content
+mobilefeedback,survey2,PARENTGROUP,content
+mobilefeedback,survey2,load,frame||0|0|368|116|1342227719|32
+    mobilefeedback,survey2,group,true
+    mobilefeedback,survey2,groupid,0700
+    mobilefeedback,survey2,groupby,0200
+    mobilefeedback,survey2,widgetlock,false
+    mobilefeedback,survey2,iswidget,true
+    mobilefeedback,survey2,iscollection,false
+    mobilefeedback,survey2,collectname,
+    mobilefeedback,survey2,widgetname,
+    mobilefeedback,survey2,placeholder,
+    mobilefeedback,survey2,addedby,
+    mobilefeedback,survey2,DOCK,FFFF
+    mobilefeedback,survey2,PICTURE,media/img_missing.png
+    mobilefeedback,survey2,SIZE,368<PIP>116
+    mobilefeedback,survey2,JSON,{}
+    mobilefeedback,survey2,TEXT,
+    mobilefeedback,survey2,TOOLTIP,
+    mobilefeedback,survey2,ENABLED,true
+    mobilefeedback,survey2,VISIBLE,true
+    mobilefeedback,survey2,ZORDER,0
+    mobilefeedback,survey2,FORECOLOR,&h000000
+    mobilefeedback,survey2,BACKCOLOR,transparent
+    mobilefeedback,survey2,FONTNAME,inherit
+    mobilefeedback,survey2,FONTSIZE,inherit
+    mobilefeedback,survey2,FONTBOLD,false
+    mobilefeedback,survey2,FONTITALIC,false
+    mobilefeedback,survey2,FONTUNDERLINE,false
+    mobilefeedback,survey2,FONTSTRIKETHRU,false
+    mobilefeedback,survey2,INFO,
+    mobilefeedback,survey2,PAGECOUNT,0
+    mobilefeedback,survey2,DATABIND,
+    mobilefeedback,survey2,BINDMAPPING,
+    mobilefeedback,survey2,drag.x,1
+    mobilefeedback,survey2,drag.y,1
+    mobilefeedback,survey2,xdragrange,-1<SEMI> -1
+    mobilefeedback,survey2,ydragrange,-1<SEMI> -1
+    mobilefeedback,survey2,size.x,1
+    mobilefeedback,survey2,size.y,1
+    mobilefeedback,survey2,negadj,
+    mobilefeedback,survey2,posadj,
+    mobilefeedback,survey2,child,true
+    mobilefeedback,survey2,displaymode,block
+    mobilefeedback,survey2,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>float<COLN> <LF>height<COLN> auto<LF>margin<COLN> 0px 0px 0px 0px<LF>opacity<COLN> <LF>padding<COLN> 10px 10px 10px 10px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> TRANSPARENT<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilefeedback,survey2,LOCK,false
+    mobilefeedback,survey2,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilefeedback,survey2,extend,{"react"<COLN>"<CR>"}
+mobilefeedback,survey2,REFRESH, 
+mobilefeedback,survey2<COLN>question,TARGET,survey2
+mobilefeedback,survey2<COLN>question,PARENTGROUP,survey2
+mobilefeedback,survey2<COLN>question,load,label|Anything Else? (Overall opinion)|0|0|105|21|1342377216|32
+    mobilefeedback,survey2<COLN>question,group,false
+    mobilefeedback,survey2<COLN>question,groupid,0
+    mobilefeedback,survey2<COLN>question,groupby,0700
+    mobilefeedback,survey2<COLN>question,widgetlock,false
+    mobilefeedback,survey2<COLN>question,iswidget,true
+    mobilefeedback,survey2<COLN>question,iscollection,false
+    mobilefeedback,survey2<COLN>question,collectname,
+    mobilefeedback,survey2<COLN>question,widgetname,
+    mobilefeedback,survey2<COLN>question,placeholder,
+    mobilefeedback,survey2<COLN>question,addedby,
+    mobilefeedback,survey2<COLN>question,DOCK,FFFF
+    mobilefeedback,survey2<COLN>question,PICTURE,media/img_missing.png
+    mobilefeedback,survey2<COLN>question,SIZE,105<PIP>21
+    mobilefeedback,survey2<COLN>question,JSON,{}
+    mobilefeedback,survey2<COLN>question,TEXT,Anything Else? (Overall opinion)
+    mobilefeedback,survey2<COLN>question,TOOLTIP,
+    mobilefeedback,survey2<COLN>question,ENABLED,true
+    mobilefeedback,survey2<COLN>question,VISIBLE,true
+    mobilefeedback,survey2<COLN>question,ZORDER,0
+    mobilefeedback,survey2<COLN>question,FORECOLOR,&h000000
+    mobilefeedback,survey2<COLN>question,BACKCOLOR,transparent
+    mobilefeedback,survey2<COLN>question,FONTNAME,inherit
+    mobilefeedback,survey2<COLN>question,FONTSIZE,inherit
+    mobilefeedback,survey2<COLN>question,FONTBOLD,true
+    mobilefeedback,survey2<COLN>question,FONTITALIC,false
+    mobilefeedback,survey2<COLN>question,FONTUNDERLINE,false
+    mobilefeedback,survey2<COLN>question,FONTSTRIKETHRU,false
+    mobilefeedback,survey2<COLN>question,INFO,
+    mobilefeedback,survey2<COLN>question,PAGECOUNT,0
+    mobilefeedback,survey2<COLN>question,DATABIND,
+    mobilefeedback,survey2<COLN>question,BINDMAPPING,
+    mobilefeedback,survey2<COLN>question,drag.x,1
+    mobilefeedback,survey2<COLN>question,drag.y,1
+    mobilefeedback,survey2<COLN>question,xdragrange,-1<SEMI> -1
+    mobilefeedback,survey2<COLN>question,ydragrange,-1<SEMI> -1
+    mobilefeedback,survey2<COLN>question,size.x,1
+    mobilefeedback,survey2<COLN>question,size.y,1
+    mobilefeedback,survey2<COLN>question,negadj,
+    mobilefeedback,survey2<COLN>question,posadj,
+    mobilefeedback,survey2<COLN>question,child,true
+    mobilefeedback,survey2<COLN>question,displaymode,block
+    mobilefeedback,survey2<COLN>question,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>float<COLN> <LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilefeedback,survey2<COLN>question,LOCK,false
+    mobilefeedback,survey2<COLN>question,events,
+    mobilefeedback,survey2<COLN>question,extend,{}
+mobilefeedback,survey2<COLN>question,REFRESH, 
+mobilefeedback,survey2<COLN>options,TARGET,survey2
+mobilefeedback,survey2<COLN>options,PARENTGROUP,survey2
+mobilefeedback,survey2<COLN>options,load,listbox|<LB>''selectindex''<COLN>0<COMMA>''listsize''<COLN>5<COMMA>''list''<COLN><LK>''ListItem 1''<COMMA>''ListItem 2''<COMMA>''ListItem 3''<COMMA>''ListItem 4''<COMMA>''ListItem 5''<RK><COMMA>''value''<COLN><LK>''Value1''<COMMA>''Value2''<COMMA>''Value3''<COMMA>''Value4''<COMMA>''Value5''<RK><RB>|0|0|350|68|1342374145|131072
+    mobilefeedback,survey2<COLN>options,group,false
+    mobilefeedback,survey2<COLN>options,groupid,0
+    mobilefeedback,survey2<COLN>options,groupby,0700
+    mobilefeedback,survey2<COLN>options,widgetlock,false
+    mobilefeedback,survey2<COLN>options,iswidget,true
+    mobilefeedback,survey2<COLN>options,iscollection,false
+    mobilefeedback,survey2<COLN>options,collectname,
+    mobilefeedback,survey2<COLN>options,widgetname,
+    mobilefeedback,survey2<COLN>options,placeholder,select value..
+    mobilefeedback,survey2<COLN>options,addedby,
+    mobilefeedback,survey2<COLN>options,DOCK,FFFF
+    mobilefeedback,survey2<COLN>options,PICTURE,media/img_missing.png
+    mobilefeedback,survey2<COLN>options,SIZE,350<PIP>68
+    mobilefeedback,survey2<COLN>options,JSON,{}
+    mobilefeedback,survey2<COLN>options,TEXT,
+    mobilefeedback,survey2<COLN>options,TOOLTIP,Click to change forum.
+    mobilefeedback,survey2<COLN>options,ENABLED,true
+    mobilefeedback,survey2<COLN>options,VISIBLE,true
+    mobilefeedback,survey2<COLN>options,ZORDER,0
+    mobilefeedback,survey2<COLN>options,FORECOLOR,&h000000
+    mobilefeedback,survey2<COLN>options,BACKCOLOR,transparent
+    mobilefeedback,survey2<COLN>options,FONTNAME,arial<COMMA> helvetica<COMMA> sans-serif
+    mobilefeedback,survey2<COLN>options,FONTSIZE,14px
+    mobilefeedback,survey2<COLN>options,FONTBOLD,false
+    mobilefeedback,survey2<COLN>options,FONTITALIC,false
+    mobilefeedback,survey2<COLN>options,FONTUNDERLINE,false
+    mobilefeedback,survey2<COLN>options,FONTSTRIKETHRU,false
+    mobilefeedback,survey2<COLN>options,INFO,listbox
+    mobilefeedback,survey2<COLN>options,PAGECOUNT,0
+    mobilefeedback,survey2<COLN>options,DATABIND,
+    mobilefeedback,survey2<COLN>options,BINDMAPPING,
+    mobilefeedback,survey2<COLN>options,drag.x,1
+    mobilefeedback,survey2<COLN>options,drag.y,1
+    mobilefeedback,survey2<COLN>options,xdragrange,-1<SEMI> -1
+    mobilefeedback,survey2<COLN>options,ydragrange,-1<SEMI> -1
+    mobilefeedback,survey2<COLN>options,size.x,1
+    mobilefeedback,survey2<COLN>options,size.y,1
+    mobilefeedback,survey2<COLN>options,negadj,
+    mobilefeedback,survey2<COLN>options,posadj,
+    mobilefeedback,survey2<COLN>options,child,true
+    mobilefeedback,survey2<COLN>options,displaymode,block
+    mobilefeedback,survey2<COLN>options,TAG,var options = <LB><LF>    selectindex<COLN> 0<COMMA><LF>    listsize<COLN> 6<COMMA><LF>    list<COLN> <LK>'Excellent'<COMMA>'Exceptional'<COMMA>'Good'<COMMA>'Neutral'<COMMA>'Poor'<COMMA>'Awful'<RK><COMMA><LF>    value<COLN> <LK>'excellent'<COMMA>'exceptional'<COMMA>'good'<COMMA>'neutral'<COMMA>'poor'<COMMA>'awful'<RK><LF><RB>;<LF>~bind<COLN> true<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> Select value..<LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-listbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> type<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>items.item-dir<COLN> horizontal<LF>items.item-style<COLN> white-space=nowrap;min-width=10%;width=auto;background=lightblue;border-radius=10px;margin=2.5px;padding=3px 12px;text-align=center;vertical-align=center~border<COLN> 0px solid #444<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>padding<COLN> 0px 0px 0px 5px<LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>border-radius<COLN> 7px<LF>box-sizing<COLN> border-box<LF>font-family<COLN> arial<COMMA> helvetica<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>text-decoration<COLN> <LF>vertical-align<COLN><LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 5px 0px 0px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto<LF>items.background-color<COLN> transparent<LF>items.overflow<COLN> hidden<LF>items.white-space<COLN> normal<LF>items.width<COLN> auto
+    mobilefeedback,survey2<COLN>options,LOCK,false
+    mobilefeedback,survey2<COLN>options,ITEMS,overall.lst
+    mobilefeedback,survey2<COLN>options,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>scroll<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilefeedback,survey2<COLN>options,extend,{"react"<COLN>"<CR>"}
+mobilefeedback,survey2<COLN>options,REFRESH, 
+mobilefeedback,survey2<COLN>opinion,TARGET,survey2
+mobilefeedback,survey2<COLN>opinion,PARENTGROUP,survey2
+mobilefeedback,survey2<COLN>opinion,load,textbox||0|0|348|88|1342374020|131072
+    mobilefeedback,survey2<COLN>opinion,group,false
+    mobilefeedback,survey2<COLN>opinion,groupid,0
+    mobilefeedback,survey2<COLN>opinion,groupby,0700
+    mobilefeedback,survey2<COLN>opinion,widgetlock,false
+    mobilefeedback,survey2<COLN>opinion,iswidget,true
+    mobilefeedback,survey2<COLN>opinion,iscollection,false
+    mobilefeedback,survey2<COLN>opinion,collectname,
+    mobilefeedback,survey2<COLN>opinion,widgetname,
+    mobilefeedback,survey2<COLN>opinion,placeholder,enter value..
+    mobilefeedback,survey2<COLN>opinion,addedby,
+    mobilefeedback,survey2<COLN>opinion,DOCK,FFFF
+    mobilefeedback,survey2<COLN>opinion,PICTURE,media/img_missing.png
+    mobilefeedback,survey2<COLN>opinion,SIZE,348<PIP>88
+    mobilefeedback,survey2<COLN>opinion,JSON,{}
+    mobilefeedback,survey2<COLN>opinion,TEXT,
+    mobilefeedback,survey2<COLN>opinion,TOOLTIP,
+    mobilefeedback,survey2<COLN>opinion,ENABLED,true
+    mobilefeedback,survey2<COLN>opinion,VISIBLE,true
+    mobilefeedback,survey2<COLN>opinion,ZORDER,0
+    mobilefeedback,survey2<COLN>opinion,FORECOLOR,&h000000
+    mobilefeedback,survey2<COLN>opinion,BACKCOLOR,&heaeaea
+    mobilefeedback,survey2<COLN>opinion,FONTNAME,inherit
+    mobilefeedback,survey2<COLN>opinion,FONTSIZE,inherit
+    mobilefeedback,survey2<COLN>opinion,FONTBOLD,false
+    mobilefeedback,survey2<COLN>opinion,FONTITALIC,false
+    mobilefeedback,survey2<COLN>opinion,FONTUNDERLINE,false
+    mobilefeedback,survey2<COLN>opinion,FONTSTRIKETHRU,false
+    mobilefeedback,survey2<COLN>opinion,INFO,
+    mobilefeedback,survey2<COLN>opinion,PAGECOUNT,0
+    mobilefeedback,survey2<COLN>opinion,DATABIND,
+    mobilefeedback,survey2<COLN>opinion,BINDMAPPING,
+    mobilefeedback,survey2<COLN>opinion,drag.x,1
+    mobilefeedback,survey2<COLN>opinion,drag.y,1
+    mobilefeedback,survey2<COLN>opinion,xdragrange,-1<SEMI> -1
+    mobilefeedback,survey2<COLN>opinion,ydragrange,-1<SEMI> -1
+    mobilefeedback,survey2<COLN>opinion,size.x,1
+    mobilefeedback,survey2<COLN>opinion,size.y,1
+    mobilefeedback,survey2<COLN>opinion,negadj,
+    mobilefeedback,survey2<COLN>opinion,posadj,
+    mobilefeedback,survey2<COLN>opinion,child,true
+    mobilefeedback,survey2<COLN>opinion,displaymode,block
+    mobilefeedback,survey2<COLN>opinion,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> opinion<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> #EAEAEA<LF>border-radius<COLN> 12px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>div.border-radius<COLN> 12px<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilefeedback,survey2<COLN>opinion,LOCK,false
+    mobilefeedback,survey2<COLN>opinion,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilefeedback,survey2<COLN>opinion,extend,{"react"<COLN>"<CR>"}
+mobilefeedback,survey2<COLN>opinion,REFRESH, 
+mobilefeedback,btnconfirm,TARGET,~
+mobilefeedback,btnconfirm,PARENTGROUP,~
+mobilefeedback,btnconfirm,load,button|Submit|0|0|370|50|1342394112|32
+    mobilefeedback,btnconfirm,group,false
+    mobilefeedback,btnconfirm,groupid,0
+    mobilefeedback,btnconfirm,groupby,9999999999
+    mobilefeedback,btnconfirm,widgetlock,false
+    mobilefeedback,btnconfirm,iswidget,false
+    mobilefeedback,btnconfirm,iscollection,false
+    mobilefeedback,btnconfirm,collectname,
+    mobilefeedback,btnconfirm,widgetname,
+    mobilefeedback,btnconfirm,placeholder,
+    mobilefeedback,btnconfirm,addedby,
+    mobilefeedback,btnconfirm,DOCK,FFFF
+    mobilefeedback,btnconfirm,PICTURE,media/img_missing.png
+    mobilefeedback,btnconfirm,SIZE,370<PIP>50
+    mobilefeedback,btnconfirm,JSON,{}
+    mobilefeedback,btnconfirm,TEXT,Submit
+    mobilefeedback,btnconfirm,TOOLTIP,
+    mobilefeedback,btnconfirm,ENABLED,true
+    mobilefeedback,btnconfirm,VISIBLE,true
+    mobilefeedback,btnconfirm,ZORDER,0
+    mobilefeedback,btnconfirm,FORECOLOR,&hfff
+    mobilefeedback,btnconfirm,BACKCOLOR,&h2259a1
+    mobilefeedback,btnconfirm,FONTNAME,inherit
+    mobilefeedback,btnconfirm,FONTSIZE,12px
+    mobilefeedback,btnconfirm,FONTBOLD,false
+    mobilefeedback,btnconfirm,FONTITALIC,false
+    mobilefeedback,btnconfirm,FONTUNDERLINE,false
+    mobilefeedback,btnconfirm,FONTSTRIKETHRU,false
+    mobilefeedback,btnconfirm,INFO,
+    mobilefeedback,btnconfirm,PAGECOUNT,0
+    mobilefeedback,btnconfirm,DATABIND,
+    mobilefeedback,btnconfirm,BINDMAPPING,
+    mobilefeedback,btnconfirm,drag.x,1
+    mobilefeedback,btnconfirm,drag.y,1
+    mobilefeedback,btnconfirm,xdragrange,-1<SEMI> -1
+    mobilefeedback,btnconfirm,ydragrange,-1<SEMI> -1
+    mobilefeedback,btnconfirm,size.x,1
+    mobilefeedback,btnconfirm,size.y,1
+    mobilefeedback,btnconfirm,negadj,
+    mobilefeedback,btnconfirm,posadj,
+    mobilefeedback,btnconfirm,child,false
+    mobilefeedback,btnconfirm,displaymode,block
+    mobilefeedback,btnconfirm,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px solid #bbb<LF>color<COLN> #fff<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #2259a1<LF>border-radius<COLN> 13px<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 10px 0px 0px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilefeedback,btnconfirm,LOCK,false
+    mobilefeedback,btnconfirm,events,click<COLN> <CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilefeedback,btnconfirm,extend,{"react"<COLN>"<CR>"}
+mobilefeedback,btnconfirm,REFRESH, 
+mobilefeedback,,SETVIEW,
+mobilefeedback,,HIDE,
+mobilefeedback,,REFRESH,true

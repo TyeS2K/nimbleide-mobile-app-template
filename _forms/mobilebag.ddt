@@ -1,0 +1,1861 @@
+mobilebag,,SURFACE,New Surface|50|155|400|640|268435476|65568
+    mobilebag,,version,5.0
+    mobilebag,,loadlibs,New Surface
+    mobilebag,,groupid,9999999999
+    mobilebag,,groupby,0
+    mobilebag,,runpos,0|0
+    mobilebag,,DOCK,FFFF
+    mobilebag,,PARENT,
+    mobilebag,,MARGINS,
+    mobilebag,,AUTOSIZE,false
+    mobilebag,,JSON,{}
+    mobilebag,,TEXT,New Surface
+    mobilebag,,TOOLTIP,
+    mobilebag,,ENABLED,true
+    mobilebag,,VISIBLE,true
+    mobilebag,,FORECOLOR,&heeeeee
+    mobilebag,,BACKCOLOR,&hffffff
+    mobilebag,,ICON,
+    mobilebag,,FONTNAME,roboto
+    mobilebag,,FONTSIZE,14px
+    mobilebag,,FONTBOLD,false
+    mobilebag,,FONTITALIC,false
+    mobilebag,,FONTUNDERLINE,false
+    mobilebag,,FONTSTRIKETHRU,false
+    mobilebag,,MENUBAR,
+    mobilebag,,TOOLBAR,
+    mobilebag,,STATUSBAR,
+    mobilebag,,SAVESTATE,false
+    mobilebag,,drag.x,
+    mobilebag,,drag.y,
+    mobilebag,,xdragrange,
+    mobilebag,,ydragrange,
+    mobilebag,,size.x,
+    mobilebag,,size.y,
+    mobilebag,,negadj,
+    mobilebag,,posadj,
+    mobilebag,,TAG,~_private<COLN> false<LF>autosize<COLN> false<LF>bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>clipmenu<COLN> true<LF>donottheme<COLN> false<LF>dragable<COLN> true<LF>flattenonpull<COLN> true<LF>hotkey<COLN> <LF>ignorezorder<COLN> false<LF>output<COLN> normal<LF>prevent<COLN> <LF>record<COLN> <LF>shadow<COLN> true<LF>sizeable<COLN> true<LF>theme<COLN> nimble-form<LF>toggleonflip<COLN> true<LF>useastheme<COLN> false<LF>watch<COLN> false<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>body.lock-height<COLN> <LF>body.version<COLN> v5.0~color<COLN> #EEEEEE<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 20px<LF>font-family<COLN> roboto<LF>font-size<COLN> 14px<LF>pointer-events<COLN> auto<LF>z-index<COLN> 2<LF>body.background-color<COLN> transparent<LF>body.box-sizing<COLN> border-box<LF>body.color<COLN> #eeeeee<LF>body.overflow-y<COLN> auto<LF>body.padding<COLN> 10px 15px 10px 15px<LF>body.text-align<COLN> center<LF>body.vertical-align<COLN>
+    mobilebag,,events,activate<COLN> <CR>adjustlayout<COLN> <CR>afterpull<COLN> <CR>afterpush<COLN> <CR>beforeunload<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>disabled<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enabled<COLN> <CR>enterkey<COLN> <CR>fullscreen<COLN> <CR>gotfocus<COLN> <CR>hide<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>load<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>maximize<COLN> <CR>menu<COLN> <CR>minimize<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>move<COLN> <CR>move<COLN> <CR>onpull<COLN> <CR>onpush<COLN> <CR>refresh<COLN> <CR>resize<COLN> <CR>restore<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN> <CR>unload<COLN> <CR>viewchange<COLN> <CR>widgetloaded<COLN> <CR>widgetunloading<COLN>
+    mobilebag,,extend,{"react"<COLN>"<CR>"}
+    mobilebag,,GROUPIDS,[0200][0300][0500][0700][1100]
+    mobilebag,,WSTYLES,268435476
+    mobilebag,,WSTYLESEX,65568
+    mobilebag,,WIDTH,400
+    mobilebag,,HEIGHT,640
+    mobilebag,,EDITPOS,50|155
+mobilebag,header,TARGET,~
+mobilebag,header,PARENTGROUP,~
+mobilebag,header,load,frame||0|0|370|50|1342177287|32
+    mobilebag,header,group,true
+    mobilebag,header,groupid,0200
+    mobilebag,header,groupby,9999999999
+    mobilebag,header,widgetlock,false
+    mobilebag,header,iswidget,false
+    mobilebag,header,iscollection,false
+    mobilebag,header,collectname,
+    mobilebag,header,widgetname,
+    mobilebag,header,placeholder,
+    mobilebag,header,addedby,
+    mobilebag,header,DOCK,FFFF
+    mobilebag,header,PICTURE,media/img_missing.png
+    mobilebag,header,SIZE,370<PIP>50
+    mobilebag,header,JSON,{}
+    mobilebag,header,TEXT,
+    mobilebag,header,TOOLTIP,
+    mobilebag,header,ENABLED,true
+    mobilebag,header,VISIBLE,true
+    mobilebag,header,ZORDER,0
+    mobilebag,header,FORECOLOR,&h000000
+    mobilebag,header,BACKCOLOR,transparent
+    mobilebag,header,FONTNAME,inherit
+    mobilebag,header,FONTSIZE,inherit
+    mobilebag,header,FONTBOLD,false
+    mobilebag,header,FONTITALIC,false
+    mobilebag,header,FONTUNDERLINE,false
+    mobilebag,header,FONTSTRIKETHRU,false
+    mobilebag,header,INFO,
+    mobilebag,header,PAGECOUNT,0
+    mobilebag,header,DATABIND,
+    mobilebag,header,BINDMAPPING,
+    mobilebag,header,drag.x,1
+    mobilebag,header,drag.y,1
+    mobilebag,header,xdragrange,-1<SEMI> -1
+    mobilebag,header,ydragrange,-1<SEMI> -1
+    mobilebag,header,size.x,1
+    mobilebag,header,size.y,1
+    mobilebag,header,negadj,
+    mobilebag,header,posadj,
+    mobilebag,header,child,false
+    mobilebag,header,displaymode,block
+    mobilebag,header,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> <LF>margin<COLN> 15px 0px 20px 0px<LF>opacity<COLN> <LF>padding<COLN> 5px 10px 10px 10px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> TRANSPARENT<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilebag,header,LOCK,false
+    mobilebag,header,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,header,extend,{"react"<COLN>"<CR>"}
+mobilebag,header,REFRESH, 
+mobilebag,lbinfo,TARGET,header
+mobilebag,lbinfo,PARENTGROUP,header
+mobilebag,lbinfo,load,label|Your bag|0|0|105|21|1342377728|32
+    mobilebag,lbinfo,group,false
+    mobilebag,lbinfo,groupid,0
+    mobilebag,lbinfo,groupby,0200
+    mobilebag,lbinfo,widgetlock,false
+    mobilebag,lbinfo,iswidget,false
+    mobilebag,lbinfo,iscollection,false
+    mobilebag,lbinfo,collectname,
+    mobilebag,lbinfo,widgetname,
+    mobilebag,lbinfo,placeholder,
+    mobilebag,lbinfo,addedby,
+    mobilebag,lbinfo,DOCK,FFFF
+    mobilebag,lbinfo,PICTURE,media/img_missing.png
+    mobilebag,lbinfo,SIZE,105<PIP>21
+    mobilebag,lbinfo,JSON,{}
+    mobilebag,lbinfo,TEXT,Your bag
+    mobilebag,lbinfo,TOOLTIP,
+    mobilebag,lbinfo,ENABLED,true
+    mobilebag,lbinfo,VISIBLE,true
+    mobilebag,lbinfo,ZORDER,0
+    mobilebag,lbinfo,FORECOLOR,&h000000
+    mobilebag,lbinfo,BACKCOLOR,transparent
+    mobilebag,lbinfo,FONTNAME,inherit
+    mobilebag,lbinfo,FONTSIZE,16px
+    mobilebag,lbinfo,FONTBOLD,true
+    mobilebag,lbinfo,FONTITALIC,false
+    mobilebag,lbinfo,FONTUNDERLINE,false
+    mobilebag,lbinfo,FONTSTRIKETHRU,false
+    mobilebag,lbinfo,INFO,
+    mobilebag,lbinfo,PAGECOUNT,0
+    mobilebag,lbinfo,DATABIND,
+    mobilebag,lbinfo,BINDMAPPING,
+    mobilebag,lbinfo,drag.x,1
+    mobilebag,lbinfo,drag.y,1
+    mobilebag,lbinfo,xdragrange,-1<SEMI> -1
+    mobilebag,lbinfo,ydragrange,-1<SEMI> -1
+    mobilebag,lbinfo,size.x,1
+    mobilebag,lbinfo,size.y,1
+    mobilebag,lbinfo,negadj,
+    mobilebag,lbinfo,posadj,
+    mobilebag,lbinfo,child,true
+    mobilebag,lbinfo,displaymode,block
+    mobilebag,lbinfo,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 16px<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilebag,lbinfo,LOCK,false
+    mobilebag,lbinfo,events,
+    mobilebag,lbinfo,extend,{}
+mobilebag,lbinfo,REFRESH, 
+mobilebag,label2,TARGET,header
+mobilebag,label2,PARENTGROUP,header
+mobilebag,label2,load,label|View the items you selected.|0|0|300|24|1342377728|32
+    mobilebag,label2,group,false
+    mobilebag,label2,groupid,0
+    mobilebag,label2,groupby,0200
+    mobilebag,label2,widgetlock,false
+    mobilebag,label2,iswidget,false
+    mobilebag,label2,iscollection,false
+    mobilebag,label2,collectname,
+    mobilebag,label2,widgetname,
+    mobilebag,label2,placeholder,
+    mobilebag,label2,addedby,
+    mobilebag,label2,DOCK,FFFF
+    mobilebag,label2,PICTURE,media/img_missing.png
+    mobilebag,label2,SIZE,300<PIP>24
+    mobilebag,label2,JSON,{}
+    mobilebag,label2,TEXT,View the items you selected.
+    mobilebag,label2,TOOLTIP,
+    mobilebag,label2,ENABLED,true
+    mobilebag,label2,VISIBLE,true
+    mobilebag,label2,ZORDER,0
+    mobilebag,label2,FORECOLOR,&h888
+    mobilebag,label2,BACKCOLOR,transparent
+    mobilebag,label2,FONTNAME,inherit
+    mobilebag,label2,FONTSIZE,11px
+    mobilebag,label2,FONTBOLD,false
+    mobilebag,label2,FONTITALIC,false
+    mobilebag,label2,FONTUNDERLINE,false
+    mobilebag,label2,FONTSTRIKETHRU,false
+    mobilebag,label2,INFO,
+    mobilebag,label2,PAGECOUNT,0
+    mobilebag,label2,DATABIND,
+    mobilebag,label2,BINDMAPPING,
+    mobilebag,label2,drag.x,1
+    mobilebag,label2,drag.y,1
+    mobilebag,label2,xdragrange,-1<SEMI> -1
+    mobilebag,label2,ydragrange,-1<SEMI> -1
+    mobilebag,label2,size.x,1
+    mobilebag,label2,size.y,1
+    mobilebag,label2,negadj,
+    mobilebag,label2,posadj,
+    mobilebag,label2,child,true
+    mobilebag,label2,displaymode,block
+    mobilebag,label2,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #888<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 11px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 5px 25px 0px 25px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilebag,label2,LOCK,false
+    mobilebag,label2,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,label2,extend,{"react"<COLN>"<CR>"}
+mobilebag,label2,REFRESH, 
+mobilebag,icnback,TARGET,header
+mobilebag,icnback,PARENTGROUP,header
+mobilebag,icnback,load,icon|media/img_missing.png|0|1|24|24|1342373901|0
+    mobilebag,icnback,group,false
+    mobilebag,icnback,groupid,0
+    mobilebag,icnback,groupby,0200
+    mobilebag,icnback,widgetlock,false
+    mobilebag,icnback,iswidget,false
+    mobilebag,icnback,iscollection,false
+    mobilebag,icnback,collectname,
+    mobilebag,icnback,widgetname,
+    mobilebag,icnback,placeholder,
+    mobilebag,icnback,addedby,
+    mobilebag,icnback,DOCK,FFFF
+    mobilebag,icnback,PICTURE,media/img_missing.png
+    mobilebag,icnback,SIZE,24<PIP>24
+    mobilebag,icnback,JSON,{}
+    mobilebag,icnback,TEXT,
+    mobilebag,icnback,TOOLTIP,
+    mobilebag,icnback,ENABLED,true
+    mobilebag,icnback,VISIBLE,true
+    mobilebag,icnback,ZORDER,0
+    mobilebag,icnback,FORECOLOR,&h2259a1
+    mobilebag,icnback,BACKCOLOR,transparent
+    mobilebag,icnback,FONTNAME,inherit
+    mobilebag,icnback,FONTSIZE,24px
+    mobilebag,icnback,FONTBOLD,false
+    mobilebag,icnback,FONTITALIC,false
+    mobilebag,icnback,FONTUNDERLINE,false
+    mobilebag,icnback,FONTSTRIKETHRU,false
+    mobilebag,icnback,INFO,icon
+    mobilebag,icnback,PAGECOUNT,0
+    mobilebag,icnback,DATABIND,
+    mobilebag,icnback,BINDMAPPING,
+    mobilebag,icnback,drag.x,1
+    mobilebag,icnback,drag.y,1
+    mobilebag,icnback,xdragrange,-1<SEMI> -1
+    mobilebag,icnback,ydragrange,-1<SEMI> -1
+    mobilebag,icnback,size.x,1
+    mobilebag,icnback,size.y,1
+    mobilebag,icnback,negadj,
+    mobilebag,icnback,posadj,
+    mobilebag,icnback,child,true
+    mobilebag,icnback,displaymode,absolute
+    mobilebag,icnback,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> <LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-chevron-left<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> #2259a1<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> absolute<LF>div.width<COLN> <LF>image.color<COLN> &H2259A1<LF>image.display<COLN> block<LF>image.font-size<COLN> 24px
+    mobilebag,icnback,LOCK,false
+    mobilebag,icnback,events,
+    mobilebag,icnback,extend,{}
+mobilebag,icnback,REFRESH, 
+mobilebag,item,TARGET,~
+mobilebag,item,PARENTGROUP,~
+mobilebag,item,load,frame||0|0|360|222|1342227719|32
+    mobilebag,item,group,true
+    mobilebag,item,groupid,0300
+    mobilebag,item,groupby,9999999999
+    mobilebag,item,widgetlock,false
+    mobilebag,item,iswidget,true
+    mobilebag,item,iscollection,false
+    mobilebag,item,collectname,
+    mobilebag,item,widgetname,
+    mobilebag,item,placeholder,
+    mobilebag,item,addedby,
+    mobilebag,item,DOCK,FFFF
+    mobilebag,item,PICTURE,media/img_missing.png
+    mobilebag,item,SIZE,360<PIP>222
+    mobilebag,item,JSON,{}
+    mobilebag,item,TEXT,
+    mobilebag,item,TOOLTIP,
+    mobilebag,item,ENABLED,true
+    mobilebag,item,VISIBLE,true
+    mobilebag,item,ZORDER,0
+    mobilebag,item,FORECOLOR,&h000000
+    mobilebag,item,BACKCOLOR,transparent
+    mobilebag,item,FONTNAME,inherit
+    mobilebag,item,FONTSIZE,inherit
+    mobilebag,item,FONTBOLD,false
+    mobilebag,item,FONTITALIC,false
+    mobilebag,item,FONTUNDERLINE,false
+    mobilebag,item,FONTSTRIKETHRU,false
+    mobilebag,item,INFO,
+    mobilebag,item,PAGECOUNT,0
+    mobilebag,item,DATABIND,
+    mobilebag,item,BINDMAPPING,
+    mobilebag,item,drag.x,1
+    mobilebag,item,drag.y,1
+    mobilebag,item,xdragrange,-1<SEMI> -1
+    mobilebag,item,ydragrange,-1<SEMI> -1
+    mobilebag,item,size.x,1
+    mobilebag,item,size.y,1
+    mobilebag,item,negadj,
+    mobilebag,item,posadj,
+    mobilebag,item,child,false
+    mobilebag,item,displaymode,block
+    mobilebag,item,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>margin<COLN> 0px 5px 0px 5px<LF>opacity<COLN> <LF>padding<COLN> 5px 10px 10px 10px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> TRANSPARENT<LF>border-bottom<COLN> 1px #bbb dotted<LF>border-radius<COLN> <LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilebag,item,LOCK,false
+    mobilebag,item,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item,extend,{"react"<COLN>"<CR>"}
+mobilebag,item,REFRESH, 
+mobilebag,item<COLN>title,TARGET,item
+mobilebag,item<COLN>title,PARENTGROUP,item
+mobilebag,item<COLN>title,load,label|Amazing T-shirt|0|0|175|21|1342377216|32
+    mobilebag,item<COLN>title,group,false
+    mobilebag,item<COLN>title,groupid,0
+    mobilebag,item<COLN>title,groupby,0300
+    mobilebag,item<COLN>title,widgetlock,false
+    mobilebag,item<COLN>title,iswidget,true
+    mobilebag,item<COLN>title,iscollection,false
+    mobilebag,item<COLN>title,collectname,
+    mobilebag,item<COLN>title,widgetname,
+    mobilebag,item<COLN>title,placeholder,
+    mobilebag,item<COLN>title,addedby,
+    mobilebag,item<COLN>title,DOCK,FFFF
+    mobilebag,item<COLN>title,PICTURE,media/img_missing.png
+    mobilebag,item<COLN>title,SIZE,175<PIP>21
+    mobilebag,item<COLN>title,JSON,{}
+    mobilebag,item<COLN>title,TEXT,Amazing T-shirt
+    mobilebag,item<COLN>title,TOOLTIP,
+    mobilebag,item<COLN>title,ENABLED,true
+    mobilebag,item<COLN>title,VISIBLE,true
+    mobilebag,item<COLN>title,ZORDER,0
+    mobilebag,item<COLN>title,FORECOLOR,&h000000
+    mobilebag,item<COLN>title,BACKCOLOR,transparent
+    mobilebag,item<COLN>title,FONTNAME,inherit
+    mobilebag,item<COLN>title,FONTSIZE,inherit
+    mobilebag,item<COLN>title,FONTBOLD,true
+    mobilebag,item<COLN>title,FONTITALIC,false
+    mobilebag,item<COLN>title,FONTUNDERLINE,false
+    mobilebag,item<COLN>title,FONTSTRIKETHRU,false
+    mobilebag,item<COLN>title,INFO,
+    mobilebag,item<COLN>title,PAGECOUNT,0
+    mobilebag,item<COLN>title,DATABIND,
+    mobilebag,item<COLN>title,BINDMAPPING,
+    mobilebag,item<COLN>title,drag.x,1
+    mobilebag,item<COLN>title,drag.y,1
+    mobilebag,item<COLN>title,xdragrange,-1<SEMI> -1
+    mobilebag,item<COLN>title,ydragrange,-1<SEMI> -1
+    mobilebag,item<COLN>title,size.x,1
+    mobilebag,item<COLN>title,size.y,1
+    mobilebag,item<COLN>title,negadj,
+    mobilebag,item<COLN>title,posadj,
+    mobilebag,item<COLN>title,child,true
+    mobilebag,item<COLN>title,displaymode,inline-block
+    mobilebag,item<COLN>title,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> top<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 15px 0px 0px 80px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> calc(100% - 165px)
+    mobilebag,item<COLN>title,LOCK,false
+    mobilebag,item<COLN>title,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item<COLN>title,extend,{"react"<COLN>"<CR>"}
+mobilebag,item<COLN>title,REFRESH, 
+mobilebag,item<COLN>description,TARGET,item
+mobilebag,item<COLN>description,PARENTGROUP,item
+mobilebag,item<COLN>description,load,label|Black / M|0|0|175|21|1342377216|32
+    mobilebag,item<COLN>description,group,false
+    mobilebag,item<COLN>description,groupid,0
+    mobilebag,item<COLN>description,groupby,0300
+    mobilebag,item<COLN>description,widgetlock,false
+    mobilebag,item<COLN>description,iswidget,true
+    mobilebag,item<COLN>description,iscollection,false
+    mobilebag,item<COLN>description,collectname,
+    mobilebag,item<COLN>description,widgetname,
+    mobilebag,item<COLN>description,placeholder,
+    mobilebag,item<COLN>description,addedby,
+    mobilebag,item<COLN>description,DOCK,FFFF
+    mobilebag,item<COLN>description,PICTURE,media/img_missing.png
+    mobilebag,item<COLN>description,SIZE,175<PIP>21
+    mobilebag,item<COLN>description,JSON,{}
+    mobilebag,item<COLN>description,TEXT,Black / M
+    mobilebag,item<COLN>description,TOOLTIP,
+    mobilebag,item<COLN>description,ENABLED,true
+    mobilebag,item<COLN>description,VISIBLE,true
+    mobilebag,item<COLN>description,ZORDER,0
+    mobilebag,item<COLN>description,FORECOLOR,&h000000
+    mobilebag,item<COLN>description,BACKCOLOR,transparent
+    mobilebag,item<COLN>description,FONTNAME,inherit
+    mobilebag,item<COLN>description,FONTSIZE,12px
+    mobilebag,item<COLN>description,FONTBOLD,false
+    mobilebag,item<COLN>description,FONTITALIC,false
+    mobilebag,item<COLN>description,FONTUNDERLINE,false
+    mobilebag,item<COLN>description,FONTSTRIKETHRU,false
+    mobilebag,item<COLN>description,INFO,
+    mobilebag,item<COLN>description,PAGECOUNT,0
+    mobilebag,item<COLN>description,DATABIND,
+    mobilebag,item<COLN>description,BINDMAPPING,
+    mobilebag,item<COLN>description,drag.x,1
+    mobilebag,item<COLN>description,drag.y,1
+    mobilebag,item<COLN>description,xdragrange,-1<SEMI> -1
+    mobilebag,item<COLN>description,ydragrange,-1<SEMI> -1
+    mobilebag,item<COLN>description,size.x,1
+    mobilebag,item<COLN>description,size.y,1
+    mobilebag,item<COLN>description,negadj,
+    mobilebag,item<COLN>description,posadj,
+    mobilebag,item<COLN>description,child,true
+    mobilebag,item<COLN>description,displaymode,inline-block
+    mobilebag,item<COLN>description,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> top<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 10px 80px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> calc(100% - 165px)
+    mobilebag,item<COLN>description,LOCK,false
+    mobilebag,item<COLN>description,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item<COLN>description,extend,{"react"<COLN>"<CR>"}
+mobilebag,item<COLN>description,REFRESH, 
+mobilebag,item<COLN>img,TARGET,item
+mobilebag,item<COLN>img,PARENTGROUP,item
+mobilebag,item<COLN>img,load,graphicx|media/img_missing.png|5|10|75|75|1342373901|0
+    mobilebag,item<COLN>img,group,false
+    mobilebag,item<COLN>img,groupid,0
+    mobilebag,item<COLN>img,groupby,0300
+    mobilebag,item<COLN>img,widgetlock,false
+    mobilebag,item<COLN>img,iswidget,true
+    mobilebag,item<COLN>img,iscollection,false
+    mobilebag,item<COLN>img,collectname,
+    mobilebag,item<COLN>img,widgetname,
+    mobilebag,item<COLN>img,placeholder,
+    mobilebag,item<COLN>img,addedby,
+    mobilebag,item<COLN>img,DOCK,FFFF
+    mobilebag,item<COLN>img,PICTURE,media/img_missing.png
+    mobilebag,item<COLN>img,SIZE,75<PIP>75
+    mobilebag,item<COLN>img,JSON,{}
+    mobilebag,item<COLN>img,TEXT,
+    mobilebag,item<COLN>img,TOOLTIP,
+    mobilebag,item<COLN>img,ENABLED,true
+    mobilebag,item<COLN>img,VISIBLE,true
+    mobilebag,item<COLN>img,ZORDER,0
+    mobilebag,item<COLN>img,FORECOLOR,&h000000
+    mobilebag,item<COLN>img,BACKCOLOR,&hffffff
+    mobilebag,item<COLN>img,FONTNAME,inherit
+    mobilebag,item<COLN>img,FONTSIZE,inherit
+    mobilebag,item<COLN>img,FONTBOLD,false
+    mobilebag,item<COLN>img,FONTITALIC,false
+    mobilebag,item<COLN>img,FONTUNDERLINE,false
+    mobilebag,item<COLN>img,FONTSTRIKETHRU,false
+    mobilebag,item<COLN>img,INFO,imagex
+    mobilebag,item<COLN>img,PAGECOUNT,0
+    mobilebag,item<COLN>img,DATABIND,
+    mobilebag,item<COLN>img,BINDMAPPING,
+    mobilebag,item<COLN>img,drag.x,1
+    mobilebag,item<COLN>img,drag.y,1
+    mobilebag,item<COLN>img,xdragrange,-1<SEMI> -1
+    mobilebag,item<COLN>img,ydragrange,-1<SEMI> -1
+    mobilebag,item<COLN>img,size.x,1
+    mobilebag,item<COLN>img,size.y,1
+    mobilebag,item<COLN>img,negadj,
+    mobilebag,item<COLN>img,posadj,
+    mobilebag,item<COLN>img,child,true
+    mobilebag,item<COLN>img,displaymode,absolute
+    mobilebag,item<COLN>img,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-graphicx<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> <LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 17px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> top<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 10px 10px 10px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> absolute<LF>div.width<COLN>
+    mobilebag,item<COLN>img,LOCK,false
+    mobilebag,item<COLN>img,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item<COLN>img,extend,{"react"<COLN>"<CR>"}
+mobilebag,item<COLN>img,REFRESH, 
+mobilebag,item<COLN>minus,TARGET,item
+mobilebag,item<COLN>minus,PARENTGROUP,item
+mobilebag,item<COLN>minus,load,icon|media/img_missing.png|0|0|24|29|1342373901|0
+    mobilebag,item<COLN>minus,group,false
+    mobilebag,item<COLN>minus,groupid,0
+    mobilebag,item<COLN>minus,groupby,0300
+    mobilebag,item<COLN>minus,widgetlock,false
+    mobilebag,item<COLN>minus,iswidget,true
+    mobilebag,item<COLN>minus,iscollection,false
+    mobilebag,item<COLN>minus,collectname,
+    mobilebag,item<COLN>minus,widgetname,
+    mobilebag,item<COLN>minus,placeholder,
+    mobilebag,item<COLN>minus,addedby,
+    mobilebag,item<COLN>minus,DOCK,FFFF
+    mobilebag,item<COLN>minus,PICTURE,media/img_missing.png
+    mobilebag,item<COLN>minus,SIZE,24<PIP>29
+    mobilebag,item<COLN>minus,JSON,{}
+    mobilebag,item<COLN>minus,TEXT,
+    mobilebag,item<COLN>minus,TOOLTIP,
+    mobilebag,item<COLN>minus,ENABLED,true
+    mobilebag,item<COLN>minus,VISIBLE,true
+    mobilebag,item<COLN>minus,ZORDER,0
+    mobilebag,item<COLN>minus,FORECOLOR,&h336699
+    mobilebag,item<COLN>minus,BACKCOLOR,transparent
+    mobilebag,item<COLN>minus,FONTNAME,inherit
+    mobilebag,item<COLN>minus,FONTSIZE,24px
+    mobilebag,item<COLN>minus,FONTBOLD,false
+    mobilebag,item<COLN>minus,FONTITALIC,false
+    mobilebag,item<COLN>minus,FONTUNDERLINE,false
+    mobilebag,item<COLN>minus,FONTSTRIKETHRU,false
+    mobilebag,item<COLN>minus,INFO,icon
+    mobilebag,item<COLN>minus,PAGECOUNT,0
+    mobilebag,item<COLN>minus,DATABIND,
+    mobilebag,item<COLN>minus,BINDMAPPING,
+    mobilebag,item<COLN>minus,drag.x,1
+    mobilebag,item<COLN>minus,drag.y,1
+    mobilebag,item<COLN>minus,xdragrange,-1<SEMI> -1
+    mobilebag,item<COLN>minus,ydragrange,-1<SEMI> -1
+    mobilebag,item<COLN>minus,size.x,1
+    mobilebag,item<COLN>minus,size.y,1
+    mobilebag,item<COLN>minus,negadj,
+    mobilebag,item<COLN>minus,posadj,
+    mobilebag,item<COLN>minus,child,true
+    mobilebag,item<COLN>minus,displaymode,inline-block
+    mobilebag,item<COLN>minus,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-minus-circle<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> #336699<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 85px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> #336699<LF>image.display<COLN> block<LF>image.font-size<COLN> 24px
+    mobilebag,item<COLN>minus,LOCK,false
+    mobilebag,item<COLN>minus,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item<COLN>minus,extend,{"react"<COLN>"<CR>"}
+mobilebag,item<COLN>minus,REFRESH, 
+mobilebag,item<COLN>qty,TARGET,item
+mobilebag,item<COLN>qty,PARENTGROUP,item
+mobilebag,item<COLN>qty,load,label|1|0|0|20|29|1342377728|32
+    mobilebag,item<COLN>qty,group,false
+    mobilebag,item<COLN>qty,groupid,0
+    mobilebag,item<COLN>qty,groupby,0300
+    mobilebag,item<COLN>qty,widgetlock,false
+    mobilebag,item<COLN>qty,iswidget,true
+    mobilebag,item<COLN>qty,iscollection,false
+    mobilebag,item<COLN>qty,collectname,
+    mobilebag,item<COLN>qty,widgetname,
+    mobilebag,item<COLN>qty,placeholder,
+    mobilebag,item<COLN>qty,addedby,
+    mobilebag,item<COLN>qty,DOCK,FFFF
+    mobilebag,item<COLN>qty,PICTURE,media/img_missing.png
+    mobilebag,item<COLN>qty,SIZE,20<PIP>29
+    mobilebag,item<COLN>qty,JSON,{}
+    mobilebag,item<COLN>qty,TEXT,1
+    mobilebag,item<COLN>qty,TOOLTIP,
+    mobilebag,item<COLN>qty,ENABLED,true
+    mobilebag,item<COLN>qty,VISIBLE,true
+    mobilebag,item<COLN>qty,ZORDER,0
+    mobilebag,item<COLN>qty,FORECOLOR,&h000000
+    mobilebag,item<COLN>qty,BACKCOLOR,transparent
+    mobilebag,item<COLN>qty,FONTNAME,inherit
+    mobilebag,item<COLN>qty,FONTSIZE,inherit
+    mobilebag,item<COLN>qty,FONTBOLD,false
+    mobilebag,item<COLN>qty,FONTITALIC,false
+    mobilebag,item<COLN>qty,FONTUNDERLINE,false
+    mobilebag,item<COLN>qty,FONTSTRIKETHRU,false
+    mobilebag,item<COLN>qty,INFO,
+    mobilebag,item<COLN>qty,PAGECOUNT,0
+    mobilebag,item<COLN>qty,DATABIND,
+    mobilebag,item<COLN>qty,BINDMAPPING,
+    mobilebag,item<COLN>qty,drag.x,1
+    mobilebag,item<COLN>qty,drag.y,1
+    mobilebag,item<COLN>qty,xdragrange,-1<SEMI> -1
+    mobilebag,item<COLN>qty,ydragrange,-1<SEMI> -1
+    mobilebag,item<COLN>qty,size.x,1
+    mobilebag,item<COLN>qty,size.y,1
+    mobilebag,item<COLN>qty,negadj,
+    mobilebag,item<COLN>qty,posadj,
+    mobilebag,item<COLN>qty,child,true
+    mobilebag,item<COLN>qty,displaymode,inline-block
+    mobilebag,item<COLN>qty,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> top<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    mobilebag,item<COLN>qty,LOCK,false
+    mobilebag,item<COLN>qty,events,
+    mobilebag,item<COLN>qty,extend,{"react"<COLN>"<CR>"}
+mobilebag,item<COLN>qty,REFRESH, 
+mobilebag,item<COLN>price,TARGET,item
+mobilebag,item<COLN>price,PARENTGROUP,item
+mobilebag,item<COLN>price,load,label|$12.00|0|0|80|21|1342377472|32
+    mobilebag,item<COLN>price,group,false
+    mobilebag,item<COLN>price,groupid,0
+    mobilebag,item<COLN>price,groupby,0300
+    mobilebag,item<COLN>price,widgetlock,false
+    mobilebag,item<COLN>price,iswidget,true
+    mobilebag,item<COLN>price,iscollection,false
+    mobilebag,item<COLN>price,collectname,
+    mobilebag,item<COLN>price,widgetname,
+    mobilebag,item<COLN>price,placeholder,
+    mobilebag,item<COLN>price,addedby,
+    mobilebag,item<COLN>price,DOCK,FFFF
+    mobilebag,item<COLN>price,PICTURE,media/img_missing.png
+    mobilebag,item<COLN>price,SIZE,80<PIP>21
+    mobilebag,item<COLN>price,JSON,{}
+    mobilebag,item<COLN>price,TEXT,$12.00
+    mobilebag,item<COLN>price,TOOLTIP,
+    mobilebag,item<COLN>price,ENABLED,true
+    mobilebag,item<COLN>price,VISIBLE,true
+    mobilebag,item<COLN>price,ZORDER,0
+    mobilebag,item<COLN>price,FORECOLOR,&h000000
+    mobilebag,item<COLN>price,BACKCOLOR,transparent
+    mobilebag,item<COLN>price,FONTNAME,inherit
+    mobilebag,item<COLN>price,FONTSIZE,inherit
+    mobilebag,item<COLN>price,FONTBOLD,false
+    mobilebag,item<COLN>price,FONTITALIC,false
+    mobilebag,item<COLN>price,FONTUNDERLINE,false
+    mobilebag,item<COLN>price,FONTSTRIKETHRU,false
+    mobilebag,item<COLN>price,INFO,
+    mobilebag,item<COLN>price,PAGECOUNT,0
+    mobilebag,item<COLN>price,DATABIND,
+    mobilebag,item<COLN>price,BINDMAPPING,
+    mobilebag,item<COLN>price,drag.x,1
+    mobilebag,item<COLN>price,drag.y,1
+    mobilebag,item<COLN>price,xdragrange,-1<SEMI> -1
+    mobilebag,item<COLN>price,ydragrange,-1<SEMI> -1
+    mobilebag,item<COLN>price,size.x,1
+    mobilebag,item<COLN>price,size.y,1
+    mobilebag,item<COLN>price,negadj,
+    mobilebag,item<COLN>price,posadj,
+    mobilebag,item<COLN>price,child,true
+    mobilebag,item<COLN>price,displaymode,inline-block
+    mobilebag,item<COLN>price,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>float<COLN> right<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> top<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> right<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    mobilebag,item<COLN>price,LOCK,false
+    mobilebag,item<COLN>price,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item<COLN>price,extend,{"react"<COLN>"<CR>"}
+mobilebag,item<COLN>price,REFRESH, 
+mobilebag,item<COLN>plus,TARGET,item
+mobilebag,item<COLN>plus,PARENTGROUP,item
+mobilebag,item<COLN>plus,load,icon|media/img_missing.png|0|0|24|29|1342373901|0
+    mobilebag,item<COLN>plus,group,false
+    mobilebag,item<COLN>plus,groupid,0
+    mobilebag,item<COLN>plus,groupby,0300
+    mobilebag,item<COLN>plus,widgetlock,false
+    mobilebag,item<COLN>plus,iswidget,true
+    mobilebag,item<COLN>plus,iscollection,false
+    mobilebag,item<COLN>plus,collectname,
+    mobilebag,item<COLN>plus,widgetname,
+    mobilebag,item<COLN>plus,placeholder,
+    mobilebag,item<COLN>plus,addedby,
+    mobilebag,item<COLN>plus,DOCK,FFFF
+    mobilebag,item<COLN>plus,PICTURE,media/img_missing.png
+    mobilebag,item<COLN>plus,SIZE,24<PIP>29
+    mobilebag,item<COLN>plus,JSON,{}
+    mobilebag,item<COLN>plus,TEXT,
+    mobilebag,item<COLN>plus,TOOLTIP,
+    mobilebag,item<COLN>plus,ENABLED,true
+    mobilebag,item<COLN>plus,VISIBLE,true
+    mobilebag,item<COLN>plus,ZORDER,0
+    mobilebag,item<COLN>plus,FORECOLOR,&h336699
+    mobilebag,item<COLN>plus,BACKCOLOR,transparent
+    mobilebag,item<COLN>plus,FONTNAME,inherit
+    mobilebag,item<COLN>plus,FONTSIZE,24px
+    mobilebag,item<COLN>plus,FONTBOLD,false
+    mobilebag,item<COLN>plus,FONTITALIC,false
+    mobilebag,item<COLN>plus,FONTUNDERLINE,false
+    mobilebag,item<COLN>plus,FONTSTRIKETHRU,false
+    mobilebag,item<COLN>plus,INFO,icon
+    mobilebag,item<COLN>plus,PAGECOUNT,0
+    mobilebag,item<COLN>plus,DATABIND,
+    mobilebag,item<COLN>plus,BINDMAPPING,
+    mobilebag,item<COLN>plus,drag.x,1
+    mobilebag,item<COLN>plus,drag.y,1
+    mobilebag,item<COLN>plus,xdragrange,-1<SEMI> -1
+    mobilebag,item<COLN>plus,ydragrange,-1<SEMI> -1
+    mobilebag,item<COLN>plus,size.x,1
+    mobilebag,item<COLN>plus,size.y,1
+    mobilebag,item<COLN>plus,negadj,
+    mobilebag,item<COLN>plus,posadj,
+    mobilebag,item<COLN>plus,child,true
+    mobilebag,item<COLN>plus,displaymode,inline-block
+    mobilebag,item<COLN>plus,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-plus-circle<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> #336699<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> #336699<LF>image.display<COLN> block<LF>image.font-size<COLN> 24px
+    mobilebag,item<COLN>plus,LOCK,false
+    mobilebag,item<COLN>plus,events,
+    mobilebag,item<COLN>plus,extend,{}
+mobilebag,item<COLN>plus,REFRESH, 
+mobilebag,item1,TARGET,~
+mobilebag,item1,PARENTGROUP,~
+mobilebag,item1,load,frame||0|0|360|222|1342227719|32
+    mobilebag,item1,group,true
+    mobilebag,item1,groupid,0500
+    mobilebag,item1,groupby,9999999999
+    mobilebag,item1,widgetlock,false
+    mobilebag,item1,iswidget,true
+    mobilebag,item1,iscollection,false
+    mobilebag,item1,collectname,
+    mobilebag,item1,widgetname,
+    mobilebag,item1,placeholder,
+    mobilebag,item1,addedby,
+    mobilebag,item1,DOCK,FFFF
+    mobilebag,item1,PICTURE,media/img_missing.png
+    mobilebag,item1,SIZE,360<PIP>222
+    mobilebag,item1,JSON,{}
+    mobilebag,item1,TEXT,
+    mobilebag,item1,TOOLTIP,
+    mobilebag,item1,ENABLED,true
+    mobilebag,item1,VISIBLE,true
+    mobilebag,item1,ZORDER,0
+    mobilebag,item1,FORECOLOR,&h000000
+    mobilebag,item1,BACKCOLOR,transparent
+    mobilebag,item1,FONTNAME,inherit
+    mobilebag,item1,FONTSIZE,inherit
+    mobilebag,item1,FONTBOLD,false
+    mobilebag,item1,FONTITALIC,false
+    mobilebag,item1,FONTUNDERLINE,false
+    mobilebag,item1,FONTSTRIKETHRU,false
+    mobilebag,item1,INFO,
+    mobilebag,item1,PAGECOUNT,0
+    mobilebag,item1,DATABIND,
+    mobilebag,item1,BINDMAPPING,
+    mobilebag,item1,drag.x,1
+    mobilebag,item1,drag.y,1
+    mobilebag,item1,xdragrange,-1<SEMI> -1
+    mobilebag,item1,ydragrange,-1<SEMI> -1
+    mobilebag,item1,size.x,1
+    mobilebag,item1,size.y,1
+    mobilebag,item1,negadj,
+    mobilebag,item1,posadj,
+    mobilebag,item1,child,false
+    mobilebag,item1,displaymode,block
+    mobilebag,item1,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>margin<COLN> 0px 5px 0px 5px<LF>opacity<COLN> <LF>padding<COLN> 5px 10px 10px 10px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> TRANSPARENT<LF>border-bottom<COLN> 1px #bbb dotted<LF>border-radius<COLN> <LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilebag,item1,LOCK,false
+    mobilebag,item1,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item1,extend,{"react"<COLN>"<CR>"}
+mobilebag,item1,REFRESH, 
+mobilebag,item1<COLN>title,TARGET,item1
+mobilebag,item1<COLN>title,PARENTGROUP,item1
+mobilebag,item1<COLN>title,load,label|Stunning Jacket|0|0|175|21|1342377216|32
+    mobilebag,item1<COLN>title,group,false
+    mobilebag,item1<COLN>title,groupid,0
+    mobilebag,item1<COLN>title,groupby,0500
+    mobilebag,item1<COLN>title,widgetlock,false
+    mobilebag,item1<COLN>title,iswidget,true
+    mobilebag,item1<COLN>title,iscollection,false
+    mobilebag,item1<COLN>title,collectname,
+    mobilebag,item1<COLN>title,widgetname,
+    mobilebag,item1<COLN>title,placeholder,
+    mobilebag,item1<COLN>title,addedby,
+    mobilebag,item1<COLN>title,DOCK,FFFF
+    mobilebag,item1<COLN>title,PICTURE,media/img_missing.png
+    mobilebag,item1<COLN>title,SIZE,175<PIP>21
+    mobilebag,item1<COLN>title,JSON,{}
+    mobilebag,item1<COLN>title,TEXT,Stunning Jacket
+    mobilebag,item1<COLN>title,TOOLTIP,
+    mobilebag,item1<COLN>title,ENABLED,true
+    mobilebag,item1<COLN>title,VISIBLE,true
+    mobilebag,item1<COLN>title,ZORDER,0
+    mobilebag,item1<COLN>title,FORECOLOR,&h000000
+    mobilebag,item1<COLN>title,BACKCOLOR,transparent
+    mobilebag,item1<COLN>title,FONTNAME,inherit
+    mobilebag,item1<COLN>title,FONTSIZE,inherit
+    mobilebag,item1<COLN>title,FONTBOLD,true
+    mobilebag,item1<COLN>title,FONTITALIC,false
+    mobilebag,item1<COLN>title,FONTUNDERLINE,false
+    mobilebag,item1<COLN>title,FONTSTRIKETHRU,false
+    mobilebag,item1<COLN>title,INFO,
+    mobilebag,item1<COLN>title,PAGECOUNT,0
+    mobilebag,item1<COLN>title,DATABIND,
+    mobilebag,item1<COLN>title,BINDMAPPING,
+    mobilebag,item1<COLN>title,drag.x,1
+    mobilebag,item1<COLN>title,drag.y,1
+    mobilebag,item1<COLN>title,xdragrange,-1<SEMI> -1
+    mobilebag,item1<COLN>title,ydragrange,-1<SEMI> -1
+    mobilebag,item1<COLN>title,size.x,1
+    mobilebag,item1<COLN>title,size.y,1
+    mobilebag,item1<COLN>title,negadj,
+    mobilebag,item1<COLN>title,posadj,
+    mobilebag,item1<COLN>title,child,true
+    mobilebag,item1<COLN>title,displaymode,inline-block
+    mobilebag,item1<COLN>title,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> top<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 15px 0px 0px 80px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> calc(100% - 165px)
+    mobilebag,item1<COLN>title,LOCK,false
+    mobilebag,item1<COLN>title,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item1<COLN>title,extend,{"react"<COLN>"<CR>"}
+mobilebag,item1<COLN>title,REFRESH, 
+mobilebag,item1<COLN>description,TARGET,item1
+mobilebag,item1<COLN>description,PARENTGROUP,item1
+mobilebag,item1<COLN>description,load,label|Black / M|0|0|175|21|1342377216|32
+    mobilebag,item1<COLN>description,group,false
+    mobilebag,item1<COLN>description,groupid,0
+    mobilebag,item1<COLN>description,groupby,0500
+    mobilebag,item1<COLN>description,widgetlock,false
+    mobilebag,item1<COLN>description,iswidget,true
+    mobilebag,item1<COLN>description,iscollection,false
+    mobilebag,item1<COLN>description,collectname,
+    mobilebag,item1<COLN>description,widgetname,
+    mobilebag,item1<COLN>description,placeholder,
+    mobilebag,item1<COLN>description,addedby,
+    mobilebag,item1<COLN>description,DOCK,FFFF
+    mobilebag,item1<COLN>description,PICTURE,media/img_missing.png
+    mobilebag,item1<COLN>description,SIZE,175<PIP>21
+    mobilebag,item1<COLN>description,JSON,{}
+    mobilebag,item1<COLN>description,TEXT,Black / M
+    mobilebag,item1<COLN>description,TOOLTIP,
+    mobilebag,item1<COLN>description,ENABLED,true
+    mobilebag,item1<COLN>description,VISIBLE,true
+    mobilebag,item1<COLN>description,ZORDER,0
+    mobilebag,item1<COLN>description,FORECOLOR,&h000000
+    mobilebag,item1<COLN>description,BACKCOLOR,transparent
+    mobilebag,item1<COLN>description,FONTNAME,inherit
+    mobilebag,item1<COLN>description,FONTSIZE,12px
+    mobilebag,item1<COLN>description,FONTBOLD,false
+    mobilebag,item1<COLN>description,FONTITALIC,false
+    mobilebag,item1<COLN>description,FONTUNDERLINE,false
+    mobilebag,item1<COLN>description,FONTSTRIKETHRU,false
+    mobilebag,item1<COLN>description,INFO,
+    mobilebag,item1<COLN>description,PAGECOUNT,0
+    mobilebag,item1<COLN>description,DATABIND,
+    mobilebag,item1<COLN>description,BINDMAPPING,
+    mobilebag,item1<COLN>description,drag.x,1
+    mobilebag,item1<COLN>description,drag.y,1
+    mobilebag,item1<COLN>description,xdragrange,-1<SEMI> -1
+    mobilebag,item1<COLN>description,ydragrange,-1<SEMI> -1
+    mobilebag,item1<COLN>description,size.x,1
+    mobilebag,item1<COLN>description,size.y,1
+    mobilebag,item1<COLN>description,negadj,
+    mobilebag,item1<COLN>description,posadj,
+    mobilebag,item1<COLN>description,child,true
+    mobilebag,item1<COLN>description,displaymode,inline-block
+    mobilebag,item1<COLN>description,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> top<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 10px 80px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> calc(100% - 165px)
+    mobilebag,item1<COLN>description,LOCK,false
+    mobilebag,item1<COLN>description,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item1<COLN>description,extend,{"react"<COLN>"<CR>"}
+mobilebag,item1<COLN>description,REFRESH, 
+mobilebag,item1<COLN>img,TARGET,item1
+mobilebag,item1<COLN>img,PARENTGROUP,item1
+mobilebag,item1<COLN>img,load,graphicx|media/img_missing.png|5|10|75|75|1342373901|0
+    mobilebag,item1<COLN>img,group,false
+    mobilebag,item1<COLN>img,groupid,0
+    mobilebag,item1<COLN>img,groupby,0500
+    mobilebag,item1<COLN>img,widgetlock,false
+    mobilebag,item1<COLN>img,iswidget,true
+    mobilebag,item1<COLN>img,iscollection,false
+    mobilebag,item1<COLN>img,collectname,
+    mobilebag,item1<COLN>img,widgetname,
+    mobilebag,item1<COLN>img,placeholder,
+    mobilebag,item1<COLN>img,addedby,
+    mobilebag,item1<COLN>img,DOCK,FFFF
+    mobilebag,item1<COLN>img,PICTURE,media/img_missing.png
+    mobilebag,item1<COLN>img,SIZE,75<PIP>75
+    mobilebag,item1<COLN>img,JSON,{}
+    mobilebag,item1<COLN>img,TEXT,
+    mobilebag,item1<COLN>img,TOOLTIP,
+    mobilebag,item1<COLN>img,ENABLED,true
+    mobilebag,item1<COLN>img,VISIBLE,true
+    mobilebag,item1<COLN>img,ZORDER,0
+    mobilebag,item1<COLN>img,FORECOLOR,&h000000
+    mobilebag,item1<COLN>img,BACKCOLOR,&hffffff
+    mobilebag,item1<COLN>img,FONTNAME,inherit
+    mobilebag,item1<COLN>img,FONTSIZE,inherit
+    mobilebag,item1<COLN>img,FONTBOLD,false
+    mobilebag,item1<COLN>img,FONTITALIC,false
+    mobilebag,item1<COLN>img,FONTUNDERLINE,false
+    mobilebag,item1<COLN>img,FONTSTRIKETHRU,false
+    mobilebag,item1<COLN>img,INFO,imagex
+    mobilebag,item1<COLN>img,PAGECOUNT,0
+    mobilebag,item1<COLN>img,DATABIND,
+    mobilebag,item1<COLN>img,BINDMAPPING,
+    mobilebag,item1<COLN>img,drag.x,1
+    mobilebag,item1<COLN>img,drag.y,1
+    mobilebag,item1<COLN>img,xdragrange,-1<SEMI> -1
+    mobilebag,item1<COLN>img,ydragrange,-1<SEMI> -1
+    mobilebag,item1<COLN>img,size.x,1
+    mobilebag,item1<COLN>img,size.y,1
+    mobilebag,item1<COLN>img,negadj,
+    mobilebag,item1<COLN>img,posadj,
+    mobilebag,item1<COLN>img,child,true
+    mobilebag,item1<COLN>img,displaymode,absolute
+    mobilebag,item1<COLN>img,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-graphicx<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> <LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 17px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> top<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 10px 10px 10px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> absolute<LF>div.width<COLN>
+    mobilebag,item1<COLN>img,LOCK,false
+    mobilebag,item1<COLN>img,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item1<COLN>img,extend,{"react"<COLN>"<CR>"}
+mobilebag,item1<COLN>img,REFRESH, 
+mobilebag,item1<COLN>minus,TARGET,item1
+mobilebag,item1<COLN>minus,PARENTGROUP,item1
+mobilebag,item1<COLN>minus,load,icon|media/img_missing.png|0|0|24|29|1342373901|0
+    mobilebag,item1<COLN>minus,group,false
+    mobilebag,item1<COLN>minus,groupid,0
+    mobilebag,item1<COLN>minus,groupby,0500
+    mobilebag,item1<COLN>minus,widgetlock,false
+    mobilebag,item1<COLN>minus,iswidget,true
+    mobilebag,item1<COLN>minus,iscollection,false
+    mobilebag,item1<COLN>minus,collectname,
+    mobilebag,item1<COLN>minus,widgetname,
+    mobilebag,item1<COLN>minus,placeholder,
+    mobilebag,item1<COLN>minus,addedby,
+    mobilebag,item1<COLN>minus,DOCK,FFFF
+    mobilebag,item1<COLN>minus,PICTURE,media/img_missing.png
+    mobilebag,item1<COLN>minus,SIZE,24<PIP>29
+    mobilebag,item1<COLN>minus,JSON,{}
+    mobilebag,item1<COLN>minus,TEXT,
+    mobilebag,item1<COLN>minus,TOOLTIP,
+    mobilebag,item1<COLN>minus,ENABLED,true
+    mobilebag,item1<COLN>minus,VISIBLE,true
+    mobilebag,item1<COLN>minus,ZORDER,0
+    mobilebag,item1<COLN>minus,FORECOLOR,&h336699
+    mobilebag,item1<COLN>minus,BACKCOLOR,transparent
+    mobilebag,item1<COLN>minus,FONTNAME,inherit
+    mobilebag,item1<COLN>minus,FONTSIZE,24px
+    mobilebag,item1<COLN>minus,FONTBOLD,false
+    mobilebag,item1<COLN>minus,FONTITALIC,false
+    mobilebag,item1<COLN>minus,FONTUNDERLINE,false
+    mobilebag,item1<COLN>minus,FONTSTRIKETHRU,false
+    mobilebag,item1<COLN>minus,INFO,icon
+    mobilebag,item1<COLN>minus,PAGECOUNT,0
+    mobilebag,item1<COLN>minus,DATABIND,
+    mobilebag,item1<COLN>minus,BINDMAPPING,
+    mobilebag,item1<COLN>minus,drag.x,1
+    mobilebag,item1<COLN>minus,drag.y,1
+    mobilebag,item1<COLN>minus,xdragrange,-1<SEMI> -1
+    mobilebag,item1<COLN>minus,ydragrange,-1<SEMI> -1
+    mobilebag,item1<COLN>minus,size.x,1
+    mobilebag,item1<COLN>minus,size.y,1
+    mobilebag,item1<COLN>minus,negadj,
+    mobilebag,item1<COLN>minus,posadj,
+    mobilebag,item1<COLN>minus,child,true
+    mobilebag,item1<COLN>minus,displaymode,inline-block
+    mobilebag,item1<COLN>minus,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-minus-circle<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> #336699<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 85px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> #336699<LF>image.display<COLN> block<LF>image.font-size<COLN> 24px
+    mobilebag,item1<COLN>minus,LOCK,false
+    mobilebag,item1<COLN>minus,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item1<COLN>minus,extend,{"react"<COLN>"<CR>"}
+mobilebag,item1<COLN>minus,REFRESH, 
+mobilebag,item1<COLN>qty,TARGET,item1
+mobilebag,item1<COLN>qty,PARENTGROUP,item1
+mobilebag,item1<COLN>qty,load,label|1|0|0|20|29|1342377728|32
+    mobilebag,item1<COLN>qty,group,false
+    mobilebag,item1<COLN>qty,groupid,0
+    mobilebag,item1<COLN>qty,groupby,0500
+    mobilebag,item1<COLN>qty,widgetlock,false
+    mobilebag,item1<COLN>qty,iswidget,true
+    mobilebag,item1<COLN>qty,iscollection,false
+    mobilebag,item1<COLN>qty,collectname,
+    mobilebag,item1<COLN>qty,widgetname,
+    mobilebag,item1<COLN>qty,placeholder,
+    mobilebag,item1<COLN>qty,addedby,
+    mobilebag,item1<COLN>qty,DOCK,FFFF
+    mobilebag,item1<COLN>qty,PICTURE,media/img_missing.png
+    mobilebag,item1<COLN>qty,SIZE,20<PIP>29
+    mobilebag,item1<COLN>qty,JSON,{}
+    mobilebag,item1<COLN>qty,TEXT,1
+    mobilebag,item1<COLN>qty,TOOLTIP,
+    mobilebag,item1<COLN>qty,ENABLED,true
+    mobilebag,item1<COLN>qty,VISIBLE,true
+    mobilebag,item1<COLN>qty,ZORDER,0
+    mobilebag,item1<COLN>qty,FORECOLOR,&h000000
+    mobilebag,item1<COLN>qty,BACKCOLOR,transparent
+    mobilebag,item1<COLN>qty,FONTNAME,inherit
+    mobilebag,item1<COLN>qty,FONTSIZE,inherit
+    mobilebag,item1<COLN>qty,FONTBOLD,false
+    mobilebag,item1<COLN>qty,FONTITALIC,false
+    mobilebag,item1<COLN>qty,FONTUNDERLINE,false
+    mobilebag,item1<COLN>qty,FONTSTRIKETHRU,false
+    mobilebag,item1<COLN>qty,INFO,
+    mobilebag,item1<COLN>qty,PAGECOUNT,0
+    mobilebag,item1<COLN>qty,DATABIND,
+    mobilebag,item1<COLN>qty,BINDMAPPING,
+    mobilebag,item1<COLN>qty,drag.x,1
+    mobilebag,item1<COLN>qty,drag.y,1
+    mobilebag,item1<COLN>qty,xdragrange,-1<SEMI> -1
+    mobilebag,item1<COLN>qty,ydragrange,-1<SEMI> -1
+    mobilebag,item1<COLN>qty,size.x,1
+    mobilebag,item1<COLN>qty,size.y,1
+    mobilebag,item1<COLN>qty,negadj,
+    mobilebag,item1<COLN>qty,posadj,
+    mobilebag,item1<COLN>qty,child,true
+    mobilebag,item1<COLN>qty,displaymode,inline-block
+    mobilebag,item1<COLN>qty,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> top<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    mobilebag,item1<COLN>qty,LOCK,false
+    mobilebag,item1<COLN>qty,events,
+    mobilebag,item1<COLN>qty,extend,{"react"<COLN>"<CR>"}
+mobilebag,item1<COLN>qty,REFRESH, 
+mobilebag,item1<COLN>price,TARGET,item1
+mobilebag,item1<COLN>price,PARENTGROUP,item1
+mobilebag,item1<COLN>price,load,label|$20.00|0|0|80|21|1342377472|32
+    mobilebag,item1<COLN>price,group,false
+    mobilebag,item1<COLN>price,groupid,0
+    mobilebag,item1<COLN>price,groupby,0500
+    mobilebag,item1<COLN>price,widgetlock,false
+    mobilebag,item1<COLN>price,iswidget,true
+    mobilebag,item1<COLN>price,iscollection,false
+    mobilebag,item1<COLN>price,collectname,
+    mobilebag,item1<COLN>price,widgetname,
+    mobilebag,item1<COLN>price,placeholder,
+    mobilebag,item1<COLN>price,addedby,
+    mobilebag,item1<COLN>price,DOCK,FFFF
+    mobilebag,item1<COLN>price,PICTURE,media/img_missing.png
+    mobilebag,item1<COLN>price,SIZE,80<PIP>21
+    mobilebag,item1<COLN>price,JSON,{}
+    mobilebag,item1<COLN>price,TEXT,$20.00
+    mobilebag,item1<COLN>price,TOOLTIP,
+    mobilebag,item1<COLN>price,ENABLED,true
+    mobilebag,item1<COLN>price,VISIBLE,true
+    mobilebag,item1<COLN>price,ZORDER,0
+    mobilebag,item1<COLN>price,FORECOLOR,&h000000
+    mobilebag,item1<COLN>price,BACKCOLOR,transparent
+    mobilebag,item1<COLN>price,FONTNAME,inherit
+    mobilebag,item1<COLN>price,FONTSIZE,inherit
+    mobilebag,item1<COLN>price,FONTBOLD,false
+    mobilebag,item1<COLN>price,FONTITALIC,false
+    mobilebag,item1<COLN>price,FONTUNDERLINE,false
+    mobilebag,item1<COLN>price,FONTSTRIKETHRU,false
+    mobilebag,item1<COLN>price,INFO,
+    mobilebag,item1<COLN>price,PAGECOUNT,0
+    mobilebag,item1<COLN>price,DATABIND,
+    mobilebag,item1<COLN>price,BINDMAPPING,
+    mobilebag,item1<COLN>price,drag.x,1
+    mobilebag,item1<COLN>price,drag.y,1
+    mobilebag,item1<COLN>price,xdragrange,-1<SEMI> -1
+    mobilebag,item1<COLN>price,ydragrange,-1<SEMI> -1
+    mobilebag,item1<COLN>price,size.x,1
+    mobilebag,item1<COLN>price,size.y,1
+    mobilebag,item1<COLN>price,negadj,
+    mobilebag,item1<COLN>price,posadj,
+    mobilebag,item1<COLN>price,child,true
+    mobilebag,item1<COLN>price,displaymode,inline-block
+    mobilebag,item1<COLN>price,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>float<COLN> right<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> top<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> right<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    mobilebag,item1<COLN>price,LOCK,false
+    mobilebag,item1<COLN>price,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item1<COLN>price,extend,{"react"<COLN>"<CR>"}
+mobilebag,item1<COLN>price,REFRESH, 
+mobilebag,item1<COLN>plus,TARGET,item1
+mobilebag,item1<COLN>plus,PARENTGROUP,item1
+mobilebag,item1<COLN>plus,load,icon|media/img_missing.png|0|0|24|29|1342373901|0
+    mobilebag,item1<COLN>plus,group,false
+    mobilebag,item1<COLN>plus,groupid,0
+    mobilebag,item1<COLN>plus,groupby,0500
+    mobilebag,item1<COLN>plus,widgetlock,false
+    mobilebag,item1<COLN>plus,iswidget,true
+    mobilebag,item1<COLN>plus,iscollection,false
+    mobilebag,item1<COLN>plus,collectname,
+    mobilebag,item1<COLN>plus,widgetname,
+    mobilebag,item1<COLN>plus,placeholder,
+    mobilebag,item1<COLN>plus,addedby,
+    mobilebag,item1<COLN>plus,DOCK,FFFF
+    mobilebag,item1<COLN>plus,PICTURE,media/img_missing.png
+    mobilebag,item1<COLN>plus,SIZE,24<PIP>29
+    mobilebag,item1<COLN>plus,JSON,{}
+    mobilebag,item1<COLN>plus,TEXT,
+    mobilebag,item1<COLN>plus,TOOLTIP,
+    mobilebag,item1<COLN>plus,ENABLED,true
+    mobilebag,item1<COLN>plus,VISIBLE,true
+    mobilebag,item1<COLN>plus,ZORDER,0
+    mobilebag,item1<COLN>plus,FORECOLOR,&h336699
+    mobilebag,item1<COLN>plus,BACKCOLOR,transparent
+    mobilebag,item1<COLN>plus,FONTNAME,inherit
+    mobilebag,item1<COLN>plus,FONTSIZE,24px
+    mobilebag,item1<COLN>plus,FONTBOLD,false
+    mobilebag,item1<COLN>plus,FONTITALIC,false
+    mobilebag,item1<COLN>plus,FONTUNDERLINE,false
+    mobilebag,item1<COLN>plus,FONTSTRIKETHRU,false
+    mobilebag,item1<COLN>plus,INFO,icon
+    mobilebag,item1<COLN>plus,PAGECOUNT,0
+    mobilebag,item1<COLN>plus,DATABIND,
+    mobilebag,item1<COLN>plus,BINDMAPPING,
+    mobilebag,item1<COLN>plus,drag.x,1
+    mobilebag,item1<COLN>plus,drag.y,1
+    mobilebag,item1<COLN>plus,xdragrange,-1<SEMI> -1
+    mobilebag,item1<COLN>plus,ydragrange,-1<SEMI> -1
+    mobilebag,item1<COLN>plus,size.x,1
+    mobilebag,item1<COLN>plus,size.y,1
+    mobilebag,item1<COLN>plus,negadj,
+    mobilebag,item1<COLN>plus,posadj,
+    mobilebag,item1<COLN>plus,child,true
+    mobilebag,item1<COLN>plus,displaymode,inline-block
+    mobilebag,item1<COLN>plus,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-plus-circle<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> #336699<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> #336699<LF>image.display<COLN> block<LF>image.font-size<COLN> 24px
+    mobilebag,item1<COLN>plus,LOCK,false
+    mobilebag,item1<COLN>plus,events,
+    mobilebag,item1<COLN>plus,extend,{}
+mobilebag,item1<COLN>plus,REFRESH, 
+mobilebag,item2,TARGET,~
+mobilebag,item2,PARENTGROUP,~
+mobilebag,item2,load,frame||0|0|360|222|1342227719|32
+    mobilebag,item2,group,true
+    mobilebag,item2,groupid,0700
+    mobilebag,item2,groupby,9999999999
+    mobilebag,item2,widgetlock,false
+    mobilebag,item2,iswidget,true
+    mobilebag,item2,iscollection,false
+    mobilebag,item2,collectname,
+    mobilebag,item2,widgetname,
+    mobilebag,item2,placeholder,
+    mobilebag,item2,addedby,
+    mobilebag,item2,DOCK,FFFF
+    mobilebag,item2,PICTURE,media/img_missing.png
+    mobilebag,item2,SIZE,360<PIP>222
+    mobilebag,item2,JSON,{}
+    mobilebag,item2,TEXT,
+    mobilebag,item2,TOOLTIP,
+    mobilebag,item2,ENABLED,true
+    mobilebag,item2,VISIBLE,true
+    mobilebag,item2,ZORDER,0
+    mobilebag,item2,FORECOLOR,&h000000
+    mobilebag,item2,BACKCOLOR,transparent
+    mobilebag,item2,FONTNAME,inherit
+    mobilebag,item2,FONTSIZE,inherit
+    mobilebag,item2,FONTBOLD,false
+    mobilebag,item2,FONTITALIC,false
+    mobilebag,item2,FONTUNDERLINE,false
+    mobilebag,item2,FONTSTRIKETHRU,false
+    mobilebag,item2,INFO,
+    mobilebag,item2,PAGECOUNT,0
+    mobilebag,item2,DATABIND,
+    mobilebag,item2,BINDMAPPING,
+    mobilebag,item2,drag.x,1
+    mobilebag,item2,drag.y,1
+    mobilebag,item2,xdragrange,-1<SEMI> -1
+    mobilebag,item2,ydragrange,-1<SEMI> -1
+    mobilebag,item2,size.x,1
+    mobilebag,item2,size.y,1
+    mobilebag,item2,negadj,
+    mobilebag,item2,posadj,
+    mobilebag,item2,child,false
+    mobilebag,item2,displaymode,block
+    mobilebag,item2,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>margin<COLN> 0px 5px 0px 5px<LF>opacity<COLN> <LF>padding<COLN> 5px 10px 10px 10px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> TRANSPARENT<LF>border-bottom<COLN> 1px #bbb dotted<LF>border-radius<COLN> <LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilebag,item2,LOCK,false
+    mobilebag,item2,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item2,extend,{"react"<COLN>"<CR>"}
+mobilebag,item2,REFRESH, 
+mobilebag,item2<COLN>title,TARGET,item2
+mobilebag,item2<COLN>title,PARENTGROUP,item2
+mobilebag,item2<COLN>title,load,label|Diamond watch|0|0|175|21|1342377216|32
+    mobilebag,item2<COLN>title,group,false
+    mobilebag,item2<COLN>title,groupid,0
+    mobilebag,item2<COLN>title,groupby,0700
+    mobilebag,item2<COLN>title,widgetlock,false
+    mobilebag,item2<COLN>title,iswidget,true
+    mobilebag,item2<COLN>title,iscollection,false
+    mobilebag,item2<COLN>title,collectname,
+    mobilebag,item2<COLN>title,widgetname,
+    mobilebag,item2<COLN>title,placeholder,
+    mobilebag,item2<COLN>title,addedby,
+    mobilebag,item2<COLN>title,DOCK,FFFF
+    mobilebag,item2<COLN>title,PICTURE,media/img_missing.png
+    mobilebag,item2<COLN>title,SIZE,175<PIP>21
+    mobilebag,item2<COLN>title,JSON,{}
+    mobilebag,item2<COLN>title,TEXT,Diamond watch
+    mobilebag,item2<COLN>title,TOOLTIP,
+    mobilebag,item2<COLN>title,ENABLED,true
+    mobilebag,item2<COLN>title,VISIBLE,true
+    mobilebag,item2<COLN>title,ZORDER,0
+    mobilebag,item2<COLN>title,FORECOLOR,&h000000
+    mobilebag,item2<COLN>title,BACKCOLOR,transparent
+    mobilebag,item2<COLN>title,FONTNAME,inherit
+    mobilebag,item2<COLN>title,FONTSIZE,inherit
+    mobilebag,item2<COLN>title,FONTBOLD,true
+    mobilebag,item2<COLN>title,FONTITALIC,false
+    mobilebag,item2<COLN>title,FONTUNDERLINE,false
+    mobilebag,item2<COLN>title,FONTSTRIKETHRU,false
+    mobilebag,item2<COLN>title,INFO,
+    mobilebag,item2<COLN>title,PAGECOUNT,0
+    mobilebag,item2<COLN>title,DATABIND,
+    mobilebag,item2<COLN>title,BINDMAPPING,
+    mobilebag,item2<COLN>title,drag.x,1
+    mobilebag,item2<COLN>title,drag.y,1
+    mobilebag,item2<COLN>title,xdragrange,-1<SEMI> -1
+    mobilebag,item2<COLN>title,ydragrange,-1<SEMI> -1
+    mobilebag,item2<COLN>title,size.x,1
+    mobilebag,item2<COLN>title,size.y,1
+    mobilebag,item2<COLN>title,negadj,
+    mobilebag,item2<COLN>title,posadj,
+    mobilebag,item2<COLN>title,child,true
+    mobilebag,item2<COLN>title,displaymode,inline-block
+    mobilebag,item2<COLN>title,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> top<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 15px 0px 0px 80px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> calc(100% - 165px)
+    mobilebag,item2<COLN>title,LOCK,false
+    mobilebag,item2<COLN>title,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item2<COLN>title,extend,{"react"<COLN>"<CR>"}
+mobilebag,item2<COLN>title,REFRESH, 
+mobilebag,item2<COLN>description,TARGET,item2
+mobilebag,item2<COLN>description,PARENTGROUP,item2
+mobilebag,item2<COLN>description,load,label|Black / M|0|0|175|21|1342377216|32
+    mobilebag,item2<COLN>description,group,false
+    mobilebag,item2<COLN>description,groupid,0
+    mobilebag,item2<COLN>description,groupby,0700
+    mobilebag,item2<COLN>description,widgetlock,false
+    mobilebag,item2<COLN>description,iswidget,true
+    mobilebag,item2<COLN>description,iscollection,false
+    mobilebag,item2<COLN>description,collectname,
+    mobilebag,item2<COLN>description,widgetname,
+    mobilebag,item2<COLN>description,placeholder,
+    mobilebag,item2<COLN>description,addedby,
+    mobilebag,item2<COLN>description,DOCK,FFFF
+    mobilebag,item2<COLN>description,PICTURE,media/img_missing.png
+    mobilebag,item2<COLN>description,SIZE,175<PIP>21
+    mobilebag,item2<COLN>description,JSON,{}
+    mobilebag,item2<COLN>description,TEXT,Black / M
+    mobilebag,item2<COLN>description,TOOLTIP,
+    mobilebag,item2<COLN>description,ENABLED,true
+    mobilebag,item2<COLN>description,VISIBLE,true
+    mobilebag,item2<COLN>description,ZORDER,0
+    mobilebag,item2<COLN>description,FORECOLOR,&h000000
+    mobilebag,item2<COLN>description,BACKCOLOR,transparent
+    mobilebag,item2<COLN>description,FONTNAME,inherit
+    mobilebag,item2<COLN>description,FONTSIZE,12px
+    mobilebag,item2<COLN>description,FONTBOLD,false
+    mobilebag,item2<COLN>description,FONTITALIC,false
+    mobilebag,item2<COLN>description,FONTUNDERLINE,false
+    mobilebag,item2<COLN>description,FONTSTRIKETHRU,false
+    mobilebag,item2<COLN>description,INFO,
+    mobilebag,item2<COLN>description,PAGECOUNT,0
+    mobilebag,item2<COLN>description,DATABIND,
+    mobilebag,item2<COLN>description,BINDMAPPING,
+    mobilebag,item2<COLN>description,drag.x,1
+    mobilebag,item2<COLN>description,drag.y,1
+    mobilebag,item2<COLN>description,xdragrange,-1<SEMI> -1
+    mobilebag,item2<COLN>description,ydragrange,-1<SEMI> -1
+    mobilebag,item2<COLN>description,size.x,1
+    mobilebag,item2<COLN>description,size.y,1
+    mobilebag,item2<COLN>description,negadj,
+    mobilebag,item2<COLN>description,posadj,
+    mobilebag,item2<COLN>description,child,true
+    mobilebag,item2<COLN>description,displaymode,inline-block
+    mobilebag,item2<COLN>description,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> top<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 10px 80px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> calc(100% - 165px)
+    mobilebag,item2<COLN>description,LOCK,false
+    mobilebag,item2<COLN>description,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item2<COLN>description,extend,{"react"<COLN>"<CR>"}
+mobilebag,item2<COLN>description,REFRESH, 
+mobilebag,item2<COLN>img,TARGET,item2
+mobilebag,item2<COLN>img,PARENTGROUP,item2
+mobilebag,item2<COLN>img,load,graphicx|media/img_missing.png|5|9|75|75|1342373901|0
+    mobilebag,item2<COLN>img,group,false
+    mobilebag,item2<COLN>img,groupid,0
+    mobilebag,item2<COLN>img,groupby,0700
+    mobilebag,item2<COLN>img,widgetlock,false
+    mobilebag,item2<COLN>img,iswidget,true
+    mobilebag,item2<COLN>img,iscollection,false
+    mobilebag,item2<COLN>img,collectname,
+    mobilebag,item2<COLN>img,widgetname,
+    mobilebag,item2<COLN>img,placeholder,
+    mobilebag,item2<COLN>img,addedby,
+    mobilebag,item2<COLN>img,DOCK,FFFF
+    mobilebag,item2<COLN>img,PICTURE,media/img_missing.png
+    mobilebag,item2<COLN>img,SIZE,75<PIP>75
+    mobilebag,item2<COLN>img,JSON,{}
+    mobilebag,item2<COLN>img,TEXT,
+    mobilebag,item2<COLN>img,TOOLTIP,
+    mobilebag,item2<COLN>img,ENABLED,true
+    mobilebag,item2<COLN>img,VISIBLE,true
+    mobilebag,item2<COLN>img,ZORDER,0
+    mobilebag,item2<COLN>img,FORECOLOR,&h000000
+    mobilebag,item2<COLN>img,BACKCOLOR,&hffffff
+    mobilebag,item2<COLN>img,FONTNAME,inherit
+    mobilebag,item2<COLN>img,FONTSIZE,inherit
+    mobilebag,item2<COLN>img,FONTBOLD,false
+    mobilebag,item2<COLN>img,FONTITALIC,false
+    mobilebag,item2<COLN>img,FONTUNDERLINE,false
+    mobilebag,item2<COLN>img,FONTSTRIKETHRU,false
+    mobilebag,item2<COLN>img,INFO,imagex
+    mobilebag,item2<COLN>img,PAGECOUNT,0
+    mobilebag,item2<COLN>img,DATABIND,
+    mobilebag,item2<COLN>img,BINDMAPPING,
+    mobilebag,item2<COLN>img,drag.x,1
+    mobilebag,item2<COLN>img,drag.y,1
+    mobilebag,item2<COLN>img,xdragrange,-1<SEMI> -1
+    mobilebag,item2<COLN>img,ydragrange,-1<SEMI> -1
+    mobilebag,item2<COLN>img,size.x,1
+    mobilebag,item2<COLN>img,size.y,1
+    mobilebag,item2<COLN>img,negadj,
+    mobilebag,item2<COLN>img,posadj,
+    mobilebag,item2<COLN>img,child,true
+    mobilebag,item2<COLN>img,displaymode,absolute
+    mobilebag,item2<COLN>img,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-graphicx<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> <LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 17px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> top<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 10px 10px 10px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> absolute<LF>div.width<COLN>
+    mobilebag,item2<COLN>img,LOCK,false
+    mobilebag,item2<COLN>img,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item2<COLN>img,extend,{"react"<COLN>"<CR>"}
+mobilebag,item2<COLN>img,REFRESH, 
+mobilebag,item2<COLN>minus,TARGET,item2
+mobilebag,item2<COLN>minus,PARENTGROUP,item2
+mobilebag,item2<COLN>minus,load,icon|media/img_missing.png|0|0|24|29|1342373901|0
+    mobilebag,item2<COLN>minus,group,false
+    mobilebag,item2<COLN>minus,groupid,0
+    mobilebag,item2<COLN>minus,groupby,0700
+    mobilebag,item2<COLN>minus,widgetlock,false
+    mobilebag,item2<COLN>minus,iswidget,true
+    mobilebag,item2<COLN>minus,iscollection,false
+    mobilebag,item2<COLN>minus,collectname,
+    mobilebag,item2<COLN>minus,widgetname,
+    mobilebag,item2<COLN>minus,placeholder,
+    mobilebag,item2<COLN>minus,addedby,
+    mobilebag,item2<COLN>minus,DOCK,FFFF
+    mobilebag,item2<COLN>minus,PICTURE,media/img_missing.png
+    mobilebag,item2<COLN>minus,SIZE,24<PIP>29
+    mobilebag,item2<COLN>minus,JSON,{}
+    mobilebag,item2<COLN>minus,TEXT,
+    mobilebag,item2<COLN>minus,TOOLTIP,
+    mobilebag,item2<COLN>minus,ENABLED,true
+    mobilebag,item2<COLN>minus,VISIBLE,true
+    mobilebag,item2<COLN>minus,ZORDER,0
+    mobilebag,item2<COLN>minus,FORECOLOR,&h336699
+    mobilebag,item2<COLN>minus,BACKCOLOR,transparent
+    mobilebag,item2<COLN>minus,FONTNAME,inherit
+    mobilebag,item2<COLN>minus,FONTSIZE,24px
+    mobilebag,item2<COLN>minus,FONTBOLD,false
+    mobilebag,item2<COLN>minus,FONTITALIC,false
+    mobilebag,item2<COLN>minus,FONTUNDERLINE,false
+    mobilebag,item2<COLN>minus,FONTSTRIKETHRU,false
+    mobilebag,item2<COLN>minus,INFO,icon
+    mobilebag,item2<COLN>minus,PAGECOUNT,0
+    mobilebag,item2<COLN>minus,DATABIND,
+    mobilebag,item2<COLN>minus,BINDMAPPING,
+    mobilebag,item2<COLN>minus,drag.x,1
+    mobilebag,item2<COLN>minus,drag.y,1
+    mobilebag,item2<COLN>minus,xdragrange,-1<SEMI> -1
+    mobilebag,item2<COLN>minus,ydragrange,-1<SEMI> -1
+    mobilebag,item2<COLN>minus,size.x,1
+    mobilebag,item2<COLN>minus,size.y,1
+    mobilebag,item2<COLN>minus,negadj,
+    mobilebag,item2<COLN>minus,posadj,
+    mobilebag,item2<COLN>minus,child,true
+    mobilebag,item2<COLN>minus,displaymode,inline-block
+    mobilebag,item2<COLN>minus,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-minus-circle<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> #336699<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 85px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> #336699<LF>image.display<COLN> block<LF>image.font-size<COLN> 24px
+    mobilebag,item2<COLN>minus,LOCK,false
+    mobilebag,item2<COLN>minus,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item2<COLN>minus,extend,{"react"<COLN>"<CR>"}
+mobilebag,item2<COLN>minus,REFRESH, 
+mobilebag,item2<COLN>qty,TARGET,item2
+mobilebag,item2<COLN>qty,PARENTGROUP,item2
+mobilebag,item2<COLN>qty,load,label|1|0|0|20|29|1342377728|32
+    mobilebag,item2<COLN>qty,group,false
+    mobilebag,item2<COLN>qty,groupid,0
+    mobilebag,item2<COLN>qty,groupby,0700
+    mobilebag,item2<COLN>qty,widgetlock,false
+    mobilebag,item2<COLN>qty,iswidget,true
+    mobilebag,item2<COLN>qty,iscollection,false
+    mobilebag,item2<COLN>qty,collectname,
+    mobilebag,item2<COLN>qty,widgetname,
+    mobilebag,item2<COLN>qty,placeholder,
+    mobilebag,item2<COLN>qty,addedby,
+    mobilebag,item2<COLN>qty,DOCK,FFFF
+    mobilebag,item2<COLN>qty,PICTURE,media/img_missing.png
+    mobilebag,item2<COLN>qty,SIZE,20<PIP>29
+    mobilebag,item2<COLN>qty,JSON,{}
+    mobilebag,item2<COLN>qty,TEXT,1
+    mobilebag,item2<COLN>qty,TOOLTIP,
+    mobilebag,item2<COLN>qty,ENABLED,true
+    mobilebag,item2<COLN>qty,VISIBLE,true
+    mobilebag,item2<COLN>qty,ZORDER,0
+    mobilebag,item2<COLN>qty,FORECOLOR,&h000000
+    mobilebag,item2<COLN>qty,BACKCOLOR,transparent
+    mobilebag,item2<COLN>qty,FONTNAME,inherit
+    mobilebag,item2<COLN>qty,FONTSIZE,inherit
+    mobilebag,item2<COLN>qty,FONTBOLD,false
+    mobilebag,item2<COLN>qty,FONTITALIC,false
+    mobilebag,item2<COLN>qty,FONTUNDERLINE,false
+    mobilebag,item2<COLN>qty,FONTSTRIKETHRU,false
+    mobilebag,item2<COLN>qty,INFO,
+    mobilebag,item2<COLN>qty,PAGECOUNT,0
+    mobilebag,item2<COLN>qty,DATABIND,
+    mobilebag,item2<COLN>qty,BINDMAPPING,
+    mobilebag,item2<COLN>qty,drag.x,1
+    mobilebag,item2<COLN>qty,drag.y,1
+    mobilebag,item2<COLN>qty,xdragrange,-1<SEMI> -1
+    mobilebag,item2<COLN>qty,ydragrange,-1<SEMI> -1
+    mobilebag,item2<COLN>qty,size.x,1
+    mobilebag,item2<COLN>qty,size.y,1
+    mobilebag,item2<COLN>qty,negadj,
+    mobilebag,item2<COLN>qty,posadj,
+    mobilebag,item2<COLN>qty,child,true
+    mobilebag,item2<COLN>qty,displaymode,inline-block
+    mobilebag,item2<COLN>qty,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> top<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    mobilebag,item2<COLN>qty,LOCK,false
+    mobilebag,item2<COLN>qty,events,
+    mobilebag,item2<COLN>qty,extend,{"react"<COLN>"<CR>"}
+mobilebag,item2<COLN>qty,REFRESH, 
+mobilebag,item2<COLN>price,TARGET,item2
+mobilebag,item2<COLN>price,PARENTGROUP,item2
+mobilebag,item2<COLN>price,load,label|$259.99|0|0|80|21|1342377472|32
+    mobilebag,item2<COLN>price,group,false
+    mobilebag,item2<COLN>price,groupid,0
+    mobilebag,item2<COLN>price,groupby,0700
+    mobilebag,item2<COLN>price,widgetlock,false
+    mobilebag,item2<COLN>price,iswidget,true
+    mobilebag,item2<COLN>price,iscollection,false
+    mobilebag,item2<COLN>price,collectname,
+    mobilebag,item2<COLN>price,widgetname,
+    mobilebag,item2<COLN>price,placeholder,
+    mobilebag,item2<COLN>price,addedby,
+    mobilebag,item2<COLN>price,DOCK,FFFF
+    mobilebag,item2<COLN>price,PICTURE,media/img_missing.png
+    mobilebag,item2<COLN>price,SIZE,80<PIP>21
+    mobilebag,item2<COLN>price,JSON,{}
+    mobilebag,item2<COLN>price,TEXT,$259.99
+    mobilebag,item2<COLN>price,TOOLTIP,
+    mobilebag,item2<COLN>price,ENABLED,true
+    mobilebag,item2<COLN>price,VISIBLE,true
+    mobilebag,item2<COLN>price,ZORDER,0
+    mobilebag,item2<COLN>price,FORECOLOR,&h000000
+    mobilebag,item2<COLN>price,BACKCOLOR,transparent
+    mobilebag,item2<COLN>price,FONTNAME,inherit
+    mobilebag,item2<COLN>price,FONTSIZE,inherit
+    mobilebag,item2<COLN>price,FONTBOLD,false
+    mobilebag,item2<COLN>price,FONTITALIC,false
+    mobilebag,item2<COLN>price,FONTUNDERLINE,false
+    mobilebag,item2<COLN>price,FONTSTRIKETHRU,false
+    mobilebag,item2<COLN>price,INFO,
+    mobilebag,item2<COLN>price,PAGECOUNT,0
+    mobilebag,item2<COLN>price,DATABIND,
+    mobilebag,item2<COLN>price,BINDMAPPING,
+    mobilebag,item2<COLN>price,drag.x,1
+    mobilebag,item2<COLN>price,drag.y,1
+    mobilebag,item2<COLN>price,xdragrange,-1<SEMI> -1
+    mobilebag,item2<COLN>price,ydragrange,-1<SEMI> -1
+    mobilebag,item2<COLN>price,size.x,1
+    mobilebag,item2<COLN>price,size.y,1
+    mobilebag,item2<COLN>price,negadj,
+    mobilebag,item2<COLN>price,posadj,
+    mobilebag,item2<COLN>price,child,true
+    mobilebag,item2<COLN>price,displaymode,inline-block
+    mobilebag,item2<COLN>price,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>float<COLN> right<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> top<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> right<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    mobilebag,item2<COLN>price,LOCK,false
+    mobilebag,item2<COLN>price,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item2<COLN>price,extend,{"react"<COLN>"<CR>"}
+mobilebag,item2<COLN>price,REFRESH, 
+mobilebag,item2<COLN>plus,TARGET,item2
+mobilebag,item2<COLN>plus,PARENTGROUP,item2
+mobilebag,item2<COLN>plus,load,icon|media/img_missing.png|0|0|24|29|1342373901|0
+    mobilebag,item2<COLN>plus,group,false
+    mobilebag,item2<COLN>plus,groupid,0
+    mobilebag,item2<COLN>plus,groupby,0700
+    mobilebag,item2<COLN>plus,widgetlock,false
+    mobilebag,item2<COLN>plus,iswidget,true
+    mobilebag,item2<COLN>plus,iscollection,false
+    mobilebag,item2<COLN>plus,collectname,
+    mobilebag,item2<COLN>plus,widgetname,
+    mobilebag,item2<COLN>plus,placeholder,
+    mobilebag,item2<COLN>plus,addedby,
+    mobilebag,item2<COLN>plus,DOCK,FFFF
+    mobilebag,item2<COLN>plus,PICTURE,media/img_missing.png
+    mobilebag,item2<COLN>plus,SIZE,24<PIP>29
+    mobilebag,item2<COLN>plus,JSON,{}
+    mobilebag,item2<COLN>plus,TEXT,
+    mobilebag,item2<COLN>plus,TOOLTIP,
+    mobilebag,item2<COLN>plus,ENABLED,true
+    mobilebag,item2<COLN>plus,VISIBLE,true
+    mobilebag,item2<COLN>plus,ZORDER,0
+    mobilebag,item2<COLN>plus,FORECOLOR,&h336699
+    mobilebag,item2<COLN>plus,BACKCOLOR,transparent
+    mobilebag,item2<COLN>plus,FONTNAME,inherit
+    mobilebag,item2<COLN>plus,FONTSIZE,24px
+    mobilebag,item2<COLN>plus,FONTBOLD,false
+    mobilebag,item2<COLN>plus,FONTITALIC,false
+    mobilebag,item2<COLN>plus,FONTUNDERLINE,false
+    mobilebag,item2<COLN>plus,FONTSTRIKETHRU,false
+    mobilebag,item2<COLN>plus,INFO,icon
+    mobilebag,item2<COLN>plus,PAGECOUNT,0
+    mobilebag,item2<COLN>plus,DATABIND,
+    mobilebag,item2<COLN>plus,BINDMAPPING,
+    mobilebag,item2<COLN>plus,drag.x,1
+    mobilebag,item2<COLN>plus,drag.y,1
+    mobilebag,item2<COLN>plus,xdragrange,-1<SEMI> -1
+    mobilebag,item2<COLN>plus,ydragrange,-1<SEMI> -1
+    mobilebag,item2<COLN>plus,size.x,1
+    mobilebag,item2<COLN>plus,size.y,1
+    mobilebag,item2<COLN>plus,negadj,
+    mobilebag,item2<COLN>plus,posadj,
+    mobilebag,item2<COLN>plus,child,true
+    mobilebag,item2<COLN>plus,displaymode,inline-block
+    mobilebag,item2<COLN>plus,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-plus-circle<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> #336699<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> #336699<LF>image.display<COLN> block<LF>image.font-size<COLN> 24px
+    mobilebag,item2<COLN>plus,LOCK,false
+    mobilebag,item2<COLN>plus,events,
+    mobilebag,item2<COLN>plus,extend,{}
+mobilebag,item2<COLN>plus,REFRESH, 
+mobilebag,item4,TARGET,~
+mobilebag,item4,PARENTGROUP,~
+mobilebag,item4,load,frame||0|0|360|222|1342227719|32
+    mobilebag,item4,group,true
+    mobilebag,item4,groupid,1100
+    mobilebag,item4,groupby,9999999999
+    mobilebag,item4,widgetlock,false
+    mobilebag,item4,iswidget,true
+    mobilebag,item4,iscollection,false
+    mobilebag,item4,collectname,
+    mobilebag,item4,widgetname,
+    mobilebag,item4,placeholder,
+    mobilebag,item4,addedby,
+    mobilebag,item4,DOCK,FFFF
+    mobilebag,item4,PICTURE,media/img_missing.png
+    mobilebag,item4,SIZE,360<PIP>222
+    mobilebag,item4,JSON,{}
+    mobilebag,item4,TEXT,
+    mobilebag,item4,TOOLTIP,
+    mobilebag,item4,ENABLED,true
+    mobilebag,item4,VISIBLE,true
+    mobilebag,item4,ZORDER,0
+    mobilebag,item4,FORECOLOR,&h000000
+    mobilebag,item4,BACKCOLOR,transparent
+    mobilebag,item4,FONTNAME,inherit
+    mobilebag,item4,FONTSIZE,inherit
+    mobilebag,item4,FONTBOLD,false
+    mobilebag,item4,FONTITALIC,false
+    mobilebag,item4,FONTUNDERLINE,false
+    mobilebag,item4,FONTSTRIKETHRU,false
+    mobilebag,item4,INFO,
+    mobilebag,item4,PAGECOUNT,0
+    mobilebag,item4,DATABIND,
+    mobilebag,item4,BINDMAPPING,
+    mobilebag,item4,drag.x,1
+    mobilebag,item4,drag.y,1
+    mobilebag,item4,xdragrange,-1<SEMI> -1
+    mobilebag,item4,ydragrange,-1<SEMI> -1
+    mobilebag,item4,size.x,1
+    mobilebag,item4,size.y,1
+    mobilebag,item4,negadj,
+    mobilebag,item4,posadj,
+    mobilebag,item4,child,false
+    mobilebag,item4,displaymode,block
+    mobilebag,item4,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>margin<COLN> 0px 5px 0px 5px<LF>opacity<COLN> <LF>padding<COLN> 5px 10px 10px 10px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> TRANSPARENT<LF>border-bottom<COLN> 1px #bbb dotted<LF>border-radius<COLN> <LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilebag,item4,LOCK,false
+    mobilebag,item4,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item4,extend,{"react"<COLN>"<CR>"}
+mobilebag,item4,REFRESH, 
+mobilebag,item4<COLN>title,TARGET,item4
+mobilebag,item4<COLN>title,PARENTGROUP,item4
+mobilebag,item4<COLN>title,load,label|Wonderful shoes|0|0|175|21|1342377216|32
+    mobilebag,item4<COLN>title,group,false
+    mobilebag,item4<COLN>title,groupid,0
+    mobilebag,item4<COLN>title,groupby,1100
+    mobilebag,item4<COLN>title,widgetlock,false
+    mobilebag,item4<COLN>title,iswidget,true
+    mobilebag,item4<COLN>title,iscollection,false
+    mobilebag,item4<COLN>title,collectname,
+    mobilebag,item4<COLN>title,widgetname,
+    mobilebag,item4<COLN>title,placeholder,
+    mobilebag,item4<COLN>title,addedby,
+    mobilebag,item4<COLN>title,DOCK,FFFF
+    mobilebag,item4<COLN>title,PICTURE,media/img_missing.png
+    mobilebag,item4<COLN>title,SIZE,175<PIP>21
+    mobilebag,item4<COLN>title,JSON,{}
+    mobilebag,item4<COLN>title,TEXT,Wonderful shoes
+    mobilebag,item4<COLN>title,TOOLTIP,
+    mobilebag,item4<COLN>title,ENABLED,true
+    mobilebag,item4<COLN>title,VISIBLE,true
+    mobilebag,item4<COLN>title,ZORDER,0
+    mobilebag,item4<COLN>title,FORECOLOR,&h000000
+    mobilebag,item4<COLN>title,BACKCOLOR,transparent
+    mobilebag,item4<COLN>title,FONTNAME,inherit
+    mobilebag,item4<COLN>title,FONTSIZE,inherit
+    mobilebag,item4<COLN>title,FONTBOLD,true
+    mobilebag,item4<COLN>title,FONTITALIC,false
+    mobilebag,item4<COLN>title,FONTUNDERLINE,false
+    mobilebag,item4<COLN>title,FONTSTRIKETHRU,false
+    mobilebag,item4<COLN>title,INFO,
+    mobilebag,item4<COLN>title,PAGECOUNT,0
+    mobilebag,item4<COLN>title,DATABIND,
+    mobilebag,item4<COLN>title,BINDMAPPING,
+    mobilebag,item4<COLN>title,drag.x,1
+    mobilebag,item4<COLN>title,drag.y,1
+    mobilebag,item4<COLN>title,xdragrange,-1<SEMI> -1
+    mobilebag,item4<COLN>title,ydragrange,-1<SEMI> -1
+    mobilebag,item4<COLN>title,size.x,1
+    mobilebag,item4<COLN>title,size.y,1
+    mobilebag,item4<COLN>title,negadj,
+    mobilebag,item4<COLN>title,posadj,
+    mobilebag,item4<COLN>title,child,true
+    mobilebag,item4<COLN>title,displaymode,inline-block
+    mobilebag,item4<COLN>title,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> top<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 15px 0px 0px 80px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> calc(100% - 165px)
+    mobilebag,item4<COLN>title,LOCK,false
+    mobilebag,item4<COLN>title,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item4<COLN>title,extend,{"react"<COLN>"<CR>"}
+mobilebag,item4<COLN>title,REFRESH, 
+mobilebag,item4<COLN>description,TARGET,item4
+mobilebag,item4<COLN>description,PARENTGROUP,item4
+mobilebag,item4<COLN>description,load,label|Black / M|0|0|167|21|1342377216|32
+    mobilebag,item4<COLN>description,group,false
+    mobilebag,item4<COLN>description,groupid,0
+    mobilebag,item4<COLN>description,groupby,1100
+    mobilebag,item4<COLN>description,widgetlock,false
+    mobilebag,item4<COLN>description,iswidget,true
+    mobilebag,item4<COLN>description,iscollection,false
+    mobilebag,item4<COLN>description,collectname,
+    mobilebag,item4<COLN>description,widgetname,
+    mobilebag,item4<COLN>description,placeholder,
+    mobilebag,item4<COLN>description,addedby,
+    mobilebag,item4<COLN>description,DOCK,FFFF
+    mobilebag,item4<COLN>description,PICTURE,media/img_missing.png
+    mobilebag,item4<COLN>description,SIZE,167<PIP>21
+    mobilebag,item4<COLN>description,JSON,{}
+    mobilebag,item4<COLN>description,TEXT,Black / M
+    mobilebag,item4<COLN>description,TOOLTIP,
+    mobilebag,item4<COLN>description,ENABLED,true
+    mobilebag,item4<COLN>description,VISIBLE,true
+    mobilebag,item4<COLN>description,ZORDER,0
+    mobilebag,item4<COLN>description,FORECOLOR,&h000000
+    mobilebag,item4<COLN>description,BACKCOLOR,transparent
+    mobilebag,item4<COLN>description,FONTNAME,inherit
+    mobilebag,item4<COLN>description,FONTSIZE,12px
+    mobilebag,item4<COLN>description,FONTBOLD,false
+    mobilebag,item4<COLN>description,FONTITALIC,false
+    mobilebag,item4<COLN>description,FONTUNDERLINE,false
+    mobilebag,item4<COLN>description,FONTSTRIKETHRU,false
+    mobilebag,item4<COLN>description,INFO,
+    mobilebag,item4<COLN>description,PAGECOUNT,0
+    mobilebag,item4<COLN>description,DATABIND,
+    mobilebag,item4<COLN>description,BINDMAPPING,
+    mobilebag,item4<COLN>description,drag.x,1
+    mobilebag,item4<COLN>description,drag.y,1
+    mobilebag,item4<COLN>description,xdragrange,-1<SEMI> -1
+    mobilebag,item4<COLN>description,ydragrange,-1<SEMI> -1
+    mobilebag,item4<COLN>description,size.x,1
+    mobilebag,item4<COLN>description,size.y,1
+    mobilebag,item4<COLN>description,negadj,
+    mobilebag,item4<COLN>description,posadj,
+    mobilebag,item4<COLN>description,child,true
+    mobilebag,item4<COLN>description,displaymode,inline-block
+    mobilebag,item4<COLN>description,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> top<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 10px 80px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> calc(100% - 165px)
+    mobilebag,item4<COLN>description,LOCK,false
+    mobilebag,item4<COLN>description,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item4<COLN>description,extend,{"react"<COLN>"<CR>"}
+mobilebag,item4<COLN>description,REFRESH, 
+mobilebag,item4<COLN>img,TARGET,item4
+mobilebag,item4<COLN>img,PARENTGROUP,item4
+mobilebag,item4<COLN>img,load,graphicx|media/img_missing.png|5|9|75|75|1342373901|0
+    mobilebag,item4<COLN>img,group,false
+    mobilebag,item4<COLN>img,groupid,0
+    mobilebag,item4<COLN>img,groupby,1100
+    mobilebag,item4<COLN>img,widgetlock,false
+    mobilebag,item4<COLN>img,iswidget,true
+    mobilebag,item4<COLN>img,iscollection,false
+    mobilebag,item4<COLN>img,collectname,
+    mobilebag,item4<COLN>img,widgetname,
+    mobilebag,item4<COLN>img,placeholder,
+    mobilebag,item4<COLN>img,addedby,
+    mobilebag,item4<COLN>img,DOCK,FFFF
+    mobilebag,item4<COLN>img,PICTURE,media/img_missing.png
+    mobilebag,item4<COLN>img,SIZE,75<PIP>75
+    mobilebag,item4<COLN>img,JSON,{}
+    mobilebag,item4<COLN>img,TEXT,
+    mobilebag,item4<COLN>img,TOOLTIP,
+    mobilebag,item4<COLN>img,ENABLED,true
+    mobilebag,item4<COLN>img,VISIBLE,true
+    mobilebag,item4<COLN>img,ZORDER,0
+    mobilebag,item4<COLN>img,FORECOLOR,&h000000
+    mobilebag,item4<COLN>img,BACKCOLOR,&hffffff
+    mobilebag,item4<COLN>img,FONTNAME,inherit
+    mobilebag,item4<COLN>img,FONTSIZE,inherit
+    mobilebag,item4<COLN>img,FONTBOLD,false
+    mobilebag,item4<COLN>img,FONTITALIC,false
+    mobilebag,item4<COLN>img,FONTUNDERLINE,false
+    mobilebag,item4<COLN>img,FONTSTRIKETHRU,false
+    mobilebag,item4<COLN>img,INFO,imagex
+    mobilebag,item4<COLN>img,PAGECOUNT,0
+    mobilebag,item4<COLN>img,DATABIND,
+    mobilebag,item4<COLN>img,BINDMAPPING,
+    mobilebag,item4<COLN>img,drag.x,1
+    mobilebag,item4<COLN>img,drag.y,1
+    mobilebag,item4<COLN>img,xdragrange,-1<SEMI> -1
+    mobilebag,item4<COLN>img,ydragrange,-1<SEMI> -1
+    mobilebag,item4<COLN>img,size.x,1
+    mobilebag,item4<COLN>img,size.y,1
+    mobilebag,item4<COLN>img,negadj,
+    mobilebag,item4<COLN>img,posadj,
+    mobilebag,item4<COLN>img,child,true
+    mobilebag,item4<COLN>img,displaymode,absolute
+    mobilebag,item4<COLN>img,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-graphicx<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> <LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 17px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> top<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 10px 10px 10px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> absolute<LF>div.width<COLN>
+    mobilebag,item4<COLN>img,LOCK,false
+    mobilebag,item4<COLN>img,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item4<COLN>img,extend,{"react"<COLN>"<CR>"}
+mobilebag,item4<COLN>img,REFRESH, 
+mobilebag,item4<COLN>minus,TARGET,item4
+mobilebag,item4<COLN>minus,PARENTGROUP,item4
+mobilebag,item4<COLN>minus,load,icon|media/img_missing.png|0|0|24|29|1342390272|0
+    mobilebag,item4<COLN>minus,group,false
+    mobilebag,item4<COLN>minus,groupid,0
+    mobilebag,item4<COLN>minus,groupby,1100
+    mobilebag,item4<COLN>minus,widgetlock,false
+    mobilebag,item4<COLN>minus,iswidget,true
+    mobilebag,item4<COLN>minus,iscollection,false
+    mobilebag,item4<COLN>minus,collectname,
+    mobilebag,item4<COLN>minus,widgetname,
+    mobilebag,item4<COLN>minus,placeholder,
+    mobilebag,item4<COLN>minus,addedby,
+    mobilebag,item4<COLN>minus,DOCK,FFFF
+    mobilebag,item4<COLN>minus,PICTURE,media/img_missing.png
+    mobilebag,item4<COLN>minus,SIZE,24<PIP>29
+    mobilebag,item4<COLN>minus,JSON,{}
+    mobilebag,item4<COLN>minus,TEXT,
+    mobilebag,item4<COLN>minus,TOOLTIP,
+    mobilebag,item4<COLN>minus,ENABLED,true
+    mobilebag,item4<COLN>minus,VISIBLE,true
+    mobilebag,item4<COLN>minus,ZORDER,0
+    mobilebag,item4<COLN>minus,FORECOLOR,&h336699
+    mobilebag,item4<COLN>minus,BACKCOLOR,transparent
+    mobilebag,item4<COLN>minus,FONTNAME,inherit
+    mobilebag,item4<COLN>minus,FONTSIZE,24px
+    mobilebag,item4<COLN>minus,FONTBOLD,false
+    mobilebag,item4<COLN>minus,FONTITALIC,false
+    mobilebag,item4<COLN>minus,FONTUNDERLINE,false
+    mobilebag,item4<COLN>minus,FONTSTRIKETHRU,false
+    mobilebag,item4<COLN>minus,INFO,icon
+    mobilebag,item4<COLN>minus,PAGECOUNT,0
+    mobilebag,item4<COLN>minus,DATABIND,
+    mobilebag,item4<COLN>minus,BINDMAPPING,
+    mobilebag,item4<COLN>minus,drag.x,1
+    mobilebag,item4<COLN>minus,drag.y,1
+    mobilebag,item4<COLN>minus,xdragrange,-1<SEMI> -1
+    mobilebag,item4<COLN>minus,ydragrange,-1<SEMI> -1
+    mobilebag,item4<COLN>minus,size.x,1
+    mobilebag,item4<COLN>minus,size.y,1
+    mobilebag,item4<COLN>minus,negadj,
+    mobilebag,item4<COLN>minus,posadj,
+    mobilebag,item4<COLN>minus,child,true
+    mobilebag,item4<COLN>minus,displaymode,inline-block
+    mobilebag,item4<COLN>minus,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-minus-circle<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> #336699<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 85px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.vertical-align<COLN> middle<LF>div.width<COLN> <LF>image.color<COLN> #336699<LF>image.display<COLN> block<LF>image.font-size<COLN> 24px
+    mobilebag,item4<COLN>minus,LOCK,false
+    mobilebag,item4<COLN>minus,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item4<COLN>minus,extend,{"react"<COLN>"<LF>"}
+mobilebag,item4<COLN>minus,REFRESH, 
+mobilebag,item4<COLN>qty,TARGET,item4
+mobilebag,item4<COLN>qty,PARENTGROUP,item4
+mobilebag,item4<COLN>qty,load,label|1|0|0|20|29|1342377728|32
+    mobilebag,item4<COLN>qty,group,false
+    mobilebag,item4<COLN>qty,groupid,0
+    mobilebag,item4<COLN>qty,groupby,1100
+    mobilebag,item4<COLN>qty,widgetlock,false
+    mobilebag,item4<COLN>qty,iswidget,true
+    mobilebag,item4<COLN>qty,iscollection,false
+    mobilebag,item4<COLN>qty,collectname,
+    mobilebag,item4<COLN>qty,widgetname,
+    mobilebag,item4<COLN>qty,placeholder,
+    mobilebag,item4<COLN>qty,addedby,
+    mobilebag,item4<COLN>qty,DOCK,FFFF
+    mobilebag,item4<COLN>qty,PICTURE,media/img_missing.png
+    mobilebag,item4<COLN>qty,SIZE,20<PIP>29
+    mobilebag,item4<COLN>qty,JSON,{}
+    mobilebag,item4<COLN>qty,TEXT,1
+    mobilebag,item4<COLN>qty,TOOLTIP,
+    mobilebag,item4<COLN>qty,ENABLED,true
+    mobilebag,item4<COLN>qty,VISIBLE,true
+    mobilebag,item4<COLN>qty,ZORDER,0
+    mobilebag,item4<COLN>qty,FORECOLOR,&h000000
+    mobilebag,item4<COLN>qty,BACKCOLOR,transparent
+    mobilebag,item4<COLN>qty,FONTNAME,inherit
+    mobilebag,item4<COLN>qty,FONTSIZE,inherit
+    mobilebag,item4<COLN>qty,FONTBOLD,false
+    mobilebag,item4<COLN>qty,FONTITALIC,false
+    mobilebag,item4<COLN>qty,FONTUNDERLINE,false
+    mobilebag,item4<COLN>qty,FONTSTRIKETHRU,false
+    mobilebag,item4<COLN>qty,INFO,
+    mobilebag,item4<COLN>qty,PAGECOUNT,0
+    mobilebag,item4<COLN>qty,DATABIND,
+    mobilebag,item4<COLN>qty,BINDMAPPING,
+    mobilebag,item4<COLN>qty,drag.x,1
+    mobilebag,item4<COLN>qty,drag.y,1
+    mobilebag,item4<COLN>qty,xdragrange,-1<SEMI> -1
+    mobilebag,item4<COLN>qty,ydragrange,-1<SEMI> -1
+    mobilebag,item4<COLN>qty,size.x,1
+    mobilebag,item4<COLN>qty,size.y,1
+    mobilebag,item4<COLN>qty,negadj,
+    mobilebag,item4<COLN>qty,posadj,
+    mobilebag,item4<COLN>qty,child,true
+    mobilebag,item4<COLN>qty,displaymode,inline-block
+    mobilebag,item4<COLN>qty,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> top<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.vertical-align<COLN> middle<LF>div.width<COLN>
+    mobilebag,item4<COLN>qty,LOCK,false
+    mobilebag,item4<COLN>qty,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item4<COLN>qty,extend,{"react"<COLN>"<LF>"}
+mobilebag,item4<COLN>qty,REFRESH, 
+mobilebag,item4<COLN>price,TARGET,item4
+mobilebag,item4<COLN>price,PARENTGROUP,item4
+mobilebag,item4<COLN>price,load,label|$18.59|0|0|80|21|1342377472|32
+    mobilebag,item4<COLN>price,group,false
+    mobilebag,item4<COLN>price,groupid,0
+    mobilebag,item4<COLN>price,groupby,1100
+    mobilebag,item4<COLN>price,widgetlock,false
+    mobilebag,item4<COLN>price,iswidget,true
+    mobilebag,item4<COLN>price,iscollection,false
+    mobilebag,item4<COLN>price,collectname,
+    mobilebag,item4<COLN>price,widgetname,
+    mobilebag,item4<COLN>price,placeholder,
+    mobilebag,item4<COLN>price,addedby,
+    mobilebag,item4<COLN>price,DOCK,FFFF
+    mobilebag,item4<COLN>price,PICTURE,media/img_missing.png
+    mobilebag,item4<COLN>price,SIZE,80<PIP>21
+    mobilebag,item4<COLN>price,JSON,{}
+    mobilebag,item4<COLN>price,TEXT,$18.59
+    mobilebag,item4<COLN>price,TOOLTIP,
+    mobilebag,item4<COLN>price,ENABLED,true
+    mobilebag,item4<COLN>price,VISIBLE,true
+    mobilebag,item4<COLN>price,ZORDER,0
+    mobilebag,item4<COLN>price,FORECOLOR,&h000000
+    mobilebag,item4<COLN>price,BACKCOLOR,transparent
+    mobilebag,item4<COLN>price,FONTNAME,inherit
+    mobilebag,item4<COLN>price,FONTSIZE,inherit
+    mobilebag,item4<COLN>price,FONTBOLD,false
+    mobilebag,item4<COLN>price,FONTITALIC,false
+    mobilebag,item4<COLN>price,FONTUNDERLINE,false
+    mobilebag,item4<COLN>price,FONTSTRIKETHRU,false
+    mobilebag,item4<COLN>price,INFO,
+    mobilebag,item4<COLN>price,PAGECOUNT,0
+    mobilebag,item4<COLN>price,DATABIND,
+    mobilebag,item4<COLN>price,BINDMAPPING,
+    mobilebag,item4<COLN>price,drag.x,1
+    mobilebag,item4<COLN>price,drag.y,1
+    mobilebag,item4<COLN>price,xdragrange,-1<SEMI> -1
+    mobilebag,item4<COLN>price,ydragrange,-1<SEMI> -1
+    mobilebag,item4<COLN>price,size.x,1
+    mobilebag,item4<COLN>price,size.y,1
+    mobilebag,item4<COLN>price,negadj,
+    mobilebag,item4<COLN>price,posadj,
+    mobilebag,item4<COLN>price,child,true
+    mobilebag,item4<COLN>price,displaymode,inline-block
+    mobilebag,item4<COLN>price,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>float<COLN> right<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> top<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> right<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    mobilebag,item4<COLN>price,LOCK,false
+    mobilebag,item4<COLN>price,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item4<COLN>price,extend,{"react"<COLN>"<CR>"}
+mobilebag,item4<COLN>price,REFRESH, 
+mobilebag,item4<COLN>plus,TARGET,item4
+mobilebag,item4<COLN>plus,PARENTGROUP,item4
+mobilebag,item4<COLN>plus,load,icon|media/img_missing.png|0|0|24|29|1342390272|0
+    mobilebag,item4<COLN>plus,group,false
+    mobilebag,item4<COLN>plus,groupid,0
+    mobilebag,item4<COLN>plus,groupby,1100
+    mobilebag,item4<COLN>plus,widgetlock,false
+    mobilebag,item4<COLN>plus,iswidget,true
+    mobilebag,item4<COLN>plus,iscollection,false
+    mobilebag,item4<COLN>plus,collectname,
+    mobilebag,item4<COLN>plus,widgetname,
+    mobilebag,item4<COLN>plus,placeholder,
+    mobilebag,item4<COLN>plus,addedby,
+    mobilebag,item4<COLN>plus,DOCK,FFFF
+    mobilebag,item4<COLN>plus,PICTURE,media/img_missing.png
+    mobilebag,item4<COLN>plus,SIZE,24<PIP>29
+    mobilebag,item4<COLN>plus,JSON,{}
+    mobilebag,item4<COLN>plus,TEXT,
+    mobilebag,item4<COLN>plus,TOOLTIP,
+    mobilebag,item4<COLN>plus,ENABLED,true
+    mobilebag,item4<COLN>plus,VISIBLE,true
+    mobilebag,item4<COLN>plus,ZORDER,0
+    mobilebag,item4<COLN>plus,FORECOLOR,&h336699
+    mobilebag,item4<COLN>plus,BACKCOLOR,transparent
+    mobilebag,item4<COLN>plus,FONTNAME,inherit
+    mobilebag,item4<COLN>plus,FONTSIZE,24px
+    mobilebag,item4<COLN>plus,FONTBOLD,false
+    mobilebag,item4<COLN>plus,FONTITALIC,false
+    mobilebag,item4<COLN>plus,FONTUNDERLINE,false
+    mobilebag,item4<COLN>plus,FONTSTRIKETHRU,false
+    mobilebag,item4<COLN>plus,INFO,icon
+    mobilebag,item4<COLN>plus,PAGECOUNT,0
+    mobilebag,item4<COLN>plus,DATABIND,
+    mobilebag,item4<COLN>plus,BINDMAPPING,
+    mobilebag,item4<COLN>plus,drag.x,1
+    mobilebag,item4<COLN>plus,drag.y,1
+    mobilebag,item4<COLN>plus,xdragrange,-1<SEMI> -1
+    mobilebag,item4<COLN>plus,ydragrange,-1<SEMI> -1
+    mobilebag,item4<COLN>plus,size.x,1
+    mobilebag,item4<COLN>plus,size.y,1
+    mobilebag,item4<COLN>plus,negadj,
+    mobilebag,item4<COLN>plus,posadj,
+    mobilebag,item4<COLN>plus,child,true
+    mobilebag,item4<COLN>plus,displaymode,inline-block
+    mobilebag,item4<COLN>plus,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-plus-circle<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> #336699<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.vertical-align<COLN> middle<LF>div.width<COLN> <LF>image.color<COLN> #336699<LF>image.display<COLN> block<LF>image.font-size<COLN> 24px
+    mobilebag,item4<COLN>plus,LOCK,false
+    mobilebag,item4<COLN>plus,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,item4<COLN>plus,extend,{"react"<COLN>"<LF>"}
+mobilebag,item4<COLN>plus,REFRESH, 
+mobilebag,btnconfirm,TARGET,~
+mobilebag,btnconfirm,PARENTGROUP,~
+mobilebag,btnconfirm,load,button|Checkout|0|0|370|50|1342394112|32
+    mobilebag,btnconfirm,group,false
+    mobilebag,btnconfirm,groupid,0
+    mobilebag,btnconfirm,groupby,9999999999
+    mobilebag,btnconfirm,widgetlock,false
+    mobilebag,btnconfirm,iswidget,false
+    mobilebag,btnconfirm,iscollection,false
+    mobilebag,btnconfirm,collectname,
+    mobilebag,btnconfirm,widgetname,
+    mobilebag,btnconfirm,placeholder,
+    mobilebag,btnconfirm,addedby,
+    mobilebag,btnconfirm,DOCK,FFFF
+    mobilebag,btnconfirm,PICTURE,media/img_missing.png
+    mobilebag,btnconfirm,SIZE,370<PIP>50
+    mobilebag,btnconfirm,JSON,{}
+    mobilebag,btnconfirm,TEXT,Checkout
+    mobilebag,btnconfirm,TOOLTIP,
+    mobilebag,btnconfirm,ENABLED,true
+    mobilebag,btnconfirm,VISIBLE,true
+    mobilebag,btnconfirm,ZORDER,0
+    mobilebag,btnconfirm,FORECOLOR,&hfff
+    mobilebag,btnconfirm,BACKCOLOR,&h2259a1
+    mobilebag,btnconfirm,FONTNAME,inherit
+    mobilebag,btnconfirm,FONTSIZE,12px
+    mobilebag,btnconfirm,FONTBOLD,false
+    mobilebag,btnconfirm,FONTITALIC,false
+    mobilebag,btnconfirm,FONTUNDERLINE,false
+    mobilebag,btnconfirm,FONTSTRIKETHRU,false
+    mobilebag,btnconfirm,INFO,
+    mobilebag,btnconfirm,PAGECOUNT,0
+    mobilebag,btnconfirm,DATABIND,
+    mobilebag,btnconfirm,BINDMAPPING,
+    mobilebag,btnconfirm,drag.x,1
+    mobilebag,btnconfirm,drag.y,1
+    mobilebag,btnconfirm,xdragrange,-1<SEMI> -1
+    mobilebag,btnconfirm,ydragrange,-1<SEMI> -1
+    mobilebag,btnconfirm,size.x,1
+    mobilebag,btnconfirm,size.y,1
+    mobilebag,btnconfirm,negadj,
+    mobilebag,btnconfirm,posadj,
+    mobilebag,btnconfirm,child,false
+    mobilebag,btnconfirm,displaymode,block
+    mobilebag,btnconfirm,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px solid #bbb<LF>color<COLN> #fff<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #2259a1<LF>border-radius<COLN> 13px<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 20px 10px 0px 10px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilebag,btnconfirm,LOCK,false
+    mobilebag,btnconfirm,events,click<COLN> <CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilebag,btnconfirm,extend,{"react"<COLN>"<CR>"}
+mobilebag,btnconfirm,REFRESH, 
+mobilebag,,SETVIEW,
+mobilebag,,HIDE,
+mobilebag,,REFRESH,true

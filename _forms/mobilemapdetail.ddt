@@ -1,0 +1,1017 @@
+mobilemapdetail,,SURFACE,New Surface|50|155|400|640|268435476|65568
+    mobilemapdetail,,version,5.0
+    mobilemapdetail,,loadlibs,New Surface
+    mobilemapdetail,,groupid,9999999999
+    mobilemapdetail,,groupby,0
+    mobilemapdetail,,runpos,0|0
+    mobilemapdetail,,DOCK,FFFF
+    mobilemapdetail,,PARENT,
+    mobilemapdetail,,MARGINS,
+    mobilemapdetail,,AUTOSIZE,false
+    mobilemapdetail,,JSON,{}
+    mobilemapdetail,,TEXT,New Surface
+    mobilemapdetail,,TOOLTIP,
+    mobilemapdetail,,ENABLED,true
+    mobilemapdetail,,VISIBLE,true
+    mobilemapdetail,,FORECOLOR,&heeeeee
+    mobilemapdetail,,BACKCOLOR,&hffffff
+    mobilemapdetail,,ICON,
+    mobilemapdetail,,FONTNAME,roboto
+    mobilemapdetail,,FONTSIZE,14px
+    mobilemapdetail,,FONTBOLD,false
+    mobilemapdetail,,FONTITALIC,false
+    mobilemapdetail,,FONTUNDERLINE,false
+    mobilemapdetail,,FONTSTRIKETHRU,false
+    mobilemapdetail,,MENUBAR,
+    mobilemapdetail,,TOOLBAR,
+    mobilemapdetail,,STATUSBAR,
+    mobilemapdetail,,SAVESTATE,false
+    mobilemapdetail,,drag.x,
+    mobilemapdetail,,drag.y,
+    mobilemapdetail,,xdragrange,
+    mobilemapdetail,,ydragrange,
+    mobilemapdetail,,size.x,
+    mobilemapdetail,,size.y,
+    mobilemapdetail,,negadj,
+    mobilemapdetail,,posadj,
+    mobilemapdetail,,TAG,~_private<COLN> false<LF>autosize<COLN> false<LF>bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>clipmenu<COLN> true<LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>flattenonpull<COLN> true<LF>hotkey<COLN> <LF>ignorezorder<COLN> false<LF>output<COLN> normal<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>shadow<COLN> true<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>toggleonflip<COLN> true<LF>useastheme<COLN> false<LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-pos<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>body.lock-height<COLN> <LF>body.version<COLN> v5.0~color<COLN> #EEEEEE<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 20px<LF>font-family<COLN> roboto<LF>font-size<COLN> 14px<LF>pointer-events<COLN> auto<LF>z-index<COLN> 2<LF>body.background-color<COLN> transparent<LF>body.box-sizing<COLN> border-box<LF>body.color<COLN> #eeeeee<LF>body.margin<COLN> <LF>body.overflow-y<COLN> auto<LF>body.padding<COLN> 0px 0px 20px 0px<LF>body.text-align<COLN> center<LF>body.vertical-align<COLN>
+    mobilemapdetail,,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilemapdetail,,extend,{"react"<COLN>"<CR>"}
+    mobilemapdetail,,GROUPIDS,[0100][0300][0200]
+    mobilemapdetail,,WSTYLES,268435476
+    mobilemapdetail,,WSTYLESEX,65568
+    mobilemapdetail,,WIDTH,400
+    mobilemapdetail,,HEIGHT,640
+    mobilemapdetail,,EDITPOS,50|155
+mobilemapdetail,header,TARGET,~
+mobilemapdetail,header,PARENTGROUP,~
+mobilemapdetail,header,load,frame||0|0|392|71|1342227719|32
+    mobilemapdetail,header,group,true
+    mobilemapdetail,header,groupid,0200
+    mobilemapdetail,header,groupby,9999999999
+    mobilemapdetail,header,widgetlock,false
+    mobilemapdetail,header,iswidget,true
+    mobilemapdetail,header,iscollection,false
+    mobilemapdetail,header,collectname,
+    mobilemapdetail,header,widgetname,
+    mobilemapdetail,header,placeholder,
+    mobilemapdetail,header,addedby,
+    mobilemapdetail,header,DOCK,FFFF
+    mobilemapdetail,header,PICTURE,media/img_missing.png
+    mobilemapdetail,header,SIZE,392<PIP>71
+    mobilemapdetail,header,JSON,{}
+    mobilemapdetail,header,TEXT,
+    mobilemapdetail,header,TOOLTIP,
+    mobilemapdetail,header,ENABLED,true
+    mobilemapdetail,header,VISIBLE,true
+    mobilemapdetail,header,ZORDER,0
+    mobilemapdetail,header,FORECOLOR,&h000000
+    mobilemapdetail,header,BACKCOLOR,transparent
+    mobilemapdetail,header,FONTNAME,inherit
+    mobilemapdetail,header,FONTSIZE,inherit
+    mobilemapdetail,header,FONTBOLD,false
+    mobilemapdetail,header,FONTITALIC,false
+    mobilemapdetail,header,FONTUNDERLINE,false
+    mobilemapdetail,header,FONTSTRIKETHRU,false
+    mobilemapdetail,header,INFO,
+    mobilemapdetail,header,PAGECOUNT,0
+    mobilemapdetail,header,DATABIND,
+    mobilemapdetail,header,BINDMAPPING,
+    mobilemapdetail,header,drag.x,1
+    mobilemapdetail,header,drag.y,1
+    mobilemapdetail,header,xdragrange,-1<SEMI> -1
+    mobilemapdetail,header,ydragrange,-1<SEMI> -1
+    mobilemapdetail,header,size.x,1
+    mobilemapdetail,header,size.y,1
+    mobilemapdetail,header,negadj,
+    mobilemapdetail,header,posadj,
+    mobilemapdetail,header,child,false
+    mobilemapdetail,header,displaymode,block
+    mobilemapdetail,header,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>margin<COLN> 0px 0px 0px 0px<LF>opacity<COLN> <LF>padding<COLN> 8px 10px 8px 10px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> TRANSPARENT<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilemapdetail,header,LOCK,false
+    mobilemapdetail,header,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilemapdetail,header,extend,{"react"<COLN>"<CR>"}
+mobilemapdetail,header,REFRESH, 
+mobilemapdetail,header<COLN>title,TARGET,header
+mobilemapdetail,header<COLN>title,PARENTGROUP,header
+mobilemapdetail,header<COLN>title,load,label|Racife|0|0|105|21|1342377216|32
+    mobilemapdetail,header<COLN>title,group,false
+    mobilemapdetail,header<COLN>title,groupid,0
+    mobilemapdetail,header<COLN>title,groupby,0200
+    mobilemapdetail,header<COLN>title,widgetlock,false
+    mobilemapdetail,header<COLN>title,iswidget,true
+    mobilemapdetail,header<COLN>title,iscollection,false
+    mobilemapdetail,header<COLN>title,collectname,
+    mobilemapdetail,header<COLN>title,widgetname,
+    mobilemapdetail,header<COLN>title,placeholder,
+    mobilemapdetail,header<COLN>title,addedby,
+    mobilemapdetail,header<COLN>title,DOCK,FFFF
+    mobilemapdetail,header<COLN>title,PICTURE,media/img_missing.png
+    mobilemapdetail,header<COLN>title,SIZE,105<PIP>21
+    mobilemapdetail,header<COLN>title,JSON,{}
+    mobilemapdetail,header<COLN>title,TEXT,Racife
+    mobilemapdetail,header<COLN>title,TOOLTIP,
+    mobilemapdetail,header<COLN>title,ENABLED,true
+    mobilemapdetail,header<COLN>title,VISIBLE,true
+    mobilemapdetail,header<COLN>title,ZORDER,0
+    mobilemapdetail,header<COLN>title,FORECOLOR,&h000000
+    mobilemapdetail,header<COLN>title,BACKCOLOR,transparent
+    mobilemapdetail,header<COLN>title,FONTNAME,inherit
+    mobilemapdetail,header<COLN>title,FONTSIZE,14px
+    mobilemapdetail,header<COLN>title,FONTBOLD,true
+    mobilemapdetail,header<COLN>title,FONTITALIC,false
+    mobilemapdetail,header<COLN>title,FONTUNDERLINE,false
+    mobilemapdetail,header<COLN>title,FONTSTRIKETHRU,false
+    mobilemapdetail,header<COLN>title,INFO,
+    mobilemapdetail,header<COLN>title,PAGECOUNT,0
+    mobilemapdetail,header<COLN>title,DATABIND,
+    mobilemapdetail,header<COLN>title,BINDMAPPING,
+    mobilemapdetail,header<COLN>title,drag.x,1
+    mobilemapdetail,header<COLN>title,drag.y,1
+    mobilemapdetail,header<COLN>title,xdragrange,-1<SEMI> -1
+    mobilemapdetail,header<COLN>title,ydragrange,-1<SEMI> -1
+    mobilemapdetail,header<COLN>title,size.x,1
+    mobilemapdetail,header<COLN>title,size.y,1
+    mobilemapdetail,header<COLN>title,negadj,
+    mobilemapdetail,header<COLN>title,posadj,
+    mobilemapdetail,header<COLN>title,child,true
+    mobilemapdetail,header<COLN>title,displaymode,block
+    mobilemapdetail,header<COLN>title,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 14px<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 5px 10px 0px 50px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilemapdetail,header<COLN>title,LOCK,false
+    mobilemapdetail,header<COLN>title,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilemapdetail,header<COLN>title,extend,{"react"<COLN>"<CR>"}
+mobilemapdetail,header<COLN>title,REFRESH, 
+mobilemapdetail,header<COLN>location,TARGET,header
+mobilemapdetail,header<COLN>location,PARENTGROUP,header
+mobilemapdetail,header<COLN>location,load,label|Mar 12 - Mar 15|0|0|105|18|1342377216|32
+    mobilemapdetail,header<COLN>location,group,false
+    mobilemapdetail,header<COLN>location,groupid,0
+    mobilemapdetail,header<COLN>location,groupby,0200
+    mobilemapdetail,header<COLN>location,widgetlock,false
+    mobilemapdetail,header<COLN>location,iswidget,true
+    mobilemapdetail,header<COLN>location,iscollection,false
+    mobilemapdetail,header<COLN>location,collectname,
+    mobilemapdetail,header<COLN>location,widgetname,
+    mobilemapdetail,header<COLN>location,placeholder,
+    mobilemapdetail,header<COLN>location,addedby,
+    mobilemapdetail,header<COLN>location,DOCK,FFFF
+    mobilemapdetail,header<COLN>location,PICTURE,media/img_missing.png
+    mobilemapdetail,header<COLN>location,SIZE,105<PIP>18
+    mobilemapdetail,header<COLN>location,JSON,{}
+    mobilemapdetail,header<COLN>location,TEXT,Mar 12 - Mar 15
+    mobilemapdetail,header<COLN>location,TOOLTIP,
+    mobilemapdetail,header<COLN>location,ENABLED,true
+    mobilemapdetail,header<COLN>location,VISIBLE,true
+    mobilemapdetail,header<COLN>location,ZORDER,0
+    mobilemapdetail,header<COLN>location,FORECOLOR,&h000000
+    mobilemapdetail,header<COLN>location,BACKCOLOR,transparent
+    mobilemapdetail,header<COLN>location,FONTNAME,inherit
+    mobilemapdetail,header<COLN>location,FONTSIZE,11px
+    mobilemapdetail,header<COLN>location,FONTBOLD,false
+    mobilemapdetail,header<COLN>location,FONTITALIC,false
+    mobilemapdetail,header<COLN>location,FONTUNDERLINE,false
+    mobilemapdetail,header<COLN>location,FONTSTRIKETHRU,false
+    mobilemapdetail,header<COLN>location,INFO,
+    mobilemapdetail,header<COLN>location,PAGECOUNT,0
+    mobilemapdetail,header<COLN>location,DATABIND,
+    mobilemapdetail,header<COLN>location,BINDMAPPING,
+    mobilemapdetail,header<COLN>location,drag.x,1
+    mobilemapdetail,header<COLN>location,drag.y,1
+    mobilemapdetail,header<COLN>location,xdragrange,-1<SEMI> -1
+    mobilemapdetail,header<COLN>location,ydragrange,-1<SEMI> -1
+    mobilemapdetail,header<COLN>location,size.x,1
+    mobilemapdetail,header<COLN>location,size.y,1
+    mobilemapdetail,header<COLN>location,negadj,
+    mobilemapdetail,header<COLN>location,posadj,
+    mobilemapdetail,header<COLN>location,child,true
+    mobilemapdetail,header<COLN>location,displaymode,block
+    mobilemapdetail,header<COLN>location,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 11px<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 10px 8px 50px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilemapdetail,header<COLN>location,LOCK,false
+    mobilemapdetail,header<COLN>location,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilemapdetail,header<COLN>location,extend,{"react"<COLN>"<CR>"}
+mobilemapdetail,header<COLN>location,REFRESH, 
+mobilemapdetail,header<COLN>icnback,TARGET,header
+mobilemapdetail,header<COLN>icnback,PARENTGROUP,header
+mobilemapdetail,header<COLN>icnback,load,icon|media/img_missing.png|14|21.5|22|22|1342373901|0
+    mobilemapdetail,header<COLN>icnback,group,false
+    mobilemapdetail,header<COLN>icnback,groupid,0
+    mobilemapdetail,header<COLN>icnback,groupby,0200
+    mobilemapdetail,header<COLN>icnback,widgetlock,false
+    mobilemapdetail,header<COLN>icnback,iswidget,true
+    mobilemapdetail,header<COLN>icnback,iscollection,false
+    mobilemapdetail,header<COLN>icnback,collectname,
+    mobilemapdetail,header<COLN>icnback,widgetname,
+    mobilemapdetail,header<COLN>icnback,placeholder,
+    mobilemapdetail,header<COLN>icnback,addedby,
+    mobilemapdetail,header<COLN>icnback,DOCK,FFFF
+    mobilemapdetail,header<COLN>icnback,PICTURE,media/img_missing.png
+    mobilemapdetail,header<COLN>icnback,SIZE,22<PIP>22
+    mobilemapdetail,header<COLN>icnback,JSON,{}
+    mobilemapdetail,header<COLN>icnback,TEXT,
+    mobilemapdetail,header<COLN>icnback,TOOLTIP,
+    mobilemapdetail,header<COLN>icnback,ENABLED,true
+    mobilemapdetail,header<COLN>icnback,VISIBLE,true
+    mobilemapdetail,header<COLN>icnback,ZORDER,0
+    mobilemapdetail,header<COLN>icnback,FORECOLOR,&h5588aa
+    mobilemapdetail,header<COLN>icnback,BACKCOLOR,transparent
+    mobilemapdetail,header<COLN>icnback,FONTNAME,inherit
+    mobilemapdetail,header<COLN>icnback,FONTSIZE,22px
+    mobilemapdetail,header<COLN>icnback,FONTBOLD,false
+    mobilemapdetail,header<COLN>icnback,FONTITALIC,false
+    mobilemapdetail,header<COLN>icnback,FONTUNDERLINE,false
+    mobilemapdetail,header<COLN>icnback,FONTSTRIKETHRU,false
+    mobilemapdetail,header<COLN>icnback,INFO,icon
+    mobilemapdetail,header<COLN>icnback,PAGECOUNT,0
+    mobilemapdetail,header<COLN>icnback,DATABIND,
+    mobilemapdetail,header<COLN>icnback,BINDMAPPING,
+    mobilemapdetail,header<COLN>icnback,drag.x,1
+    mobilemapdetail,header<COLN>icnback,drag.y,1
+    mobilemapdetail,header<COLN>icnback,xdragrange,-1<SEMI> -1
+    mobilemapdetail,header<COLN>icnback,ydragrange,-1<SEMI> -1
+    mobilemapdetail,header<COLN>icnback,size.x,1
+    mobilemapdetail,header<COLN>icnback,size.y,1
+    mobilemapdetail,header<COLN>icnback,negadj,
+    mobilemapdetail,header<COLN>icnback,posadj,
+    mobilemapdetail,header<COLN>icnback,child,true
+    mobilemapdetail,header<COLN>icnback,displaymode,absolute
+    mobilemapdetail,header<COLN>icnback,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> <LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-chevron-left<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> #5588aa<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 22px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> absolute<LF>div.width<COLN> <LF>image.color<COLN> #5588aa<LF>image.display<COLN> block<LF>image.font-size<COLN> 22px
+    mobilemapdetail,header<COLN>icnback,LOCK,false
+    mobilemapdetail,header<COLN>icnback,events,
+    mobilemapdetail,header<COLN>icnback,extend,{}
+mobilemapdetail,header<COLN>icnback,REFRESH, 
+mobilemapdetail,img,TARGET,~
+mobilemapdetail,img,PARENTGROUP,~
+mobilemapdetail,img,load,graphicx|media/img_missing.png|0|68|400|289|1342373901|0
+    mobilemapdetail,img,group,false
+    mobilemapdetail,img,groupid,0
+    mobilemapdetail,img,groupby,9999999999
+    mobilemapdetail,img,widgetlock,false
+    mobilemapdetail,img,iswidget,false
+    mobilemapdetail,img,iscollection,false
+    mobilemapdetail,img,collectname,
+    mobilemapdetail,img,widgetname,
+    mobilemapdetail,img,placeholder,
+    mobilemapdetail,img,addedby,
+    mobilemapdetail,img,DOCK,FFFF
+    mobilemapdetail,img,PICTURE,media/img_missing.png
+    mobilemapdetail,img,SIZE,400<PIP>289
+    mobilemapdetail,img,JSON,{}
+    mobilemapdetail,img,TEXT,
+    mobilemapdetail,img,TOOLTIP,
+    mobilemapdetail,img,ENABLED,true
+    mobilemapdetail,img,VISIBLE,true
+    mobilemapdetail,img,ZORDER,0
+    mobilemapdetail,img,FORECOLOR,&h000000
+    mobilemapdetail,img,BACKCOLOR,&hffffff
+    mobilemapdetail,img,FONTNAME,inherit
+    mobilemapdetail,img,FONTSIZE,inherit
+    mobilemapdetail,img,FONTBOLD,false
+    mobilemapdetail,img,FONTITALIC,false
+    mobilemapdetail,img,FONTUNDERLINE,false
+    mobilemapdetail,img,FONTSTRIKETHRU,false
+    mobilemapdetail,img,INFO,imagex
+    mobilemapdetail,img,PAGECOUNT,0
+    mobilemapdetail,img,DATABIND,
+    mobilemapdetail,img,BINDMAPPING,
+    mobilemapdetail,img,drag.x,1
+    mobilemapdetail,img,drag.y,1
+    mobilemapdetail,img,xdragrange,-1<SEMI> -1
+    mobilemapdetail,img,ydragrange,-1<SEMI> -1
+    mobilemapdetail,img,size.x,1
+    mobilemapdetail,img,size.y,1
+    mobilemapdetail,img,negadj,
+    mobilemapdetail,img,posadj,
+    mobilemapdetail,img,child,false
+    mobilemapdetail,img,displaymode,block
+    mobilemapdetail,img,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-graphicx<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 2px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilemapdetail,img,LOCK,false
+    mobilemapdetail,img,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilemapdetail,img,extend,{"react"<COLN>"<LF>"}
+mobilemapdetail,img,REFRESH, 
+mobilemapdetail,panels,TARGET,~
+mobilemapdetail,panels,PARENTGROUP,~
+mobilemapdetail,panels,load,frame||0|0|120|97|1342227719|32
+    mobilemapdetail,panels,group,true
+    mobilemapdetail,panels,groupid,0300
+    mobilemapdetail,panels,groupby,9999999999
+    mobilemapdetail,panels,widgetlock,false
+    mobilemapdetail,panels,iswidget,false
+    mobilemapdetail,panels,iscollection,false
+    mobilemapdetail,panels,collectname,
+    mobilemapdetail,panels,widgetname,
+    mobilemapdetail,panels,placeholder,
+    mobilemapdetail,panels,addedby,
+    mobilemapdetail,panels,DOCK,FFFF
+    mobilemapdetail,panels,PICTURE,media/img_missing.png
+    mobilemapdetail,panels,SIZE,120<PIP>97
+    mobilemapdetail,panels,JSON,{}
+    mobilemapdetail,panels,TEXT,
+    mobilemapdetail,panels,TOOLTIP,
+    mobilemapdetail,panels,ENABLED,true
+    mobilemapdetail,panels,VISIBLE,true
+    mobilemapdetail,panels,ZORDER,0
+    mobilemapdetail,panels,FORECOLOR,&h000000
+    mobilemapdetail,panels,BACKCOLOR,transparent
+    mobilemapdetail,panels,FONTNAME,inherit
+    mobilemapdetail,panels,FONTSIZE,inherit
+    mobilemapdetail,panels,FONTBOLD,false
+    mobilemapdetail,panels,FONTITALIC,false
+    mobilemapdetail,panels,FONTUNDERLINE,false
+    mobilemapdetail,panels,FONTSTRIKETHRU,false
+    mobilemapdetail,panels,INFO,
+    mobilemapdetail,panels,PAGECOUNT,0
+    mobilemapdetail,panels,DATABIND,
+    mobilemapdetail,panels,BINDMAPPING,
+    mobilemapdetail,panels,drag.x,1
+    mobilemapdetail,panels,drag.y,1
+    mobilemapdetail,panels,xdragrange,-1<SEMI> -1
+    mobilemapdetail,panels,ydragrange,-1<SEMI> -1
+    mobilemapdetail,panels,size.x,1
+    mobilemapdetail,panels,size.y,1
+    mobilemapdetail,panels,negadj,
+    mobilemapdetail,panels,posadj,
+    mobilemapdetail,panels,child,false
+    mobilemapdetail,panels,displaymode,block
+    mobilemapdetail,panels,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>margin<COLN> 10px 15px 0px 15px<LF>opacity<COLN> <LF>padding<COLN> 0px 2px 0px 2px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> TRANSPARENT<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle
+    mobilemapdetail,panels,LOCK,false
+    mobilemapdetail,panels,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilemapdetail,panels,extend,{"react"<COLN>"<CR>"}
+mobilemapdetail,panels,REFRESH, 
+mobilemapdetail,pg1,TARGET,panels
+mobilemapdetail,pg1,PARENTGROUP,panels
+mobilemapdetail,pg1,load,option||0|0|20|20|1342197001|32
+    mobilemapdetail,pg1,groupid,0
+    mobilemapdetail,pg1,groupby,0300
+    mobilemapdetail,pg1,widgetlock,false
+    mobilemapdetail,pg1,iswidget,false
+    mobilemapdetail,pg1,iscollection,false
+    mobilemapdetail,pg1,collectname,
+    mobilemapdetail,pg1,widgetname,
+    mobilemapdetail,pg1,DOCK,FFFF
+    mobilemapdetail,pg1,JSON,{}
+    mobilemapdetail,pg1,TEXT,
+    mobilemapdetail,pg1,TOOLTIP,
+    mobilemapdetail,pg1,ENABLED,true
+    mobilemapdetail,pg1,VISIBLE,true
+    mobilemapdetail,pg1,ZORDER,0
+    mobilemapdetail,pg1,FORECOLOR,&h000000
+    mobilemapdetail,pg1,BACKCOLOR,transparent
+    mobilemapdetail,pg1,FONTNAME,inherit
+    mobilemapdetail,pg1,FONTSIZE,inherit
+    mobilemapdetail,pg1,FONTBOLD,false
+    mobilemapdetail,pg1,FONTITALIC,false
+    mobilemapdetail,pg1,FONTUNDERLINE,false
+    mobilemapdetail,pg1,FONTSTRIKETHRU,false
+    mobilemapdetail,pg1,INFO,option
+    mobilemapdetail,pg1,VALUE,0
+    mobilemapdetail,pg1,child,true
+    mobilemapdetail,pg1,displaymode,inline-block
+    mobilemapdetail,pg1,TAG,var ctlConfig = ''Option Button'';~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-option<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> pg1<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>tick.name<COLN> optiongroup<LF>tick.value<COLN> option1~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table-cell<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    mobilemapdetail,pg1,LOCK,false
+    mobilemapdetail,pg1,events,click<COLN> <CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilemapdetail,pg1,extend,{"react"<COLN>"<CR>"}
+mobilemapdetail,pg1,REFRESH, 
+mobilemapdetail,pg2,TARGET,panels
+mobilemapdetail,pg2,PARENTGROUP,panels
+mobilemapdetail,pg2,load,option||0|0|23|20|1342197001|32
+    mobilemapdetail,pg2,groupid,0
+    mobilemapdetail,pg2,groupby,0300
+    mobilemapdetail,pg2,widgetlock,false
+    mobilemapdetail,pg2,iswidget,false
+    mobilemapdetail,pg2,iscollection,false
+    mobilemapdetail,pg2,collectname,
+    mobilemapdetail,pg2,widgetname,
+    mobilemapdetail,pg2,DOCK,FFFF
+    mobilemapdetail,pg2,JSON,{}
+    mobilemapdetail,pg2,TEXT,
+    mobilemapdetail,pg2,TOOLTIP,
+    mobilemapdetail,pg2,ENABLED,true
+    mobilemapdetail,pg2,VISIBLE,true
+    mobilemapdetail,pg2,ZORDER,0
+    mobilemapdetail,pg2,FORECOLOR,&h000000
+    mobilemapdetail,pg2,BACKCOLOR,transparent
+    mobilemapdetail,pg2,FONTNAME,inherit
+    mobilemapdetail,pg2,FONTSIZE,inherit
+    mobilemapdetail,pg2,FONTBOLD,false
+    mobilemapdetail,pg2,FONTITALIC,false
+    mobilemapdetail,pg2,FONTUNDERLINE,false
+    mobilemapdetail,pg2,FONTSTRIKETHRU,false
+    mobilemapdetail,pg2,INFO,option
+    mobilemapdetail,pg2,VALUE,0
+    mobilemapdetail,pg2,child,true
+    mobilemapdetail,pg2,displaymode,inline-block
+    mobilemapdetail,pg2,TAG,var ctlConfig = ''Option Button'';~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-option<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> pg2<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>tick.name<COLN> optiongroup<LF>tick.value<COLN> option2~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table-cell<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    mobilemapdetail,pg2,LOCK,false
+    mobilemapdetail,pg2,events,
+    mobilemapdetail,pg2,extend,{"react"<COLN>"<CR>"}
+mobilemapdetail,pg2,REFRESH, 
+mobilemapdetail,pg3,TARGET,panels
+mobilemapdetail,pg3,PARENTGROUP,panels
+mobilemapdetail,pg3,load,option||0|0|22|20|1342197001|32
+    mobilemapdetail,pg3,groupid,0
+    mobilemapdetail,pg3,groupby,0300
+    mobilemapdetail,pg3,widgetlock,false
+    mobilemapdetail,pg3,iswidget,false
+    mobilemapdetail,pg3,iscollection,false
+    mobilemapdetail,pg3,collectname,
+    mobilemapdetail,pg3,widgetname,
+    mobilemapdetail,pg3,DOCK,FFFF
+    mobilemapdetail,pg3,JSON,{}
+    mobilemapdetail,pg3,TEXT,
+    mobilemapdetail,pg3,TOOLTIP,
+    mobilemapdetail,pg3,ENABLED,true
+    mobilemapdetail,pg3,VISIBLE,true
+    mobilemapdetail,pg3,ZORDER,0
+    mobilemapdetail,pg3,FORECOLOR,&h000000
+    mobilemapdetail,pg3,BACKCOLOR,transparent
+    mobilemapdetail,pg3,FONTNAME,inherit
+    mobilemapdetail,pg3,FONTSIZE,inherit
+    mobilemapdetail,pg3,FONTBOLD,false
+    mobilemapdetail,pg3,FONTITALIC,false
+    mobilemapdetail,pg3,FONTUNDERLINE,false
+    mobilemapdetail,pg3,FONTSTRIKETHRU,false
+    mobilemapdetail,pg3,INFO,option
+    mobilemapdetail,pg3,VALUE,0
+    mobilemapdetail,pg3,child,true
+    mobilemapdetail,pg3,displaymode,inline-block
+    mobilemapdetail,pg3,TAG,var ctlConfig = ''Option Button'';~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-option<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> pg3<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>tick.name<COLN> optiongroup<LF>tick.value<COLN> option3~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table-cell<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    mobilemapdetail,pg3,LOCK,false
+    mobilemapdetail,pg3,events,
+    mobilemapdetail,pg3,extend,{"react"<COLN>"<CR>"}
+mobilemapdetail,pg3,REFRESH, 
+mobilemapdetail,pg4,TARGET,panels
+mobilemapdetail,pg4,PARENTGROUP,panels
+mobilemapdetail,pg4,load,option||0|0|22|20|1342197001|32
+    mobilemapdetail,pg4,groupid,0
+    mobilemapdetail,pg4,groupby,0300
+    mobilemapdetail,pg4,widgetlock,false
+    mobilemapdetail,pg4,iswidget,false
+    mobilemapdetail,pg4,iscollection,false
+    mobilemapdetail,pg4,collectname,
+    mobilemapdetail,pg4,widgetname,
+    mobilemapdetail,pg4,DOCK,FFFF
+    mobilemapdetail,pg4,JSON,{}
+    mobilemapdetail,pg4,TEXT,
+    mobilemapdetail,pg4,TOOLTIP,
+    mobilemapdetail,pg4,ENABLED,true
+    mobilemapdetail,pg4,VISIBLE,true
+    mobilemapdetail,pg4,ZORDER,0
+    mobilemapdetail,pg4,FORECOLOR,&h000000
+    mobilemapdetail,pg4,BACKCOLOR,transparent
+    mobilemapdetail,pg4,FONTNAME,inherit
+    mobilemapdetail,pg4,FONTSIZE,inherit
+    mobilemapdetail,pg4,FONTBOLD,false
+    mobilemapdetail,pg4,FONTITALIC,false
+    mobilemapdetail,pg4,FONTUNDERLINE,false
+    mobilemapdetail,pg4,FONTSTRIKETHRU,false
+    mobilemapdetail,pg4,INFO,option
+    mobilemapdetail,pg4,VALUE,0
+    mobilemapdetail,pg4,child,true
+    mobilemapdetail,pg4,displaymode,inline-block
+    mobilemapdetail,pg4,TAG,var ctlConfig = ''Option Button'';~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-option<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> option3<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>tick.name<COLN> optiongroup<LF>tick.value<COLN> option3~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table-cell<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    mobilemapdetail,pg4,LOCK,false
+    mobilemapdetail,pg4,events,
+    mobilemapdetail,pg4,extend,{"react"<COLN>"<CR>"}
+mobilemapdetail,pg4,REFRESH, 
+mobilemapdetail,info,TARGET,~
+mobilemapdetail,info,PARENTGROUP,~
+mobilemapdetail,info,load,frame||0|0|400|228|1342227719|32
+    mobilemapdetail,info,group,true
+    mobilemapdetail,info,groupid,0100
+    mobilemapdetail,info,groupby,9999999999
+    mobilemapdetail,info,widgetlock,false
+    mobilemapdetail,info,iswidget,false
+    mobilemapdetail,info,iscollection,false
+    mobilemapdetail,info,collectname,
+    mobilemapdetail,info,widgetname,
+    mobilemapdetail,info,placeholder,
+    mobilemapdetail,info,addedby,
+    mobilemapdetail,info,DOCK,FFFF
+    mobilemapdetail,info,PICTURE,media/img_missing.png
+    mobilemapdetail,info,SIZE,400<PIP>228
+    mobilemapdetail,info,JSON,{}
+    mobilemapdetail,info,TEXT,
+    mobilemapdetail,info,TOOLTIP,
+    mobilemapdetail,info,ENABLED,true
+    mobilemapdetail,info,VISIBLE,true
+    mobilemapdetail,info,ZORDER,0
+    mobilemapdetail,info,FORECOLOR,&h888888
+    mobilemapdetail,info,BACKCOLOR,transparent
+    mobilemapdetail,info,FONTNAME,inherit
+    mobilemapdetail,info,FONTSIZE,inherit
+    mobilemapdetail,info,FONTBOLD,false
+    mobilemapdetail,info,FONTITALIC,false
+    mobilemapdetail,info,FONTUNDERLINE,false
+    mobilemapdetail,info,FONTSTRIKETHRU,false
+    mobilemapdetail,info,INFO,
+    mobilemapdetail,info,PAGECOUNT,0
+    mobilemapdetail,info,DATABIND,
+    mobilemapdetail,info,BINDMAPPING,
+    mobilemapdetail,info,drag.x,1
+    mobilemapdetail,info,drag.y,1
+    mobilemapdetail,info,xdragrange,-1<SEMI> -1
+    mobilemapdetail,info,ydragrange,-1<SEMI> -1
+    mobilemapdetail,info,size.x,1
+    mobilemapdetail,info,size.y,1
+    mobilemapdetail,info,negadj,
+    mobilemapdetail,info,posadj,
+    mobilemapdetail,info,child,false
+    mobilemapdetail,info,displaymode,inline-block
+    mobilemapdetail,info,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #888888<LF>cursor<COLN> <LF>display<COLN> inline-block<LF>height<COLN> auto<LF>margin<COLN> 0px 0px 0px 0px<LF>opacity<COLN> <LF>padding<COLN> 16px 16px 8px 16px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> <LF>background-color<COLN> TRANSPARENT<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobilemapdetail,info,LOCK,false
+    mobilemapdetail,info,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilemapdetail,info,extend,{"react"<COLN>"<CR>"}
+mobilemapdetail,info,REFRESH, 
+mobilemapdetail,title,TARGET,info
+mobilemapdetail,title,PARENTGROUP,info
+mobilemapdetail,title,load,label|Great Apartment|0|0|105|21|1342377216|32
+    mobilemapdetail,title,group,false
+    mobilemapdetail,title,groupid,0
+    mobilemapdetail,title,groupby,0100
+    mobilemapdetail,title,widgetlock,false
+    mobilemapdetail,title,iswidget,false
+    mobilemapdetail,title,iscollection,false
+    mobilemapdetail,title,collectname,
+    mobilemapdetail,title,widgetname,
+    mobilemapdetail,title,placeholder,
+    mobilemapdetail,title,addedby,
+    mobilemapdetail,title,DOCK,FFFF
+    mobilemapdetail,title,PICTURE,media/img_missing.png
+    mobilemapdetail,title,SIZE,105<PIP>21
+    mobilemapdetail,title,JSON,{}
+    mobilemapdetail,title,TEXT,Great Apartment
+    mobilemapdetail,title,TOOLTIP,
+    mobilemapdetail,title,ENABLED,true
+    mobilemapdetail,title,VISIBLE,true
+    mobilemapdetail,title,ZORDER,0
+    mobilemapdetail,title,FORECOLOR,&h000000
+    mobilemapdetail,title,BACKCOLOR,transparent
+    mobilemapdetail,title,FONTNAME,inherit
+    mobilemapdetail,title,FONTSIZE,16px
+    mobilemapdetail,title,FONTBOLD,true
+    mobilemapdetail,title,FONTITALIC,false
+    mobilemapdetail,title,FONTUNDERLINE,false
+    mobilemapdetail,title,FONTSTRIKETHRU,false
+    mobilemapdetail,title,INFO,
+    mobilemapdetail,title,PAGECOUNT,0
+    mobilemapdetail,title,DATABIND,
+    mobilemapdetail,title,BINDMAPPING,
+    mobilemapdetail,title,drag.x,1
+    mobilemapdetail,title,drag.y,1
+    mobilemapdetail,title,xdragrange,-1<SEMI> -1
+    mobilemapdetail,title,ydragrange,-1<SEMI> -1
+    mobilemapdetail,title,size.x,1
+    mobilemapdetail,title,size.y,1
+    mobilemapdetail,title,negadj,
+    mobilemapdetail,title,posadj,
+    mobilemapdetail,title,child,true
+    mobilemapdetail,title,displaymode,block
+    mobilemapdetail,title,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 16px<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilemapdetail,title,LOCK,false
+    mobilemapdetail,title,events,
+    mobilemapdetail,title,extend,{}
+mobilemapdetail,title,REFRESH, 
+mobilemapdetail,price,TARGET,info
+mobilemapdetail,price,PARENTGROUP,info
+mobilemapdetail,price,load,label|150.00|0|0|105|21|1342377216|32
+    mobilemapdetail,price,group,false
+    mobilemapdetail,price,groupid,0
+    mobilemapdetail,price,groupby,0100
+    mobilemapdetail,price,widgetlock,false
+    mobilemapdetail,price,iswidget,false
+    mobilemapdetail,price,iscollection,false
+    mobilemapdetail,price,collectname,
+    mobilemapdetail,price,widgetname,
+    mobilemapdetail,price,placeholder,
+    mobilemapdetail,price,addedby,
+    mobilemapdetail,price,DOCK,FFFF
+    mobilemapdetail,price,PICTURE,media/img_missing.png
+    mobilemapdetail,price,SIZE,105<PIP>21
+    mobilemapdetail,price,JSON,{}
+    mobilemapdetail,price,TEXT,150.00
+    mobilemapdetail,price,TOOLTIP,
+    mobilemapdetail,price,ENABLED,true
+    mobilemapdetail,price,VISIBLE,true
+    mobilemapdetail,price,ZORDER,0
+    mobilemapdetail,price,FORECOLOR,&h000000
+    mobilemapdetail,price,BACKCOLOR,transparent
+    mobilemapdetail,price,FONTNAME,inherit
+    mobilemapdetail,price,FONTSIZE,inherit
+    mobilemapdetail,price,FONTBOLD,false
+    mobilemapdetail,price,FONTITALIC,false
+    mobilemapdetail,price,FONTUNDERLINE,false
+    mobilemapdetail,price,FONTSTRIKETHRU,false
+    mobilemapdetail,price,INFO,
+    mobilemapdetail,price,PAGECOUNT,0
+    mobilemapdetail,price,DATABIND,
+    mobilemapdetail,price,BINDMAPPING,
+    mobilemapdetail,price,drag.x,1
+    mobilemapdetail,price,drag.y,1
+    mobilemapdetail,price,xdragrange,-1<SEMI> -1
+    mobilemapdetail,price,ydragrange,-1<SEMI> -1
+    mobilemapdetail,price,size.x,1
+    mobilemapdetail,price,size.y,1
+    mobilemapdetail,price,negadj,
+    mobilemapdetail,price,posadj,
+    mobilemapdetail,price,child,true
+    mobilemapdetail,price,displaymode,block
+    mobilemapdetail,price,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 5px 0px 15px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilemapdetail,price,LOCK,false
+    mobilemapdetail,price,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilemapdetail,price,extend,{"react"<COLN>"<CR>"}
+mobilemapdetail,price,REFRESH, 
+mobilemapdetail,lbabout,TARGET,info
+mobilemapdetail,lbabout,PARENTGROUP,info
+mobilemapdetail,lbabout,load,label|ABOUT|0|0|105|21|1342377216|32
+    mobilemapdetail,lbabout,group,false
+    mobilemapdetail,lbabout,groupid,0
+    mobilemapdetail,lbabout,groupby,0100
+    mobilemapdetail,lbabout,widgetlock,false
+    mobilemapdetail,lbabout,iswidget,false
+    mobilemapdetail,lbabout,iscollection,false
+    mobilemapdetail,lbabout,collectname,
+    mobilemapdetail,lbabout,widgetname,
+    mobilemapdetail,lbabout,placeholder,
+    mobilemapdetail,lbabout,addedby,
+    mobilemapdetail,lbabout,DOCK,FFFF
+    mobilemapdetail,lbabout,PICTURE,media/img_missing.png
+    mobilemapdetail,lbabout,SIZE,105<PIP>21
+    mobilemapdetail,lbabout,JSON,{}
+    mobilemapdetail,lbabout,TEXT,ABOUT
+    mobilemapdetail,lbabout,TOOLTIP,
+    mobilemapdetail,lbabout,ENABLED,true
+    mobilemapdetail,lbabout,VISIBLE,true
+    mobilemapdetail,lbabout,ZORDER,0
+    mobilemapdetail,lbabout,FORECOLOR,&h888888
+    mobilemapdetail,lbabout,BACKCOLOR,transparent
+    mobilemapdetail,lbabout,FONTNAME,inherit
+    mobilemapdetail,lbabout,FONTSIZE,12px
+    mobilemapdetail,lbabout,FONTBOLD,false
+    mobilemapdetail,lbabout,FONTITALIC,false
+    mobilemapdetail,lbabout,FONTUNDERLINE,false
+    mobilemapdetail,lbabout,FONTSTRIKETHRU,false
+    mobilemapdetail,lbabout,INFO,
+    mobilemapdetail,lbabout,PAGECOUNT,0
+    mobilemapdetail,lbabout,DATABIND,
+    mobilemapdetail,lbabout,BINDMAPPING,
+    mobilemapdetail,lbabout,drag.x,1
+    mobilemapdetail,lbabout,drag.y,1
+    mobilemapdetail,lbabout,xdragrange,-1<SEMI> -1
+    mobilemapdetail,lbabout,ydragrange,-1<SEMI> -1
+    mobilemapdetail,lbabout,size.x,1
+    mobilemapdetail,lbabout,size.y,1
+    mobilemapdetail,lbabout,negadj,
+    mobilemapdetail,lbabout,posadj,
+    mobilemapdetail,lbabout,child,true
+    mobilemapdetail,lbabout,displaymode,block
+    mobilemapdetail,lbabout,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #888888<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 8px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilemapdetail,lbabout,LOCK,false
+    mobilemapdetail,lbabout,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilemapdetail,lbabout,extend,{"react"<COLN>"<CR>"}
+mobilemapdetail,lbabout,REFRESH, 
+mobilemapdetail,description,TARGET,info
+mobilemapdetail,description,PARENTGROUP,info
+mobilemapdetail,description,load,label|Perfect flat for 4 people. Peaceful and good location<COMMA> close to bus stops and many restaurants.|0|0|368|84|1342409984|32
+    mobilemapdetail,description,group,false
+    mobilemapdetail,description,groupid,0
+    mobilemapdetail,description,groupby,0100
+    mobilemapdetail,description,widgetlock,false
+    mobilemapdetail,description,iswidget,false
+    mobilemapdetail,description,iscollection,false
+    mobilemapdetail,description,collectname,
+    mobilemapdetail,description,widgetname,
+    mobilemapdetail,description,placeholder,
+    mobilemapdetail,description,addedby,
+    mobilemapdetail,description,DOCK,FFFF
+    mobilemapdetail,description,PICTURE,media/img_missing.png
+    mobilemapdetail,description,SIZE,368<PIP>84
+    mobilemapdetail,description,JSON,{}
+    mobilemapdetail,description,TEXT,Perfect flat for 4 people. Peaceful and good location<COMMA> close to bus stops and many restaurants.
+    mobilemapdetail,description,TOOLTIP,
+    mobilemapdetail,description,ENABLED,true
+    mobilemapdetail,description,VISIBLE,true
+    mobilemapdetail,description,ZORDER,0
+    mobilemapdetail,description,FORECOLOR,&h8a8a8a
+    mobilemapdetail,description,BACKCOLOR,transparent
+    mobilemapdetail,description,FONTNAME,inherit
+    mobilemapdetail,description,FONTSIZE,12px
+    mobilemapdetail,description,FONTBOLD,false
+    mobilemapdetail,description,FONTITALIC,false
+    mobilemapdetail,description,FONTUNDERLINE,false
+    mobilemapdetail,description,FONTSTRIKETHRU,false
+    mobilemapdetail,description,INFO,
+    mobilemapdetail,description,PAGECOUNT,0
+    mobilemapdetail,description,DATABIND,
+    mobilemapdetail,description,BINDMAPPING,
+    mobilemapdetail,description,drag.x,1
+    mobilemapdetail,description,drag.y,1
+    mobilemapdetail,description,xdragrange,-1<SEMI> -1
+    mobilemapdetail,description,ydragrange,-1<SEMI> -1
+    mobilemapdetail,description,size.x,1
+    mobilemapdetail,description,size.y,1
+    mobilemapdetail,description,negadj,
+    mobilemapdetail,description,posadj,
+    mobilemapdetail,description,child,true
+    mobilemapdetail,description,displaymode,block
+    mobilemapdetail,description,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #8a8a8a<LF>cursor<COLN> <LF>display<COLN> table<LF>height<COLN> auto<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 20px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilemapdetail,description,LOCK,false
+    mobilemapdetail,description,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilemapdetail,description,extend,{"react"<COLN>"<CR>"}
+mobilemapdetail,description,REFRESH, 
+mobilemapdetail,lbhost,TARGET,info
+mobilemapdetail,lbhost,PARENTGROUP,info
+mobilemapdetail,lbhost,load,label|HOSTED BY|0|0|105|21|1342377216|32
+    mobilemapdetail,lbhost,group,false
+    mobilemapdetail,lbhost,groupid,0
+    mobilemapdetail,lbhost,groupby,0100
+    mobilemapdetail,lbhost,widgetlock,false
+    mobilemapdetail,lbhost,iswidget,false
+    mobilemapdetail,lbhost,iscollection,false
+    mobilemapdetail,lbhost,collectname,
+    mobilemapdetail,lbhost,widgetname,
+    mobilemapdetail,lbhost,placeholder,
+    mobilemapdetail,lbhost,addedby,
+    mobilemapdetail,lbhost,DOCK,FFFF
+    mobilemapdetail,lbhost,PICTURE,media/img_missing.png
+    mobilemapdetail,lbhost,SIZE,105<PIP>21
+    mobilemapdetail,lbhost,JSON,{}
+    mobilemapdetail,lbhost,TEXT,HOSTED BY
+    mobilemapdetail,lbhost,TOOLTIP,
+    mobilemapdetail,lbhost,ENABLED,true
+    mobilemapdetail,lbhost,VISIBLE,true
+    mobilemapdetail,lbhost,ZORDER,0
+    mobilemapdetail,lbhost,FORECOLOR,&h888888
+    mobilemapdetail,lbhost,BACKCOLOR,transparent
+    mobilemapdetail,lbhost,FONTNAME,inherit
+    mobilemapdetail,lbhost,FONTSIZE,12px
+    mobilemapdetail,lbhost,FONTBOLD,false
+    mobilemapdetail,lbhost,FONTITALIC,false
+    mobilemapdetail,lbhost,FONTUNDERLINE,false
+    mobilemapdetail,lbhost,FONTSTRIKETHRU,false
+    mobilemapdetail,lbhost,INFO,
+    mobilemapdetail,lbhost,PAGECOUNT,0
+    mobilemapdetail,lbhost,DATABIND,
+    mobilemapdetail,lbhost,BINDMAPPING,
+    mobilemapdetail,lbhost,drag.x,1
+    mobilemapdetail,lbhost,drag.y,1
+    mobilemapdetail,lbhost,xdragrange,-1<SEMI> -1
+    mobilemapdetail,lbhost,ydragrange,-1<SEMI> -1
+    mobilemapdetail,lbhost,size.x,1
+    mobilemapdetail,lbhost,size.y,1
+    mobilemapdetail,lbhost,negadj,
+    mobilemapdetail,lbhost,posadj,
+    mobilemapdetail,lbhost,child,true
+    mobilemapdetail,lbhost,displaymode,block
+    mobilemapdetail,lbhost,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #888888<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilemapdetail,lbhost,LOCK,false
+    mobilemapdetail,lbhost,events,
+    mobilemapdetail,lbhost,extend,{}
+mobilemapdetail,lbhost,REFRESH, 
+mobilemapdetail,title1,TARGET,info
+mobilemapdetail,title1,PARENTGROUP,info
+mobilemapdetail,title1,load,label|Haliey James|0|0|303|21|1342377216|32
+    mobilemapdetail,title1,group,false
+    mobilemapdetail,title1,groupid,0
+    mobilemapdetail,title1,groupby,0100
+    mobilemapdetail,title1,widgetlock,false
+    mobilemapdetail,title1,iswidget,true
+    mobilemapdetail,title1,iscollection,false
+    mobilemapdetail,title1,collectname,
+    mobilemapdetail,title1,widgetname,
+    mobilemapdetail,title1,placeholder,
+    mobilemapdetail,title1,addedby,
+    mobilemapdetail,title1,DOCK,FFFF
+    mobilemapdetail,title1,PICTURE,media/img_missing.png
+    mobilemapdetail,title1,SIZE,303<PIP>21
+    mobilemapdetail,title1,JSON,{}
+    mobilemapdetail,title1,TEXT,Haliey James
+    mobilemapdetail,title1,TOOLTIP,
+    mobilemapdetail,title1,ENABLED,true
+    mobilemapdetail,title1,VISIBLE,true
+    mobilemapdetail,title1,ZORDER,0
+    mobilemapdetail,title1,FORECOLOR,&h000000
+    mobilemapdetail,title1,BACKCOLOR,transparent
+    mobilemapdetail,title1,FONTNAME,inherit
+    mobilemapdetail,title1,FONTSIZE,inherit
+    mobilemapdetail,title1,FONTBOLD,true
+    mobilemapdetail,title1,FONTITALIC,false
+    mobilemapdetail,title1,FONTUNDERLINE,false
+    mobilemapdetail,title1,FONTSTRIKETHRU,false
+    mobilemapdetail,title1,INFO,
+    mobilemapdetail,title1,PAGECOUNT,0
+    mobilemapdetail,title1,DATABIND,
+    mobilemapdetail,title1,BINDMAPPING,
+    mobilemapdetail,title1,drag.x,1
+    mobilemapdetail,title1,drag.y,1
+    mobilemapdetail,title1,xdragrange,-1<SEMI> -1
+    mobilemapdetail,title1,ydragrange,-1<SEMI> -1
+    mobilemapdetail,title1,size.x,1
+    mobilemapdetail,title1,size.y,1
+    mobilemapdetail,title1,negadj,
+    mobilemapdetail,title1,posadj,
+    mobilemapdetail,title1,child,true
+    mobilemapdetail,title1,displaymode,inline-block
+    mobilemapdetail,title1,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> top<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 8px 0px 0px 50px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> calc(100% - 65px)
+    mobilemapdetail,title1,LOCK,false
+    mobilemapdetail,title1,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilemapdetail,title1,extend,{"react"<COLN>"<CR>"}
+mobilemapdetail,title1,REFRESH, 
+mobilemapdetail,star,TARGET,info
+mobilemapdetail,star,PARENTGROUP,info
+mobilemapdetail,star,load,icon|media/img_missing.png|0|0|16|16|1342373901|0
+    mobilemapdetail,star,group,false
+    mobilemapdetail,star,groupid,0
+    mobilemapdetail,star,groupby,0100
+    mobilemapdetail,star,widgetlock,false
+    mobilemapdetail,star,iswidget,false
+    mobilemapdetail,star,iscollection,false
+    mobilemapdetail,star,collectname,
+    mobilemapdetail,star,widgetname,
+    mobilemapdetail,star,placeholder,
+    mobilemapdetail,star,addedby,
+    mobilemapdetail,star,DOCK,FFFF
+    mobilemapdetail,star,PICTURE,media/img_missing.png
+    mobilemapdetail,star,SIZE,16<PIP>16
+    mobilemapdetail,star,JSON,{}
+    mobilemapdetail,star,TEXT,
+    mobilemapdetail,star,TOOLTIP,
+    mobilemapdetail,star,ENABLED,true
+    mobilemapdetail,star,VISIBLE,true
+    mobilemapdetail,star,ZORDER,0
+    mobilemapdetail,star,FORECOLOR,&h2259a1
+    mobilemapdetail,star,BACKCOLOR,transparent
+    mobilemapdetail,star,FONTNAME,inherit
+    mobilemapdetail,star,FONTSIZE,16px
+    mobilemapdetail,star,FONTBOLD,false
+    mobilemapdetail,star,FONTITALIC,false
+    mobilemapdetail,star,FONTUNDERLINE,false
+    mobilemapdetail,star,FONTSTRIKETHRU,false
+    mobilemapdetail,star,INFO,icon
+    mobilemapdetail,star,PAGECOUNT,0
+    mobilemapdetail,star,DATABIND,
+    mobilemapdetail,star,BINDMAPPING,
+    mobilemapdetail,star,drag.x,1
+    mobilemapdetail,star,drag.y,1
+    mobilemapdetail,star,xdragrange,-1<SEMI> -1
+    mobilemapdetail,star,ydragrange,-1<SEMI> -1
+    mobilemapdetail,star,size.x,1
+    mobilemapdetail,star,size.y,1
+    mobilemapdetail,star,negadj,
+    mobilemapdetail,star,posadj,
+    mobilemapdetail,star,child,true
+    mobilemapdetail,star,displaymode,inline-block
+    mobilemapdetail,star,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>image.class<COLN> fa fa-star<LF>image.title<COLN> undefined~border<COLN> 0px solid #bbb<LF>color<COLN> #2259a1<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-family<COLN> inherit<LF>font-size<COLN> 16px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 50px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> <LF>image.color<COLN> &H2259A1<LF>image.display<COLN> block<LF>image.font-size<COLN> 16px
+    mobilemapdetail,star,LOCK,false
+    mobilemapdetail,star,events,click<COLN> <CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilemapdetail,star,extend,{"react"<COLN>"<CR>"}
+mobilemapdetail,star,REFRESH, 
+mobilemapdetail,img1,TARGET,info
+mobilemapdetail,img1,PARENTGROUP,info
+mobilemapdetail,img1,load,graphicx|media/img_missing.png|21|181|32|32|1342373901|0
+    mobilemapdetail,img1,group,false
+    mobilemapdetail,img1,groupid,0
+    mobilemapdetail,img1,groupby,0100
+    mobilemapdetail,img1,widgetlock,false
+    mobilemapdetail,img1,iswidget,true
+    mobilemapdetail,img1,iscollection,false
+    mobilemapdetail,img1,collectname,
+    mobilemapdetail,img1,widgetname,
+    mobilemapdetail,img1,placeholder,
+    mobilemapdetail,img1,addedby,
+    mobilemapdetail,img1,DOCK,FFFF
+    mobilemapdetail,img1,PICTURE,media/img_missing.png
+    mobilemapdetail,img1,SIZE,32<PIP>32
+    mobilemapdetail,img1,JSON,{}
+    mobilemapdetail,img1,TEXT,
+    mobilemapdetail,img1,TOOLTIP,
+    mobilemapdetail,img1,ENABLED,true
+    mobilemapdetail,img1,VISIBLE,true
+    mobilemapdetail,img1,ZORDER,0
+    mobilemapdetail,img1,FORECOLOR,&h000000
+    mobilemapdetail,img1,BACKCOLOR,&hffffff
+    mobilemapdetail,img1,FONTNAME,inherit
+    mobilemapdetail,img1,FONTSIZE,inherit
+    mobilemapdetail,img1,FONTBOLD,false
+    mobilemapdetail,img1,FONTITALIC,false
+    mobilemapdetail,img1,FONTUNDERLINE,false
+    mobilemapdetail,img1,FONTSTRIKETHRU,false
+    mobilemapdetail,img1,INFO,imagex
+    mobilemapdetail,img1,PAGECOUNT,0
+    mobilemapdetail,img1,DATABIND,
+    mobilemapdetail,img1,BINDMAPPING,
+    mobilemapdetail,img1,drag.x,1
+    mobilemapdetail,img1,drag.y,1
+    mobilemapdetail,img1,xdragrange,-1<SEMI> -1
+    mobilemapdetail,img1,ydragrange,-1<SEMI> -1
+    mobilemapdetail,img1,size.x,1
+    mobilemapdetail,img1,size.y,1
+    mobilemapdetail,img1,negadj,
+    mobilemapdetail,img1,posadj,
+    mobilemapdetail,img1,child,true
+    mobilemapdetail,img1,displaymode,absolute
+    mobilemapdetail,img1,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-graphicx<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> <LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 17px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> top<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 10px 0px 10px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> absolute<LF>div.width<COLN>
+    mobilemapdetail,img1,LOCK,false
+    mobilemapdetail,img1,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilemapdetail,img1,extend,{"react"<COLN>"<CR>"}
+mobilemapdetail,img1,REFRESH, 
+mobilemapdetail,info<COLN>rating,TARGET,info
+mobilemapdetail,info<COLN>rating,PARENTGROUP,info
+mobilemapdetail,info<COLN>rating,load,label|4.8|0|0|34|22|1342377216|32
+    mobilemapdetail,info<COLN>rating,group,false
+    mobilemapdetail,info<COLN>rating,groupid,0
+    mobilemapdetail,info<COLN>rating,groupby,0100
+    mobilemapdetail,info<COLN>rating,widgetlock,false
+    mobilemapdetail,info<COLN>rating,iswidget,true
+    mobilemapdetail,info<COLN>rating,iscollection,false
+    mobilemapdetail,info<COLN>rating,collectname,
+    mobilemapdetail,info<COLN>rating,widgetname,
+    mobilemapdetail,info<COLN>rating,placeholder,
+    mobilemapdetail,info<COLN>rating,addedby,
+    mobilemapdetail,info<COLN>rating,DOCK,FFFF
+    mobilemapdetail,info<COLN>rating,PICTURE,media/img_missing.png
+    mobilemapdetail,info<COLN>rating,SIZE,34<PIP>22
+    mobilemapdetail,info<COLN>rating,JSON,{}
+    mobilemapdetail,info<COLN>rating,TEXT,4.8
+    mobilemapdetail,info<COLN>rating,TOOLTIP,
+    mobilemapdetail,info<COLN>rating,ENABLED,true
+    mobilemapdetail,info<COLN>rating,VISIBLE,true
+    mobilemapdetail,info<COLN>rating,ZORDER,0
+    mobilemapdetail,info<COLN>rating,FORECOLOR,&h888888
+    mobilemapdetail,info<COLN>rating,BACKCOLOR,transparent
+    mobilemapdetail,info<COLN>rating,FONTNAME,inherit
+    mobilemapdetail,info<COLN>rating,FONTSIZE,12px
+    mobilemapdetail,info<COLN>rating,FONTBOLD,false
+    mobilemapdetail,info<COLN>rating,FONTITALIC,false
+    mobilemapdetail,info<COLN>rating,FONTUNDERLINE,false
+    mobilemapdetail,info<COLN>rating,FONTSTRIKETHRU,false
+    mobilemapdetail,info<COLN>rating,INFO,
+    mobilemapdetail,info<COLN>rating,PAGECOUNT,0
+    mobilemapdetail,info<COLN>rating,DATABIND,
+    mobilemapdetail,info<COLN>rating,BINDMAPPING,
+    mobilemapdetail,info<COLN>rating,drag.x,1
+    mobilemapdetail,info<COLN>rating,drag.y,1
+    mobilemapdetail,info<COLN>rating,xdragrange,-1<SEMI> -1
+    mobilemapdetail,info<COLN>rating,ydragrange,-1<SEMI> -1
+    mobilemapdetail,info<COLN>rating,size.x,1
+    mobilemapdetail,info<COLN>rating,size.y,1
+    mobilemapdetail,info<COLN>rating,negadj,
+    mobilemapdetail,info<COLN>rating,posadj,
+    mobilemapdetail,info<COLN>rating,child,true
+    mobilemapdetail,info<COLN>rating,displaymode,inline-block
+    mobilemapdetail,info<COLN>rating,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #888888<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> top<LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 3px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    mobilemapdetail,info<COLN>rating,LOCK,false
+    mobilemapdetail,info<COLN>rating,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilemapdetail,info<COLN>rating,extend,{"react"<COLN>"<CR>"}
+mobilemapdetail,info<COLN>rating,REFRESH, 
+mobilemapdetail,btnconfirm,TARGET,~
+mobilemapdetail,btnconfirm,PARENTGROUP,~
+mobilemapdetail,btnconfirm,load,button|See details|0|0|360|42|1342394112|32
+    mobilemapdetail,btnconfirm,group,false
+    mobilemapdetail,btnconfirm,groupid,0
+    mobilemapdetail,btnconfirm,groupby,9999999999
+    mobilemapdetail,btnconfirm,widgetlock,false
+    mobilemapdetail,btnconfirm,iswidget,false
+    mobilemapdetail,btnconfirm,iscollection,false
+    mobilemapdetail,btnconfirm,collectname,
+    mobilemapdetail,btnconfirm,widgetname,
+    mobilemapdetail,btnconfirm,placeholder,
+    mobilemapdetail,btnconfirm,addedby,
+    mobilemapdetail,btnconfirm,DOCK,FFFF
+    mobilemapdetail,btnconfirm,PICTURE,media/img_missing.png
+    mobilemapdetail,btnconfirm,SIZE,360<PIP>42
+    mobilemapdetail,btnconfirm,JSON,{}
+    mobilemapdetail,btnconfirm,TEXT,See details
+    mobilemapdetail,btnconfirm,TOOLTIP,
+    mobilemapdetail,btnconfirm,ENABLED,true
+    mobilemapdetail,btnconfirm,VISIBLE,true
+    mobilemapdetail,btnconfirm,ZORDER,0
+    mobilemapdetail,btnconfirm,FORECOLOR,&h2259a1
+    mobilemapdetail,btnconfirm,BACKCOLOR,transparent
+    mobilemapdetail,btnconfirm,FONTNAME,inherit
+    mobilemapdetail,btnconfirm,FONTSIZE,12px
+    mobilemapdetail,btnconfirm,FONTBOLD,true
+    mobilemapdetail,btnconfirm,FONTITALIC,false
+    mobilemapdetail,btnconfirm,FONTUNDERLINE,false
+    mobilemapdetail,btnconfirm,FONTSTRIKETHRU,false
+    mobilemapdetail,btnconfirm,INFO,
+    mobilemapdetail,btnconfirm,PAGECOUNT,0
+    mobilemapdetail,btnconfirm,DATABIND,
+    mobilemapdetail,btnconfirm,BINDMAPPING,
+    mobilemapdetail,btnconfirm,drag.x,1
+    mobilemapdetail,btnconfirm,drag.y,1
+    mobilemapdetail,btnconfirm,xdragrange,-1<SEMI> -1
+    mobilemapdetail,btnconfirm,ydragrange,-1<SEMI> -1
+    mobilemapdetail,btnconfirm,size.x,1
+    mobilemapdetail,btnconfirm,size.y,1
+    mobilemapdetail,btnconfirm,negadj,
+    mobilemapdetail,btnconfirm,posadj,
+    mobilemapdetail,btnconfirm,child,false
+    mobilemapdetail,btnconfirm,displaymode,block
+    mobilemapdetail,btnconfirm,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px solid #bbb<LF>color<COLN> #2259a1<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>border-radius<COLN> 13px<LF>font-size<COLN> 12px<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 15px 20px 0px 20px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobilemapdetail,btnconfirm,LOCK,false
+    mobilemapdetail,btnconfirm,events,click<COLN> <CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobilemapdetail,btnconfirm,extend,{"react"<COLN>"<CR>"}
+mobilemapdetail,btnconfirm,REFRESH, 
+mobilemapdetail,,SETVIEW,
+mobilemapdetail,,HIDE,
+mobilemapdetail,,REFRESH,true

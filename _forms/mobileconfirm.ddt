@@ -1,0 +1,685 @@
+mobileconfirm,,SURFACE,New Surface|50|155|400|640|268435476|65568
+    mobileconfirm,,version,5.0
+    mobileconfirm,,loadlibs,New Surface
+    mobileconfirm,,groupid,9999999999
+    mobileconfirm,,groupby,0
+    mobileconfirm,,runpos,0|0
+    mobileconfirm,,DOCK,FFFF
+    mobileconfirm,,PARENT,
+    mobileconfirm,,MARGINS,
+    mobileconfirm,,AUTOSIZE,false
+    mobileconfirm,,JSON,{}
+    mobileconfirm,,TEXT,New Surface
+    mobileconfirm,,TOOLTIP,
+    mobileconfirm,,ENABLED,true
+    mobileconfirm,,VISIBLE,true
+    mobileconfirm,,FORECOLOR,&heeeeee
+    mobileconfirm,,BACKCOLOR,&hffffff
+    mobileconfirm,,ICON,
+    mobileconfirm,,FONTNAME,roboto
+    mobileconfirm,,FONTSIZE,14px
+    mobileconfirm,,FONTBOLD,false
+    mobileconfirm,,FONTITALIC,false
+    mobileconfirm,,FONTUNDERLINE,false
+    mobileconfirm,,FONTSTRIKETHRU,false
+    mobileconfirm,,MENUBAR,
+    mobileconfirm,,TOOLBAR,
+    mobileconfirm,,STATUSBAR,
+    mobileconfirm,,SAVESTATE,false
+    mobileconfirm,,drag.x,
+    mobileconfirm,,drag.y,
+    mobileconfirm,,xdragrange,
+    mobileconfirm,,ydragrange,
+    mobileconfirm,,size.x,
+    mobileconfirm,,size.y,
+    mobileconfirm,,negadj,
+    mobileconfirm,,posadj,
+    mobileconfirm,,TAG,~_private<COLN> false<LF>autosize<COLN> false<LF>bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>clipmenu<COLN> true<LF>donottheme<COLN> false<LF>dragable<COLN> true<LF>flattenonpull<COLN> true<LF>hotkey<COLN> <LF>ignorezorder<COLN> false<LF>output<COLN> normal<LF>prevent<COLN> <LF>record<COLN> <LF>shadow<COLN> true<LF>sizeable<COLN> true<LF>theme<COLN> nimble-form<LF>toggleonflip<COLN> true<LF>useastheme<COLN> false<LF>watch<COLN> false<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>body.lock-height<COLN> <LF>body.version<COLN> v5.0~color<COLN> #EEEEEE<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 20px<LF>font-family<COLN> roboto<LF>font-size<COLN> 14px<LF>pointer-events<COLN> auto<LF>z-index<COLN> 2<LF>body.background-color<COLN> transparent<LF>body.box-sizing<COLN> border-box<LF>body.color<COLN> #eeeeee<LF>body.overflow-y<COLN> auto<LF>body.padding<COLN> 10px 15px 10px 15px<LF>body.text-align<COLN> center<LF>body.vertical-align<COLN>
+    mobileconfirm,,events,activate<COLN> <CR>adjustlayout<COLN> <CR>afterpull<COLN> <CR>afterpush<COLN> <CR>beforeunload<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>disabled<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enabled<COLN> <CR>enterkey<COLN> <CR>fullscreen<COLN> <CR>gotfocus<COLN> <CR>hide<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>load<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>maximize<COLN> <CR>menu<COLN> <CR>minimize<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>move<COLN> <CR>move<COLN> <CR>onpull<COLN> <CR>onpush<COLN> <CR>refresh<COLN> <CR>resize<COLN> <CR>restore<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN> <CR>unload<COLN> <CR>viewchange<COLN> <CR>widgetloaded<COLN> <CR>widgetunloading<COLN>
+    mobileconfirm,,extend,{"react"<COLN>"<CR>"}
+    mobileconfirm,,GROUPIDS,[0100][0400][0800][1000][0700]
+    mobileconfirm,,WSTYLES,268435476
+    mobileconfirm,,WSTYLESEX,65568
+    mobileconfirm,,WIDTH,400
+    mobileconfirm,,HEIGHT,640
+    mobileconfirm,,EDITPOS,50|155
+mobileconfirm,title,TARGET,~
+mobileconfirm,title,PARENTGROUP,~
+mobileconfirm,title,load,frame||0|0|370|130|1342177287|32
+    mobileconfirm,title,group,true
+    mobileconfirm,title,groupid,0100
+    mobileconfirm,title,groupby,9999999999
+    mobileconfirm,title,widgetlock,false
+    mobileconfirm,title,iswidget,false
+    mobileconfirm,title,iscollection,false
+    mobileconfirm,title,collectname,
+    mobileconfirm,title,widgetname,
+    mobileconfirm,title,placeholder,
+    mobileconfirm,title,addedby,
+    mobileconfirm,title,DOCK,FFFF
+    mobileconfirm,title,PICTURE,media/img_missing.png
+    mobileconfirm,title,SIZE,370<PIP>130
+    mobileconfirm,title,JSON,{}
+    mobileconfirm,title,TEXT,
+    mobileconfirm,title,TOOLTIP,
+    mobileconfirm,title,ENABLED,true
+    mobileconfirm,title,VISIBLE,true
+    mobileconfirm,title,ZORDER,0
+    mobileconfirm,title,FORECOLOR,&h000000
+    mobileconfirm,title,BACKCOLOR,transparent
+    mobileconfirm,title,FONTNAME,inherit
+    mobileconfirm,title,FONTSIZE,inherit
+    mobileconfirm,title,FONTBOLD,false
+    mobileconfirm,title,FONTITALIC,false
+    mobileconfirm,title,FONTUNDERLINE,false
+    mobileconfirm,title,FONTSTRIKETHRU,false
+    mobileconfirm,title,INFO,
+    mobileconfirm,title,PAGECOUNT,0
+    mobileconfirm,title,DATABIND,
+    mobileconfirm,title,BINDMAPPING,
+    mobileconfirm,title,drag.x,1
+    mobileconfirm,title,drag.y,1
+    mobileconfirm,title,xdragrange,-1<SEMI> -1
+    mobileconfirm,title,ydragrange,-1<SEMI> -1
+    mobileconfirm,title,size.x,1
+    mobileconfirm,title,size.y,1
+    mobileconfirm,title,negadj,
+    mobileconfirm,title,posadj,
+    mobileconfirm,title,child,false
+    mobileconfirm,title,displaymode,block
+    mobileconfirm,title,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> <LF>margin<COLN> 50px 0px 30px 0px<LF>opacity<COLN> <LF>padding<COLN> 20px 10px 10px 10px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> TRANSPARENT<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobileconfirm,title,LOCK,false
+    mobileconfirm,title,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileconfirm,title,extend,{"react"<COLN>"<CR>"}
+mobileconfirm,title,REFRESH, 
+mobileconfirm,lbinfo,TARGET,title
+mobileconfirm,lbinfo,PARENTGROUP,title
+mobileconfirm,lbinfo,load,label|Enter confirmation code|0|0|350|21|1342377728|32
+    mobileconfirm,lbinfo,group,false
+    mobileconfirm,lbinfo,groupid,0
+    mobileconfirm,lbinfo,groupby,0100
+    mobileconfirm,lbinfo,widgetlock,false
+    mobileconfirm,lbinfo,iswidget,false
+    mobileconfirm,lbinfo,iscollection,false
+    mobileconfirm,lbinfo,collectname,
+    mobileconfirm,lbinfo,widgetname,
+    mobileconfirm,lbinfo,placeholder,
+    mobileconfirm,lbinfo,addedby,
+    mobileconfirm,lbinfo,DOCK,FFFF
+    mobileconfirm,lbinfo,PICTURE,media/img_missing.png
+    mobileconfirm,lbinfo,SIZE,350<PIP>21
+    mobileconfirm,lbinfo,JSON,{}
+    mobileconfirm,lbinfo,TEXT,Enter confirmation code
+    mobileconfirm,lbinfo,TOOLTIP,
+    mobileconfirm,lbinfo,ENABLED,true
+    mobileconfirm,lbinfo,VISIBLE,true
+    mobileconfirm,lbinfo,ZORDER,0
+    mobileconfirm,lbinfo,FORECOLOR,&h000000
+    mobileconfirm,lbinfo,BACKCOLOR,transparent
+    mobileconfirm,lbinfo,FONTNAME,inherit
+    mobileconfirm,lbinfo,FONTSIZE,16px
+    mobileconfirm,lbinfo,FONTBOLD,true
+    mobileconfirm,lbinfo,FONTITALIC,false
+    mobileconfirm,lbinfo,FONTUNDERLINE,false
+    mobileconfirm,lbinfo,FONTSTRIKETHRU,false
+    mobileconfirm,lbinfo,INFO,
+    mobileconfirm,lbinfo,PAGECOUNT,0
+    mobileconfirm,lbinfo,DATABIND,
+    mobileconfirm,lbinfo,BINDMAPPING,
+    mobileconfirm,lbinfo,drag.x,1
+    mobileconfirm,lbinfo,drag.y,1
+    mobileconfirm,lbinfo,xdragrange,-1<SEMI> -1
+    mobileconfirm,lbinfo,ydragrange,-1<SEMI> -1
+    mobileconfirm,lbinfo,size.x,1
+    mobileconfirm,lbinfo,size.y,1
+    mobileconfirm,lbinfo,negadj,
+    mobileconfirm,lbinfo,posadj,
+    mobileconfirm,lbinfo,child,true
+    mobileconfirm,lbinfo,displaymode,block
+    mobileconfirm,lbinfo,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 16px<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobileconfirm,lbinfo,LOCK,false
+    mobileconfirm,lbinfo,events,
+    mobileconfirm,lbinfo,extend,{}
+mobileconfirm,lbinfo,REFRESH, 
+mobileconfirm,label2,TARGET,title
+mobileconfirm,label2,PARENTGROUP,title
+mobileconfirm,label2,load,label|A 4-digit code was sent to youremail@email.com|0|0|250|45|1342377728|32
+    mobileconfirm,label2,group,false
+    mobileconfirm,label2,groupid,0
+    mobileconfirm,label2,groupby,0100
+    mobileconfirm,label2,widgetlock,false
+    mobileconfirm,label2,iswidget,false
+    mobileconfirm,label2,iscollection,false
+    mobileconfirm,label2,collectname,
+    mobileconfirm,label2,widgetname,
+    mobileconfirm,label2,placeholder,
+    mobileconfirm,label2,addedby,
+    mobileconfirm,label2,DOCK,FFFF
+    mobileconfirm,label2,PICTURE,media/img_missing.png
+    mobileconfirm,label2,SIZE,250<PIP>45
+    mobileconfirm,label2,JSON,{}
+    mobileconfirm,label2,TEXT,A 4-digit code was sent to youremail@email.com
+    mobileconfirm,label2,TOOLTIP,
+    mobileconfirm,label2,ENABLED,true
+    mobileconfirm,label2,VISIBLE,true
+    mobileconfirm,label2,ZORDER,0
+    mobileconfirm,label2,FORECOLOR,&h888
+    mobileconfirm,label2,BACKCOLOR,transparent
+    mobileconfirm,label2,FONTNAME,inherit
+    mobileconfirm,label2,FONTSIZE,11px
+    mobileconfirm,label2,FONTBOLD,false
+    mobileconfirm,label2,FONTITALIC,false
+    mobileconfirm,label2,FONTUNDERLINE,false
+    mobileconfirm,label2,FONTSTRIKETHRU,false
+    mobileconfirm,label2,INFO,
+    mobileconfirm,label2,PAGECOUNT,0
+    mobileconfirm,label2,DATABIND,
+    mobileconfirm,label2,BINDMAPPING,
+    mobileconfirm,label2,drag.x,1
+    mobileconfirm,label2,drag.y,1
+    mobileconfirm,label2,xdragrange,-1<SEMI> -1
+    mobileconfirm,label2,ydragrange,-1<SEMI> -1
+    mobileconfirm,label2,size.x,1
+    mobileconfirm,label2,size.y,1
+    mobileconfirm,label2,negadj,
+    mobileconfirm,label2,posadj,
+    mobileconfirm,label2,child,true
+    mobileconfirm,label2,displaymode,block
+    mobileconfirm,label2,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #888<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 11px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 10px 50px 0px 50px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobileconfirm,label2,LOCK,false
+    mobileconfirm,label2,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileconfirm,label2,extend,{"react"<COLN>"<CR>"}
+mobileconfirm,label2,REFRESH, 
+mobileconfirm,user1,TARGET,~
+mobileconfirm,user1,PARENTGROUP,~
+mobileconfirm,user1,load,frame||0|0|56|57|1342227719|32
+    mobileconfirm,user1,group,true
+    mobileconfirm,user1,groupid,0400
+    mobileconfirm,user1,groupby,9999999999
+    mobileconfirm,user1,widgetlock,false
+    mobileconfirm,user1,iswidget,true
+    mobileconfirm,user1,iscollection,false
+    mobileconfirm,user1,collectname,
+    mobileconfirm,user1,widgetname,
+    mobileconfirm,user1,placeholder,
+    mobileconfirm,user1,addedby,
+    mobileconfirm,user1,DOCK,FFFF
+    mobileconfirm,user1,PICTURE,media/img_missing.png
+    mobileconfirm,user1,SIZE,56<PIP>57
+    mobileconfirm,user1,JSON,{}
+    mobileconfirm,user1,TEXT,
+    mobileconfirm,user1,TOOLTIP,
+    mobileconfirm,user1,ENABLED,true
+    mobileconfirm,user1,VISIBLE,true
+    mobileconfirm,user1,ZORDER,0
+    mobileconfirm,user1,FORECOLOR,&h000000
+    mobileconfirm,user1,BACKCOLOR,&hffffff
+    mobileconfirm,user1,FONTNAME,inherit
+    mobileconfirm,user1,FONTSIZE,inherit
+    mobileconfirm,user1,FONTBOLD,false
+    mobileconfirm,user1,FONTITALIC,false
+    mobileconfirm,user1,FONTUNDERLINE,false
+    mobileconfirm,user1,FONTSTRIKETHRU,false
+    mobileconfirm,user1,INFO,
+    mobileconfirm,user1,PAGECOUNT,0
+    mobileconfirm,user1,DATABIND,
+    mobileconfirm,user1,BINDMAPPING,
+    mobileconfirm,user1,drag.x,1
+    mobileconfirm,user1,drag.y,1
+    mobileconfirm,user1,xdragrange,-1<SEMI> -1
+    mobileconfirm,user1,ydragrange,-1<SEMI> -1
+    mobileconfirm,user1,size.x,1
+    mobileconfirm,user1,size.y,1
+    mobileconfirm,user1,negadj,
+    mobileconfirm,user1,posadj,
+    mobileconfirm,user1,child,false
+    mobileconfirm,user1,displaymode,inline-block
+    mobileconfirm,user1,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> inline-block<LF>float<COLN> <LF>height<COLN> 51px<LF>opacity<COLN> <LF>padding<COLN> 10px 10px 10px 10px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> 56px<LF>background-color<COLN> #ffffff<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobileconfirm,user1,LOCK,false
+    mobileconfirm,user1,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileconfirm,user1,extend,{"react"<COLN>"<CR>"}
+mobileconfirm,user1,REFRESH, 
+mobileconfirm,user1<COLN>input,TARGET,user1
+mobileconfirm,user1<COLN>input,PARENTGROUP,user1
+mobileconfirm,user1<COLN>input,load,textbox||0|0|36|38|1342374017|131072
+    mobileconfirm,user1<COLN>input,group,false
+    mobileconfirm,user1<COLN>input,groupid,0
+    mobileconfirm,user1<COLN>input,groupby,0400
+    mobileconfirm,user1<COLN>input,widgetlock,false
+    mobileconfirm,user1<COLN>input,iswidget,true
+    mobileconfirm,user1<COLN>input,iscollection,false
+    mobileconfirm,user1<COLN>input,collectname,
+    mobileconfirm,user1<COLN>input,widgetname,
+    mobileconfirm,user1<COLN>input,placeholder,enter value..
+    mobileconfirm,user1<COLN>input,addedby,
+    mobileconfirm,user1<COLN>input,DOCK,FFFF
+    mobileconfirm,user1<COLN>input,PICTURE,media/img_missing.png
+    mobileconfirm,user1<COLN>input,SIZE,36<PIP>38
+    mobileconfirm,user1<COLN>input,JSON,{}
+    mobileconfirm,user1<COLN>input,TEXT,
+    mobileconfirm,user1<COLN>input,TOOLTIP,
+    mobileconfirm,user1<COLN>input,ENABLED,true
+    mobileconfirm,user1<COLN>input,VISIBLE,true
+    mobileconfirm,user1<COLN>input,ZORDER,0
+    mobileconfirm,user1<COLN>input,FORECOLOR,&h000000
+    mobileconfirm,user1<COLN>input,BACKCOLOR,rgba(245<COMMA>245<COMMA>245<COMMA>0.10)
+    mobileconfirm,user1<COLN>input,FONTNAME,inherit
+    mobileconfirm,user1<COLN>input,FONTSIZE,inherit
+    mobileconfirm,user1<COLN>input,FONTBOLD,false
+    mobileconfirm,user1<COLN>input,FONTITALIC,false
+    mobileconfirm,user1<COLN>input,FONTUNDERLINE,false
+    mobileconfirm,user1<COLN>input,FONTSTRIKETHRU,false
+    mobileconfirm,user1<COLN>input,INFO,
+    mobileconfirm,user1<COLN>input,PAGECOUNT,0
+    mobileconfirm,user1<COLN>input,DATABIND,
+    mobileconfirm,user1<COLN>input,BINDMAPPING,
+    mobileconfirm,user1<COLN>input,drag.x,1
+    mobileconfirm,user1<COLN>input,drag.y,1
+    mobileconfirm,user1<COLN>input,xdragrange,-1<SEMI> -1
+    mobileconfirm,user1<COLN>input,ydragrange,-1<SEMI> -1
+    mobileconfirm,user1<COLN>input,size.x,1
+    mobileconfirm,user1<COLN>input,size.y,1
+    mobileconfirm,user1<COLN>input,negadj,
+    mobileconfirm,user1<COLN>input,posadj,
+    mobileconfirm,user1<COLN>input,child,true
+    mobileconfirm,user1<COLN>input,displaymode,block
+    mobileconfirm,user1<COLN>input,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> input<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #ccc<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(245<COMMA>245<COMMA>245<COMMA>0.10)<LF>border-radius<COLN> 7px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobileconfirm,user1<COLN>input,LOCK,false
+    mobileconfirm,user1<COLN>input,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileconfirm,user1<COLN>input,extend,{"react"<COLN>"<CR>"}
+mobileconfirm,user1<COLN>input,REFRESH, 
+mobileconfirm,user2,TARGET,~
+mobileconfirm,user2,PARENTGROUP,~
+mobileconfirm,user2,load,frame||0|0|56|51|1342227719|32
+    mobileconfirm,user2,group,true
+    mobileconfirm,user2,groupid,0700
+    mobileconfirm,user2,groupby,9999999999
+    mobileconfirm,user2,widgetlock,false
+    mobileconfirm,user2,iswidget,true
+    mobileconfirm,user2,iscollection,false
+    mobileconfirm,user2,collectname,
+    mobileconfirm,user2,widgetname,
+    mobileconfirm,user2,placeholder,
+    mobileconfirm,user2,addedby,
+    mobileconfirm,user2,DOCK,FFFF
+    mobileconfirm,user2,PICTURE,media/img_missing.png
+    mobileconfirm,user2,SIZE,56<PIP>51
+    mobileconfirm,user2,JSON,{}
+    mobileconfirm,user2,TEXT,
+    mobileconfirm,user2,TOOLTIP,
+    mobileconfirm,user2,ENABLED,true
+    mobileconfirm,user2,VISIBLE,true
+    mobileconfirm,user2,ZORDER,0
+    mobileconfirm,user2,FORECOLOR,&h000000
+    mobileconfirm,user2,BACKCOLOR,&hffffff
+    mobileconfirm,user2,FONTNAME,inherit
+    mobileconfirm,user2,FONTSIZE,inherit
+    mobileconfirm,user2,FONTBOLD,false
+    mobileconfirm,user2,FONTITALIC,false
+    mobileconfirm,user2,FONTUNDERLINE,false
+    mobileconfirm,user2,FONTSTRIKETHRU,false
+    mobileconfirm,user2,INFO,
+    mobileconfirm,user2,PAGECOUNT,0
+    mobileconfirm,user2,DATABIND,
+    mobileconfirm,user2,BINDMAPPING,
+    mobileconfirm,user2,drag.x,1
+    mobileconfirm,user2,drag.y,1
+    mobileconfirm,user2,xdragrange,-1<SEMI> -1
+    mobileconfirm,user2,ydragrange,-1<SEMI> -1
+    mobileconfirm,user2,size.x,1
+    mobileconfirm,user2,size.y,1
+    mobileconfirm,user2,negadj,
+    mobileconfirm,user2,posadj,
+    mobileconfirm,user2,child,false
+    mobileconfirm,user2,displaymode,inline-block
+    mobileconfirm,user2,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> inline-block<LF>float<COLN> <LF>height<COLN> 51px<LF>opacity<COLN> <LF>padding<COLN> 10px 10px 10px 10px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> 56px<LF>background-color<COLN> #ffffff<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobileconfirm,user2,LOCK,false
+    mobileconfirm,user2,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileconfirm,user2,extend,{"react"<COLN>"<CR>"}
+mobileconfirm,user2,REFRESH, 
+mobileconfirm,user2<COLN>input,TARGET,user2
+mobileconfirm,user2<COLN>input,PARENTGROUP,user2
+mobileconfirm,user2<COLN>input,load,textbox||0|0|105|38|1342374017|131072
+    mobileconfirm,user2<COLN>input,group,false
+    mobileconfirm,user2<COLN>input,groupid,0
+    mobileconfirm,user2<COLN>input,groupby,0700
+    mobileconfirm,user2<COLN>input,widgetlock,false
+    mobileconfirm,user2<COLN>input,iswidget,true
+    mobileconfirm,user2<COLN>input,iscollection,false
+    mobileconfirm,user2<COLN>input,collectname,
+    mobileconfirm,user2<COLN>input,widgetname,
+    mobileconfirm,user2<COLN>input,placeholder,enter value..
+    mobileconfirm,user2<COLN>input,addedby,
+    mobileconfirm,user2<COLN>input,DOCK,FFFF
+    mobileconfirm,user2<COLN>input,PICTURE,media/img_missing.png
+    mobileconfirm,user2<COLN>input,SIZE,105<PIP>38
+    mobileconfirm,user2<COLN>input,JSON,{}
+    mobileconfirm,user2<COLN>input,TEXT,
+    mobileconfirm,user2<COLN>input,TOOLTIP,
+    mobileconfirm,user2<COLN>input,ENABLED,true
+    mobileconfirm,user2<COLN>input,VISIBLE,true
+    mobileconfirm,user2<COLN>input,ZORDER,0
+    mobileconfirm,user2<COLN>input,FORECOLOR,&h000000
+    mobileconfirm,user2<COLN>input,BACKCOLOR,rgba(245<COMMA>245<COMMA>245<COMMA>0.10)
+    mobileconfirm,user2<COLN>input,FONTNAME,inherit
+    mobileconfirm,user2<COLN>input,FONTSIZE,inherit
+    mobileconfirm,user2<COLN>input,FONTBOLD,false
+    mobileconfirm,user2<COLN>input,FONTITALIC,false
+    mobileconfirm,user2<COLN>input,FONTUNDERLINE,false
+    mobileconfirm,user2<COLN>input,FONTSTRIKETHRU,false
+    mobileconfirm,user2<COLN>input,INFO,
+    mobileconfirm,user2<COLN>input,PAGECOUNT,0
+    mobileconfirm,user2<COLN>input,DATABIND,
+    mobileconfirm,user2<COLN>input,BINDMAPPING,
+    mobileconfirm,user2<COLN>input,drag.x,1
+    mobileconfirm,user2<COLN>input,drag.y,1
+    mobileconfirm,user2<COLN>input,xdragrange,-1<SEMI> -1
+    mobileconfirm,user2<COLN>input,ydragrange,-1<SEMI> -1
+    mobileconfirm,user2<COLN>input,size.x,1
+    mobileconfirm,user2<COLN>input,size.y,1
+    mobileconfirm,user2<COLN>input,negadj,
+    mobileconfirm,user2<COLN>input,posadj,
+    mobileconfirm,user2<COLN>input,child,true
+    mobileconfirm,user2<COLN>input,displaymode,block
+    mobileconfirm,user2<COLN>input,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> input<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #ccc<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(245<COMMA>245<COMMA>245<COMMA>0.10)<LF>border-radius<COLN> 7px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobileconfirm,user2<COLN>input,LOCK,false
+    mobileconfirm,user2<COLN>input,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileconfirm,user2<COLN>input,extend,{"react"<COLN>"<CR>"}
+mobileconfirm,user2<COLN>input,REFRESH, 
+mobileconfirm,user3,TARGET,~
+mobileconfirm,user3,PARENTGROUP,~
+mobileconfirm,user3,load,frame||0|0|56|72|1342227719|32
+    mobileconfirm,user3,group,true
+    mobileconfirm,user3,groupid,0800
+    mobileconfirm,user3,groupby,9999999999
+    mobileconfirm,user3,widgetlock,false
+    mobileconfirm,user3,iswidget,true
+    mobileconfirm,user3,iscollection,false
+    mobileconfirm,user3,collectname,
+    mobileconfirm,user3,widgetname,
+    mobileconfirm,user3,placeholder,
+    mobileconfirm,user3,addedby,
+    mobileconfirm,user3,DOCK,FFFF
+    mobileconfirm,user3,PICTURE,media/img_missing.png
+    mobileconfirm,user3,SIZE,56<PIP>72
+    mobileconfirm,user3,JSON,{}
+    mobileconfirm,user3,TEXT,
+    mobileconfirm,user3,TOOLTIP,
+    mobileconfirm,user3,ENABLED,true
+    mobileconfirm,user3,VISIBLE,true
+    mobileconfirm,user3,ZORDER,0
+    mobileconfirm,user3,FORECOLOR,&h000000
+    mobileconfirm,user3,BACKCOLOR,&hffffff
+    mobileconfirm,user3,FONTNAME,inherit
+    mobileconfirm,user3,FONTSIZE,inherit
+    mobileconfirm,user3,FONTBOLD,false
+    mobileconfirm,user3,FONTITALIC,false
+    mobileconfirm,user3,FONTUNDERLINE,false
+    mobileconfirm,user3,FONTSTRIKETHRU,false
+    mobileconfirm,user3,INFO,
+    mobileconfirm,user3,PAGECOUNT,0
+    mobileconfirm,user3,DATABIND,
+    mobileconfirm,user3,BINDMAPPING,
+    mobileconfirm,user3,drag.x,1
+    mobileconfirm,user3,drag.y,1
+    mobileconfirm,user3,xdragrange,-1<SEMI> -1
+    mobileconfirm,user3,ydragrange,-1<SEMI> -1
+    mobileconfirm,user3,size.x,1
+    mobileconfirm,user3,size.y,1
+    mobileconfirm,user3,negadj,
+    mobileconfirm,user3,posadj,
+    mobileconfirm,user3,child,false
+    mobileconfirm,user3,displaymode,inline-block
+    mobileconfirm,user3,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> inline-block<LF>float<COLN> <LF>height<COLN> 51px<LF>opacity<COLN> <LF>padding<COLN> 10px 10px 10px 10px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> 56px<LF>background-color<COLN> #ffffff<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobileconfirm,user3,LOCK,false
+    mobileconfirm,user3,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileconfirm,user3,extend,{"react"<COLN>"<CR>"}
+mobileconfirm,user3,REFRESH, 
+mobileconfirm,user3<COLN>input,TARGET,user3
+mobileconfirm,user3<COLN>input,PARENTGROUP,user3
+mobileconfirm,user3<COLN>input,load,textbox||0|0|105|38|1342374017|131072
+    mobileconfirm,user3<COLN>input,group,false
+    mobileconfirm,user3<COLN>input,groupid,0
+    mobileconfirm,user3<COLN>input,groupby,0800
+    mobileconfirm,user3<COLN>input,widgetlock,false
+    mobileconfirm,user3<COLN>input,iswidget,true
+    mobileconfirm,user3<COLN>input,iscollection,false
+    mobileconfirm,user3<COLN>input,collectname,
+    mobileconfirm,user3<COLN>input,widgetname,
+    mobileconfirm,user3<COLN>input,placeholder,enter value..
+    mobileconfirm,user3<COLN>input,addedby,
+    mobileconfirm,user3<COLN>input,DOCK,FFFF
+    mobileconfirm,user3<COLN>input,PICTURE,media/img_missing.png
+    mobileconfirm,user3<COLN>input,SIZE,105<PIP>38
+    mobileconfirm,user3<COLN>input,JSON,{}
+    mobileconfirm,user3<COLN>input,TEXT,
+    mobileconfirm,user3<COLN>input,TOOLTIP,
+    mobileconfirm,user3<COLN>input,ENABLED,true
+    mobileconfirm,user3<COLN>input,VISIBLE,true
+    mobileconfirm,user3<COLN>input,ZORDER,0
+    mobileconfirm,user3<COLN>input,FORECOLOR,&h000000
+    mobileconfirm,user3<COLN>input,BACKCOLOR,rgba(245<COMMA>245<COMMA>245<COMMA>0.10)
+    mobileconfirm,user3<COLN>input,FONTNAME,inherit
+    mobileconfirm,user3<COLN>input,FONTSIZE,inherit
+    mobileconfirm,user3<COLN>input,FONTBOLD,false
+    mobileconfirm,user3<COLN>input,FONTITALIC,false
+    mobileconfirm,user3<COLN>input,FONTUNDERLINE,false
+    mobileconfirm,user3<COLN>input,FONTSTRIKETHRU,false
+    mobileconfirm,user3<COLN>input,INFO,
+    mobileconfirm,user3<COLN>input,PAGECOUNT,0
+    mobileconfirm,user3<COLN>input,DATABIND,
+    mobileconfirm,user3<COLN>input,BINDMAPPING,
+    mobileconfirm,user3<COLN>input,drag.x,1
+    mobileconfirm,user3<COLN>input,drag.y,1
+    mobileconfirm,user3<COLN>input,xdragrange,-1<SEMI> -1
+    mobileconfirm,user3<COLN>input,ydragrange,-1<SEMI> -1
+    mobileconfirm,user3<COLN>input,size.x,1
+    mobileconfirm,user3<COLN>input,size.y,1
+    mobileconfirm,user3<COLN>input,negadj,
+    mobileconfirm,user3<COLN>input,posadj,
+    mobileconfirm,user3<COLN>input,child,true
+    mobileconfirm,user3<COLN>input,displaymode,block
+    mobileconfirm,user3<COLN>input,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> input<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #ccc<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(245<COMMA>245<COMMA>245<COMMA>0.10)<LF>border-radius<COLN> 7px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobileconfirm,user3<COLN>input,LOCK,false
+    mobileconfirm,user3<COLN>input,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileconfirm,user3<COLN>input,extend,{"react"<COLN>"<CR>"}
+mobileconfirm,user3<COLN>input,REFRESH, 
+mobileconfirm,user4,TARGET,~
+mobileconfirm,user4,PARENTGROUP,~
+mobileconfirm,user4,load,frame||0|0|56|72|1342227719|32
+    mobileconfirm,user4,group,true
+    mobileconfirm,user4,groupid,1000
+    mobileconfirm,user4,groupby,9999999999
+    mobileconfirm,user4,widgetlock,false
+    mobileconfirm,user4,iswidget,true
+    mobileconfirm,user4,iscollection,false
+    mobileconfirm,user4,collectname,
+    mobileconfirm,user4,widgetname,
+    mobileconfirm,user4,placeholder,
+    mobileconfirm,user4,addedby,
+    mobileconfirm,user4,DOCK,FFFF
+    mobileconfirm,user4,PICTURE,media/img_missing.png
+    mobileconfirm,user4,SIZE,56<PIP>72
+    mobileconfirm,user4,JSON,{}
+    mobileconfirm,user4,TEXT,
+    mobileconfirm,user4,TOOLTIP,
+    mobileconfirm,user4,ENABLED,true
+    mobileconfirm,user4,VISIBLE,true
+    mobileconfirm,user4,ZORDER,0
+    mobileconfirm,user4,FORECOLOR,&h000000
+    mobileconfirm,user4,BACKCOLOR,&hffffff
+    mobileconfirm,user4,FONTNAME,inherit
+    mobileconfirm,user4,FONTSIZE,inherit
+    mobileconfirm,user4,FONTBOLD,false
+    mobileconfirm,user4,FONTITALIC,false
+    mobileconfirm,user4,FONTUNDERLINE,false
+    mobileconfirm,user4,FONTSTRIKETHRU,false
+    mobileconfirm,user4,INFO,
+    mobileconfirm,user4,PAGECOUNT,0
+    mobileconfirm,user4,DATABIND,
+    mobileconfirm,user4,BINDMAPPING,
+    mobileconfirm,user4,drag.x,1
+    mobileconfirm,user4,drag.y,1
+    mobileconfirm,user4,xdragrange,-1<SEMI> -1
+    mobileconfirm,user4,ydragrange,-1<SEMI> -1
+    mobileconfirm,user4,size.x,1
+    mobileconfirm,user4,size.y,1
+    mobileconfirm,user4,negadj,
+    mobileconfirm,user4,posadj,
+    mobileconfirm,user4,child,false
+    mobileconfirm,user4,displaymode,inline-block
+    mobileconfirm,user4,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> inline-block<LF>float<COLN> <LF>height<COLN> 51px<LF>opacity<COLN> <LF>padding<COLN> 10px 10px 10px 10px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> 56px<LF>background-color<COLN> #ffffff<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    mobileconfirm,user4,LOCK,false
+    mobileconfirm,user4,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileconfirm,user4,extend,{"react"<COLN>"<CR>"}
+mobileconfirm,user4,REFRESH, 
+mobileconfirm,user4<COLN>input,TARGET,user4
+mobileconfirm,user4<COLN>input,PARENTGROUP,user4
+mobileconfirm,user4<COLN>input,load,textbox||0|0|105|38|1342374017|131072
+    mobileconfirm,user4<COLN>input,group,false
+    mobileconfirm,user4<COLN>input,groupid,0
+    mobileconfirm,user4<COLN>input,groupby,1000
+    mobileconfirm,user4<COLN>input,widgetlock,false
+    mobileconfirm,user4<COLN>input,iswidget,true
+    mobileconfirm,user4<COLN>input,iscollection,false
+    mobileconfirm,user4<COLN>input,collectname,
+    mobileconfirm,user4<COLN>input,widgetname,
+    mobileconfirm,user4<COLN>input,placeholder,enter value..
+    mobileconfirm,user4<COLN>input,addedby,
+    mobileconfirm,user4<COLN>input,DOCK,FFFF
+    mobileconfirm,user4<COLN>input,PICTURE,media/img_missing.png
+    mobileconfirm,user4<COLN>input,SIZE,105<PIP>38
+    mobileconfirm,user4<COLN>input,JSON,{}
+    mobileconfirm,user4<COLN>input,TEXT,
+    mobileconfirm,user4<COLN>input,TOOLTIP,
+    mobileconfirm,user4<COLN>input,ENABLED,true
+    mobileconfirm,user4<COLN>input,VISIBLE,true
+    mobileconfirm,user4<COLN>input,ZORDER,0
+    mobileconfirm,user4<COLN>input,FORECOLOR,&h000000
+    mobileconfirm,user4<COLN>input,BACKCOLOR,rgba(245<COMMA>245<COMMA>245<COMMA>0.10)
+    mobileconfirm,user4<COLN>input,FONTNAME,inherit
+    mobileconfirm,user4<COLN>input,FONTSIZE,inherit
+    mobileconfirm,user4<COLN>input,FONTBOLD,false
+    mobileconfirm,user4<COLN>input,FONTITALIC,false
+    mobileconfirm,user4<COLN>input,FONTUNDERLINE,false
+    mobileconfirm,user4<COLN>input,FONTSTRIKETHRU,false
+    mobileconfirm,user4<COLN>input,INFO,
+    mobileconfirm,user4<COLN>input,PAGECOUNT,0
+    mobileconfirm,user4<COLN>input,DATABIND,
+    mobileconfirm,user4<COLN>input,BINDMAPPING,
+    mobileconfirm,user4<COLN>input,drag.x,1
+    mobileconfirm,user4<COLN>input,drag.y,1
+    mobileconfirm,user4<COLN>input,xdragrange,-1<SEMI> -1
+    mobileconfirm,user4<COLN>input,ydragrange,-1<SEMI> -1
+    mobileconfirm,user4<COLN>input,size.x,1
+    mobileconfirm,user4<COLN>input,size.y,1
+    mobileconfirm,user4<COLN>input,negadj,
+    mobileconfirm,user4<COLN>input,posadj,
+    mobileconfirm,user4<COLN>input,child,true
+    mobileconfirm,user4<COLN>input,displaymode,block
+    mobileconfirm,user4<COLN>input,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> input<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #ccc<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(245<COMMA>245<COMMA>245<COMMA>0.10)<LF>border-radius<COLN> 7px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>vertical-align<COLN> middle<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobileconfirm,user4<COLN>input,LOCK,false
+    mobileconfirm,user4<COLN>input,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileconfirm,user4<COLN>input,extend,{"react"<COLN>"<CR>"}
+mobileconfirm,user4<COLN>input,REFRESH, 
+mobileconfirm,label,TARGET,~
+mobileconfirm,label,PARENTGROUP,~
+mobileconfirm,label,load,label|Resend code|0|0|270|135|1342376704|32
+    mobileconfirm,label,group,false
+    mobileconfirm,label,groupid,0
+    mobileconfirm,label,groupby,9999999999
+    mobileconfirm,label,widgetlock,false
+    mobileconfirm,label,iswidget,false
+    mobileconfirm,label,iscollection,false
+    mobileconfirm,label,collectname,
+    mobileconfirm,label,widgetname,
+    mobileconfirm,label,placeholder,
+    mobileconfirm,label,addedby,
+    mobileconfirm,label,DOCK,FFFF
+    mobileconfirm,label,PICTURE,media/img_missing.png
+    mobileconfirm,label,SIZE,270<PIP>135
+    mobileconfirm,label,JSON,{}
+    mobileconfirm,label,TEXT,Resend code
+    mobileconfirm,label,TOOLTIP,
+    mobileconfirm,label,ENABLED,true
+    mobileconfirm,label,VISIBLE,true
+    mobileconfirm,label,ZORDER,0
+    mobileconfirm,label,FORECOLOR,&h224488
+    mobileconfirm,label,BACKCOLOR,transparent
+    mobileconfirm,label,FONTNAME,inherit
+    mobileconfirm,label,FONTSIZE,11px
+    mobileconfirm,label,FONTBOLD,true
+    mobileconfirm,label,FONTITALIC,false
+    mobileconfirm,label,FONTUNDERLINE,false
+    mobileconfirm,label,FONTSTRIKETHRU,false
+    mobileconfirm,label,INFO,
+    mobileconfirm,label,PAGECOUNT,0
+    mobileconfirm,label,DATABIND,
+    mobileconfirm,label,BINDMAPPING,
+    mobileconfirm,label,drag.x,1
+    mobileconfirm,label,drag.y,1
+    mobileconfirm,label,xdragrange,-1<SEMI> -1
+    mobileconfirm,label,ydragrange,-1<SEMI> -1
+    mobileconfirm,label,size.x,1
+    mobileconfirm,label,size.y,1
+    mobileconfirm,label,negadj,
+    mobileconfirm,label,posadj,
+    mobileconfirm,label,child,false
+    mobileconfirm,label,displaymode,block
+    mobileconfirm,label,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #224488<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 11px<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> bottom<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 50px 20px 50px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> auto
+    mobileconfirm,label,LOCK,false
+    mobileconfirm,label,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileconfirm,label,extend,{"react"<COLN>"<CR>"}
+mobileconfirm,label,REFRESH, 
+mobileconfirm,btnconfirm,TARGET,~
+mobileconfirm,btnconfirm,PARENTGROUP,~
+mobileconfirm,btnconfirm,load,button|Confirm|15|575|370|50|1342394112|32
+    mobileconfirm,btnconfirm,group,false
+    mobileconfirm,btnconfirm,groupid,0
+    mobileconfirm,btnconfirm,groupby,9999999999
+    mobileconfirm,btnconfirm,widgetlock,false
+    mobileconfirm,btnconfirm,iswidget,false
+    mobileconfirm,btnconfirm,iscollection,false
+    mobileconfirm,btnconfirm,collectname,
+    mobileconfirm,btnconfirm,widgetname,
+    mobileconfirm,btnconfirm,placeholder,
+    mobileconfirm,btnconfirm,addedby,
+    mobileconfirm,btnconfirm,DOCK,FFFF
+    mobileconfirm,btnconfirm,PICTURE,media/img_missing.png
+    mobileconfirm,btnconfirm,SIZE,370<PIP>50
+    mobileconfirm,btnconfirm,JSON,{}
+    mobileconfirm,btnconfirm,TEXT,Confirm
+    mobileconfirm,btnconfirm,TOOLTIP,
+    mobileconfirm,btnconfirm,ENABLED,true
+    mobileconfirm,btnconfirm,VISIBLE,true
+    mobileconfirm,btnconfirm,ZORDER,0
+    mobileconfirm,btnconfirm,FORECOLOR,&hfff
+    mobileconfirm,btnconfirm,BACKCOLOR,&h2259a1
+    mobileconfirm,btnconfirm,FONTNAME,inherit
+    mobileconfirm,btnconfirm,FONTSIZE,12px
+    mobileconfirm,btnconfirm,FONTBOLD,false
+    mobileconfirm,btnconfirm,FONTITALIC,false
+    mobileconfirm,btnconfirm,FONTUNDERLINE,false
+    mobileconfirm,btnconfirm,FONTSTRIKETHRU,false
+    mobileconfirm,btnconfirm,INFO,
+    mobileconfirm,btnconfirm,PAGECOUNT,0
+    mobileconfirm,btnconfirm,DATABIND,
+    mobileconfirm,btnconfirm,BINDMAPPING,
+    mobileconfirm,btnconfirm,drag.x,1
+    mobileconfirm,btnconfirm,drag.y,1
+    mobileconfirm,btnconfirm,xdragrange,-1<SEMI> -1
+    mobileconfirm,btnconfirm,ydragrange,-1<SEMI> -1
+    mobileconfirm,btnconfirm,size.x,1
+    mobileconfirm,btnconfirm,size.y,1
+    mobileconfirm,btnconfirm,negadj,
+    mobileconfirm,btnconfirm,posadj,
+    mobileconfirm,btnconfirm,child,false
+    mobileconfirm,btnconfirm,displaymode,absolute
+    mobileconfirm,btnconfirm,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> <LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> !!!!<LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px solid #bbb<LF>color<COLN> #fff<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #2259a1<LF>border-radius<COLN> 13px<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.left<COLN> 0px<LF>div.margin<COLN> 0px 0px 0px 15px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> absolute<LF>div.top<COLN> calc(100% - 65px)<LF>div.width<COLN>
+    mobileconfirm,btnconfirm,LOCK,false
+    mobileconfirm,btnconfirm,events,click<COLN> <CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    mobileconfirm,btnconfirm,extend,{"react"<COLN>"<LF>"}
+mobileconfirm,btnconfirm,REFRESH, 
+mobileconfirm,,SETVIEW,
+mobileconfirm,,HIDE,
+mobileconfirm,,REFRESH,true
