@@ -1,4 +1,4 @@
-This project was inspired from the Figma Mobile Apps Prototyping Kit.
+This project was inspired by the Figma Mobile Apps Prototyping Kit.
 
 https://www.figma.com/community/file/1129468881607079432/mobile-apps-prototyping-kit
 
